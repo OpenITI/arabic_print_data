@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2020-08-27T10:35:06.046554+00:00</Created>
+    <LastChange>2020-08-27T10:35:06.046580+00:00</LastChange>
+  </Metadata>
+<Page imageFilename="Wasiti_Miftah_Tariq_Muhibbin_21.png" imageWidth="1302" imageHeight="1892">
+    
+    <TextRegion id="eSc_dummyblock_"  >
+      <Coords points="0,0 1302,0 1302,1892 0,1892"/>
+      <TextLine id="eSc_line_166852" >
+          <Coords points="156,223 173,201 225,212 247,204 280,211 309,186 323,187 347,211 377,186 386,186 404,203 424,186 443,198 471,201 500,187 541,220 568,195 602,214 637,179 647,178 681,212 707,219 718,209 732,214 741,208 759,219 770,217 792,197 820,206 841,195 860,206 886,192 916,217 939,195 964,214 976,204 992,216 1019,214 1036,197 1046,197 1082,222 1085,241 1063,256 1041,247 978,250 924,244 909,256 885,260 875,260 856,242 849,249 778,249 770,256 746,260 735,260 708,241 691,256 643,247 628,258 612,258 593,242 541,260 522,242 486,253 440,238 418,245 375,244 358,256 337,245 320,255 306,242 284,238 261,252 208,241 184,250 159,228"/>
+        <Baseline points="157,225 487,234 639,241 1086,242"/>
+        <TextEquiv>
+          <Unicode>والحمد لله رب العالمين وصلى على سيدنا محمد وآله وصحبه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      
+    
+      <TextLine id="eSc_line_166848" >
+          <Coords points="956,293 957,253 992,250 1011,269 1025,261 1043,277 1054,269 1071,274 1096,249 1107,247 1155,283 1159,301 1142,321 1101,315 1076,332 1058,315 1028,313 1006,321 959,299"/>
+        <Baseline points="957,294 978,305 1160,302"/>
+        <TextEquiv>
+          <Unicode>وسلم تسليما.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      
+    
+      <TextLine id="eSc_line_166861" >
+          <Coords points="621,1748 624,1718 669,1718 702,1750 675,1767 662,1761 653,1767 623,1765"/>
+        <Baseline points="623,1750 703,1751"/>
+        <TextEquiv>
+          <Unicode>129</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextEquiv>
+        <Unicode>والحمد لله رب العالمين وصلى على سيدنا محمد وآله وصحبه 
+وسلم تسليما. 
+129 
+</Unicode>
+      </TextEquiv>
+    </TextRegion>
+    
+  </Page>
+</PcGts>
