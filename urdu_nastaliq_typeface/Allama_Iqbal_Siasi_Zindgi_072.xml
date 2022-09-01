@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+          <fileName>Allama_Iqbal_Siasi_Zindgi_072.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1890"
+          HEIGHT="3118"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1890"
+                  HEIGHT="3118">
+        
+        <TextBlock HPOS="946"
+                   VPOS="72"
+                   WIDTH="70"
+                   HEIGHT="60"
+                   ID="eSc_textblock_c573d5b9"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="946 72 1016 72 1016 132 946 132 946 72"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cddeb9a4"
+                    
+                    BASELINE="956 116 1008 124" 
+                    HPOS="956"
+                    VPOS="57"
+                    WIDTH="55"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="956 116 969 57 1011 62 998 148 956 142"/></Shape>
+	    <String CONTENT="72"
+                    HPOS="956"
+                    VPOS="57"
+                    WIDTH="55"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="852"
+                   VPOS="259"
+                   WIDTH="143"
+                   HEIGHT="102"
+                   ID="eSc_textblock_04baf27e"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="852 259 995 311 985 361 852 350 852 259"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="135"
+                   VPOS="654"
+                   WIDTH="1630"
+                   HEIGHT="320"
+                   ID="eSc_textblock_c2152db9"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="665 654 1650 665 1650 756 1442 787 1754 800 1734 901 1765 963 1559 974 1591 914 1702 880 155 891 135 860 155 675 665 654"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_50e18e7b"
+                    
+                    BASELINE="142 761 460 745 1643 724" 
+                    HPOS="142"
+                    VPOS="652"
+                    WIDTH="1501"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="142 761 145 667 176 667 205 683 267 665 335 665 395 685 441 667 473 675 545 659 712 657 738 675 798 665 839 678 883 657 935 667 961 652 974 662 1110 662 1141 672 1190 654 1208 667 1279 670 1310 670 1328 652 1346 667 1557 665 1588 654 1635 662 1643 724 1637 761 1585 748 1570 763 1333 766 1289 753 1260 769 1169 771 1138 761 1099 769 1063 756 980 756 961 771 933 774 917 758 881 769 803 758 766 776 733 766 668 774 657 763 605 774 582 763 517 782 470 766 447 784 408 766 345 782 311 774 272 789 259 776 246 784 233 774 192 782 148 771"/></Shape>
+	    <String CONTENT="مولانا محمہ علی جوہر کو نام بگاڑنے کی عادت تھی۔چنانچہ وہ لارڑ برکن ہیڈ"
+                    HPOS="142"
+                    VPOS="652"
+                    WIDTH="1501"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_887f27df"
+                    
+                    BASELINE="142 859 227 855 252 867 293 867 327 867 1741 844" 
+                    HPOS="140"
+                    VPOS="769"
+                    WIDTH="1599"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="140 857 142 813 166 795 205 815 233 815 254 795 291 800 306 782 428 782 449 797 467 779 569 779 595 797 644 784 691 800 738 776 800 789 824 774 868 774 915 792 938 771 982 795 1032 797 1047 787 1063 802 1102 784 1117 800 1203 800 1219 787 1234 800 1299 797 1328 769 1370 797 1445 787 1614 792 1739 841 1734 886 1679 899 1643 899 1619 883 1593 899 1567 888 1554 901 1403 904 1351 883 1318 904 1245 906 1198 906 1185 893 1089 906 1042 888 1016 909 972 901 928 912 865 912 824 888 730 901 709 891 636 891 623 904 582 893 558 909 519 893 486 912 426 896 348 896 322 912 298 896 233 912 145 904"/></Shape>
+	    <String CONTENT="(Birkenhead)کو لارڈ بروکن ہیڈ (Brokenhead) کہتے تھے (احمد سعید ‘ حیات قائداعظم، چند نے"
+                    HPOS="140"
+                    VPOS="769"
+                    WIDTH="1599"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a4e9ba5"
+                    
+                    BASELINE="1570 958 1749 966" 
+                    HPOS="1570"
+                    VPOS="893"
+                    WIDTH="174"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1570 958 1575 912 1622 914 1689 893 1731 912 1744 901 1741 992 1710 1002 1689 989 1650 1002 1630 992 1572 1000"/></Shape>
+	    <String CONTENT="پہلو: 34)۔"
+                    HPOS="1570"
+                    VPOS="893"
+                    WIDTH="174"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="280"
+                   VPOS="2348"
+                   WIDTH="50"
+                   HEIGHT="29"
+                   ID="eSc_textblock_351f2845"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="280 2348 330 2359 330 2367 280 2377 280 2348"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="259"
+                   VPOS="2452"
+                   WIDTH="331"
+                   HEIGHT="60"
+                   ID="eSc_textblock_d8589560"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="259 2452 558 2463 590 2491 259 2512 259 2452"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cd07087b"
+                    
+                    BASELINE="270 2504 304 2504" 
+                    HPOS="270"
+                    VPOS="2424"
+                    WIDTH="28"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="270 2504 275 2424 298 2424 298 2546 275 2541"/></Shape>
+	    <String CONTENT=""
+                    HPOS="270"
+                    VPOS="2424"
+                    WIDTH="28"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_9ebf663e"
+                    
+                    BASELINE="802 348 1008 348" 
+                    HPOS="800"
+                    VPOS="262"
+                    WIDTH="200"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="800 345 805 288 829 288 855 262 886 262 930 288 951 270 982 283 1000 272 1000 405 938 405 896 441 834 441 813 423 805 428"/></Shape>
+	    <String CONTENT="حواشی"
+                    HPOS="800"
+                    VPOS="262"
+                    WIDTH="200"
+                    HEIGHT="179"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2cf7871"
+                    
+                    BASELINE="522 2507 574 2504" 
+                    HPOS="522"
+                    VPOS="2447"
+                    WIDTH="47"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="522 2507 522 2447 564 2450 569 2517 527 2520"/></Shape>
+	    <String CONTENT=""
+                    HPOS="522"
+                    VPOS="2447"
+                    WIDTH="47"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
