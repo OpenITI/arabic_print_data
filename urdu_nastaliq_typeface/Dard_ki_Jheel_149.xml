@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+          <fileName>Dard_ki_Jheel_149.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1840"
+          HEIGHT="3080"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1840"
+                  HEIGHT="3080">
+        
+        <TextBlock HPOS="123"
+                   VPOS="92"
+                   WIDTH="1611"
+                   HEIGHT="665"
+                   ID="eSc_textblock_87d6533c"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="832 92 1035 102 1035 182 914 215 1734 236 1734 746 585 757 503 746 398 633 123 613 133 236 830 215 832 92"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0e911aa1"
+                    
+                    BASELINE="835 159 1020 148" 
+                    HPOS="835"
+                    VPOS="84"
+                    WIDTH="180"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="835 159 842 94 963 94 973 84 1009 92 1015 169 963 179 935 159 891 161 873 184 840 184"/></Shape>
+	    <String CONTENT="149"
+                    HPOS="835"
+                    VPOS="84"
+                    WIDTH="180"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5042aa92"
+                    
+                    BASELINE="133 315 1279 313 1724 323" 
+                    HPOS="133"
+                    VPOS="225"
+                    WIDTH="1591"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="133 315 136 259 254 259 274 243 300 259 352 259 382 233 406 241 424 225 460 228 485 251 534 228 575 259 673 259 688 248 750 259 788 231 817 248 848 225 891 248 940 225 1009 225 1020 236 1045 228 1076 254 1115 233 1138 251 1176 241 1218 246 1233 233 1259 243 1277 233 1302 254 1333 225 1487 225 1511 248 1523 241 1554 254 1585 231 1624 259 1688 259 1701 248 1716 259 1724 323 1549 331 1531 320 1446 318 1433 328 1415 320 1403 331 1359 331 1344 315 1282 328 1236 315 1197 331 1182 315 1105 318 1092 328 1048 315 1015 331 989 315 976 325 953 315 806 315 770 331 704 331 670 315 647 328 639 320 596 331 567 315 547 325 521 315 501 331 454 331 372 315 341 331 182 331 138 315"/></Shape>
+	    <String CONTENT="ہیں ساتھ ہی ہر قسم کا تکبر متنفرانا اور خود غرضی کو چھوڑ کر ایک دوسرے کے دل میں پیارو محبت"
+                    HPOS="133"
+                    VPOS="225"
+                    WIDTH="1591"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d22287f3"
+                    
+                    BASELINE="128 454 1732 454" 
+                    HPOS="128"
+                    VPOS="369"
+                    WIDTH="1604"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="128 454 133 397 172 397 195 377 223 397 300 397 318 379 334 390 357 372 382 369 400 382 424 372 444 392 462 382 477 397 506 397 542 369 591 369 634 395 668 369 704 369 755 397 773 397 804 369 837 397 876 397 902 382 922 397 1045 397 1058 387 1074 395 1110 369 1146 397 1187 374 1228 395 1254 369 1279 369 1308 397 1354 397 1392 369 1505 369 1521 379 1613 369 1636 390 1685 385 1724 397 1732 454 1724 472 1647 456 1624 479 1588 467 1552 477 1536 464 1469 474 1441 456 1403 469 1382 456 1351 467 1310 462 1300 472 1246 462 1215 479 1189 459 1174 467 1156 456 1107 479 693 479 650 459 588 467 575 456 560 469 542 459 521 469 480 456 418 467 400 456 316 456 269 477 244 462 133 462"/></Shape>
+	    <String CONTENT="بڑھ پائیں گے۔ کسی نے کیا خوب کہا ہے دوستوں میں سچائی تلاش کرو واقف کاروں میں"
+                    HPOS="128"
+                    VPOS="369"
+                    WIDTH="1604"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1d561a3"
+                    
+                    BASELINE="131 592 1724 592" 
+                    HPOS="131"
+                    VPOS="554"
+                    WIDTH="1593"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="131 592 136 554 341 554 382 590 683 582 1667 590 1693 580 1724 592 1716 605 1701 600 1680 616 1636 600 1606 616 1523 616 1500 600 1477 610 1451 598 1403 616 1380 616 1359 598 1284 610 1243 598 1210 608 1043 598 1022 616 878 616 858 598 763 608 752 598 714 598 686 613 603 598 580 616 483 616 447 598 359 598 331 616 303 600 192 613 169 598 151 608 136 600"/></Shape>
+	    <String CONTENT="نیک کرداراوردشمن دماغ کو ہمارے حسن طلب کے لمحے کشیدہ کرنے کا احساس خاموشی کی"
+                    HPOS="131"
+                    VPOS="554"
+                    WIDTH="1593"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac6b5925"
+                    
+                    BASELINE="501 723 1714 728" 
+                    HPOS="501"
+                    VPOS="644"
+                    WIDTH="1213"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="501 723 503 672 539 672 570 649 611 672 637 672 665 649 696 669 729 657 745 672 837 672 904 646 925 657 943 644 999 644 1035 662 1058 644 1089 644 1130 672 1171 646 1197 646 1236 675 1277 659 1310 675 1354 675 1380 651 1392 662 1413 646 1433 662 1464 649 1487 662 1503 646 1567 646 1593 669 1613 654 1634 675 1667 675 1680 662 1706 675 1714 728 1706 762 1662 775 1634 762 1621 772 1603 762 1490 762 1475 772 1441 762 1413 777 1385 762 1346 787 1194 787 1169 767 1156 780 1141 764 1120 772 1089 762 1061 775 1045 762 1015 772 991 759 940 785 889 785 858 759 822 785 776 785 740 764 714 775 691 764 673 777 663 770 609 782 596 770 573 785 503 785"/></Shape>
+	    <String CONTENT="چادر میں لپٹی خواہشوں میں ڈھ کر جاگنے لگے گا ضرور وہ وقت آےٓ گا۔"
+                    HPOS="501"
+                    VPOS="644"
+                    WIDTH="1213"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
