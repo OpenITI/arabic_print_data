@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+          <fileName>al-Rihlah_al-ilmiyah_al-Andalusiya.pdf_page_86.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT175" LABEL="marginal material" DESCRIPTION="block type marginal material"/><OtherTag ID="BT176" LABEL="running title" DESCRIPTION="block type running title"/><OtherTag ID="BT177" LABEL="heads" DESCRIPTION="block type heads"/><OtherTag ID="BT178" LABEL="footnotes" DESCRIPTION="block type footnotes"/><OtherTag ID="BT179" LABEL="page numbers" DESCRIPTION="block type page numbers"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1942"
+          HEIGHT="2759"
+          PHYSICAL_IMG_NR="80"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1942"
+                  HEIGHT="2759">
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
