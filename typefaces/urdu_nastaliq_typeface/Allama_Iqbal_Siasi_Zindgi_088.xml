@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+          <fileName>Allama_Iqbal_Siasi_Zindgi_088.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1890"
+          HEIGHT="3118"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1890"
+                  HEIGHT="3118">
+        
+        <TextBlock HPOS="967"
+                   VPOS="51"
+                   WIDTH="80"
+                   HEIGHT="60"
+                   ID="eSc_textblock_e1353f5f"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="967 51 1047 51 1047 111 967 111 967 51"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_987c4c97"
+                    
+                    BASELINE="961 103 1047 103" 
+                    HPOS="961"
+                    VPOS="49"
+                    WIDTH="81"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="961 103 974 49 1042 54 1042 119 967 119"/></Shape>
+	    <String CONTENT="88"
+                    HPOS="961"
+                    VPOS="49"
+                    WIDTH="81"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="145"
+                   VPOS="301"
+                   WIDTH="1568"
+                   HEIGHT="1151"
+                   ID="eSc_textblock_02c79cfc"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1424 301 1671 311 1682 371 1630 402 1713 426 1682 498 1692 849 1661 873 1692 1047 1619 1112 1682 1143 1661 1223 1692 1296 1619 1431 1258 1452 1172 1358 1078 1348 145 1338 145 1257 187 1236 1130 1226 1185 1203 1206 1132 1380 1122 1279 1078 1297 880 852 839 863 769 987 756 956 662 987 644 935 621 912 517 748 496 738 426 1328 405 1331 311 1424 301"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2facb831"
+                    
+                    BASELINE="1333 363 1669 363" 
+                    HPOS="1333"
+                    VPOS="283"
+                    WIDTH="330"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1333 363 1338 293 1351 283 1383 301 1406 293 1419 304 1455 298 1474 283 1518 298 1541 283 1588 283 1617 304 1663 304 1663 389 1630 374 1536 374 1520 389 1453 389 1435 376 1375 387 1338 374"/></Shape>
+	    <String CONTENT="20۔ حسن احمد:80"
+                    HPOS="1333"
+                    VPOS="283"
+                    WIDTH="330"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76903cd6"
+                    
+                    BASELINE="738 475 894 488 1669 480" 
+                    HPOS="738"
+                    VPOS="394"
+                    WIDTH="931"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="738 475 740 423 764 423 800 397 852 397 894 415 922 397 967 413 1000 405 1024 418 1099 413 1112 402 1167 418 1224 394 1286 407 1299 420 1315 410 1338 420 1380 394 1409 394 1445 418 1481 415 1505 397 1546 418 1661 418 1669 480 1661 498 1635 506 1606 491 1572 491 1541 509 1500 493 1474 506 1448 493 1424 509 1398 496 1377 506 1357 493 1328 506 1312 493 1263 493 1227 509 1151 498 1133 509 1117 498 1107 511 1091 498 1065 511 1029 496 987 496 964 511 883 511 855 496 834 509 785 496 743 506"/></Shape>
+	    <String CONTENT="12۔ روزنامہ&quot;جنگ&quot;، اقبال ایڈیشن، 21 اپریل 1982ء"
+                    HPOS="738"
+                    VPOS="394"
+                    WIDTH="931"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b32753c8"
+                    
+                    BASELINE="938 595 1669 602" 
+                    HPOS="938"
+                    VPOS="527"
+                    WIDTH="731"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="938 595 941 548 964 543 1136 545 1159 527 1180 527 1297 550 1344 530 1424 530 1476 540 1557 532 1578 553 1650 543 1661 548 1669 602 1661 613 1559 613 1528 631 1450 631 1432 613 1398 621 1388 610 1333 610 1312 628 1297 618 1281 628 1216 626 1159 608 1125 626 1063 626 1052 615 1011 626 993 608 956 623 941 618"/></Shape>
+	    <String CONTENT="22- اقبال کے خطوط جناح کے نام:18_19"
+                    HPOS="938"
+                    VPOS="527"
+                    WIDTH="731"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8b9c664"
+                    
+                    BASELINE="1000 719 1669 719" 
+                    HPOS="1000"
+                    VPOS="639"
+                    WIDTH="669"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1000 719 1006 639 1065 639 1091 665 1125 659 1151 639 1177 639 1208 665 1245 654 1268 665 1344 665 1362 646 1414 654 1463 639 1507 662 1541 639 1572 641 1596 665 1663 665 1669 719 1663 740 1609 740 1588 727 1565 740 1549 730 1489 740 1463 727 1388 727 1372 737 1341 727 1323 740 1214 740 1198 727 1159 727 1141 740 1006 732"/></Shape>
+	    <String CONTENT="23- اقبال کے خطوط جناح کے نام:24"
+                    HPOS="1000"
+                    VPOS="639"
+                    WIDTH="669"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01c4fa22"
+                    
+                    BASELINE="857 831 1666 839" 
+                    HPOS="857"
+                    VPOS="737"
+                    WIDTH="809"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="857 831 863 737 917 769 959 743 1008 737 1047 766 1128 771 1172 763 1206 740 1323 740 1336 750 1375 740 1401 753 1489 745 1513 766 1531 758 1559 774 1658 774 1666 839 1624 860 1585 849 1572 860 1536 852 1502 865 1429 865 1396 847 1310 862 1292 849 1255 862 1198 854 1177 862 1162 847 1125 844 1084 860 967 860 941 844 876 854 860 844"/></Shape>
+	    <String CONTENT="24- اقبال کے خطوط جناح کے نام، پیش لفظ:6"
+                    HPOS="857"
+                    VPOS="737"
+                    WIDTH="809"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd0b51a9"
+                    
+                    BASELINE="1302 956 1666 956" 
+                    HPOS="1302"
+                    VPOS="886"
+                    WIDTH="359"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1302 956 1307 886 1351 904 1403 904 1422 886 1455 886 1484 904 1531 904 1559 886 1596 899 1635 886 1661 904 1661 976 1611 966 1596 982 1474 982 1463 971 1388 982 1370 966 1307 966"/></Shape>
+	    <String CONTENT="25-جاوید اقبال:413"
+                    HPOS="1302"
+                    VPOS="886"
+                    WIDTH="359"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe50ea64"
+                    
+                    BASELINE="1289 1073 1669 1073" 
+                    HPOS="1289"
+                    VPOS="1005"
+                    WIDTH="374"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1289 1073 1294 1018 1325 1008 1383 1021 1398 1005 1466 1005 1487 1026 1526 1026 1539 1013 1570 1026 1624 1026 1663 1005 1663 1099 1591 1099 1572 1088 1489 1099 1476 1088 1416 1088 1406 1099 1333 1088 1305 1099 1294 1088"/></Shape>
+	    <String CONTENT="26- جاوید اقبال:386"
+                    HPOS="1289"
+                    VPOS="1005"
+                    WIDTH="374"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d49df20"
+                    
+                    BASELINE="1201 1190 1661 1190" 
+                    HPOS="1201"
+                    VPOS="1117"
+                    WIDTH="455"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1201 1190 1206 1130 1216 1119 1349 1130 1390 1117 1401 1127 1422 1119 1453 1130 1492 1117 1526 1130 1570 1117 1588 1130 1635 1117 1656 1127 1656 1208 1541 1216 1507 1203 1424 1216 1370 1205 1341 1216 1328 1203 1253 1203 1206 1216"/></Shape>
+	    <String CONTENT="27۔محمد احمد خاں:913-914"
+                    HPOS="1201"
+                    VPOS="1117"
+                    WIDTH="455"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26ca428f"
+                    
+                    BASELINE="155 1319 1671 1306" 
+                    HPOS="155"
+                    VPOS="1208"
+                    WIDTH="1516"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="155 1319 158 1231 213 1226 228 1213 262 1231 288 1213 449 1210 566 1210 597 1231 647 1210 699 1226 722 1216 751 1223 779 1208 839 1234 876 1216 896 1234 909 1223 954 1234 990 1226 1011 1244 1071 1223 1091 1242 1206 1242 1245 1236 1258 1223 1286 1242 1354 1221 1377 1239 1518 1239 1559 1226 1591 1239 1663 1236 1671 1306 1666 1338 1497 1338 1484 1327 1458 1338 1422 1325 1362 1340 1336 1319 1297 1335 1216 1340 1193 1317 1141 1338 1110 1319 1086 1330 1065 1314 1034 1325 1026 1317 1013 1330 1003 1319 956 1340 915 1317 847 1335 824 1325 800 1335 764 1317 717 1340 699 1327 675 1340 579 1330 569 1319 475 1319 457 1330 431 1322 382 1345 361 1327 335 1332 317 1322 226 1322 200 1338 181 1327 161 1340"/></Shape>
+	    <String CONTENT="28۔ جمیل الدین احمد (مرتب)، مسٹر جناح کی تقریریں اور تحریریں، جلددوم"
+                    HPOS="155"
+                    VPOS="1208"
+                    WIDTH="1516"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee195696"
+                    
+                    BASELINE="1224 1429 1575 1429" 
+                    HPOS="1224"
+                    VPOS="1338"
+                    WIDTH="346"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="1224 1429 1229 1353 1294 1358 1320 1338 1388 1338 1414 1351 1481 1338 1518 1358 1552 1340 1570 1351 1570 1444 1520 1468 1463 1468 1409 1439 1320 1439 1294 1462 1229 1468"/></Shape>
+	    <String CONTENT="(انگریزی):146-147"
+                    HPOS="1224"
+                    VPOS="1338"
+                    WIDTH="346"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
