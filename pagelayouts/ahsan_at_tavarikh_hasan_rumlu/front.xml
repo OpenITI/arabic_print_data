@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-10-28T20:14:00.888791+00:00</Created>
+        <LastChange>2021-10-28T20:14:00.888814+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="front.png" imageWidth="975" imageHeight="1425">
+
+    
+    <TextRegion id="eSc_textblock_f6fd1418"  custom="structure {type:Title;}">
+      <Coords points="235,158 235,856 813,856 813,158"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_e79f5d62"  custom="structure {type:Title;}">
+      <Coords points="274,1055 274,1251 806,1251 806,1055"/>
+      
+    </TextRegion>
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_5422c89c" >
+        <Coords points="3,23 8,15 16,24 26,26 21,35 3,46"/>
+        <Baseline points="3,23 26,26"/>
+        <TextEquiv>
+          <Unicode>|</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_16cc9627" >
+        <Coords points="469,205 470,193 484,181 505,188 523,172 536,178 564,174 572,180 575,203 554,218 517,218 504,229 496,229 472,205"/>
+        <Baseline points="470,206 576,204"/>
+        <TextEquiv>
+          <Unicode>کتاب</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e519fc2f" >
+        <Coords points="323,346 342,345 370,318 387,325 400,312 422,306 433,296 474,291 501,292 533,321 545,321 565,334 615,317 635,324 660,315 681,296 693,299 695,346 687,357 643,357 637,363 619,356 613,362 600,362 573,381 562,381 546,374 518,346 507,357 470,357 439,384 428,380 390,418 385,414 374,420 325,371"/>
+        <Baseline points="324,347 697,347"/>
+        <TextEquiv>
+          <Unicode>احسن التّواریخ</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e6ae49a9" >
+        <Coords points="473,510 475,488 486,492 507,472 520,484 530,475 545,472 553,478 562,476 572,485 575,509 560,521 541,518 528,528 518,528 510,521 476,517"/>
+        <Baseline points="475,511 528,511 576,510"/>
+        <TextEquiv>
+          <Unicode>تالیف</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_28b62560" >
+        <Coords points="357,640 358,629 408,577 444,609 476,619 490,611 514,635 535,615 551,624 565,610 573,616 584,608 617,615 630,606 649,606 675,632 682,632 662,646 589,644 566,669 536,667 509,643 484,660 466,661 461,668 440,668 415,644 384,669 358,660"/>
+        <Baseline points="358,641 683,634"/>
+        <TextEquiv>
+          <Unicode>حسن روملو</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_39490ada" >
+        <Coords points="247,790 248,781 260,784 285,761 298,770 338,776 349,783 374,763 387,769 410,754 427,754 442,769 456,771 465,771 477,760 508,760 539,787 581,776 592,768 627,774 643,760 657,757 673,773 685,769 700,784 722,786 731,776 743,774 775,779 789,771 802,777 806,788 802,811 781,815 771,807 751,807 725,828 716,828 694,811 681,821 667,822 649,808 619,802 589,809 561,836 533,812 523,822 508,821 499,814 480,828 469,817 457,828 448,828 421,805 412,806 395,822 343,821 325,803 296,813 283,803 268,819 248,819"/>
+        <Baseline points="248,791 807,789"/>
+        <TextEquiv>
+          <Unicode>بسعي و تصحیح چارلس نارمن سیدن</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a3442fac" >
+        <Coords points="304,1086 305,1075 315,1066 340,1062 390,1067 403,1080 418,1067 427,1073 452,1074 463,1068 482,1083 507,1062 535,1075 553,1065 572,1074 589,1064 604,1069 619,1064 624,1067 636,1062 650,1068 666,1064 676,1073 697,1077 718,1069 733,1084 752,1084 736,1085 704,1110 693,1110 684,1100 647,1109 623,1096 605,1107 587,1099 543,1106 534,1098 511,1102 497,1113 465,1113 452,1123 434,1107 410,1113 396,1099 306,1098"/>
+        <Baseline points="305,1087 753,1085"/>
+        <TextEquiv>
+          <Unicode>در مطبعۀ بپتست مشن پریس کلکته</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dcfc4b64" >
+        <Coords points="426,1211 427,1200 440,1202 454,1192 511,1194 529,1185 564,1186 572,1194 590,1185 612,1193 621,1210 617,1233 590,1221 522,1220 516,1226 460,1219 427,1245"/>
+        <Baseline points="427,1212 536,1211 622,1211"/>
+        <TextEquiv>
+          <Unicode>سنه ۱۹۳۱ مسيحی</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_79a12e6b" >
+        <Coords points="448,1156 470,1131 479,1130 489,1137 508,1134 521,1144 530,1136 541,1136 554,1122 593,1153 581,1154 570,1166 552,1163 539,1175 515,1159 502,1167 472,1163 463,1156"/>
+        <Baseline points="450,1157 594,1154"/>
+        <TextEquiv>
+          <Unicode>بطبع رسید</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
