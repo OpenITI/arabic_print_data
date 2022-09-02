@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_nasab_ashirat_al_zarkiyah_amriki_persian.pdf_page_42.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT354" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT355" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/>
+    <OtherTag ID="LT73" LABEL="Poetry" DESCRIPTION="line type Poetry"/><OtherTag ID="LT74" LABEL="Running Title" DESCRIPTION="line type Running Title"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1923"
+          HEIGHT="2916"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1923"
+                  HEIGHT="2916">
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

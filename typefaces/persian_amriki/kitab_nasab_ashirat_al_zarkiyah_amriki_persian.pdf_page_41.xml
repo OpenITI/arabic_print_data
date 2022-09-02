@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_nasab_ashirat_al_zarkiyah_amriki_persian.pdf_page_41.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT354" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT355" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/>
+    <OtherTag ID="LT73" LABEL="Poetry" DESCRIPTION="line type Poetry"/><OtherTag ID="LT74" LABEL="Running Title" DESCRIPTION="line type Running Title"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1936"
+          HEIGHT="2875"
+          PHYSICAL_IMG_NR="31"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1936"
+                  HEIGHT="2875">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_02c05046"
+                    
+                    BASELINE="1372 2822 1528 2815" 
+                    HPOS="1365"
+                    VPOS="2783"
+                    WIDTH="163"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1372 2822 1365 2786 1521 2783 1528 2815 1528 2834 1372 2836"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1365"
+                    VPOS="2783"
+                    WIDTH="163"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe7c8d65"
+                    
+                    BASELINE="495 2848 663 2848" 
+                    HPOS="495"
+                    VPOS="2781"
+                    WIDTH="168"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="495 2848 498 2781 536 2798 587 2798 596 2788 603 2781 603 2781 603 2781 606 2781 606 2781 608 2781 608 2781 608 2781 610 2781 610 2781 610 2781 663 2793 663 2848 663 2863 495 2867"/></Shape>
+	    <String CONTENT=""
+                    HPOS="495"
+                    VPOS="2781"
+                    WIDTH="168"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afcc6592"
+                    
+                    BASELINE="57 2630 57 2609" 
+                    HPOS="31"
+                    VPOS="2609"
+                    WIDTH="55"
+                    HEIGHT="21">
+            <Shape><Polygon POINTS="57 2630 31 2630 31 2609 57 2609 86 2609 86 2628"/></Shape>
+	    <String CONTENT=""
+                    HPOS="31"
+                    VPOS="2609"
+                    WIDTH="55"
+                    HEIGHT="21"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80b0aa42"
+                    
+                    BASELINE="1329 2860 1360 2860" 
+                    HPOS="1329"
+                    VPOS="2819"
+                    WIDTH="31"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1329 2860 1329 2819 1360 2822 1360 2860 1360 2882 1329 2882"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1329"
+                    VPOS="2819"
+                    WIDTH="31"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c6fd6d4"
+                    
+                    BASELINE="301 2841 390 2836" 
+                    HPOS="297"
+                    VPOS="2803"
+                    WIDTH="93"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="301 2841 297 2803 385 2803 390 2836 390 2855 301 2858"/></Shape>
+	    <String CONTENT=""
+                    HPOS="297"
+                    VPOS="2803"
+                    WIDTH="93"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e83bfee8"
+                    
+                    BASELINE="9 2827 74 2827" 
+                    HPOS="9"
+                    VPOS="2690"
+                    WIDTH="65"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="9 2827 9 2690 74 2702 74 2827 74 2841 9 2841"/></Shape>
+	    <String CONTENT=""
+                    HPOS="9"
+                    VPOS="2690"
+                    WIDTH="65"
+                    HEIGHT="151"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
