@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Maysari_-_Daneshnama_1987_ed._Zanjari.pdf_page_9.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1096" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1097" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1098" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2454"
+          HEIGHT="3605"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2454"
+                  HEIGHT="3605">
+        
+        <TextBlock HPOS="255"
+                   VPOS="1284"
+                   WIDTH="1979"
+                   HEIGHT="1002"
+                   ID="eSc_textblock_575fe46d"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="255 1284 255 2286 2234 2286 2234 1284"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="636"
+                   VPOS="713"
+                   WIDTH="1187"
+                   HEIGHT="521"
+                   ID="eSc_textblock_9e1702e4"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="636 713 636 1234 1823 1234 1823 713"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

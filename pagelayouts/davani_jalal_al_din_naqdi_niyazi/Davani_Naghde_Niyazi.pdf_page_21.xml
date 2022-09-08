@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Davani_Naghde_Niyazi.pdf_page_21.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1089" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1090" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1091" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1870"
+                   VPOS="245"
+                   WIDTH="103"
+                   HEIGHT="91"
+                   ID="eSc_textblock_0f52c5a6"
+                   TAGREFS="BT1091">
+          <Shape><Polygon POINTS="1961 245 1973 336 1870 324 1870 245"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1238f699"
+                    
+                    BASELINE="1879 298 1949 298" 
+                    HPOS="1879"
+                    VPOS="248"
+                    WIDTH="70"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1879 298 1879 248 1949 248 1949 298 1949 318 1879 318"/></Shape>
+	    <String CONTENT="20"
+                    HPOS="1879"
+                    VPOS="248"
+                    WIDTH="70"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="81"
+                   VPOS="257"
+                   WIDTH="196"
+                   HEIGHT="67"
+                   ID="eSc_textblock_cd5ac623"
+                   TAGREFS="BT1089">
+          <Shape><Polygon POINTS="277 257 277 324 105 324 81 280 116 257"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_eb8d35d3"
+                    
+                    BASELINE="73 301 266 301" 
+                    HPOS="73"
+                    VPOS="251"
+                    WIDTH="193"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="73 301 73 251 266 251 266 301 266 321 73 321"/></Shape>
+	    <String CONTENT="نقد نیازی"
+                    HPOS="73"
+                    VPOS="251"
+                    WIDTH="193"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="35"
+                   VPOS="2701"
+                   WIDTH="1949"
+                   HEIGHT="488"
+                   ID="eSc_textblock_5a429505"
+                   TAGREFS="BT1090">
+          <Shape><Polygon POINTS="1984 2747 1973 3119 1914 3189 105 3177 70 3142 81 2958 35 2899 102 2888 107 2716 944 2708 1040 2712 1765 2701"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e5cd60bc"
+                    
+                    BASELINE="1052 2785 1920 2777" 
+                    HPOS="1049"
+                    VPOS="2727"
+                    WIDTH="871"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1052 2785 1049 2736 1917 2727 1920 2777 1920 2800 1052 2809"/></Shape>
+	    <String CONTENT="1 روضات، ج 2ٓ، ص 1548 به نقل از بهار عم"
+                    HPOS="1049"
+                    VPOS="2727"
+                    WIDTH="871"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2cdb0be"
+                    
+                    BASELINE="1107 2859 1911 2850" 
+                    HPOS="1105"
+                    VPOS="2800"
+                    WIDTH="806"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1107 2859 1105 2809 1908 2800 1911 2850 1911 2876 1107 2885"/></Shape>
+	    <String CONTENT="2 روضات، ج2، ص 1549 نقل از بهار عجم"
+                    HPOS="1105"
+                    VPOS="2800"
+                    WIDTH="806"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb03f17a"
+                    
+                    BASELINE="1067 2932 1911 2926" 
+                    HPOS="1064"
+                    VPOS="2873"
+                    WIDTH="847"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1067 2932 1064 2879 1908 2873 1911 2926 1911 2949 1067 2955"/></Shape>
+	    <String CONTENT="3 همان مدرکاریحانة الآدب، ج 2 ص 232"
+                    HPOS="1064"
+                    VPOS="2873"
+                    WIDTH="847"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e860cfc"
+                    
+                    BASELINE="242 2935 572 2937" 
+                    HPOS="239"
+                    VPOS="2873"
+                    WIDTH="333"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="242 2935 242 2873 572 2876 572 2937 570 2964 239 2961"/></Shape>
+	    <String CONTENT="ب السير، ج4، ص"
+                    HPOS="239"
+                    VPOS="2873"
+                    WIDTH="333"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26477163"
+                    
+                    BASELINE="114 2929 163 2932" 
+                    HPOS="111"
+                    VPOS="2876"
+                    WIDTH="55"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="114 2929 116 2876 166 2879 163 2932 160 2961 111 2958"/></Shape>
+	    <String CONTENT="4"
+                    HPOS="111"
+                    VPOS="2876"
+                    WIDTH="55"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6d0ab21"
+                    
+                    BASELINE="1248 3005 1914 3005" 
+                    HPOS="1248"
+                    VPOS="2955"
+                    WIDTH="666"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1248 3005 1248 2955 1914 2955 1914 3005 1914 3034 1248 3034"/></Shape>
+	    <String CONTENT="5 تاریخ ادبیات صفا ج 4: ص 19"
+                    HPOS="1248"
+                    VPOS="2955"
+                    WIDTH="666"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8095b17c"
+                    
+                    BASELINE="154 3005 643 3002" 
+                    HPOS="152"
+                    VPOS="2958"
+                    WIDTH="491"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="154 3005 152 2961 640 2958 643 3002 643 3034 154 3037"/></Shape>
+	    <String CONTENT="روضات، ج 2، ص 567"
+                    HPOS="152"
+                    VPOS="2958"
+                    WIDTH="491"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e343929"
+                    
+                    BASELINE="1566 3072 1911 3078" 
+                    HPOS="1563"
+                    VPOS="3028"
+                    WIDTH="348"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1566 3072 1566 3028 1911 3034 1911 3078 1908 3101 1563 3095"/></Shape>
+	    <String CONTENT="7ا مدارک یادشده"
+                    HPOS="1563"
+                    VPOS="3028"
+                    WIDTH="348"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89be2d62"
+                    
+                    BASELINE="540 3078 1236 3072" 
+                    HPOS="537"
+                    VPOS="3013"
+                    WIDTH="699"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="540 3078 537 3019 1233 3013 1236 3072 1236 3116 540 3122"/></Shape>
+	    <String CONTENT="تاریخ ادبیات صفاء ج 4، ص 91 به بعد"
+                    HPOS="537"
+                    VPOS="3013"
+                    WIDTH="699"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29aa6acd"
+                    
+                    BASELINE="1283 3154 1911 3157" 
+                    HPOS="1280"
+                    VPOS="3098"
+                    WIDTH="631"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1283 3154 1283 3098 1911 3101 1911 3157 1908 3195 1280 3192"/></Shape>
+	    <String CONTENT="9 ريحانة الادب ج 1 ص 233"
+                    HPOS="1280"
+                    VPOS="3098"
+                    WIDTH="631"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a262c041"
+                    
+                    BASELINE="125 3157 599 3151" 
+                    HPOS="122"
+                    VPOS="3098"
+                    WIDTH="477"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="125 3157 122 3104 596 3098 599 3151 599 3203 125 3209"/></Shape>
+	    <String CONTENT="روضات، ح 2، ص 568"
+                    HPOS="122"
+                    VPOS="3098"
+                    WIDTH="477"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="56"
+                   VPOS="357"
+                   WIDTH="1907"
+                   HEIGHT="2281"
+                   ID="eSc_textblock_55f4a33f"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="56 357 56 2638 1963 2638 1963 357"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

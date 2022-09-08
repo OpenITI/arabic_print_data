@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>jami_divan_zK9gjaB.pdf_page_20.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1229" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1230" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1231" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1232" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1233" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1872"
+          HEIGHT="2718"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1872"
+                  HEIGHT="2718">
+        
+        <TextBlock HPOS="272"
+                   VPOS="2313"
+                   WIDTH="1450"
+                   HEIGHT="228"
+                   ID="eSc_textblock_a6c45a3f"
+                   TAGREFS="BT1233">
+          <Shape><Polygon POINTS="1722 2541 1722 2313 272 2313 272 2541"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="193"
+                   VPOS="368"
+                   WIDTH="1476"
+                   HEIGHT="1932"
+                   ID="eSc_textblock_e51c6e93"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1669 368 1669 2300 193 2296 193 368"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="215"
+                   VPOS="237"
+                   WIDTH="153"
+                   HEIGHT="74"
+                   ID="eSc_textblock_9887180b"
+                   TAGREFS="BT1229">
+          <Shape><Polygon POINTS="368 237 368 311 215 311 215 237"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="727"
+                   VPOS="228"
+                   WIDTH="351"
+                   HEIGHT="83"
+                   ID="eSc_textblock_b6bfd0f7"
+                   TAGREFS="BT1229">
+          <Shape><Polygon POINTS="727 228 727 311 1078 311 1078 228"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1538"
+                   VPOS="254"
+                   WIDTH="105"
+                   HEIGHT="62"
+                   ID="eSc_textblock_21af39d8"
+                   TAGREFS="BT1231">
+          <Shape><Polygon POINTS="1538 254 1538 307 1643 316 1643 254"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_90c482de"
+                    
+                    BASELINE="1554 285 1588 287" 
+                    HPOS="1552"
+                    VPOS="251"
+                    WIDTH="36"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1554 285 1554 251 1588 253 1588 287 1586 303 1552 301"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="1552"
+                    VPOS="251"
+                    WIDTH="36"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1cc2ed4f"
+                    
+                    BASELINE="761 285 1015 285" 
+                    HPOS="761"
+                    VPOS="253"
+                    WIDTH="254"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="761 285 761 253 1015 253 1015 285 1015 303 761 303"/></Shape>
+	    <String CONTENT="اهاک هرات"
+                    HPOS="761"
+                    VPOS="253"
+                    WIDTH="254"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81788357"
+                    
+                    BASELINE="203 412 1504 412" 
+                    HPOS="203"
+                    VPOS="369"
+                    WIDTH="1301"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="203 412 203 369 1504 369 1504 412 1504 430 203 430"/></Shape>
+	    <String CONTENT="ازهمین روی است که شعرای آن زمان این قصوروباغها را موضوع قصیده های"
+                    HPOS="203"
+                    VPOS="369"
+                    WIDTH="1301"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12545c3c"
+                    
+                    BASELINE="206 516 659 525 852 516 1631 516" 
+                    HPOS="203"
+                    VPOS="464"
+                    WIDTH="1428"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="206 516 206 464 657 473 847 464 849 464 852 464 1631 464 1631 516 1631 534 852 534 659 541 657 541 203 532"/></Shape>
+	    <String CONTENT="خود قرارداده وتا بدان اندازه دروصف وجلوه دادنش پیش رفتهاند که امروزه"
+                    HPOS="203"
+                    VPOS="464"
+                    WIDTH="1428"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9ee6edb"
+                    
+                    BASELINE="206 622 552 636 1631 629" 
+                    HPOS="203"
+                    VPOS="573"
+                    WIDTH="1428"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="206 622 206 573 552 586 1629 579 1631 629 1631 645 552 652 550 652 203 638"/></Shape>
+	    <String CONTENT="جز اغراق و زیاده پردازی نمودی نمی نماید . در دیوان جاهی به بیش از بیست"
+                    HPOS="203"
+                    VPOS="573"
+                    WIDTH="1428"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33f5da1e"
+                    
+                    BASELINE="206 740 525 733 1457 740 1636 729" 
+                    HPOS="203"
+                    VPOS="681"
+                    WIDTH="1433"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="206 740 203 693 523 686 525 686 806 688 1454 693 1631 681 1636 729 1636 745 1457 756 1454 756 804 751 525 749 206 756"/></Shape>
+	    <String CONTENT="قصیده بر میخوریم که دروصف عمارات وقصور و باغها سروده شده و در قصیده هایی"
+                    HPOS="203"
+                    VPOS="681"
+                    WIDTH="1433"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2cba9954"
+                    
+                    BASELINE="206 849 1636 842" 
+                    HPOS="203"
+                    VPOS="790"
+                    WIDTH="1433"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="206 849 203 797 1634 790 1636 842 1636 856 206 862"/></Shape>
+	    <String CONTENT="دیکر گهگاهی درخلال موضوع به عظمت و شکوه این ساخته ها گریزی زده"
+                    HPOS="203"
+                    VPOS="790"
+                    WIDTH="1433"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e46dbc7a"
+                    
+                    BASELINE="1522 933 1636 928" 
+                    HPOS="1520"
+                    VPOS="892"
+                    WIDTH="116"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1522 933 1520 896 1634 892 1636 928 1636 942 1522 946"/></Shape>
+	    <String CONTENT="است."
+                    HPOS="1520"
+                    VPOS="892"
+                    WIDTH="116"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20e95535"
+                    
+                    BASELINE="208 1050 1520 1041" 
+                    HPOS="206"
+                    VPOS="992"
+                    WIDTH="1314"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="208 1050 206 1001 1518 992 1520 1041 1520 1050 208 1060"/></Shape>
+	    <String CONTENT="وازجمله قصوروکاخها وباغهای مشهور وتاریخی این عصر بایستی از : باغ"
+                    HPOS="206"
+                    VPOS="992"
+                    WIDTH="1314"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51668954"
+                    
+                    BASELINE="206 1150 1640 1146" 
+                    HPOS="203"
+                    VPOS="1098"
+                    WIDTH="1437"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="206 1150 203 1103 1638 1098 1640 1146 1640 1164 206 1168"/></Shape>
+	    <String CONTENT="جهان آرای باغ زبیده ، باغ دلکشای ، باغ چمن آرای، باغ سفید ، باغ زاغان ،"
+                    HPOS="203"
+                    VPOS="1098"
+                    WIDTH="1437"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d9bba63"
+                    
+                    BASELINE="203 1250 1638 1243" 
+                    HPOS="201"
+                    VPOS="1195"
+                    WIDTH="1437"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="203 1250 201 1202 1636 1195 1638 1243 1638 1261 203 1268"/></Shape>
+	    <String CONTENT="باغ قزنفل ، باغ خيابان ، باغ نظر کاه ، باغ مختار ، باغچهٔ تخت عزیز ان ، باغچهٔ"
+                    HPOS="201"
+                    VPOS="1195"
+                    WIDTH="1437"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b21ba8eb"
+                    
+                    BASELINE="849 1347 1627 1336" 
+                    HPOS="847"
+                    VPOS="1293"
+                    WIDTH="780"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="849 1347 847 1304 1624 1293 1627 1336 1627 1352 849 1363"/></Shape>
+	    <String CONTENT="گازر کاه ؛ تخت بابا سوخته وغیره نام برد ."
+                    HPOS="847"
+                    VPOS="1293"
+                    WIDTH="780"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8021e3e"
+                    
+                    BASELINE="206 1451 1527 1456" 
+                    HPOS="203"
+                    VPOS="1402"
+                    WIDTH="1324"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="206 1451 206 1402 1527 1406 1527 1456 1525 1469 203 1465"/></Shape>
+	    <String CONTENT="ویلبر در کتاب خود بهنام &quot;ایران&quot; در فصل تیموریان از بسیاری از بناهای"
+                    HPOS="203"
+                    VPOS="1402"
+                    WIDTH="1324"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24aaf8b6"
+                    
+                    BASELINE="208 1556 539 1567 673 1558 1645 1553" 
+                    HPOS="206"
+                    VPOS="1499"
+                    WIDTH="1439"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="208 1556 208 1501 537 1513 668 1503 670 1503 1643 1499 1645 1553 1645 1571 673 1576 539 1585 537 1585 206 1574"/></Shape>
+	    <String CONTENT="این پادشاهان خوش ذوق و هنردوست نام می برد که مایهٔ آثارهنری. پرارزشی گشته"
+                    HPOS="206"
+                    VPOS="1499"
+                    WIDTH="1439"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2896bccd"
+                    
+                    BASELINE="210 1667 1488 1660 1643 1648" 
+                    HPOS="208"
+                    VPOS="1596"
+                    WIDTH="1435"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="210 1667 208 1614 1486 1608 1638 1596 1643 1648 1643 1662 1488 1673 1488 1673 210 1680"/></Shape>
+	    <String CONTENT="است تیمورخود در سمرند بناهای زییایی به یاد کار کذاشت که هم اکنون از"
+                    HPOS="208"
+                    VPOS="1596"
+                    WIDTH="1435"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea74e7c6"
+                    
+                    BASELINE="206 1768 686 1775 1645 1755" 
+                    HPOS="203"
+                    VPOS="1698"
+                    WIDTH="1442"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="206 1768 206 1712 684 1719 1643 1698 1645 1755 1645 1775 686 1796 684 1796 203 1789"/></Shape>
+	    <String CONTENT="بقایا وبازماندههای آن میتوان به ارزش وشکوه اولسیهاش پی برد ؛ ازجمله مدرسهٔ"
+                    HPOS="203"
+                    VPOS="1698"
+                    WIDTH="1442"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff6611c4"
+                    
+                    BASELINE="208 1884 965 1884 1645 1866" 
+                    HPOS="208"
+                    VPOS="1814"
+                    WIDTH="1437"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="208 1884 208 1832 963 1832 1643 1814 1645 1866 1645 1884 965 1902 965 1902 208 1902"/></Shape>
+	    <String CONTENT="عالییی بود که به نام زن چینی خود بیبی خانم بنا نهاد ، دیکر بنای مقبره و"
+                    HPOS="208"
+                    VPOS="1814"
+                    WIDTH="1437"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c33efd19"
+                    
+                    BASELINE="213 1977 507 1984 1645 1963" 
+                    HPOS="210"
+                    VPOS="1911"
+                    WIDTH="1435"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="213 1977 213 1925 507 1932 1643 1911 1645 1963 1645 1981 507 2002 505 2002 210 1995"/></Shape>
+	    <String CONTENT="آرامگاه او که به دستور خودش آغاز یافت وبه سال 807 هجری مطابق با 1404"
+                    HPOS="210"
+                    VPOS="1911"
+                    WIDTH="1435"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46782273"
+                    
+                    BASELINE="203 2092 858 2074 1649 2065" 
+                    HPOS="201"
+                    VPOS="2011"
+                    WIDTH="1448"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="203 2092 201 2038 856 2020 856 2020 1647 2011 1649 2065 1649 2081 858 2090 203 2108"/></Shape>
+	    <String CONTENT="میلادی که سال مرگش بود پایان یافت وبه &quot;کورمیر&quot; مشهورشد وهم اکنون این"
+                    HPOS="201"
+                    VPOS="2011"
+                    WIDTH="1448"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30db65eb"
+                    
+                    BASELINE="203 2192 1647 2169" 
+                    HPOS="201"
+                    VPOS="2117"
+                    WIDTH="1446"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="203 2192 201 2140 1645 2117 1647 2169 1647 2183 203 2206"/></Shape>
+	    <String CONTENT="بنا که تقریبا از آفات وحوادث مصون مانده نمونهیی از معماری و هنر بناسازی آن"
+                    HPOS="201"
+                    VPOS="2117"
+                    WIDTH="1446"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4ef046a"
+                    
+                    BASELINE="954 2274 1649 2269" 
+                    HPOS="951"
+                    VPOS="2224"
+                    WIDTH="698"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="954 2274 951 2228 1647 2224 1649 2269 1649 2285 954 2289"/></Shape>
+	    <String CONTENT="عصر در معرض اعجاب بینند کان است."
+                    HPOS="951"
+                    VPOS="2224"
+                    WIDTH="698"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e482e38"
+                    
+                    BASELINE="226 285 342 285" 
+                    HPOS="226"
+                    VPOS="246"
+                    WIDTH="116"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="226 285 226 246 342 246 342 285 342 298 226 298"/></Shape>
+	    <String CONTENT="مقدمه"
+                    HPOS="226"
+                    VPOS="246"
+                    WIDTH="116"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2706fcca"
+                    
+                    BASELINE="874 2409 1536 2396" 
+                    HPOS="872"
+                    VPOS="2355"
+                    WIDTH="664"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="874 2409 872 2369 1534 2355 1536 2396 1536 2414 874 2428"/></Shape>
+	    <String CONTENT="13_ به قسمت شرح قصیدهها نگاه کنید :"
+                    HPOS="872"
+                    VPOS="2355"
+                    WIDTH="664"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Turkah_Tamhid_Al_Qawaid.pdf_page_8.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT950" LABEL="Footnote" DESCRIPTION="block type Footnote"/><OtherTag ID="BT951" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT952" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2177"
+          HEIGHT="2757"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2177"
+                  HEIGHT="2757">
+        
+        <TextBlock HPOS="910"
+                   VPOS="441"
+                   WIDTH="135"
+                   HEIGHT="52"
+                   ID="eSc_textblock_3379a1cf"
+                   TAGREFS="BT952">
+          <Shape><Polygon POINTS="1036 441 1045 466 910 493 910 441"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_945d2bf7"
+                    
+                    BASELINE="921 480 1027 480" 
+                    HPOS="921"
+                    VPOS="448"
+                    WIDTH="106"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="921 480 921 448 1027 448 1027 480 1027 496 921 496"/></Shape>
+	    <String CONTENT="مقدمه"
+                    HPOS="921"
+                    VPOS="448"
+                    WIDTH="106"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="340"
+                   VPOS="2095"
+                   WIDTH="126"
+                   HEIGHT="25"
+                   ID="eSc_textblock_ef085fb1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="466 2104 466 2111 377 2120 340 2095"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="809"
+                   VPOS="2067"
+                   WIDTH="34"
+                   HEIGHT="7"
+                   ID="eSc_textblock_5036609b"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="843 2067 843 2074 809 2074 809 2067"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1544"
+                   VPOS="2104"
+                   WIDTH="53"
+                   HEIGHT="7"
+                   ID="eSc_textblock_8ad5b601"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1597 2104 1597 2111 1544 2111 1544 2104"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1599"
+                   VPOS="422"
+                   WIDTH="72"
+                   HEIGHT="90"
+                   ID="eSc_textblock_64eddfdf"
+                   TAGREFS="BT951">
+          <Shape><Polygon POINTS="1662 441 1671 512 1599 503 1618 422"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1702"
+                   VPOS="2056"
+                   WIDTH="7"
+                   HEIGHT="4"
+                   ID="eSc_textblock_847c0924"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1702 2056 1702 2060 1709 2060 1709 2056"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="206"
+                   VPOS="2018"
+                   WIDTH="1496"
+                   HEIGHT="468"
+                   ID="eSc_textblock_0aad3a39"
+                   TAGREFS="BT950">
+          <Shape><Polygon POINTS="1702 2018 1702 2486 206 2486 206 2018"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="210"
+                   VPOS="550"
+                   WIDTH="1516"
+                   HEIGHT="1450"
+                   ID="eSc_textblock_1964aa20"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1726 550 1726 2000 210 2000 210 550"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_e42f3fb1"
+                    
+                    BASELINE="308 588 1650 595" 
+                    HPOS="305"
+                    VPOS="544"
+                    WIDTH="1345"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="308 588 308 544 1650 551 1650 595 1648 613 305 606"/></Shape>
+	    <String CONTENT="صائن الدین علی - الترکه - اصفهانی از اسباط مؤلف قواعد، ومعاصر است با"
+                    HPOS="305"
+                    VPOS="544"
+                    WIDTH="1345"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22fd4a1a"
+                    
+                    BASELINE="1174 682 1650 675" 
+                    HPOS="1172"
+                    VPOS="636"
+                    WIDTH="478"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1174 682 1172 643 1648 636 1650 675 1650 696 1174 703"/></Shape>
+	    <String CONTENT="شاهرخ ، فرزند امیرتیمور ."
+                    HPOS="1172"
+                    VPOS="636"
+                    WIDTH="478"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6ea81c6"
+                    
+                    BASELINE="301 748 1563 755" 
+                    HPOS="298"
+                    VPOS="705"
+                    WIDTH="1265"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="301 748 301 705 1563 712 1563 755 1560 771 298 765"/></Shape>
+	    <String CONTENT="حفير موفق به مطالعه آثار علمی فلسفی ابوحامد ، مؤلگف متنزائر حاضر نشده"
+                    HPOS="298"
+                    VPOS="705"
+                    WIDTH="1265"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a28a0fc"
+                    
+                    BASELINE="308 833 1648 833" 
+                    HPOS="308"
+                    VPOS="790"
+                    WIDTH="1340"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="308 833 308 790 1648 790 1648 833 1648 852 308 852"/></Shape>
+	    <String CONTENT=" است ولی آثاری از شارح رساله در دست مطالعه دارد، ازجمله شرح فارسی بر تأئیتهٔ"
+                    HPOS="308"
+                    VPOS="790"
+                    WIDTH="1340"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_497b74fe"
+                    
+                    BASELINE="717 916 1641 919" 
+                    HPOS="714"
+                    VPOS="870"
+                    WIDTH="927"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="717 916 717 870 1641 873 1641 919 1639 932 714 930"/></Shape>
+	    <String CONTENT="ابن فارض و مفاحص وچند اثر فارسی وعربی دیگر (1)."
+                    HPOS="714"
+                    VPOS="870"
+                    WIDTH="927"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63659c21"
+                    
+                    BASELINE="298 992 1551 987" 
+                    HPOS="296"
+                    VPOS="944"
+                    WIDTH="1255"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="298 992 296 948 1549 944 1551 987 1551 1004 298 1008"/></Shape>
+	    <String CONTENT="کتاب تمهید القواعد از کتب درسی در حوزه علمی وعرفانی طهران بود واین"
+                    HPOS="296"
+                    VPOS="944"
+                    WIDTH="1255"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea05a392"
+                    
+                    BASELINE="301 1063 1636 1068" 
+                    HPOS="298"
+                    VPOS="1020"
+                    WIDTH="1338"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="301 1063 301 1020 1636 1024 1636 1068 1634 1084 298 1079"/></Shape>
+	    <String CONTENT="کتاب دراصفهان نیز تدریس میشد، مرحوم آفا محمدرضا فمشهئی همین کناب را"
+                    HPOS="298"
+                    VPOS="1020"
+                    WIDTH="1338"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_614d5061"
+                    
+                    BASELINE="296 1151 1641 1146" 
+                    HPOS="294"
+                    VPOS="1102"
+                    WIDTH="1347"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="296 1151 294 1107 1639 1102 1641 1146 1641 1160 296 1164"/></Shape>
+	    <String CONTENT="چند دوره تدرپس نموده است وخود نیز همین کتاب را نزد مرحوم سید رضی"
+                    HPOS="294"
+                    VPOS="1102"
+                    WIDTH="1347"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d960cbc"
+                    
+                    BASELINE="981 1222 1641 1217" 
+                    HPOS="979"
+                    VPOS="1174"
+                    WIDTH="662"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="981 1222 979 1178 1639 1174 1641 1217 1641 1238 981 1242"/></Shape>
+	    <String CONTENT="لاریجانی دراصفهان قرائت کرده است ."
+                    HPOS="979"
+                    VPOS="1174"
+                    WIDTH="662"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0b6d171"
+                    
+                    BASELINE="301 1300 1556 1300" 
+                    HPOS="301"
+                    VPOS="1259"
+                    WIDTH="1255"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="301 1300 301 1259 1556 1259 1556 1300 1556 1316 301 1316"/></Shape>
+	    <String CONTENT=" نسخهیی که درحوزه طهران تدرپس میشد و باآنکه درحوزه درسی چند بار"
+                    HPOS="301"
+                    VPOS="1259"
+                    WIDTH="1255"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4aab495"
+                    
+                    BASELINE="301 1387 811 1380 1639 1387" 
+                    HPOS="298"
+                    VPOS="1332"
+                    WIDTH="1341"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="301 1387 298 1339 809 1332 811 1332 1639 1339 1639 1387 1636 1403 811 1396 301 1403"/></Shape>
+	    <String CONTENT="نسخه تصحبح شده است معذلك مملو است از اغلاط وافتادگی عبارات، و همین"
+                    HPOS="298"
+                    VPOS="1332"
+                    WIDTH="1341"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd090f0f"
+                    
+                    BASELINE="422 1461 1639 1461" 
+                    HPOS="422"
+                    VPOS="1422"
+                    WIDTH="1217"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="422 1461 422 1422 1639 1422 1639 1461 1639 1484 422 1484"/></Shape>
+	    <String CONTENT=" نسخه مغلوط را مرحوم حاج شیخ احمد شیرازی کتاب فروش چاپ نمود."
+                    HPOS="422"
+                    VPOS="1422"
+                    WIDTH="1217"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_454c11b6"
+                    
+                    BASELINE="296 1534 1554 1543" 
+                    HPOS="294"
+                    VPOS="1493"
+                    WIDTH="1260"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="296 1534 296 1493 1554 1502 1554 1543 1551 1562 294 1553"/></Shape>
+	    <String CONTENT="حقیر کمان مینمود نسخهٔ چاپی روی عدم مراعات وبی نوجهی مصحتح مغلوط"
+                    HPOS="294"
+                    VPOS="1493"
+                    WIDTH="1260"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42965263"
+                    
+                    BASELINE="296 1615 1632 1619" 
+                    HPOS="294"
+                    VPOS="1571"
+                    WIDTH="1338"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="296 1615 296 1571 1632 1576 1632 1619 1629 1633 294 1628"/></Shape>
+	    <String CONTENT="از کار درآمده است ولی نسخههائی که در دست افاضل بوده است وما برای نصحبح"
+                    HPOS="294"
+                    VPOS="1571"
+                    WIDTH="1338"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3e577ea"
+                    
+                    BASELINE="294 1702 1636 1697" 
+                    HPOS="291"
+                    VPOS="1654"
+                    WIDTH="1345"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="294 1702 291 1658 1634 1654 1636 1697 1636 1716 294 1720"/></Shape>
+	    <String CONTENT="ومقابله بعضی از آن نسخ را بدست آوردیم ومرحوم حاج شیخ احمد شیرازی کتاب"
+                    HPOS="291"
+                    VPOS="1654"
+                    WIDTH="1345"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_342115c8"
+                    
+                    BASELINE="291 1780 1634 1780" 
+                    HPOS="291"
+                    VPOS="1734"
+                    WIDTH="1343"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="291 1780 291 1734 1634 1734 1634 1780 1634 1796 291 1796"/></Shape>
+	    <String CONTENT="را با همان نسخ مقابله کرده که مملو است از اغلاط و پر است از سفطات و با کمال"
+                    HPOS="291"
+                    VPOS="1734"
+                    WIDTH="1343"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31ecf3e7"
+                    
+                    BASELINE="494 1854 1305 1865 1634 1854" 
+                    HPOS="491"
+                    VPOS="1805"
+                    WIDTH="1143"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="494 1854 494 1805 1303 1817 1632 1805 1634 1854 1634 1874 1305 1886 1303 1886 491 1874"/></Shape>
+	    <String CONTENT="تأسف همه نسخ خطی بهمین و اسطه و ازاین جهت غیرقابل اعتماد است."
+                    HPOS="491"
+                    VPOS="1805"
+                    WIDTH="1143"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ab9fd93"
+                    
+                    BASELINE="287 1957 1549 1966" 
+                    HPOS="285"
+                    VPOS="1913"
+                    WIDTH="1264"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="287 1957 287 1913 1549 1923 1549 1966 1547 1985 285 1975"/></Shape>
+	    <String CONTENT="مرحوم آفا میرزا محمود قمی یکی از نلامیذ مشهور حوزه درس آقا محمدرضا،"
+                    HPOS="285"
+                    VPOS="1913"
+                    WIDTH="1264"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b7114ab"
+                    
+                    BASELINE="287 2111 1549 2104" 
+                    HPOS="285"
+                    VPOS="2063"
+                    WIDTH="1264"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="287 2111 285 2070 1547 2063 1549 2104 1549 2115 287 2122"/></Shape>
+	    <String CONTENT="1- ازخاندان ترکه افاضل متعددی برخاستهاند و نضلای این خاندان دارای نبوغ و"
+                    HPOS="285"
+                    VPOS="2063"
+                    WIDTH="1264"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3a95ebc"
+                    
+                    BASELINE="287 2189 1629 2184" 
+                    HPOS="285"
+                    VPOS="2030"
+                    WIDTH="1344"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="287 2189 285 2035 1627 2030 1629 2184 1629 2201 287 2205"/></Shape>
+	    <String CONTENT="ا ار ندن ره اناد سدع بو خه اند و خل اد خایونه دارای نبیخار"
+                    HPOS="285"
+                    VPOS="2030"
+                    WIDTH="1344"
+                    HEIGHT="175"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ca5b35d"
+                    
+                    BASELINE="289 2263 1632 2269" 
+                    HPOS="287"
+                    VPOS="2228"
+                    WIDTH="1345"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="289 2263 289 2228 1632 2235 1632 2269 1629 2283 287 2276"/></Shape>
+	    <String CONTENT="محوب میشود، نگارنده حدود هشت -8- صفحه از کتاب حکمت منیعه را درسابق مطالعه"
+                    HPOS="287"
+                    VPOS="2228"
+                    WIDTH="1345"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1040876f"
+                    
+                    BASELINE="287 2345 1632 2350" 
+                    HPOS="285"
+                    VPOS="2304"
+                    WIDTH="1347"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="287 2345 287 2304 1632 2308 1632 2350 1629 2364 285 2359"/></Shape>
+	    <String CONTENT="نموده ام وسه -2- صفحه از آن را استنساخ کرده ام مؤلف دارای آثارعلمی فراوان بوده است."
+                    HPOS="285"
+                    VPOS="2304"
+                    WIDTH="1347"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35a0764a"
+                    
+                    BASELINE="308 2426 1310 2426 1634 2435" 
+                    HPOS="308"
+                    VPOS="2384"
+                    WIDTH="1326"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="308 2426 308 2384 1310 2384 1310 2384 1634 2393 1634 2435 1632 2453 1308 2446 308 2446"/></Shape>
+	    <String CONTENT="و همین متن شرح حاضر از حیث استحکام مطالب وعمق وپختگی، در آثار اسلامی کم نظیر است."
+                    HPOS="308"
+                    VPOS="2384"
+                    WIDTH="1326"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

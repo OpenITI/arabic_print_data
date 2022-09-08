@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT999" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1001" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1395" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1396" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1397" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT999" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1000" LABEL="Footnote" DESCRIPTION="block type Footnote"/><OtherTag ID="BT1001" LABEL="Page number" DESCRIPTION="block type Page number"/>
     
   </Tags>
   
@@ -25,29 +25,13 @@
                   WIDTH="2079"
                   HEIGHT="2954">
         
-        <TextBlock HPOS="511"
-                   VPOS="399"
-                   WIDTH="1372"
-                   HEIGHT="2073"
-                   ID="eSc_textblock_2d9b778b"
+        <TextBlock HPOS="522"
+                   VPOS="393"
+                   WIDTH="1327"
+                   HEIGHT="2085"
+                   ID="eSc_textblock_417cfdd4"
                    TAGREFS="BT2">
-          <Shape><Polygon POINTS="1883 2472 1883 399 511 399 511 2472"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1114"
-                   VPOS="311"
-                   WIDTH="73"
-                   HEIGHT="78"
-                   ID="eSc_textblock_383fe371"
-                   TAGREFS="BT1001">
-          <Shape><Polygon POINTS="1114 311 1114 389 1187 389 1187 311"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
+          <Shape><Polygon POINTS="1780 403 1810 433 1849 1937 1820 2008 1840 2390 1800 2459 571 2478 522 2439 522 433 601 393"/></Shape>
           
           
           <TextLine ID="eSc_line_57df9a10"
@@ -424,6 +408,18 @@
 
           
         </TextBlock>
+        
+        <TextBlock HPOS="1088"
+                   VPOS="312"
+                   WIDTH="127"
+                   HEIGHT="73"
+                   ID="eSc_textblock_299ef45a"
+                   TAGREFS="BT1001">
+          <Shape><Polygon POINTS="1215 312 1215 385 1088 385 1088 312"/></Shape>
+          
+        </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

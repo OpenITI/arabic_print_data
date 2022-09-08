@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Nasafi_Kashf_Al_Haghayigh.pdf_page_15.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1250" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1251" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1252" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1253" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1254" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="172"
+                   VPOS="507"
+                   WIDTH="1766"
+                   HEIGHT="2522"
+                   ID="eSc_textblock_19864c4b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1938 3029 1938 507 172 507 172 3029"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1521"
+                   VPOS="368"
+                   WIDTH="255"
+                   HEIGHT="79"
+                   ID="eSc_textblock_8cb3796f"
+                   TAGREFS="BT1250">
+          <Shape><Polygon POINTS="1521 368 1521 447 1776 447 1776 368"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1813"
+                   VPOS="382"
+                   WIDTH="130"
+                   HEIGHT="55"
+                   ID="eSc_textblock_5bf34390"
+                   TAGREFS="BT1252">
+          <Shape><Polygon POINTS="1943 382 1943 437 1813 437 1813 382"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_b4ae526c"
+                    
+                    BASELINE="1552 426 1935 432" 
+                    HPOS="1549"
+                    VPOS="374"
+                    WIDTH="386"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1552 426 1552 374 1935 380 1935 432 1932 447 1549 441"/></Shape>
+	    <String CONTENT="دواردهکشف الحقایق"
+                    HPOS="1549"
+                    VPOS="374"
+                    WIDTH="386"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b4dcf7f"
+                    
+                    BASELINE="233 575 1900 567" 
+                    HPOS="230"
+                    VPOS="514"
+                    WIDTH="1670"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="233 575 230 523 1897 514 1900 567 1900 593 233 602"/></Shape>
+	    <String CONTENT="فصل در اصول اعتقادی ابومنصور ماتریدی و محمد غزالی (18-25)؛ فصل در اصول"
+                    HPOS="230"
+                    VPOS="514"
+                    WIDTH="1670"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3849d7fb"
+                    
+                    BASELINE="230 666 1882 657" 
+                    HPOS="228"
+                    VPOS="605"
+                    WIDTH="1654"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="230 666 228 613 1879 605 1882 657 1882 681 230 689"/></Shape>
+	    <String CONTENT="اعتقادی ابوجعفر طوسی (21-23)؛ فصل در بیان شمار مذاهب (23-24)؛ فصل در بیان"
+                    HPOS="228"
+                    VPOS="605"
+                    WIDTH="1654"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5dd99d21"
+                    
+                    BASELINE="230 754 1882 745" 
+                    HPOS="228"
+                    VPOS="695"
+                    WIDTH="1654"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="230 754 228 704 1879 695 1882 745 1882 771 230 780"/></Shape>
+	    <String CONTENT="مذهب تناسخ (24-25)؛ فصل در بیان نسخ و مسخ (25-26)؛ فصل در نفس جزئی (26-"
+                    HPOS="228"
+                    VPOS="695"
+                    WIDTH="1654"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_850c2039"
+                    
+                    BASELINE="230 838 1870 830" 
+                    HPOS="228"
+                    VPOS="783"
+                    WIDTH="1642"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="230 838 228 792 1868 783 1870 830 1870 856 230 865"/></Shape>
+	    <String CONTENT="27)؛ فصل در بیان علوم حقیقی (27-28)؛ فصل در بیان مذهب حلول (28)؛ فصل در بيان"
+                    HPOS="228"
+                    VPOS="783"
+                    WIDTH="1642"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8645fd80"
+                    
+                    BASELINE="228 935 438 923 1876 923" 
+                    HPOS="222"
+                    VPOS="865"
+                    WIDTH="1654"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="228 935 222 877 432 865 438 865 1876 865 1876 923 1876 947 438 947 228 955"/></Shape>
+	    <String CONTENT="مذهب اتحاد (31-32)؛ فصل در سخن اهل اتحاد (32 - 33)؛ فصل در خلاصهٔ سخن اهل"
+                    HPOS="222"
+                    VPOS="865"
+                    WIDTH="1654"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5053894a"
+                    
+                    BASELINE="228 1014 1865 1008" 
+                    HPOS="225"
+                    VPOS="958"
+                    WIDTH="1640"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="228 1014 225 964 1862 958 1865 1008 1865 1029 228 1034"/></Shape>
+	    <String CONTENT="حلول و اتحاد (33)؛ قصل در بیان مذهب وحدت (34-35)؛ فصل در شمار مذاهب"
+                    HPOS="225"
+                    VPOS="958"
+                    WIDTH="1640"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_258a561e"
+                    
+                    BASELINE="225 1096 1183 1107 1868 1093" 
+                    HPOS="222"
+                    VPOS="1037"
+                    WIDTH="1646"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="225 1096 225 1040 1181 1052 1865 1037 1868 1093 1868 1116 1183 1131 1181 1131 222 1119"/></Shape>
+	    <String CONTENT="مختلف (35- 36)؛ فصل در حکایت پیل و مردم نابینا (36 - 38)؛ فصل در بی اعتبار بودن"
+                    HPOS="222"
+                    VPOS="1037"
+                    WIDTH="1646"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_323079e1"
+                    
+                    BASELINE="225 1189 1856 1183" 
+                    HPOS="222"
+                    VPOS="1134"
+                    WIDTH="1634"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="225 1189 222 1140 1853 1134 1856 1183 1856 1207 225 1213"/></Shape>
+	    <String CONTENT="مذاهب مختلف (38- 40)؛ فصل در مذهب مستقیم (20- 21)؛ فصل در بیان نصيحت (21"
+                    HPOS="222"
+                    VPOS="1134"
+                    WIDTH="1634"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_856632d5"
+                    
+                    BASELINE="1710 1274 1850 1268" 
+                    HPOS="1707"
+                    VPOS="1221"
+                    WIDTH="143"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1710 1274 1707 1227 1847 1221 1850 1268 1850 1286 1710 1292"/></Shape>
+	    <String CONTENT="(22"
+                    HPOS="1707"
+                    VPOS="1221"
+                    WIDTH="143"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2a2d534"
+                    
+                    BASELINE="219 1368 1906 1368" 
+                    HPOS="219"
+                    VPOS="1312"
+                    WIDTH="1687"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="219 1368 219 1312 1906 1312 1906 1368 1906 1400 219 1400"/></Shape>
+	    <String CONTENT="رسالهٔ اول در بیان وجود و آنچه تعلق به وجود دارد (45 - 104): معرفت وجود مطلق (45-"
+                    HPOS="219"
+                    VPOS="1312"
+                    WIDTH="1687"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08f41395"
+                    
+                    BASELINE="216 1455 1841 1447" 
+                    HPOS="213"
+                    VPOS="1397"
+                    WIDTH="1628"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="216 1455 213 1406 1838 1397 1841 1447 1841 1473 216 1482"/></Shape>
+	    <String CONTENT="46)؛ فصل در تعریف وجود (26- 47)؛ باب در بیان اقسام وجود (27 - 28)؛ فصل در اقسام"
+                    HPOS="213"
+                    VPOS="1397"
+                    WIDTH="1628"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad30d97d"
+                    
+                    BASELINE="219 1543 1847 1543" 
+                    HPOS="219"
+                    VPOS="1493"
+                    WIDTH="1628"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="219 1543 219 1493 1847 1493 1847 1543 1847 1569 219 1569"/></Shape>
+	    <String CONTENT="وجود (28-29)؛ فصل در اعتقاد اهل شریعت دربارۀ وجود و عدم (49)؛ فصل در اعتقاد"
+                    HPOS="219"
+                    VPOS="1493"
+                    WIDTH="1628"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2b138d5"
+                    
+                    BASELINE="216 1637 1847 1625" 
+                    HPOS="213"
+                    VPOS="1572"
+                    WIDTH="1634"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="216 1637 213 1584 1844 1572 1847 1625 1847 1651 216 1663"/></Shape>
+	    <String CONTENT="اهل حکمت دربارهٔ وجود و عدم (49 - 51)؛ فصل در اعتقاد اهل وحدت دربارهٔ وجود و"
+                    HPOS="213"
+                    VPOS="1572"
+                    WIDTH="1634"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89157806"
+                    
+                    BASELINE="216 1724 1835 1715" 
+                    HPOS="213"
+                    VPOS="1666"
+                    WIDTH="1622"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="216 1724 213 1675 1832 1666 1835 1715 1835 1739 216 1748"/></Shape>
+	    <String CONTENT="عدم (51)؛ باب در بیان صورت و ماده و جسم و شکل (51- 52)؛ فصل در بیان صورت و"
+                    HPOS="213"
+                    VPOS="1666"
+                    WIDTH="1622"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c2e1b9c"
+                    
+                    BASELINE="210 1812 1835 1803" 
+                    HPOS="207"
+                    VPOS="1751"
+                    WIDTH="1628"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="210 1812 207 1759 1832 1751 1835 1803 1835 1827 210 1835"/></Shape>
+	    <String CONTENT="جسم (52- 53)؛ فصل در بیان اقسام صورت (53- 52)؛ فصل در بیان صورت حقیقی و"
+                    HPOS="207"
+                    VPOS="1751"
+                    WIDTH="1628"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2312b4d5"
+                    
+                    BASELINE="207 1906 1832 1888" 
+                    HPOS="204"
+                    VPOS="1838"
+                    WIDTH="1628"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="207 1906 204 1856 1830 1838 1832 1888 1832 1911 207 1929"/></Shape>
+	    <String CONTENT="صورت مقداری (54- 55)؛ فصل در بیان جوهر و عرض (55)؛ فصل در بیان جوهر هیولی"
+                    HPOS="204"
+                    VPOS="1838"
+                    WIDTH="1628"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8728fdc8"
+                    
+                    BASELINE="207 1987 1832 1976" 
+                    HPOS="204"
+                    VPOS="1926"
+                    WIDTH="1628"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="207 1987 204 1938 1830 1926 1832 1976 1832 1996 207 2008"/></Shape>
+	    <String CONTENT="(55- 56)؛ فصل در بيان ذات و وجه و نفس و.. (56)؛ فصل در بيان اعتقاد عوام اهل"
+                    HPOS="204"
+                    VPOS="1926"
+                    WIDTH="1628"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26160509"
+                    
+                    BASELINE="207 2069 1824 2069" 
+                    HPOS="207"
+                    VPOS="2022"
+                    WIDTH="1617"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="207 2069 207 2022 1824 2022 1824 2069 1824 2093 207 2093"/></Shape>
+	    <String CONTENT="حکمت دربارهٔ ذات و صفات (57)؛ فصل در بیان اعتقاد خواض اهل حکمت دربارهٔ ماهیت"
+                    HPOS="207"
+                    VPOS="2022"
+                    WIDTH="1617"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01a78fe1"
+                    
+                    BASELINE="207 2166 1821 2154" 
+                    HPOS="204"
+                    VPOS="2101"
+                    WIDTH="1617"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="207 2166 204 2113 1818 2101 1821 2154 1821 2177 207 2189"/></Shape>
+	    <String CONTENT="(57-58)؛ فصل در سخن اهل حکمت دربارهٔ وجود باری، تعالی و تقدس (58 - 59)؛ فصل"
+                    HPOS="204"
+                    VPOS="2101"
+                    WIDTH="1617"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1fe4ddd"
+                    
+                    BASELINE="204 2248 1824 2239" 
+                    HPOS="201"
+                    VPOS="2192"
+                    WIDTH="1623"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="204 2248 201 2201 1821 2192 1824 2239 1824 2268 204 2277"/></Shape>
+	    <String CONTENT="در سخن اهل وحدت دربارهٔ ذات و وجه و نفس و..(59- 64)؛ فصل در سخن اهل شریعت"
+                    HPOS="201"
+                    VPOS="2192"
+                    WIDTH="1623"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85cc6720"
+                    
+                    BASELINE="201 2338 1818 2338" 
+                    HPOS="201"
+                    VPOS="2288"
+                    WIDTH="1617"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="201 2338 201 2288 1818 2288 1818 2338 1818 2367 201 2367"/></Shape>
+	    <String CONTENT="در بیان آن که عالم را به چه طریق پیدا آوردو.. (64- 68)؛ تصویر اقلیمهای هفتگانه (69):"
+                    HPOS="201"
+                    VPOS="2288"
+                    WIDTH="1617"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9588c161"
+                    
+                    BASELINE="198 2429 1812 2420" 
+                    HPOS="195"
+                    VPOS="2370"
+                    WIDTH="1617"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="198 2429 195 2379 1809 2370 1812 2420 1812 2446 198 2455"/></Shape>
+	    <String CONTENT="باب در سخن اهل حکمت در بیان عالم که به چه طریق پیدا آمدو.. (70- 72)؛ فصل در"
+                    HPOS="195"
+                    VPOS="2370"
+                    WIDTH="1617"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0465357b"
+                    
+                    BASELINE="201 2522 1815 2508" 
+                    HPOS="198"
+                    VPOS="2458"
+                    WIDTH="1617"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="201 2522 198 2473 1812 2458 1815 2508 1815 2528 201 2543"/></Shape>
+	    <String CONTENT="سخن اهل حكمت دربارهٔ فلک (72)؛ فصل در سخن اهل حكمت در بيان عقل و نفس و"
+                    HPOS="198"
+                    VPOS="2458"
+                    WIDTH="1617"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30ed46cd"
+                    
+                    BASELINE="198 2601 1806 2595" 
+                    HPOS="195"
+                    VPOS="2546"
+                    WIDTH="1611"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="198 2601 195 2552 1803 2546 1806 2595 1806 2619 198 2625"/></Shape>
+	    <String CONTENT="صورت (73)؛ فصل در بیان مخلوق اول (73- 74)؛ فصل در بیان احادیث اوایل (76-72)"
+                    HPOS="195"
+                    VPOS="2546"
+                    WIDTH="1611"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdeeb6ef"
+                    
+                    BASELINE="192 2785 1812 2777" 
+                    HPOS="190"
+                    VPOS="2715"
+                    WIDTH="1622"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="192 2785 190 2724 1809 2715 1812 2777 1812 2794 192 2803"/></Shape>
+	    <String CONTENT="سحن اهل تناسخ در بیان مخلوق اول (78)؛ تصویر ترتیب عالم (79)؛ باب در سخن اهل"
+                    HPOS="190"
+                    VPOS="2715"
+                    WIDTH="1622"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a500ed1f"
+                    
+                    BASELINE="195 2692 1812 2686" 
+                    HPOS="192"
+                    VPOS="2625"
+                    WIDTH="1620"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="195 2692 192 2631 1809 2625 1812 2686 1812 2709 195 2715"/></Shape>
+	    <String CONTENT="باب در سخن اهل تناسخ در بیان آن که عالم به چه طریق پیدا آمدو... (76- 77)؛ فصل در"
+                    HPOS="192"
+                    VPOS="2625"
+                    WIDTH="1620"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9eed3ae6"
+                    
+                    BASELINE="192 2870 1812 2861" 
+                    HPOS="190"
+                    VPOS="2806"
+                    WIDTH="1622"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="192 2870 190 2815 1809 2806 1812 2861 1812 2882 192 2891"/></Shape>
+	    <String CONTENT="وحدت در بیان آن که عالم به چه طریق پیدا آمدو.. (80- 81)؛ فصل در بیان اصحاب نور"
+                    HPOS="190"
+                    VPOS="2806"
+                    WIDTH="1622"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d84f102e"
+                    
+                    BASELINE="190 2955 1803 2955" 
+                    HPOS="190"
+                    VPOS="2897"
+                    WIDTH="1613"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="190 2955 190 2897 1803 2897 1803 2955 1803 2987 190 2987"/></Shape>
+	    <String CONTENT="که میگویند هرچه هست بیکبار و جود خدای است (82)؛ فصل در بیان وجود (83-86)؛"
+                    HPOS="190"
+                    VPOS="2897"
+                    WIDTH="1613"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

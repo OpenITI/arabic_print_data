@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Ibn_al_Moqafa_al_adab_al_saghir_wa_adab_al_kabir.pdf_page_14.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT886" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT887" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT888" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT889" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT38" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1773"
+          HEIGHT="2661"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1773"
+                  HEIGHT="2661">
+        
+        <TextBlock HPOS="1446"
+                   VPOS="434"
+                   WIDTH="61"
+                   HEIGHT="7"
+                   ID="eSc_textblock_5cefd068"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1488 434 1507 441 1446 441"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2da5fda7"
+                    
+                    BASELINE="687 583 865 569 1060 569" 
+                    HPOS="681"
+                    VPOS="478"
+                    WIDTH="379"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="687 583 681 494 858 481 865 478 1060 478 1060 569 1060 587 865 587 687 598"/></Shape>
+	    <String CONTENT="لأدب الصغير"
+                    HPOS="681"
+                    VPOS="478"
+                    WIDTH="379"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afde3e6d"
+                    
+                    BASELINE="1196 756 1506 756" 
+                    HPOS="1196"
+                    VPOS="705"
+                    WIDTH="310"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1196 756 1196 705 1506 705 1506 756 1506 778 1196 778"/></Shape>
+	    <String CONTENT="قال ابن المقفع:"
+                    HPOS="1196"
+                    VPOS="705"
+                    WIDTH="310"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7fe7091f"
+                    
+                    BASELINE="142 869 1504 864" 
+                    HPOS="139"
+                    VPOS="804"
+                    WIDTH="1365"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="142 869 139 809 1502 804 1504 864 1504 884 142 889"/></Shape>
+	    <String CONTENT="أما بعد، فإن لكل مخلوق حاجة. ولكل حاجة غاية، ولكل غاية سبيلاً(1)."
+                    HPOS="139"
+                    VPOS="804"
+                    WIDTH="1365"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ace4ef7"
+                    
+                    BASELINE="128 960 1613 966" 
+                    HPOS="126"
+                    VPOS="900"
+                    WIDTH="1487"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="128 960 128 900 1613 906 1613 966 1611 980 126 973"/></Shape>
+	    <String CONTENT="واله وقت(2) للأمور أقدارها، وهيأ إلى الغايات سبلها، وسبب(3) الحاجات"
+                    HPOS="126"
+                    VPOS="900"
+                    WIDTH="1487"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c5cb365"
+                    
+                    BASELINE="1457 1053 1615 1057" 
+                    HPOS="1455"
+                    VPOS="997"
+                    WIDTH="160"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1457 1053 1457 997 1615 1002 1615 1057 1613 1068 1455 1064"/></Shape>
+	    <String CONTENT="ببلاغها."
+                    HPOS="1455"
+                    VPOS="997"
+                    WIDTH="160"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4b66cd2"
+                    
+                    BASELINE="146 1159 368 1177 701 1166 1497 1166" 
+                    HPOS="144"
+                    VPOS="1097"
+                    WIDTH="1353"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="146 1159 150 1097 368 1115 698 1104 701 1104 1497 1104 1497 1166 1497 1186 701 1186 368 1197 366 1197 144 1179"/></Shape>
+	    <String CONTENT="فغاية الناس وحاجاتهم صلاح المعاش (4) والمعاد(5)، والسبيل إلى دركها(6)"
+                    HPOS="144"
+                    VPOS="1097"
+                    WIDTH="1353"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1b15872"
+                    
+                    BASELINE="135 1261 1617 1257" 
+                    HPOS="133"
+                    VPOS="1204"
+                    WIDTH="1484"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="135 1261 133 1208 1615 1204 1617 1257 1617 1277 135 1281"/></Shape>
+	    <String CONTENT="العقل الصحيح. وأمارة(7) صحة العقل اختيار الأمور بالبصر(8)، وتنفيذ البصر"
+                    HPOS="133"
+                    VPOS="1204"
+                    WIDTH="1484"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1fa31bc"
+                    
+                    BASELINE="1457 1350 1597 1354" 
+                    HPOS="1455"
+                    VPOS="1288"
+                    WIDTH="142"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1457 1350 1457 1288 1597 1292 1597 1354 1595 1379 1455 1374"/></Shape>
+	    <String CONTENT="العزم."
+                    HPOS="1455"
+                    VPOS="1288"
+                    WIDTH="142"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="505"
+                   VPOS="319"
+                   WIDTH="762"
+                   HEIGHT="122"
+                   ID="eSc_textblock_993bc2ea"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="505 441 514 345 734 354 896 319 1249 328 1267 423 1163 441 513 441"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8f9a1e00"
+                    
+                    BASELINE="539 403 1220 403" 
+                    HPOS="539"
+                    VPOS="334"
+                    WIDTH="681"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="539 403 539 334 1220 334 1220 403 1220 416 539 416"/></Shape>
+	    <String CONTENT="الله الکمن الجو"
+                    HPOS="539"
+                    VPOS="334"
+                    WIDTH="681"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="124"
+                   VPOS="1543"
+                   WIDTH="1546"
+                   HEIGHT="894"
+                   ID="eSc_textblock_6fe36e49"
+                   TAGREFS="BT886">
+          <Shape><Polygon POINTS="1480 1543 1666 1569 1657 1807 1670 1748 1657 1853 1648 1895 1613 1898 1648 1907 1648 1966 1622 1969 1648 2037 1622 2046 1657 2075 1622 2102 1657 2119 1630 2173 1648 2339 1604 2350 1622 2392 1464 2437 701 2410 150 2348 124 1596 488 1543"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8490debd"
+                    
+                    BASELINE="1553 1625 1599 1625" 
+                    HPOS="1553"
+                    VPOS="1583"
+                    WIDTH="46"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1553 1625 1553 1583 1599 1583 1599 1625 1599 1636 1553 1636"/></Shape>
+	    <String CONTENT="(1"
+                    HPOS="1553"
+                    VPOS="1583"
+                    WIDTH="46"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44a45420"
+                    
+                    BASELINE="133 1623 1535 1623" 
+                    HPOS="133"
+                    VPOS="1578"
+                    WIDTH="1402"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="133 1623 133 1578 1535 1578 1535 1623 1535 1636 133 1636"/></Shape>
+	    <String CONTENT=" السبيل: جمع سبل: الطريق أو ما وضح منها والسبيل هنا: الحجة التى تعتل بها، والذريعة التي"
+                    HPOS="133"
+                    VPOS="1578"
+                    WIDTH="1402"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff56d7fc"
+                    
+                    BASELINE="1107 1685 1513 1694" 
+                    HPOS="1105"
+                    VPOS="1645"
+                    WIDTH="408"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1107 1685 1107 1645 1513 1654 1513 1694 1511 1707 1105 1698"/></Shape>
+	    <String CONTENT="يتوصل بها إلى غاية مطلوبة."
+                    HPOS="1105"
+                    VPOS="1645"
+                    WIDTH="408"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59fa692c"
+                    
+                    BASELINE="752 1756 1520 1760" 
+                    HPOS="750"
+                    VPOS="1711"
+                    WIDTH="770"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="752 1756 752 1711 1520 1716 1520 1760 1517 1773 750 1769"/></Shape>
+	    <String CONTENT="وقت: الوقت المضروب للفعل إذا بين له وقتأ محدداً."
+                    HPOS="750"
+                    VPOS="1711"
+                    WIDTH="770"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6339c530"
+                    
+                    BASELINE="275 1827 1520 1831" 
+                    HPOS="272"
+                    VPOS="1787"
+                    WIDTH="1248"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="275 1827 275 1787 1520 1791 1520 1831 1517 1844 272 1840"/></Shape>
+	    <String CONTENT=" سبب: أحيا بالوصل والمودة صلة وعلاقة الحاجة لنحصل ما يحتاج إليه من أمر المعيشة."
+                    HPOS="272"
+                    VPOS="1787"
+                    WIDTH="1248"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89c33252"
+                    
+                    BASELINE="133 1909 592 1898 1526 1900" 
+                    HPOS="130"
+                    VPOS="1847"
+                    WIDTH="1396"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="133 1909 130 1858 590 1847 592 1847 1526 1849 1526 1900 1524 1915 592 1913 133 1924"/></Shape>
+	    <String CONTENT="المعاش والمعيش: يصلح أن يكون مصدراً وأن يكون اسماً وهو ما يتسبب به أي ما يتوصل به إلى"
+                    HPOS="130"
+                    VPOS="1847"
+                    WIDTH="1396"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7ef1df9"
+                    
+                    BASELINE="1133 1966 1513 1966" 
+                    HPOS="1133"
+                    VPOS="1931"
+                    WIDTH="380"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1133 1966 1133 1931 1513 1931 1513 1966 1513 1984 1133 1984"/></Shape>
+	    <String CONTENT="المعيشة في الحياة اليومية."
+                    HPOS="1133"
+                    VPOS="1931"
+                    WIDTH="380"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18d1f0c2"
+                    
+                    BASELINE="137 2042 1526 2037" 
+                    HPOS="135"
+                    VPOS="1993"
+                    WIDTH="1391"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="137 2042 135 1997 1524 1993 1526 2037 1526 2053 137 2057"/></Shape>
+	    <String CONTENT="المؤعد: موضع التواغعد وهو المعاد. ومنه قوله عز وجل: (وفي السماء رزقكم وما توعذون*."
+                    HPOS="135"
+                    VPOS="1993"
+                    WIDTH="1391"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_677832ab"
+                    
+                    BASELINE="605 2106 1517 2099" 
+                    HPOS="603"
+                    VPOS="2060"
+                    WIDTH="914"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="605 2106 603 2066 1515 2060 1517 2099 1517 2115 605 2122"/></Shape>
+	    <String CONTENT="قال : وما توعدون : الجنة واليوم الموعود والمعاد: إنه يوم القيامة."
+                    HPOS="603"
+                    VPOS="2060"
+                    WIDTH="914"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ddab1b7"
+                    
+                    BASELINE="1566 2175 1579 2175" 
+                    HPOS="1566"
+                    VPOS="2142"
+                    WIDTH="13"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1566 2175 1566 2142 1579 2142 1579 2175 1579 2193 1566 2193"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1566"
+                    VPOS="2142"
+                    WIDTH="13"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b852770"
+                    
+                    BASELINE="605 2179 1526 2173" 
+                    HPOS="603"
+                    VPOS="2126"
+                    WIDTH="923"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="605 2179 603 2133 1524 2126 1526 2173 1526 2184 605 2190"/></Shape>
+	    <String CONTENT="الدرك: اللحاق، وقد أدركه، ورجل دراك: كثير الإدراك والاتباع."
+                    HPOS="603"
+                    VPOS="2126"
+                    WIDTH="923"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f66f81b"
+                    
+                    BASELINE="1542 2244 1597 2244" 
+                    HPOS="1542"
+                    VPOS="2208"
+                    WIDTH="55"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1542 2244 1542 2208 1597 2208 1597 2244 1597 2259 1542 2259"/></Shape>
+	    <String CONTENT="(7"
+                    HPOS="1542"
+                    VPOS="2208"
+                    WIDTH="55"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8259659e"
+                    
+                    BASELINE="672 2244 1533 2244" 
+                    HPOS="672"
+                    VPOS="2204"
+                    WIDTH="861"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="672 2244 672 2204 1533 2204 1533 2244 1533 2259 672 2259"/></Shape>
+	    <String CONTENT=" الأمارة والأمار بفتح الميم : الوقت والعلامة وجمعها أمارات."
+                    HPOS="672"
+                    VPOS="2204"
+                    WIDTH="861"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a98dc10e"
+                    
+                    BASELINE="130 2321 1520 2312" 
+                    HPOS="128"
+                    VPOS="2266"
+                    WIDTH="1392"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="130 2321 128 2275 1517 2266 1520 2312 1520 2328 130 2337"/></Shape>
+	    <String CONTENT="البصر: العلم ومنه قوله تعالى : {بصرت بما لم يبصروا به}. من التبصر والتأمل والتعرف بالأمور"
+                    HPOS="128"
+                    VPOS="2266"
+                    WIDTH="1392"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f54e1aa8"
+                    
+                    BASELINE="1264 2386 1506 2386" 
+                    HPOS="1264"
+                    VPOS="2346"
+                    WIDTH="242"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1264 2386 1264 2346 1506 2346 1506 2386 1506 2401 1264 2401"/></Shape>
+	    <String CONTENT="والتدبير بعواقبها."
+                    HPOS="1264"
+                    VPOS="2346"
+                    WIDTH="242"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="869"
+                   VPOS="2492"
+                   WIDTH="34"
+                   HEIGHT="24"
+                   ID="eSc_textblock_41efe2c1"
+                   TAGREFS="BT888">
+          <Shape><Polygon POINTS="894 2492 903 2507 878 2516 869 2492"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="115"
+                   VPOS="648"
+                   WIDTH="1560"
+                   HEIGHT="795"
+                   ID="eSc_textblock_d59fa550"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1675 807 1657 1408 1249 1443 150 1425 115 1275 124 648 1653 648"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="669"
+                   VPOS="485"
+                   WIDTH="448"
+                   HEIGHT="141"
+                   ID="eSc_textblock_6344eb6b"
+                   TAGREFS="BT889">
+          <Shape><Polygon POINTS="1117 485 1117 626 669 626 669 485"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

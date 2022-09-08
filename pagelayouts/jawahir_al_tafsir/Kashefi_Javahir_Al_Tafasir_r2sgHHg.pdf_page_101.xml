@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Kashefi_Javahir_Al_Tafasir_r2sgHHg.pdf_page_101.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1239" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1240" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1241" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1242" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1243" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="242"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="145"
+                   VPOS="437"
+                   WIDTH="1988"
+                   HEIGHT="2729"
+                   ID="eSc_textblock_66e958f3"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2133 3166 2133 437 145 437 145 3166"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1605"
+                   VPOS="298"
+                   WIDTH="238"
+                   HEIGHT="57"
+                   ID="eSc_textblock_4c416419"
+                   TAGREFS="BT1240">
+          <Shape><Polygon POINTS="1605 298 1605 355 1843 355 1843 298"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1918"
+                   VPOS="280"
+                   WIDTH="105"
+                   HEIGHT="75"
+                   ID="eSc_textblock_f5b0efb8"
+                   TAGREFS="BT1243">
+          <Shape><Polygon POINTS="1918 280 1918 355 2023 355 2023 280"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_109fc197"
+                    
+                    BASELINE="1654 342 2011 330" 
+                    HPOS="1651"
+                    VPOS="271"
+                    WIDTH="360"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1654 342 1651 283 2008 271 2011 330 2011 350 1654 362"/></Shape>
+	    <String CONTENT="و10 جواهر التفم"
+                    HPOS="1651"
+                    VPOS="271"
+                    WIDTH="360"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c34aabe2"
+                    
+                    BASELINE="184 488 800 514 2031 508" 
+                    HPOS="181"
+                    VPOS="412"
+                    WIDTH="1850"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="184 488 187 412 800 438 2028 432 2031 508 2031 534 800 540 798 540 181 514"/></Shape>
+	    <String CONTENT="میپردازیم به برخی از ضرب المثلهای عربی اشاره میشود. برخی از مصرعها و ابیات نیز به"
+                    HPOS="181"
+                    VPOS="412"
+                    WIDTH="1850"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4d52149"
+                    
+                    BASELINE="1344 610 2025 602" 
+                    HPOS="1341"
+                    VPOS="540"
+                    WIDTH="684"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1344 610 1341 549 2022 540 2025 602 2025 631 1344 640"/></Shape>
+	    <String CONTENT="عنوان مثل سائر به کار رفته است."
+                    HPOS="1341"
+                    VPOS="540"
+                    WIDTH="684"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1c73187"
+                    
+                    BASELINE="169 698 722 719 1964 713" 
+                    HPOS="166"
+                    VPOS="628"
+                    WIDTH="1798"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="169 698 169 628 722 648 1961 643 1964 713 1964 742 722 748 719 748 166 727"/></Shape>
+	    <String CONTENT="5-ریشه یابی لغات: در مورد تک تک کلمات سورهٔ حمد ریشه یابی معنایی آمده است. اما"
+                    HPOS="166"
+                    VPOS="628"
+                    WIDTH="1798"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0aa80c37"
+                    
+                    BASELINE="175 821 2037 830" 
+                    HPOS="172"
+                    VPOS="762"
+                    WIDTH="1865"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="175 821 175 762 2037 771 2037 830 2034 856 172 847"/></Shape>
+	    <String CONTENT="این ریشه یابی و فقه اللغه شامل بحتهای صرفا لغوی نمی شود بلکه همراه بانکات ادبی و بانثر"
+                    HPOS="172"
+                    VPOS="762"
+                    WIDTH="1865"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7659c155"
+                    
+                    BASELINE="1745 935 2034 929" 
+                    HPOS="1742"
+                    VPOS="874"
+                    WIDTH="292"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1745 935 1742 879 2031 874 2034 929 2034 964 1745 970"/></Shape>
+	    <String CONTENT="ادیی میباشد"
+                    HPOS="1742"
+                    VPOS="874"
+                    WIDTH="292"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87dac16c"
+                    
+                    BASELINE="266 1043 1347 1052 1958 1037" 
+                    HPOS="263"
+                    VPOS="964"
+                    WIDTH="1695"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="266 1043 266 970 1344 979 1955 964 1958 1037 1958 1064 1347 1078 1344 1078 263 1069"/></Shape>
+	    <String CONTENT="6_ تاثیر پذیری از سبک شیخ انصاری و میبدی: پیش از این به این مسأله پرداختیم"
+                    HPOS="263"
+                    VPOS="964"
+                    WIDTH="1695"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_791115db"
+                    
+                    BASELINE="172 1143 1145 1157 1958 1143" 
+                    HPOS="169"
+                    VPOS="1081"
+                    WIDTH="1789"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="172 1143 172 1081 1143 1096 1955 1081 1958 1143 1958 1172 1145 1186 1143 1186 169 1172"/></Shape>
+	    <String CONTENT="7- تقسیم بندی دقیق و تنظیم مطالب: کم بودهاند از عالمان گذشته که به تنظیم مطالب"
+                    HPOS="169"
+                    VPOS="1081"
+                    WIDTH="1789"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1fab0253"
+                    
+                    BASELINE="169 1262 2046 1262" 
+                    HPOS="169"
+                    VPOS="1207"
+                    WIDTH="1877"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="169 1262 169 1207 2046 1207 2046 1262 2046 1289 169 1289"/></Shape>
+	    <String CONTENT="نوشتهٔ خود بیردازند؛ و در میان آنها که چنین کردهاند کم بودهاند کسانی که اهمیت کار خود را"
+                    HPOS="169"
+                    VPOS="1207"
+                    WIDTH="1877"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a34ecd1f"
+                    
+                    BASELINE="166 1362 578 1379 2040 1365" 
+                    HPOS="163"
+                    VPOS="1297"
+                    WIDTH="1877"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="166 1362 166 1297 578 1315 2037 1300 2040 1365 2040 1397 578 1411 575 1411 163 1394"/></Shape>
+	    <String CONTENT="بدانند و این فهرست را در ابتدای کتاب خود بیاورند. در جواهر التفسیر این امر رعایت شده"
+                    HPOS="163"
+                    VPOS="1297"
+                    WIDTH="1877"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd7e86c5"
+                    
+                    BASELINE="1906 1476 2043 1467" 
+                    HPOS="1903"
+                    VPOS="1423"
+                    WIDTH="140"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1906 1476 1903 1432 2040 1423 2043 1467 2043 1502 1906 1511"/></Shape>
+	    <String CONTENT="است"
+                    HPOS="1903"
+                    VPOS="1423"
+                    WIDTH="140"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1d01d79"
+                    
+                    BASELINE="163 1590 1973 1590" 
+                    HPOS="163"
+                    VPOS="1528"
+                    WIDTH="1810"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="163 1590 163 1528 1973 1528 1973 1590 1973 1613 163 1613"/></Shape>
+	    <String CONTENT=" وجود دو سبک مختلف تفسیری: قبلاً گفتیم که کاشفی می خواسته تفسیری جامع و"
+                    HPOS="163"
+                    VPOS="1528"
+                    WIDTH="1810"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0768357"
+                    
+                    BASELINE="163 1692 2049 1701" 
+                    HPOS="160"
+                    VPOS="1634"
+                    WIDTH="1889"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="163 1692 163 1634 2049 1642 2049 1701 2046 1727 160 1718"/></Shape>
+	    <String CONTENT="بزرگ بنویسد. در جواهر التفسیر بخش سورهٔ حمد تا حدی به این هدف نزدیک میشود، اما"
+                    HPOS="160"
+                    VPOS="1634"
+                    WIDTH="1889"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19b09201"
+                    
+                    BASELINE="163 1809 2043 1809" 
+                    HPOS="163"
+                    VPOS="1751"
+                    WIDTH="1880"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="163 1809 163 1751 2043 1751 2043 1809 2043 1835 163 1835"/></Shape>
+	    <String CONTENT="پس از اتمام سورهٔ حمد چون احساس میکند زمان کافی برای اجرای این طرح ندارد از"
+                    HPOS="163"
+                    VPOS="1751"
+                    WIDTH="1880"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c2d24f0"
+                    
+                    BASELINE="163 1920 2043 1914" 
+                    HPOS="160"
+                    VPOS="1853"
+                    WIDTH="1883"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="163 1920 160 1859 2040 1853 2043 1914 2043 1938 163 1944"/></Shape>
+	    <String CONTENT="تفصیل در مطالب، و از آرایه های ادبی در بیان میکاهد و در واقع سبکی دیگردر تفیر"
+                    HPOS="160"
+                    VPOS="1853"
+                    WIDTH="1883"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c0f5433"
+                    
+                    BASELINE="163 2017 2052 2031" 
+                    HPOS="160"
+                    VPOS="1955"
+                    WIDTH="1892"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="163 2017 163 1955 2052 1970 2052 2031 2049 2058 160 2043"/></Shape>
+	    <String CONTENT="نویسی ارانٔه میشود که چون خود او نیزدرمییابد با تفسیر سورهٔ حمد همسانی ندارد، از آیهٔ"
+                    HPOS="160"
+                    VPOS="1955"
+                    WIDTH="1892"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_407e504c"
+                    
+                    BASELINE="160 2142 2043 2125" 
+                    HPOS="157"
+                    VPOS="2066"
+                    WIDTH="1886"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="160 2142 157 2084 2040 2066 2043 2125 2043 2151 160 2169"/></Shape>
+	    <String CONTENT="82 سورهٔ نساء آن را رها میکند و به نوشتن تفسیر موجز مواهب علیه روی میآورد. پس"
+                    HPOS="157"
+                    VPOS="2066"
+                    WIDTH="1886"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bde43a6f"
+                    
+                    BASELINE="163 2239 789 2253 2043 2239" 
+                    HPOS="160"
+                    VPOS="2174"
+                    WIDTH="1883"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="163 2239 163 2174 789 2189 2040 2174 2043 2239 2043 2265 789 2280 786 2280 160 2265"/></Shape>
+	    <String CONTENT="تفسیر سورهٔ حمد تفسیری مستقل و کامل شمرده میشود که و یژگی های خاص خود را دارد."
+                    HPOS="160"
+                    VPOS="2174"
+                    WIDTH="1883"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77abe57a"
+                    
+                    BASELINE="157 2362 1967 2353" 
+                    HPOS="154"
+                    VPOS="2288"
+                    WIDTH="1813"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="157 2362 154 2297 1964 2288 1967 2353 1967 2373 157 2382"/></Shape>
+	    <String CONTENT="9_ وجود بیان عرفانی در تمام بخشهای تفسیر: این مطلب را در مقایسه با بزرگترین"
+                    HPOS="154"
+                    VPOS="2288"
+                    WIDTH="1813"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd129b58"
+                    
+                    BASELINE="157 2464 2040 2464" 
+                    HPOS="157"
+                    VPOS="2408"
+                    WIDTH="1883"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="157 2464 157 2408 2040 2408 2040 2464 2040 2493 157 2493"/></Shape>
+	    <String CONTENT=" تفسیر عرفانی فارسی که پیش از جواهر التفسیر نوشته شده، بهتر میتوان فهمید. میبدی تفسیر"
+                    HPOS="157"
+                    VPOS="2408"
+                    WIDTH="1883"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa82a252"
+                    
+                    BASELINE="157 2566 2043 2572" 
+                    HPOS="154"
+                    VPOS="2508"
+                    WIDTH="1889"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="157 2566 157 2508 2043 2514 2043 2572 2040 2604 154 2598"/></Shape>
+	    <String CONTENT="خود را به سه بخش تقسیم میکند. یک بار به ترجمه میپردازد، بار دیگر به و جوه تفسیر و"
+                    HPOS="154"
+                    VPOS="2508"
+                    WIDTH="1889"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_821e5169"
+                    
+                    BASELINE="157 2677 2040 2683" 
+                    HPOS="154"
+                    VPOS="2622"
+                    WIDTH="1886"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="157 2677 157 2622 2040 2628 2040 2683 2037 2709 154 2704"/></Shape>
+	    <String CONTENT="قرانت و ازاین قبیل، و در اصل مرحلهٔ سوم است که تفسیر عرفانی را آغاز میکند. اما کاشفی"
+                    HPOS="154"
+                    VPOS="2622"
+                    WIDTH="1886"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62fc9146"
+                    
+                    BASELINE="154 2791 2043 2791" 
+                    HPOS="154"
+                    VPOS="2739"
+                    WIDTH="1889"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="154 2791 154 2739 2043 2739 2043 2791 2043 2821 154 2821"/></Shape>
+	    <String CONTENT="ضمن آنکه در بعضی از بخشهای کتاب به طور خاص به نکات عرفانی پرداخته، در باقی"
+                    HPOS="154"
+                    VPOS="2739"
+                    WIDTH="1889"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9bef48e"
+                    
+                    BASELINE="154 2902 2043 2897" 
+                    HPOS="152"
+                    VPOS="2838"
+                    WIDTH="1891"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="154 2902 152 2844 2040 2838 2043 2897 2043 2923 154 2929"/></Shape>
+	    <String CONTENT="بخشها نیر از چاشنی عرفان و ادب استفاده کرده است. از آن جاکه بعد از کاشفی نیز کسی این"
+                    HPOS="152"
+                    VPOS="2838"
+                    WIDTH="1891"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea6fbf6a"
+                    
+                    BASELINE="160 3005 1014 3016 2040 3002" 
+                    HPOS="157"
+                    VPOS="2940"
+                    WIDTH="1883"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="160 3005 160 2943 1011 2955 2037 2940 2040 3002 2040 3037 1014 3051 1011 3051 157 3040"/></Shape>
+	    <String CONTENT="گونه عرفان و ادب را با علم تفسیر نیامیخته، شاید بتوان ادعاکرد که جواهر التفسیر (تفسیر سورهٔ"
+                    HPOS="157"
+                    VPOS="2940"
+                    WIDTH="1883"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_321591f3"
+                    
+                    BASELINE="707 3127 2034 3116" 
+                    HPOS="704"
+                    VPOS="3057"
+                    WIDTH="1330"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="707 3127 704 3069 2031 3057 2034 3116 2034 3165 707 3177"/></Shape>
+	    <String CONTENT="حمد) اولین وآخرین تفیر کاملاادیی - عرفانی فارسی میباشد"
+                    HPOS="704"
+                    VPOS="3057"
+                    WIDTH="1330"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

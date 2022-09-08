@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ibn_rushd_talkhis_kitab_jadl.pdf_page_27.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1225" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1226" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1227" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1228" LABEL="Head" DESCRIPTION="block type Head"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2965"
+          HEIGHT="3995"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2965"
+                  HEIGHT="3995">
+        
+        <TextBlock HPOS="426"
+                   VPOS="2285"
+                   WIDTH="1641"
+                   HEIGHT="1006"
+                   ID="eSc_textblock_ad373ad5"
+                   TAGREFS="BT1225">
+          <Shape><Polygon POINTS="2042 3291 2067 2285 426 2290 431 3291"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="426"
+                   VPOS="585"
+                   WIDTH="1720"
+                   HEIGHT="1705"
+                   ID="eSc_textblock_04da6bd1"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2146 585 2146 2290 426 2290 426 585"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1105"
+                   VPOS="451"
+                   WIDTH="367"
+                   HEIGHT="99"
+                   ID="eSc_textblock_c91bc66c"
+                   TAGREFS="BT1226">
+          <Shape><Polygon POINTS="1105 451 1105 550 1472 550 1472 451"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_a3e4c146"
+                    
+                    BASELINE="466 695 1985 715" 
+                    HPOS="463"
+                    VPOS="629"
+                    WIDTH="1522"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="466 695 466 629 1985 649 1985 715 1982 742 463 722"/></Shape>
+	    <String CONTENT="مطلوب من هذه الأربعة، لأنه إذا لم تنحصر المطالب، لم تنحصر المواضع، مع أن"
+                    HPOS="463"
+                    VPOS="629"
+                    WIDTH="1522"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c18dc73"
+                    
+                    BASELINE="463 818 1982 838" 
+                    HPOS="459"
+                    VPOS="752"
+                    WIDTH="1523"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="463 818 463 752 1982 772 1982 838 1978 865 459 845"/></Shape>
+	    <String CONTENT="فيه تعريفًا أيضا لأبسط ما تتركب منه الأقاويل الحدلية . فينبغى أن يرسم واحدًا"
+                    HPOS="459"
+                    VPOS="752"
+                    WIDTH="1523"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb0cbe2d"
+                    
+                    BASELINE="463 955 1982 962" 
+                    HPOS="459"
+                    VPOS="888"
+                    WIDTH="1523"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="463 955 463 888 1982 895 1982 962 1978 985 459 978"/></Shape>
+	    <String CONTENT="واحدا من هذه الأربعة بحسب الرسم الذى يليق به فى هذه الصناعة، وهى الرسوم"
+                    HPOS="459"
+                    VPOS="888"
+                    WIDTH="1523"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1366af7"
+                    
+                    BASELINE="459 1071 1978 1085" 
+                    HPOS="456"
+                    VPOS="1012"
+                    WIDTH="1522"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="459 1071 459 1012 1978 1025 1978 1085 1975 1111 456 1098"/></Shape>
+	    <String CONTENT="المشهورة، والحدود الذائعة  ثم من بعد ذلك نخبر أن سائر المطالب منحصرة"
+                    HPOS="456"
+                    VPOS="1012"
+                    WIDTH="1522"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d4f539e"
+                    
+                    BASELINE="1092 1205 1975 1218" 
+                    HPOS="1089"
+                    VPOS="1138"
+                    WIDTH="886"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1092 1205 1092 1138 1975 1151 1975 1218 1972 1238 1089 1225"/></Shape>
+	    <String CONTENT="فى هذه الأربعة، وداخلة فى أبوابها، فنقول :"
+                    HPOS="1089"
+                    VPOS="1138"
+                    WIDTH="886"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_082eb18a"
+                    
+                    BASELINE="463 1338 1885 1354" 
+                    HPOS="459"
+                    VPOS="1275"
+                    WIDTH="1426"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="463 1338 463 1275 1885 1291 1885 1354 1882 1381 459 1364"/></Shape>
+	    <String CONTENT="إن الحد هو القول الدال على ماهية الشيء التى بهـا وجوده الذى يخصه *"
+                    HPOS="459"
+                    VPOS="1275"
+                    WIDTH="1426"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76e5215a"
+                    
+                    BASELINE="463 1468 1972 1478" 
+                    HPOS="459"
+                    VPOS="1404"
+                    WIDTH="1513"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="463 1468 463 1404 1972 1414 1972 1478 1968 1504 459 1494"/></Shape>
+	    <String CONTENT="والحد إنما يوجد معرفا فى أحد موضعين : إما معرفا لما يدل عليه اسم مفرد،"
+                    HPOS="459"
+                    VPOS="1404"
+                    WIDTH="1513"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae3a0541"
+                    
+                    BASELINE="449 1594 1952 1604" 
+                    HPOS="446"
+                    VPOS="1531"
+                    WIDTH="1506"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="449 1594 449 1531 1952 1541 1952 1604 1948 1627 446 1617"/></Shape>
+	    <String CONTENT="كقولنا : هل الانسان حيوان ناطق؟ واما معرفا لما يدل عليه قول . وهذا"
+                    HPOS="446"
+                    VPOS="1531"
+                    WIDTH="1506"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47e1f3e6"
+                    
+                    BASELINE="449 1727 1965 1734" 
+                    HPOS="446"
+                    VPOS="1661"
+                    WIDTH="1519"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="449 1727 449 1661 1965 1667 1965 1734 1962 1754 446 1747"/></Shape>
+	    <String CONTENT="يوجد على ثلاثة أصناف : إما معرفا لما يدل عليه قول يجرى مجرى الاسم، مثل"
+                    HPOS="446"
+                    VPOS="1661"
+                    WIDTH="1519"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e910002"
+                    
+                    BASELINE="453 1851 1968 1857" 
+                    HPOS="449"
+                    VPOS="1784"
+                    WIDTH="1519"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="453 1851 453 1784 1968 1791 1968 1857 1965 1877 449 1870"/></Shape>
+	    <String CONTENT="قولنا : هل كسوف القمر هو اظلامه لوقوعه فى مخروط ظل الأرض؟ وإما"
+                    HPOS="449"
+                    VPOS="1784"
+                    WIDTH="1519"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2b8b375"
+                    
+                    BASELINE="456 1977 1962 1984" 
+                    HPOS="453"
+                    VPOS="1914"
+                    WIDTH="1509"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="456 1977 456 1914 1962 1920 1962 1984 1958 2010 453 2004"/></Shape>
+	    <String CONTENT="معرفا لما يدل عليه برسم، مثل قولنا : هل القابل للعلم هو الحيوان الناطق ؟"
+                    HPOS="453"
+                    VPOS="1914"
+                    WIDTH="1509"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ee33c2b"
+                    
+                    BASELINE="449 2110 1958 2110" 
+                    HPOS="449"
+                    VPOS="2047"
+                    WIDTH="1509"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="449 2110 449 2047 1958 2047 1958 2110 1958 2133 449 2133"/></Shape>
+	    <String CONTENT="واما معرفا لما يدل عليه بحد، وذلك ممكن فيما له حدان، مثل قولنا : هل"
+                    HPOS="449"
+                    VPOS="2047"
+                    WIDTH="1509"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b497debe"
+                    
+                    BASELINE="449 2237 1962 2237" 
+                    HPOS="449"
+                    VPOS="2173"
+                    WIDTH="1513"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="449 2237 449 2173 1962 2173 1962 2237 1962 2267 449 2267"/></Shape>
+	    <String CONTENT="الصوت الذى فى الغیم هو تموج ريح محتبس فيه ؟ فإن هذين حدان للرعـد ."
+                    HPOS="449"
+                    VPOS="2173"
+                    WIDTH="1513"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_877a64d6"
+                    
+                    BASELINE="666 2383 1182 2377" 
+                    HPOS="662"
+                    VPOS="2330"
+                    WIDTH="520"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="666 2383 662 2337 1179 2330 1182 2377 1182 2393 666 2400"/></Shape>
+	    <String CONTENT="12 - ممکن ، یمکن ل"
+                    HPOS="662"
+                    VPOS="2330"
+                    WIDTH="520"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b30701aa"
+                    
+                    BASELINE="1132 516 1372 516" 
+                    HPOS="1132"
+                    VPOS="472"
+                    WIDTH="240"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1132 516 1132 472 1372 472 1372 516 1372 532 1132 532"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1132"
+                    VPOS="472"
+                    WIDTH="240"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef1f9c24"
+                    
+                    BASELINE="2062 1854 2108 1851" 
+                    HPOS="2058"
+                    VPOS="1811"
+                    WIDTH="50"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2062 1854 2058 1814 2105 1811 2108 1851 2108 1877 2062 1880"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="2058"
+                    VPOS="1811"
+                    WIDTH="50"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_633f7b42"
+                    
+                    BASELINE="1245 2377 1908 2377" 
+                    HPOS="1245"
+                    VPOS="2347"
+                    WIDTH="663"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1245 2377 1245 2347 1908 2347 1908 2377 1908 2400 1245 2400"/></Shape>
+	    <String CONTENT="  ف هاشف : انظرما هو الحد"
+                    HPOS="1245"
+                    VPOS="2347"
+                    WIDTH="663"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9b8b7e2"
+                    
+                    BASELINE="1389 2480 1885 2470" 
+                    HPOS="1385"
+                    VPOS="2420"
+                    WIDTH="500"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1389 2480 1385 2430 1882 2420 1885 2470 1885 2490 1389 2500"/></Shape>
+	    <String CONTENT="14 محتبس: يحتبس ف"
+                    HPOS="1385"
+                    VPOS="2420"
+                    WIDTH="500"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3de1b97"
+                    
+                    BASELINE="443 2620 1882 2610" 
+                    HPOS="439"
+                    VPOS="2553"
+                    WIDTH="1443"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="443 2620 439 2563 1878 2553 1882 2610 1882 2630 443 2640"/></Shape>
+	    <String CONTENT="(١) عن الرعد : أرسطو، البرهان، 2، 9٤ ا 5 =ت .ع . طبعة بدوى، ص 430 :"
+                    HPOS="439"
+                    VPOS="2553"
+                    WIDTH="1443"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca8251f6"
+                    
+                    BASELINE="1472 2696 1945 2703" 
+                    HPOS="1469"
+                    VPOS="2646"
+                    WIDTH="476"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1472 2696 1472 2646 1945 2653 1945 2703 1942 2726 1469 2719"/></Shape>
+	    <String CONTENT="صوت انطفا. النار فی السحاب ."
+                    HPOS="1469"
+                    VPOS="2646"
+                    WIDTH="476"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3a1730f"
+                    
+                    BASELINE="1039 2796 1888 2796" 
+                    HPOS="1039"
+                    VPOS="2746"
+                    WIDTH="849"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1039 2796 1039 2746 1888 2746 1888 2796 1888 2819 1039 2819"/></Shape>
+	    <String CONTENT="ابن سينا : النجاة 85: مثل انطفاء النارلحد الرعد "
+                    HPOS="1039"
+                    VPOS="2746"
+                    WIDTH="849"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82b8c4ff"
+                    
+                    BASELINE="429 2903 1878 2889" 
+                    HPOS="426"
+                    VPOS="2833"
+                    WIDTH="1452"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="429 2903 426 2846 1875 2833 1878 2889 1878 2909 429 2923"/></Shape>
+	    <String CONTENT="ان سينا، البرهان ، طبعة الدكتور أبو العلا عفيفى، ص 286، 287 : إن الرعد صوت"
+                    HPOS="426"
+                    VPOS="2833"
+                    WIDTH="1452"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41a71217"
+                    
+                    BASELINE="1429 2962 1935 2969" 
+                    HPOS="1425"
+                    VPOS="2916"
+                    WIDTH="510"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1429 2962 1429 2916 1935 2923 1935 2969 1932 2992 1425 2986"/></Shape>
+	    <String CONTENT="يحدث فى الغمام لطفوء النارفيه "
+                    HPOS="1425"
+                    VPOS="2916"
+                    WIDTH="510"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4b68744"
+                    
+                    BASELINE="423 3076 1875 3062" 
+                    HPOS="419"
+                    VPOS="3006"
+                    WIDTH="1456"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="423 3076 419 3019 1872 3006 1875 3062 1875 3082 423 3096"/></Shape>
+	    <String CONTENT="ابن سينا، هيون الحكمة&quot; ص ٤ 3 : &quot; الريح المحنبسة فى السحاب فإنها تحدث لشدة حركتها صوت"
+                    HPOS="419"
+                    VPOS="3006"
+                    WIDTH="1456"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff283bab"
+                    
+                    BASELINE="922 3146 1928 3139" 
+                    HPOS="919"
+                    VPOS="3082"
+                    WIDTH="1009"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="922 3146 919 3089 1925 3082 1928 3139 1928 3159 922 3166"/></Shape>
+	    <String CONTENT="الرعد ، وتنفصل مشتعلة برقا أوصاعقة، إن كانت غليظة كسبرة * "
+                    HPOS="919"
+                    VPOS="3082"
+                    WIDTH="1009"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0eb57b4d"
+                    
+                    BASELINE="1049 3239 1848 3232" 
+                    HPOS="1046"
+                    VPOS="3182"
+                    WIDTH="802"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1049 3239 1046 3189 1845 3182 1848 3232 1848 3255 1049 3262"/></Shape>
+	    <String CONTENT="قارن : ابن سينا ، النجاة) ص 15٦ - 157."
+                    HPOS="1046"
+                    VPOS="3182"
+                    WIDTH="802"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

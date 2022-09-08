@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>davidar_qumi_divan.pdf_page_14.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1099" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1100" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1101" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1920"
+          HEIGHT="2738"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1920"
+                  HEIGHT="2738">
+        
+        <TextBlock HPOS="90"
+                   VPOS="205"
+                   WIDTH="1555"
+                   HEIGHT="2265"
+                   ID="eSc_textblock_10cdd192"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="165 213 90 2470 1645 2470 1638 205"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1434"
+                   VPOS="2510"
+                   WIDTH="106"
+                   HEIGHT="78"
+                   ID="eSc_textblock_77b047c4"
+                   TAGREFS="BT1101">
+          <Shape><Polygon POINTS="1434 2510 1434 2588 1540 2588 1540 2510"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

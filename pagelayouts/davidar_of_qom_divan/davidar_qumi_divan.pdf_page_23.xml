@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>davidar_qumi_divan.pdf_page_23.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1099" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1100" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1101" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1801"
+          HEIGHT="2736"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1801"
+                  HEIGHT="2736">
+        
+        <TextBlock HPOS="254"
+                   VPOS="836"
+                   WIDTH="1360"
+                   HEIGHT="191"
+                   ID="eSc_textblock_154e7a3c"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="254 836 254 1027 1614 1027 1614 836"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="154"
+                   VPOS="1145"
+                   WIDTH="1596"
+                   HEIGHT="1330"
+                   ID="eSc_textblock_4b4a81a8"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="154 1145 154 2475 1750 2475 1750 1145"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="187"
+                   VPOS="2501"
+                   WIDTH="74"
+                   HEIGHT="74"
+                   ID="eSc_textblock_3c175be1"
+                   TAGREFS="BT1101">
+          <Shape><Polygon POINTS="187 2501 187 2575 261 2575 261 2501"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Turkah_Tamhid_Al_Qawaid.pdf_page_108.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT950" LABEL="Footnote" DESCRIPTION="block type Footnote"/><OtherTag ID="BT951" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT952" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2128"
+          HEIGHT="2764"
+          PHYSICAL_IMG_NR="107"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2128"
+                  HEIGHT="2764">
+        
+        <TextBlock HPOS="1484"
+                   VPOS="359"
+                   WIDTH="127"
+                   HEIGHT="99"
+                   ID="eSc_textblock_9fe13c63"
+                   TAGREFS="BT951">
+          <Shape><Polygon POINTS="1611 396 1593 458 1484 439 1484 377 1549 359"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ff300d43"
+                    
+                    BASELINE="1498 421 1576 426" 
+                    HPOS="1496"
+                    VPOS="377"
+                    WIDTH="83"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1498 421 1500 377 1579 382 1576 426 1574 439 1496 435"/></Shape>
+	    <String CONTENT="102"
+                    HPOS="1496"
+                    VPOS="377"
+                    WIDTH="83"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="248"
+                   VPOS="469"
+                   WIDTH="1391"
+                   HEIGHT="1703"
+                   ID="eSc_textblock_4cce97ba"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1574 469 1639 497 1620 2144 839 2172 295 2162 248 2135 258 497 285 469"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7b6ff2a5"
+                    
+                    BASELINE="276 522 1588 534" 
+                    HPOS="274"
+                    VPOS="481"
+                    WIDTH="1314"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="276 522 276 481 1588 492 1588 534 1586 555 274 543"/></Shape>
+	    <String CONTENT="نسخ خطی موجود است وصریح است دراین که حضرت ختمی ولایت،"
+                    HPOS="274"
+                    VPOS="481"
+                    WIDTH="1314"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f2dcc58"
+                    
+                    BASELINE="276 603 1579 608" 
+                    HPOS="274"
+                    VPOS="562"
+                    WIDTH="1305"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="276 603 276 562 1579 566 1579 608 1576 626 274 621"/></Shape>
+	    <String CONTENT="ولایتمدار - امیرمؤمنان وشاه مردان خاتم ولایت محمدیه است یعنی دائرهٔ"
+                    HPOS="274"
+                    VPOS="562"
+                    WIDTH="1305"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0fcd411"
+                    
+                    BASELINE="276 679 1586 691" 
+                    HPOS="274"
+                    VPOS="635"
+                    WIDTH="1312"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="276 679 276 635 1586 647 1586 691 1583 709 274 697"/></Shape>
+	    <String CONTENT="ولایت او اتم * و اوسع است ازدیگر اولياء، ومهدی موعود نیز خاتم ولایت"
+                    HPOS="274"
+                    VPOS="635"
+                    WIDTH="1312"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe8db529"
+                    
+                    BASELINE="276 757 1590 764" 
+                    HPOS="274"
+                    VPOS="716"
+                    WIDTH="1316"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="276 757 276 716 1590 723 1590 764 1588 783 274 776"/></Shape>
+	    <String CONTENT="است ازباب آنکه دارای ولایت مطلفه است وبولایت مطلفهٔ او خلافت مقیده"
+                    HPOS="274"
+                    VPOS="716"
+                    WIDTH="1316"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70a1a0cb"
+                    
+                    BASELINE="274 840 1595 840" 
+                    HPOS="274"
+                    VPOS="801"
+                    WIDTH="1321"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="274 840 274 801 1595 801 1595 840 1595 861 274 861"/></Shape>
+	    <String CONTENT=" محمديه ختم ميشود، بدقت باید تأمل نمود تا خلط بين اصطلاحات نشود"
+                    HPOS="274"
+                    VPOS="801"
+                    WIDTH="1321"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e24d1635"
+                    
+                    BASELINE="394 921 1593 921" 
+                    HPOS="394"
+                    VPOS="875"
+                    WIDTH="1199"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="394 921 394 875 1593 875 1593 921 1593 935 394 935"/></Shape>
+	    <String CONTENT="وگمان نشود که خلافت مقیده محمدیه با خلافت مطلفه تباین دارد."
+                    HPOS="394"
+                    VPOS="875"
+                    WIDTH="1199"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32a8db7f"
+                    
+                    BASELINE="278 1013 1514 1001" 
+                    HPOS="276"
+                    VPOS="958"
+                    WIDTH="1238"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="278 1013 276 969 1512 958 1514 1001 1514 1020 278 1031"/></Shape>
+	    <String CONTENT="قال الشارح الفاضل المحقق مؤلف المصباح : اقول : هذا غير الهباء الذى"
+                    HPOS="276"
+                    VPOS="958"
+                    WIDTH="1238"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c8b7c15"
+                    
+                    BASELINE="276 1089 1595 1080" 
+                    HPOS="274"
+                    VPOS="1034"
+                    WIDTH="1321"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="276 1089 274 1043 1593 1034 1595 1080 1595 1098 276 1107"/></Shape>
+	    <String CONTENT="فال فی الفتوحات بعد وريقات، : لما خلق العلم واللوح وسماهما العقل"
+                    HPOS="274"
+                    VPOS="1034"
+                    WIDTH="1321"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fae86ef1"
+                    
+                    BASELINE="306 1160 1600 1170" 
+                    HPOS="304"
+                    VPOS="1114"
+                    WIDTH="1296"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="306 1160 306 1114 1600 1124 1600 1170 1597 1188 304 1179"/></Shape>
+	    <String CONTENT="والروح، واعطى الروح صفتين ، علميه وعملية ، وجعل العقل لها معلماً ، ثم"
+                    HPOS="304"
+                    VPOS="1114"
+                    WIDTH="1296"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be0c8fa0"
+                    
+                    BASELINE="276 1243 1600 1239" 
+                    HPOS="274"
+                    VPOS="1193"
+                    WIDTH="1326"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="276 1243 274 1197 1597 1193 1600 1239 1600 1259 276 1264"/></Shape>
+	    <String CONTENT="خلق جوهراً دون النفس الذى هو الروح المذكور وسمشاه الهباء ، قال: &quot;فكانت"
+                    HPOS="274"
+                    VPOS="1193"
+                    WIDTH="1326"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de8ece61"
+                    
+                    BASELINE="272 1326 1597 1315" 
+                    HPOS="269"
+                    VPOS="1271"
+                    WIDTH="1328"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="272 1326 269 1282 1595 1271 1597 1315 1597 1335 272 1347"/></Shape>
+	    <String CONTENT="هباءاً منبثاناسماه به - علی بن ابيطالب، کثرم الله وجهه - لما رای هذه"
+                    HPOS="269"
+                    VPOS="1271"
+                    WIDTH="1328"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43fe27cf"
+                    
+                    BASELINE="274 1411 1604 1398" 
+                    HPOS="272"
+                    VPOS="1356"
+                    WIDTH="1332"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="274 1411 272 1370 1602 1356 1604 1398 1604 1418 274 1432"/></Shape>
+	    <String CONTENT="الجوهره منبثة فی جميع الصورالطبيعية&quot; درجواب از شبهه مربوط به عقل"
+                    HPOS="272"
+                    VPOS="1356"
+                    WIDTH="1332"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78563c82"
+                    
+                    BASELINE="274 1487 1602 1478" 
+                    HPOS="272"
+                    VPOS="1432"
+                    WIDTH="1330"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="274 1487 272 1441 1600 1432 1602 1478 1602 1492 274 1501"/></Shape>
+	    <String CONTENT="اول ومهيشمه گفته است : وعن الثالث ، ان المهيمة لما كانت قسمين، جازان"
+                    HPOS="272"
+                    VPOS="1432"
+                    WIDTH="1330"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71509a19"
+                    
+                    BASELINE="274 1577 514 1566 1602 1566" 
+                    HPOS="272"
+                    VPOS="1522"
+                    WIDTH="1330"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="274 1577 272 1534 511 1522 514 1522 1602 1522 1602 1566 1602 1586 514 1586 274 1596"/></Shape>
+	    <String CONTENT="يكون المقيد بعدم المظاهر القسم الأول منهما، والتى مظاهرها الافراد، هى"
+                    HPOS="272"
+                    VPOS="1522"
+                    WIDTH="1330"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bbbc82f"
+                    
+                    BASELINE="274 1651 1417 1646 1604 1635" 
+                    HPOS="272"
+                    VPOS="1584"
+                    WIDTH="1332"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="274 1651 272 1600 1415 1596 1600 1584 1604 1635 1604 1651 1417 1663 1417 1663 274 1667"/></Shape>
+	    <String CONTENT="القسم الثانى . بل التحقيق ، انها ثلاثة اقسام، القسم الثالث منهاء ماله مدخل"
+                    HPOS="272"
+                    VPOS="1584"
+                    WIDTH="1332"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c05c54e5"
+                    
+                    BASELINE="269 1732 1602 1718" 
+                    HPOS="267"
+                    VPOS="1669"
+                    WIDTH="1335"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="269 1732 267 1683 1600 1669 1602 1718 1602 1736 269 1750"/></Shape>
+	    <String CONTENT="فی التسطير كالقلم واللوح على ماقاله الشيخ الكبير رض - وعن الرابع ، ان"
+                    HPOS="267"
+                    VPOS="1669"
+                    WIDTH="1335"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e1ca668"
+                    
+                    BASELINE="274 1812 1606 1801" 
+                    HPOS="272"
+                    VPOS="1757"
+                    WIDTH="1334"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="274 1812 272 1768 1604 1757 1606 1801 1606 1819 274 1831"/></Shape>
+	    <String CONTENT="مرادالشيخ فی تصانيفه من المهيمة من لم يكن له مدخل فی التسطير، لامطلق"
+                    HPOS="272"
+                    VPOS="1757"
+                    WIDTH="1334"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f52890ed"
+                    
+                    BASELINE="292 1886 1606 1877" 
+                    HPOS="290"
+                    VPOS="1833"
+                    WIDTH="1316"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="292 1886 290 1842 1604 1833 1606 1877 1606 1897 292 1907"/></Shape>
+	    <String CONTENT="الأرواح النورية العالية من حيث خلنوها عن المظاهر الحسيثة والمثاليه. ثم"
+                    HPOS="290"
+                    VPOS="1833"
+                    WIDTH="1316"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8d23c38"
+                    
+                    BASELINE="272 1969 1611 1957" 
+                    HPOS="269"
+                    VPOS="1911"
+                    WIDTH="1342"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="272 1969 269 1923 1609 1911 1611 1957 1611 1973 272 1985"/></Shape>
+	    <String CONTENT="اقول، انما قال الشيخ الكبير فی الحقيفة المحمدية المسمشی بالعقل الاول اذ كان"
+                    HPOS="269"
+                    VPOS="1911"
+                    WIDTH="1342"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7747a17"
+                    
+                    BASELINE="269 2047 1613 2036" 
+                    HPOS="267"
+                    VPOS="1990"
+                    WIDTH="1346"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="269 2047 267 2001 1611 1990 1613 2036 1613 2054 269 2066"/></Shape>
+	    <String CONTENT="مراده بالحقيقة ، روحه ونفسه الشريفة المقدسه كما مر، فان حقيقته"
+                    HPOS="267"
+                    VPOS="1990"
+                    WIDTH="1346"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85b00557"
+                    
+                    BASELINE="857 2125 1616 2119" 
+                    HPOS="855"
+                    VPOS="2070"
+                    WIDTH="761"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="857 2125 855 2077 1613 2070 1616 2119 1616 2137 857 2144"/></Shape>
+	    <String CONTENT="باتفاق المحققين (1) هى حقيقة الحقايق&quot; ."
+                    HPOS="855"
+                    VPOS="2070"
+                    WIDTH="761"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="756"
+                   VPOS="359"
+                   WIDTH="357"
+                   HEIGHT="90"
+                   ID="eSc_textblock_0d3357bf"
+                   TAGREFS="BT952">
+          <Shape><Polygon POINTS="1095 359 1113 449 820 449 756 412 793 368 894 359"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4edda88c"
+                    
+                    BASELINE="786 421 1085 421" 
+                    HPOS="786"
+                    VPOS="384"
+                    WIDTH="299"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="786 421 786 384 1085 384 1085 421 1085 439 786 439"/></Shape>
+	    <String CONTENT="مفدمهٔ تمهیدالفواعد"
+                    HPOS="786"
+                    VPOS="384"
+                    WIDTH="299"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="267"
+                   VPOS="2159"
+                   WIDTH="1372"
+                   HEIGHT="224"
+                   ID="eSc_textblock_b09f754a"
+                   TAGREFS="BT950">
+          <Shape><Polygon POINTS="1589 2159 1594 2168 1639 2238 1639 2337 1630 2383 295 2383 267 2284 294 2184"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4c9c2c91"
+                    
+                    BASELINE="853 2280 1556 2277" 
+                    HPOS="850"
+                    VPOS="2236"
+                    WIDTH="706"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="853 2280 850 2238 1553 2236 1556 2277 1556 2294 853 2296"/></Shape>
+	    <String CONTENT="1 - شرح مفتاح - مصباح الانس حمزه فناری ط"
+                    HPOS="850"
+                    VPOS="2236"
+                    WIDTH="706"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ibn_rushd_talkhis_kitab_jadl.pdf_page_17.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1225" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1226" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1227" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1228" LABEL="Head" DESCRIPTION="block type Head"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2750"
+          HEIGHT="4046"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2750"
+                  HEIGHT="4046">
+        
+        <TextBlock HPOS="395"
+                   VPOS="2129"
+                   WIDTH="1724"
+                   HEIGHT="1232"
+                   ID="eSc_textblock_50b0a218"
+                   TAGREFS="BT1225">
+          <Shape><Polygon POINTS="2119 3361 2119 2129 395 2129 395 3361"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="451"
+                   VPOS="657"
+                   WIDTH="1834"
+                   HEIGHT="1467"
+                   ID="eSc_textblock_71891bb9"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2276 2119 2285 657 451 667 451 2124"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1186"
+                   VPOS="506"
+                   WIDTH="317"
+                   HEIGHT="92"
+                   ID="eSc_textblock_8fbddcd1"
+                   TAGREFS="BT1226">
+          <Shape><Polygon POINTS="1186 506 1186 598 1503 598 1503 506"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_6a311e07"
+                    
+                    BASELINE="492 748 1994 755" 
+                    HPOS="489"
+                    VPOS="681"
+                    WIDTH="1505"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="492 748 492 681 1994 687 1994 755 1990 778 489 772"/></Shape>
+	    <String CONTENT="ولذلك إنما يحصل التمام فى هذه الصناعة بهذين الشيئين، أعنى"
+                    HPOS="489"
+                    VPOS="681"
+                    WIDTH="1505"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c105e0d9"
+                    
+                    BASELINE="1508 880 2078 880" 
+                    HPOS="1508"
+                    VPOS="805"
+                    WIDTH="570"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1508 880 1508 805 2078 805 2078 880 2078 906 1508 906"/></Shape>
+	    <String CONTENT="المزاولة، ومعرفة القوانين ."
+                    HPOS="1508"
+                    VPOS="805"
+                    WIDTH="570"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b58999a9"
+                    
+                    BASELINE="492 1035 985 1024 1994 1038" 
+                    HPOS="489"
+                    VPOS="957"
+                    WIDTH="1505"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="492 1035 489 967 981 957 985 957 1994 971 1994 1038 1990 1065 985 1051 492 1062"/></Shape>
+	    <String CONTENT="وبين أن الرياضة المقصودة بهذه الصناعة إنما هى معدة نحو الفلسفة، على"
+                    HPOS="489"
+                    VPOS="957"
+                    WIDTH="1505"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34334636"
+                    
+                    BASELINE="738 1156 2081 1156" 
+                    HPOS="738"
+                    VPOS="1095"
+                    WIDTH="1343"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="738 1156 738 1095 2081 1095 2081 1156 2081 1186 738 1186"/></Shape>
+	    <String CONTENT="نحو ما تكون الرياضة بركوب الخيل فى الملاعب معدة نحو الحرب ("
+                    HPOS="738"
+                    VPOS="1095"
+                    WIDTH="1343"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c156492e"
+                    
+                    BASELINE="482 1311 1994 1321" 
+                    HPOS="479"
+                    VPOS="1244"
+                    WIDTH="1515"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="482 1311 482 1244 1994 1254 1994 1321 1990 1341 479 1331"/></Shape>
+	    <String CONTENT="وأما منفعتها فى مناظرة الجمهور : فللضرورة الداعية فى اجتماعهم على العـدل"
+                    HPOS="479"
+                    VPOS="1244"
+                    WIDTH="1515"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58d2108f"
+                    
+                    BASELINE="475 1439 2065 1446" 
+                    HPOS="472"
+                    VPOS="1368"
+                    WIDTH="1593"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="475 1439 475 1368 2065 1375 2065 1446 2061 1466 472 1459"/></Shape>
+	    <String CONTENT="والفضيلة، واعتقاد كثير من الأمور النظرية النافعة لهم فى الاجتماع المدنى . ولما"
+                    HPOS="472"
+                    VPOS="1368"
+                    WIDTH="1593"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8afb9e68"
+                    
+                    BASELINE="479 1561 2048 1567" 
+                    HPOS="475"
+                    VPOS="1493"
+                    WIDTH="1573"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="479 1561 479 1493 2048 1500 2048 1567 2044 1591 475 1584"/></Shape>
+	    <String CONTENT="كان الأمر هكذا، وكانت الأمور النظرية لايمكن أن يقع التصديق بها لهم إلا"
+                    HPOS="475"
+                    VPOS="1493"
+                    WIDTH="1573"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fae8e146"
+                    
+                    BASELINE="465 1679 2061 1695" 
+                    HPOS="462"
+                    VPOS="1615"
+                    WIDTH="1599"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="465 1679 465 1615 2061 1631 2061 1695 2058 1719 462 1702"/></Shape>
+	    <String CONTENT="بالطرق المشهورة وهی الأقاويل المستعملة فی هذه الصناعة&quot; كان أفضل ماثبتت"
+                    HPOS="462"
+                    VPOS="1615"
+                    WIDTH="1599"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f770e457"
+                    
+                    BASELINE="469 1820 2058 1820" 
+                    HPOS="469"
+                    VPOS="1749"
+                    WIDTH="1589"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="469 1820 469 1749 2058 1749 2058 1820 2058 1844 469 1844"/></Shape>
+	    <String CONTENT="به عندهم الأمور النظرية هی الأقاويل المشهورة . فإنها أعسر عناداً من الأقاويل"
+                    HPOS="469"
+                    VPOS="1749"
+                    WIDTH="1589"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f685259"
+                    
+                    BASELINE="475 1935 2061 1942" 
+                    HPOS="472"
+                    VPOS="1867"
+                    WIDTH="1589"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="475 1935 475 1867 2061 1874 2061 1942 2058 1965 472 1958"/></Shape>
+	    <String CONTENT="الخطبية والشعرية . وإن كان قد تستعمل الطرق الخطبية والشعرية فی هذه المواضع"
+                    HPOS="472"
+                    VPOS="1867"
+                    WIDTH="1589"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a5f2940"
+                    
+                    BASELINE="1592 2060 2031 2066" 
+                    HPOS="1589"
+                    VPOS="1996"
+                    WIDTH="442"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1592 2060 1592 1996 2031 2002 2031 2066 2027 2093 1589 2087"/></Shape>
+	    <String CONTENT="بدل الطرق الجدلية."
+                    HPOS="1589"
+                    VPOS="1996"
+                    WIDTH="442"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e146e09d"
+                    
+                    BASELINE="1211 556 1440 563" 
+                    HPOS="1207"
+                    VPOS="492"
+                    WIDTH="233"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1211 556 1211 492 1440 499 1440 563 1437 573 1207 566"/></Shape>
+	    <String CONTENT="8"
+                    HPOS="1207"
+                    VPOS="492"
+                    WIDTH="233"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_035d7855"
+                    
+                    BASELINE="2135 1945 2206 1945" 
+                    HPOS="2135"
+                    VPOS="1908"
+                    WIDTH="71"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2135 1945 2135 1908 2206 1908 2206 1945 2206 1972 2135 1972"/></Shape>
+	    <String CONTENT="10"
+                    HPOS="2135"
+                    VPOS="1908"
+                    WIDTH="71"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c76c4157"
+                    
+                    BASELINE="776 2238 1157 2232" 
+                    HPOS="772"
+                    VPOS="2181"
+                    WIDTH="385"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="776 2238 772 2188 1153 2181 1157 2232 1157 2245 776 2252"/></Shape>
+	    <String CONTENT="9به۱ بها ل"
+                    HPOS="772"
+                    VPOS="2181"
+                    WIDTH="385"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5438b7d1"
+                    
+                    BASELINE="1346 2225 1970 2235" 
+                    HPOS="1342"
+                    VPOS="2178"
+                    WIDTH="628"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1346 2225 1346 2178 1970 2188 1970 2235 1967 2255 1342 2245"/></Shape>
+	    <String CONTENT="فللضرررة : فالضرورة ل"
+                    HPOS="1342"
+                    VPOS="2178"
+                    WIDTH="628"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac557b1a"
+                    
+                    BASELINE="1299 2326 1943 2316" 
+                    HPOS="1295"
+                    VPOS="2262"
+                    WIDTH="648"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1299 2326 1295 2272 1940 2262 1943 2316 1943 2346 1299 2356"/></Shape>
+	    <String CONTENT="10- هذه المواضع : هذا الموضع ل"
+                    HPOS="1295"
+                    VPOS="2262"
+                    WIDTH="648"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_803dd487"
+                    
+                    BASELINE="1295 2464 1930 2468" 
+                    HPOS="1292"
+                    VPOS="2414"
+                    WIDTH="638"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1295 2464 1295 2414 1930 2417 1930 2468 1926 2491 1292 2488"/></Shape>
+	    <String CONTENT="(١) أرسطو، 1، 2، 281101-"
+                    HPOS="1292"
+                    VPOS="2414"
+                    WIDTH="638"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2fb7c070"
+                    
+                    BASELINE="496 2720 1960 2707" 
+                    HPOS="492"
+                    VPOS="2653"
+                    WIDTH="1468"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="496 2720 492 2666 1957 2653 1960 2707 1960 2727 496 2741"/></Shape>
+	    <String CONTENT="حت0ع0 242 ب 3 - ٥&quot; طبعة بدوی، ص 72؛ : &quot;والأمر فی أن هذا الكتاب نافع"
+                    HPOS="492"
+                    VPOS="2653"
+                    WIDTH="1468"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1af5887b"
+                    
+                    BASELINE="482 2818 2014 2805" 
+                    HPOS="479"
+                    VPOS="2747"
+                    WIDTH="1535"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="482 2818 479 2761 2011 2747 2014 2805 2014 2828 482 2842"/></Shape>
+	    <String CONTENT="فى الرياضة ظاهر بين من هذا ، وذلك أنه إذا كان لنا طريق نسلكه أمكننا بأ مهل ماخذ أن تحتج"
+                    HPOS="479"
+                    VPOS="2747"
+                    WIDTH="1535"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50264f15"
+                    
+                    BASELINE="1653 2903 2024 2903" 
+                    HPOS="1653"
+                    VPOS="2852"
+                    WIDTH="371"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1653 2903 1653 2852 2024 2852 2024 2903 2024 2926 1653 2926"/></Shape>
+	    <String CONTENT="فيا نقصد للحجة فيه * "
+                    HPOS="1653"
+                    VPOS="2852"
+                    WIDTH="371"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c97762d5"
+                    
+                    BASELINE="475 3024 1963 3004" 
+                    HPOS="472"
+                    VPOS="2943"
+                    WIDTH="1491"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="475 3024 472 2963 1960 2943 1963 3004 1963 3024 475 3044"/></Shape>
+	    <String CONTENT="(2) الفارابی، الجدل، محطوط براتيسلافا، ورقة ع20 ب4 1-4 30 19١:  فالجدل هو"
+                    HPOS="472"
+                    VPOS="2943"
+                    WIDTH="1491"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_186c573f"
+                    
+                    BASELINE="472 3122 941 3128 2017 3098" 
+                    HPOS="469"
+                    VPOS="3031"
+                    WIDTH="1548"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="472 3122 472 3054 938 3061 2014 3031 2017 3098 2017 3122 941 3152 938 3152 469 3145"/></Shape>
+	    <String CONTENT="ارتياض ما للانسان ، لمشار كته لغيره&quot; يصير به الإنسان معدا للعلوم البقينية . وهو أيضا توطئة للوجودات"
+                    HPOS="469"
+                    VPOS="3031"
+                    WIDTH="1548"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c58384e0"
+                    
+                    BASELINE="469 3219 1191 3230 2014 3196" 
+                    HPOS="465"
+                    VPOS="3122"
+                    WIDTH="1549"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="469 3219 469 3145 1187 3155 2011 3122 2014 3196 2014 3230 1191 3263 1187 3263 465 3253"/></Shape>
+	    <String CONTENT="النظرية لأن تعلم علم اليقين رتخدم العلوم اليقينبة فى أن تعطى مبادتها فلى الطرق القى لخصت ، وتخدمها أيضا"
+                    HPOS="465"
+                    VPOS="3122"
+                    WIDTH="1549"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c1039be"
+                    
+                    BASELINE="472 3331 1616 3331 2011 3310" 
+                    HPOS="472"
+                    VPOS="3236"
+                    WIDTH="1539"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="472 3331 472 3257 1612 3257 2004 3236 2011 3310 2011 3341 1616 3361 1616 3364 472 3364"/></Shape>
+	    <String CONTENT="فى أن تعطها الا تا ويل التى بها يمعل أن يعلم الجهور من الآراء الستلهطة من العلوم البقيلية ما هو نافع لهم  ء"
+                    HPOS="472"
+                    VPOS="3236"
+                    WIDTH="1539"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

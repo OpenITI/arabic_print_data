@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_alam_al-milahah_fi_ilm_al_filahah.pdf_page_13.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1076" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1077" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1078" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT1079" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1080" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/>
+    <OtherTag ID="LT68" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1649"
+          HEIGHT="2733"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1649"
+                  HEIGHT="2733">
+        
+        <TextBlock HPOS="118"
+                   VPOS="227"
+                   WIDTH="1273"
+                   HEIGHT="2148"
+                   ID="eSc_textblock_42f532ae"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1391 245 1391 608 1364 637 1391 838 1382 2375 136 2366 118 992 136 236 163 227"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_68eb84cc"
+                    
+                    BASELINE="132 284 1384 296" 
+                    HPOS="129"
+                    VPOS="232"
+                    WIDTH="1255"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="132 284 132 232 1384 243 1384 296 1382 309 129 298"/></Shape>
+	    <String CONTENT="والتي تهب من تلقاهیمین من يستقبل الشرق في ریح الجنوب ومن تلقاء يساره ویج الشما"
+                    HPOS="129"
+                    VPOS="232"
+                    WIDTH="1255"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab088f14"
+                    
+                    BASELINE="127 368 1138 364 1382 373" 
+                    HPOS="125"
+                    VPOS="302"
+                    WIDTH="1257"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="127 368 125 307 1136 302 1138 302 1382 312 1382 373 1380 391 1136 382 127 387"/></Shape>
+	    <String CONTENT="والشرقية تسى الصبا والغربية الدبور. والموافق يجميع المنابت على العموم ريح الجنوب"
+                    HPOS="125"
+                    VPOS="302"
+                    WIDTH="1257"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2778b49d"
+                    
+                    BASELINE="134 446 1384 437" 
+                    HPOS="132"
+                    VPOS="384"
+                    WIDTH="1252"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="134 446 132 394 1382 384 1384 437 1384 457 134 466"/></Shape>
+	    <String CONTENT="الحارة الرطبة ويليها الصبائم الدبورثم الشمال. واذا هب ريح الجنوب وقت ابتداء الاترة"
+                    HPOS="132"
+                    VPOS="384"
+                    WIDTH="1252"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04d389bd"
+                    
+                    BASELINE="136 530 1195 521 1382 528" 
+                    HPOS="134"
+                    VPOS="466"
+                    WIDTH="1248"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="136 530 134 475 1193 466 1195 466 1382 473 1382 528 1380 546 1193 539 136 548"/></Shape>
+	    <String CONTENT="في العقد او بعده بيسير يكبر وينمو ويطيب جدا . وريح الشمال تصحح الاشجار من الادوا"
+                    HPOS="134"
+                    VPOS="466"
+                    WIDTH="1248"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9078ef5f"
+                    
+                    BASELINE="1006 598 1380 603" 
+                    HPOS="1004"
+                    VPOS="553"
+                    WIDTH="376"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1006 598 1006 553 1380 557 1380 603 1377 630 1004 626"/></Shape>
+	    <String CONTENT="وثمارها وتسلم بتتابع هبوبه"
+                    HPOS="1004"
+                    VPOS="553"
+                    WIDTH="376"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10bc9b71"
+                    TAGREFS="LT68"
+                    BASELINE="599 712 906 717" 
+                    HPOS="596"
+                    VPOS="637"
+                    WIDTH="310"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="599 712 599 637 906 642 906 717 904 733 596 728"/></Shape>
+	    <String CONTENT="لباب الثالث"
+                    HPOS="596"
+                    VPOS="637"
+                    WIDTH="310"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d86f0fc"
+                    TAGREFS="LT68"
+                    BASELINE="457 819 1011 822" 
+                    HPOS="455"
+                    VPOS="762"
+                    WIDTH="556"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="457 819 457 762 1011 765 1011 822 1008 833 455 831"/></Shape>
+	    <String CONTENT="في غرس الاشجار والریاحين والازهار"
+                    HPOS="455"
+                    VPOS="762"
+                    WIDTH="556"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af1953b0"
+                    
+                    BASELINE="118 924 1309 915" 
+                    HPOS="116"
+                    VPOS="858"
+                    WIDTH="1193"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="118 924 116 867 1307 858 1309 915 1309 933 118 942"/></Shape>
+	    <String CONTENT="اعلم انه یختارللبسانین اظیب الارض بقعة واعذبهاما- المستویة اوتستوي قبل الغرس لثلا"
+                    HPOS="116"
+                    VPOS="858"
+                    WIDTH="1193"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20dec0b3"
+                    
+                    BASELINE="116 1006 1384 990" 
+                    HPOS="113"
+                    VPOS="936"
+                    WIDTH="1271"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="116 1006 113 951 1382 936 1384 990 1384 1013 116 1029"/></Shape>
+	    <String CONTENT="تفلم فتنکشف بعض اصول شجرها و یستقبل بالبساتین المشرق ان امکن و یغرس الاشجارسطون"
+                    HPOS="113"
+                    VPOS="936"
+                    WIDTH="1271"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54aac6a1"
+                    
+                    BASELINE="116 1084 1382 1074" 
+                    HPOS="113"
+                    VPOS="1024"
+                    WIDTH="1269"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="116 1084 113 1033 1380 1024 1382 1074 1382 1095 116 1104"/></Shape>
+	    <String CONTENT="مستقيمة ولا تغرس الاشجار التي لاتعظم مع التي تعظم ولا التي نتعرى اوراقهامع التي لانتعرما"
+                    HPOS="113"
+                    VPOS="1024"
+                    WIDTH="1269"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc1fd6d8"
+                    
+                    BASELINE="118 1168 1382 1163" 
+                    HPOS="116"
+                    VPOS="1102"
+                    WIDTH="1266"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="118 1168 116 1106 1380 1102 1382 1163 1382 1177 118 1182"/></Shape>
+	    <String CONTENT="فهو اجمل وتغرس التي لاتتعری بقرب الباب والماء كالاترج والنارنج والسرو والليمون والآس"
+                    HPOS="116"
+                    VPOS="1102"
+                    WIDTH="1266"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88b99733"
+                    
+                    BASELINE="116 1236 1387 1248" 
+                    HPOS="113"
+                    VPOS="1182"
+                    WIDTH="1274"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="116 1236 116 1182 1387 1193 1387 1248 1384 1264 113 1252"/></Shape>
+	    <String CONTENT="ويغرس السرو في اركان الترابیع وكذا الحور وفي دوائر ويجعل الشجر المشوك الكثيرالظف"
+                    HPOS="113"
+                    VPOS="1182"
+                    WIDTH="1274"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_447db706"
+                    
+                    BASELINE="113 1316 694 1327 1368 1316" 
+                    HPOS="111"
+                    VPOS="1259"
+                    WIDTH="1257"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="113 1316 113 1259 694 1270 1366 1259 1368 1316 1368 1336 694 1348 692 1348 111 1336"/></Shape>
+	    <String CONTENT="كالصفصاف والحور الفارسي والميس والجوز والجميز مع حائط البستان من جهة الغرب"
+                    HPOS="111"
+                    VPOS="1259"
+                    WIDTH="1257"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67919118"
+                    
+                    BASELINE="116 1400 1377 1407" 
+                    HPOS="113"
+                    VPOS="1343"
+                    WIDTH="1264"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="116 1400 116 1343 1377 1350 1377 1407 1375 1423 113 1416"/></Shape>
+	    <String CONTENT="والشمال . ويغرس كل نوع على حدته وكذا ماثمرته في وقت واحد كالمشمش والتفاح والصيلي"
+                    HPOS="113"
+                    VPOS="1343"
+                    WIDTH="1264"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d371b658"
+                    
+                    BASELINE="111 1475 1380 1487" 
+                    HPOS="109"
+                    VPOS="1423"
+                    WIDTH="1271"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="111 1475 111 1423 1380 1434 1380 1487 1377 1505 109 1494"/></Shape>
+	    <String CONTENT="ويغرس الورد على المجاري التي يسقي بها او في ناحية . ولا يغرس الاترج الاي موضة"
+                    HPOS="109"
+                    VPOS="1423"
+                    WIDTH="1271"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd44b0ae"
+                    
+                    BASELINE="113 1564 1375 1555" 
+                    HPOS="111"
+                    VPOS="1500"
+                    WIDTH="1264"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="113 1564 111 1509 1373 1500 1375 1555 1375 1573 113 1582"/></Shape>
+	    <String CONTENT="مستور عن الريح الشمالي والغربي مكشوف للريح القبلي . وبنبغي ان لا يغرس غرس ولايقله"
+                    HPOS="111"
+                    VPOS="1500"
+                    WIDTH="1264"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec2a2518"
+                    
+                    BASELINE="116 1639 1377 1644" 
+                    HPOS="113"
+                    VPOS="1582"
+                    WIDTH="1264"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="116 1639 116 1582 1377 1587 1377 1644 1375 1660 113 1655"/></Shape>
+	    <String CONTENT="ولا يركب تركيب في يوم ريح شديدة ولا سيما الباردة وكذا في الايام الشديدة البردوالزة"
+                    HPOS="113"
+                    VPOS="1582"
+                    WIDTH="1264"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f790b31d"
+                    
+                    BASELINE="118 1721 1375 1712" 
+                    HPOS="116"
+                    VPOS="1660"
+                    WIDTH="1259"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="118 1721 116 1669 1373 1660 1375 1712 1375 1730 118 1740"/></Shape>
+	    <String CONTENT="الشمالية وعند هبوب لا يكاد ينجب ما غرس او زرع ولاسيما الزيتون . واذا قلع الغرامة"
+                    HPOS="116"
+                    VPOS="1660"
+                    WIDTH="1259"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b841276"
+                    
+                    BASELINE="118 1792 1380 1801" 
+                    HPOS="116"
+                    VPOS="1737"
+                    WIDTH="1264"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="118 1792 118 1737 1380 1746 1380 1801 1377 1819 116 1810"/></Shape>
+	    <String CONTENT="ليغرس في محل اخروهبت الريح الباردة يدفن في التراب البري ولايجعل في الماهالا"
+                    HPOS="116"
+                    VPOS="1737"
+                    WIDTH="1264"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e981395"
+                    
+                    BASELINE="113 1883 1375 1878" 
+                    HPOS="111"
+                    VPOS="1817"
+                    WIDTH="1264"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="113 1883 111 1822 1373 1817 1375 1878 1375 1892 113 1897"/></Shape>
+	    <String CONTENT="يوما او يومين الى ان يطول الدفن في التراب فينقع في المآء قليلاً ثم يغرس . ولا يغرنن"
+                    HPOS="111"
+                    VPOS="1817"
+                    WIDTH="1264"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43d180e7"
+                    
+                    BASELINE="122 1963 1375 1956" 
+                    HPOS="120"
+                    VPOS="1901"
+                    WIDTH="1255"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="122 1963 120 1908 1373 1901 1375 1956 1375 1970 122 1976"/></Shape>
+	    <String CONTENT="غرس یوم الجمعة ولا یوم الاحد فقد جربت كراهیة ذلك . ویختار ابتداه الشهور وزیاه"
+                    HPOS="120"
+                    VPOS="1901"
+                    WIDTH="1255"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69522cdb"
+                    
+                    BASELINE="120 2036 637 2045 1371 2031" 
+                    HPOS="118"
+                    VPOS="1972"
+                    WIDTH="1253"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="120 2036 120 1976 635 1985 1368 1972 1371 2031 1371 2052 637 2065 635 2065 118 2056"/></Shape>
+	    <String CONTENT="القمرفان الزرع في زيادة القمريظهر النمو في الزروع والبقول والقثاء والخيار والقزل"
+                    HPOS="118"
+                    VPOS="1972"
+                    WIDTH="1253"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa06dda0"
+                    
+                    BASELINE="125 2111 1371 2124" 
+                    HPOS="122"
+                    VPOS="2056"
+                    WIDTH="1249"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="125 2111 125 2056 1371 2070 1371 2124 1368 2140 122 2127"/></Shape>
+	    <String CONTENT="والبطيخ والباذنجان وفي الرياحين والفوأكه يعظم ثمرها وتمتد اغصانها وينقص ذلك"
+                    HPOS="122"
+                    VPOS="2056"
+                    WIDTH="1249"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa6fd139"
+                    
+                    BASELINE="122 2202 1371 2193" 
+                    HPOS="120"
+                    VPOS="2136"
+                    WIDTH="1251"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="122 2202 120 2145 1368 2136 1371 2193 1371 2211 122 2220"/></Shape>
+	    <String CONTENT="نقصان القمر. ولا يخجب زرع ابدا في نقص القسر واذا كان الفمر في البروج المائية والهواة"
+                    HPOS="120"
+                    VPOS="2136"
+                    WIDTH="1251"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ddc4f489"
+                    
+                    BASELINE="125 2270 1364 2279" 
+                    HPOS="122"
+                    VPOS="2220"
+                    WIDTH="1242"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="125 2270 125 2220 1364 2229 1364 2279 1362 2297 122 2288"/></Shape>
+	    <String CONTENT="هواجود ويحسن في ایام نقصان القمرقطع الاخشاب فانه اذا قطع الخشب فی محاق الفة"
+                    HPOS="122"
+                    VPOS="2220"
+                    WIDTH="1242"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3079341e"
+                    
+                    BASELINE="122 2348 503 2359 1368 2354" 
+                    HPOS="120"
+                    VPOS="2291"
+                    WIDTH="1248"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="122 2348 122 2291 503 2302 1366 2297 1368 2354 1368 2423 503 2427 501 2427 120 2416"/></Shape>
+	    <String CONTENT="لا يسوس وكذا بحمد فيو كح الشوك والدغل من الاراضي ويحمد فيو القطاف خيفة الرطة"
+                    HPOS="120"
+                    VPOS="2291"
+                    WIDTH="1248"
+                    HEIGHT="136"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="710"
+                   VPOS="127"
+                   WIDTH="62"
+                   HEIGHT="71"
+                   ID="eSc_textblock_93067757"
+                   TAGREFS="BT1076">
+          <Shape><Polygon POINTS="772 154 763 198 710 189 719 127"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_70425c15"
+                    
+                    BASELINE="733 168 751 170" 
+                    HPOS="731"
+                    VPOS="134"
+                    WIDTH="22"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="733 168 735 134 753 136 751 170 749 182 731 179"/></Shape>
+	    <String CONTENT=""
+                    HPOS="731"
+                    VPOS="134"
+                    WIDTH="22"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

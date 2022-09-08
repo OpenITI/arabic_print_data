@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>razi_mirsad_al_ibad.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT959" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT960" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT961" LABEL="Footnote" DESCRIPTION="block type Footnote"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2043"
+          HEIGHT="2770"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2043"
+                  HEIGHT="2770">
+        
+        <TextBlock HPOS="1578"
+                   VPOS="267"
+                   WIDTH="104"
+                   HEIGHT="73"
+                   ID="eSc_textblock_03bc84a6"
+                   TAGREFS="BT961">
+          <Shape><Polygon POINTS="1583 339 1578 292 1592 267 1664 267 1682 340"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b372a2b2"
+                    
+                    BASELINE="1609 316 1652 316" 
+                    HPOS="1609"
+                    VPOS="283"
+                    WIDTH="43"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1609 316 1609 283 1652 283 1652 316 1652 330 1609 330"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="1609"
+                    VPOS="283"
+                    WIDTH="43"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="175"
+                   VPOS="378"
+                   WIDTH="1507"
+                   HEIGHT="1595"
+                   ID="eSc_textblock_251d1e34"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1682 397 1645 1835 1635 1836 1655 1855 1645 1918 1604 1933 1645 1945 1507 1973 470 1964 420 1962 342 1951 237 1964 184 1945 175 443 203 378"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_820358dd"
+                    
+                    BASELINE="228 415 1634 424" 
+                    HPOS="226"
+                    VPOS="369"
+                    WIDTH="1408"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="228 415 228 369 1634 378 1634 424 1632 440 226 431"/></Shape>
+	    <String CONTENT="فرو بارید، وهجوم کفار تتار سرزمین ایران را غرق آشوب و فتنه و پریشانی کرد، وامن و"
+                    HPOS="226"
+                    VPOS="369"
+                    WIDTH="1408"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab2b0b03"
+                    
+                    BASELINE="1098 475 1387 489 1629 482" 
+                    HPOS="1096"
+                    VPOS="424"
+                    WIDTH="533"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1098 475 1101 424 1387 438 1627 431 1629 482 1629 500 1387 507 1385 507 1096 493"/></Shape>
+	    <String CONTENT="آسایش مردم ایران را برهم زد ."
+                    HPOS="1096"
+                    VPOS="424"
+                    WIDTH="533"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bd15719"
+                    
+                    BASELINE="944 542 1585 551" 
+                    HPOS="941"
+                    VPOS="498"
+                    WIDTH="644"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="944 542 944 498 1585 507 1585 551 1583 565 941 556"/></Shape>
+	    <String CONTENT="ازین سموم که بر طرف بوستان بگذشت"
+                    HPOS="941"
+                    VPOS="498"
+                    WIDTH="644"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4fe309c0"
+                    
+                    BASELINE="283 544 874 542" 
+                    HPOS="281"
+                    VPOS="496"
+                    WIDTH="593"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="283 544 281 498 872 496 874 542 874 558 283 560"/></Shape>
+	    <String CONTENT="عجب که رنگ گلی ماند و بوی یاسمنی"
+                    HPOS="281"
+                    VPOS="496"
+                    WIDTH="593"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00c0993a"
+                    
+                    BASELINE="223 609 1532 618" 
+                    HPOS="221"
+                    VPOS="567"
+                    WIDTH="1311"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="223 609 223 567 1532 577 1532 618 1530 637 221 627"/></Shape>
+	    <String CONTENT="شیخ نجم الدین رازی پروردهٔ آن روزگار و بلاکشیدهٔ آن دوران رنج و ادبار است"
+                    HPOS="221"
+                    VPOS="567"
+                    WIDTH="1311"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b57acaa2"
+                    
+                    BASELINE="427 683 1632 690" 
+                    HPOS="424"
+                    VPOS="641"
+                    WIDTH="1208"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="427 683 427 641 1632 648 1632 690 1629 708 424 701"/></Shape>
+	    <String CONTENT="که در این سطور سعی میشود که پرده از تاریکیهای زند گانی او بر گرفته شود ."
+                    HPOS="424"
+                    VPOS="641"
+                    WIDTH="1208"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b912a4e1"
+                    
+                    BASELINE="1392 791 1569 784" 
+                    HPOS="1389"
+                    VPOS="743"
+                    WIDTH="180"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1392 791 1389 750 1567 743 1569 784 1569 800 1392 807"/></Shape>
+	    <String CONTENT="نام و لقب"
+                    HPOS="1389"
+                    VPOS="743"
+                    WIDTH="180"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c75dbfbe"
+                    
+                    BASELINE="228 754 1237 754" 
+                    HPOS="228"
+                    VPOS="715"
+                    WIDTH="1009"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="228 754 228 715 1237 715 1237 754 1237 773 228 773"/></Shape>
+	    <String CONTENT="نام او چنانکه خود درمقدمهٔ مرموزات وخاتمهٔ مرصاد العباد1 و در"
+                    HPOS="228"
+                    VPOS="715"
+                    WIDTH="1009"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a0c13fe"
+                    
+                    BASELINE="216 810 720 821 1235 814" 
+                    HPOS="214"
+                    VPOS="761"
+                    WIDTH="1021"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="216 810 216 761 720 773 1232 766 1235 814 1235 835 720 842 717 842 214 830"/></Shape>
+	    <String CONTENT="ابتدای منارات السائرین2 مینویسد و در کشف الظنون نیز نقل شده"
+                    HPOS="214"
+                    VPOS="761"
+                    WIDTH="1021"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0940982a"
+                    
+                    BASELINE="214 884 1625 895" 
+                    HPOS="212"
+                    VPOS="835"
+                    WIDTH="1413"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="214 884 214 835 1625 847 1625 895 1622 911 212 900"/></Shape>
+	    <String CONTENT="دا بوبکرعبدالله بن محمدین شاهاور2 الاسدی الرازی&quot; است. در کتاب الوافی بالوفیات4 بصورت"
+                    HPOS="212"
+                    VPOS="835"
+                    WIDTH="1413"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efd85ace"
+                    
+                    BASELINE="210 957 1625 964" 
+                    HPOS="207"
+                    VPOS="914"
+                    WIDTH="1418"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="210 957 210 914 1625 921 1625 964 1622 981 207 974"/></Shape>
+	    <String CONTENT="کامل تر عيدالله بن محمدبن شاهاور بن انوشروان بن ابی النجیب الاسدی الرازی آمده است . و"
+                    HPOS="207"
+                    VPOS="914"
+                    WIDTH="1418"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8e06cb3"
+                    
+                    BASELINE="360 1027 1629 1034" 
+                    HPOS="357"
+                    VPOS="983"
+                    WIDTH="1272"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="360 1027 360 983 1629 990 1629 1034 1627 1052 357 1045"/></Shape>
+	    <String CONTENT="در شذرات الذهب5 نیز بهمین صورت است، که ظاهرا باید از الوافی گرفته باشد ."
+                    HPOS="357"
+                    VPOS="983"
+                    WIDTH="1272"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4b7c1e1"
+                    
+                    BASELINE="210 1096 1518 1096" 
+                    HPOS="210"
+                    VPOS="1057"
+                    WIDTH="1308"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="210 1096 210 1057 1518 1057 1518 1096 1518 1117 210 1117"/></Shape>
+	    <String CONTENT="القب اونجم الدین است ، و این لقب درمرصاد نیامده ، امادرخاتمهٔ مرموزات بصورت"
+                    HPOS="210"
+                    VPOS="1057"
+                    WIDTH="1308"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ad6f2e8"
+                    
+                    BASELINE="210 1165 1622 1172" 
+                    HPOS="207"
+                    VPOS="1121"
+                    WIDTH="1415"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="210 1165 210 1121 1622 1128 1622 1172 1620 1191 207 1184"/></Shape>
+	    <String CONTENT="&quot;ابوبکربن محمد یعرف بنجم الرازی&quot;6 ، و در تاریخ ابن بیبی7 (که در 680 پایان یافته)"
+                    HPOS="207"
+                    VPOS="1121"
+                    WIDTH="1415"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ba53681"
+                    
+                    BASELINE="205 1234 1615 1241" 
+                    HPOS="203"
+                    VPOS="1191"
+                    WIDTH="1412"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="205 1234 205 1191 1615 1198 1615 1241 1613 1258 203 1251"/></Shape>
+	    <String CONTENT="بصورت &quot;نجم الملمة والدین ... الرازی معروف بدایه&quot; و در مناقب اوحدالدین کرمانی8 (از"
+                    HPOS="203"
+                    VPOS="1191"
+                    WIDTH="1412"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8aaa86d"
+                    
+                    BASELINE="203 1313 1615 1304" 
+                    HPOS="200"
+                    VPOS="1258"
+                    WIDTH="1415"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="203 1313 200 1267 1613 1258 1615 1304 1615 1322 203 1331"/></Shape>
+	    <String CONTENT="تآلیفات نیمهٔ دوم قرن هفتم) &quot; نجم الدین دایه &quot; و درپشت صفحهٔ اول رسالهٔ عقل و عشق"
+                    HPOS="200"
+                    VPOS="1258"
+                    WIDTH="1415"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5afe0135"
+                    
+                    BASELINE="200 1373 881 1382 1618 1373" 
+                    HPOS="198"
+                    VPOS="1324"
+                    WIDTH="1420"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="200 1373 200 1324 881 1334 1615 1324 1618 1373 1618 1391 881 1401 879 1401 198 1391"/></Shape>
+	    <String CONTENT="او مکتوب بسال 9704 بصورت &quot; ... نجم الدین الرازی المعروف بدایه&quot; و در تاریخ گزیده"
+                    HPOS="198"
+                    VPOS="1324"
+                    WIDTH="1420"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72007f2f"
+                    
+                    BASELINE="200 1447 863 1458 1613 1447" 
+                    HPOS="198"
+                    VPOS="1398"
+                    WIDTH="1415"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="200 1447 200 1398 863 1410 1611 1398 1613 1447 1613 1468 863 1479 861 1479 198 1468"/></Shape>
+	    <String CONTENT="حمد مستوفی بصورت &quot; شیخ نجم الدین دایه&quot; و بهمین صورت در الوافی بالوفیات آمده است."
+                    HPOS="198"
+                    VPOS="1398"
+                    WIDTH="1415"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e4c6f99"
+                    
+                    BASELINE="198 1525 1495 1518" 
+                    HPOS="196"
+                    VPOS="1475"
+                    WIDTH="1299"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="198 1525 196 1481 1493 1475 1495 1518 1495 1537 198 1544"/></Shape>
+	    <String CONTENT="با توجه بکلیهٔ منابع نام و نسب کامل او چنین بوده است : و نجم الدین ابوبکر"
+                    HPOS="196"
+                    VPOS="1475"
+                    WIDTH="1299"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_134ed6b5"
+                    
+                    BASELINE="196 1588 1606 1588" 
+                    HPOS="196"
+                    VPOS="1544"
+                    WIDTH="1410"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="196 1588 196 1544 1606 1544 1606 1588 1606 1604 196 1604"/></Shape>
+	    <String CONTENT="عدالله بن محمدبن شاهاوربن انوشروان بن ابی النجیب الاسدی رازی &quot; وچون از آخرین"
+                    HPOS="196"
+                    VPOS="1544"
+                    WIDTH="1410"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2df373d5"
+                    
+                    BASELINE="193 1643 1604 1648" 
+                    HPOS="191"
+                    VPOS="1606"
+                    WIDTH="1413"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="193 1643 193 1606 1604 1611 1604 1648 1602 1668 191 1664"/></Shape>
+	    <String CONTENT="عبارات مرموزات اسدی معلوم میشود که در دورهٔ خود به دنجم رازی&quot; معروف بوده ، اینك"
+                    HPOS="191"
+                    VPOS="1606"
+                    WIDTH="1413"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc75f9c4"
+                    
+                    BASELINE="193 1710 1602 1717" 
+                    HPOS="191"
+                    VPOS="1668"
+                    WIDTH="1411"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="193 1710 193 1668 1602 1675 1602 1717 1599 1738 191 1731"/></Shape>
+	    <String CONTENT="نیزهمین را اسم اصلی اوقرار داده ایم ، ودر روی جلد کتاب و دراین مقدمه بر عایت اختصار"
+                    HPOS="191"
+                    VPOS="1668"
+                    WIDTH="1411"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f9667f7"
+                    
+                    BASELINE="1135 1788 1604 1788" 
+                    HPOS="1135"
+                    VPOS="1747"
+                    WIDTH="469"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1135 1788 1135 1747 1604 1747 1604 1788 1604 1809 1135 1809"/></Shape>
+	    <String CONTENT="همین نام را تکرار کرده ایم."
+                    HPOS="1135"
+                    VPOS="1747"
+                    WIDTH="469"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7b94137"
+                    
+                    BASELINE="1378 1890 1493 1885" 
+                    HPOS="1375"
+                    VPOS="1846"
+                    WIDTH="118"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1378 1890 1375 1851 1491 1846 1493 1885 1493 1904 1378 1908"/></Shape>
+	    <String CONTENT="تخلص"
+                    HPOS="1375"
+                    VPOS="1846"
+                    WIDTH="118"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_699719d3"
+                    
+                    BASELINE="189 1858 1218 1858" 
+                    HPOS="189"
+                    VPOS="1816"
+                    WIDTH="1029"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="189 1858 189 1816 1218 1816 1218 1858 1218 1878 189 1878"/></Shape>
+	    <String CONTENT="درغزلهائی هم که از اودردست داریم درسه مورد تخلص خودرا و نجم&quot;"
+                    HPOS="189"
+                    VPOS="1816"
+                    WIDTH="1029"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0fd317f2"
+                    
+                    BASELINE="295 1920 1216 1920" 
+                    HPOS="295"
+                    VPOS="1876"
+                    WIDTH="921"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="295 1920 295 1876 1216 1876 1216 1920 1216 1936 295 1936"/></Shape>
+	    <String CONTENT="و دریك مورد دنجم رازی&quot; آورده است و آن ابیات این است :"
+                    HPOS="295"
+                    VPOS="1876"
+                    WIDTH="921"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="828"
+                   VPOS="286"
+                   WIDTH="173"
+                   HEIGHT="41"
+                   ID="eSc_textblock_224ce7c5"
+                   TAGREFS="BT959">
+          <Shape><Polygon POINTS="1001 286 1001 324 909 326 833 327 828 286"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f19434db"
+                    
+                    BASELINE="817 307 992 307" 
+                    HPOS="817"
+                    VPOS="281"
+                    WIDTH="175"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="817 307 817 281 992 281 992 307 992 323 817 323"/></Shape>
+	    <String CONTENT="رصادالعباد"
+                    HPOS="817"
+                    VPOS="281"
+                    WIDTH="175"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="156"
+                   VPOS="1979"
+                   WIDTH="1501"
+                   HEIGHT="437"
+                   ID="eSc_textblock_3d372d2c"
+                   TAGREFS="BT961">
+          <Shape><Polygon POINTS="1645 2361 1618 2407 1507 2416 193 2416 156 2306 156 2086 166 2040 161 1986 1657 1979 1655 2095"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_34870315"
+                    
+                    BASELINE="1258 2068 1475 2063" 
+                    HPOS="1255"
+                    VPOS="2026"
+                    WIDTH="220"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1258 2068 1255 2031 1472 2026 1475 2063 1475 2077 1258 2082"/></Shape>
+	    <String CONTENT="1- ص 546"
+                    HPOS="1255"
+                    VPOS="2026"
+                    WIDTH="220"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3168417"
+                    
+                    BASELINE="671 2061 1163 2068" 
+                    HPOS="669"
+                    VPOS="2017"
+                    WIDTH="494"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="671 2061 671 2017 1163 2024 1163 2068 1161 2082 669 2075"/></Shape>
+	    <String CONTENT="2- نسخهٔ خطی کتابخانهٔ ملی ملك"
+                    HPOS="669"
+                    VPOS="2017"
+                    WIDTH="494"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3da9bfd4"
+                    
+                    BASELINE="177 2065 593 2059" 
+                    HPOS="175"
+                    VPOS="2017"
+                    WIDTH="418"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="177 2065 175 2024 590 2017 593 2059 593 2072 177 2079"/></Shape>
+	    <String CONTENT="3_ نام شاهاورجد نجم الدین"
+                    HPOS="175"
+                    VPOS="2017"
+                    WIDTH="418"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64de73df"
+                    
+                    BASELINE="175 2132 1597 2132" 
+                    HPOS="175"
+                    VPOS="2091"
+                    WIDTH="1422"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="175 2132 175 2091 1597 2091 1597 2132 1597 2146 175 2146"/></Shape>
+	    <String CONTENT="بغلط درجلدیتجم کشف الظنون صفحهٔد 49 شاهادرودرجلدششم از آن کتاب صفحه120ٔ شاها نوری"
+                    HPOS="175"
+                    VPOS="2091"
+                    WIDTH="1422"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b56d5459"
+                    
+                    BASELINE="902 2195 1590 2204" 
+                    HPOS="900"
+                    VPOS="2155"
+                    WIDTH="690"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="902 2195 902 2155 1590 2165 1590 2204 1588 2220 900 2211"/></Shape>
+	    <String CONTENT="و در فهرست بلوشه ج 1 شاهورذکرشده است ."
+                    HPOS="900"
+                    VPOS="2155"
+                    WIDTH="690"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4fb7d25e"
+                    
+                    BASELINE="173 2199 780 2195" 
+                    HPOS="170"
+                    VPOS="2153"
+                    WIDTH="610"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="173 2199 170 2158 777 2153 780 2195 780 2213 173 2218"/></Shape>
+	    <String CONTENT="4_ نسخهٔ قدیمی کتا بخانهٔ ملی ملك مورخ"
+                    HPOS="170"
+                    VPOS="2153"
+                    WIDTH="610"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84bb73d8"
+                    
+                    BASELINE="1255 2269 1585 2269" 
+                    HPOS="1255"
+                    VPOS="2232"
+                    WIDTH="330"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1255 2269 1255 2232 1585 2232 1585 2269 1585 2287 1255 2287"/></Shape>
+	    <String CONTENT="788 جزء با نزدهم."
+                    HPOS="1255"
+                    VPOS="2232"
+                    WIDTH="330"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95b07bf8"
+                    
+                    BASELINE="861 2266 1121 2264" 
+                    HPOS="858"
+                    VPOS="2222"
+                    WIDTH="263"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="861 2266 858 2225 1119 2222 1121 2264 1121 2278 861 2280"/></Shape>
+	    <String CONTENT="- شذرات ، چاپ"
+                    HPOS="858"
+                    VPOS="2222"
+                    WIDTH="263"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0f9cb06"
+                    
+                    BASELINE="175 2264 410 2264" 
+                    HPOS="175"
+                    VPOS="2225"
+                    WIDTH="235"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="175 2264 175 2225 410 2225 410 2264 410 2280 175 2280"/></Shape>
+	    <String CONTENT="6- نسخهٔ عكسی"
+                    HPOS="175"
+                    VPOS="2225"
+                    WIDTH="235"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8bba5981"
+                    
+                    BASELINE="1151 2324 1588 2329" 
+                    HPOS="1149"
+                    VPOS="2285"
+                    WIDTH="439"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1151 2324 1151 2285 1588 2289 1588 2329 1585 2347 1149 2342"/></Shape>
+	    <String CONTENT="کتابخانهٔ مرکزی دانشگاه ."
+                    HPOS="1149"
+                    VPOS="2285"
+                    WIDTH="439"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43073210"
+                    
+                    BASELINE="664 2329 1004 2326" 
+                    HPOS="662"
+                    VPOS="2285"
+                    WIDTH="342"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="664 2329 662 2287 1001 2285 1004 2326 1004 2340 664 2342"/></Shape>
+	    <String CONTENT=" چاب عکسی234"
+                    HPOS="662"
+                    VPOS="2285"
+                    WIDTH="342"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5dc9980"
+                    
+                    BASELINE="180 2329 454 2329" 
+                    HPOS="180"
+                    VPOS="2289"
+                    WIDTH="274"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="180 2329 180 2289 454 2289 454 2329 454 2347 180 2347"/></Shape>
+	    <String CONTENT="اب فروزانفر : 38"
+                    HPOS="180"
+                    VPOS="2289"
+                    WIDTH="274"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c70ecec"
+                    
+                    BASELINE="752 2391 1588 2396" 
+                    HPOS="750"
+                    VPOS="2345"
+                    WIDTH="838"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="752 2391 752 2345 1588 2349 1588 2396 1585 2409 750 2405"/></Shape>
+	    <String CONTENT="9- جزومجموعهٔ متعلق بکتا بخانهٔ مجلس شورای ملی و"
+                    HPOS="750"
+                    VPOS="2345"
+                    WIDTH="838"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1934"
+                   VPOS="978"
+                   WIDTH="25"
+                   HEIGHT="35"
+                   ID="eSc_textblock_4933c582"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1959 987 1950 1013 1934 1004 1943 978"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1934"
+                   VPOS="1089"
+                   WIDTH="25"
+                   HEIGHT="118"
+                   ID="eSc_textblock_eb8fdd48"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1934 1198 1943 1089 1959 1126 1950 1207"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1943"
+                   VPOS="1449"
+                   WIDTH="7"
+                   HEIGHT="16"
+                   ID="eSc_textblock_96a7530c"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1943 1465 1943 1449 1950 1449 1950 1465"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1943"
+                   VPOS="941"
+                   WIDTH="16"
+                   HEIGHT="16"
+                   ID="eSc_textblock_6df78cfe"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1943 957 1943 941 1959 941 1959 957"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1934"
+                   VPOS="1274"
+                   WIDTH="44"
+                   HEIGHT="164"
+                   ID="eSc_textblock_3176c7a2"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1934 1410 1943 1274 1978 1357 1950 1438"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Ibn_al_Moqafa_al_adab_al_saghir_wa_adab_al_kabir.pdf_page_5.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT886" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT887" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT888" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT889" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT38" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1767"
+          HEIGHT="2631"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1767"
+                  HEIGHT="2631">
+        
+        <TextBlock HPOS="122"
+                   VPOS="140"
+                   WIDTH="1530"
+                   HEIGHT="2260"
+                   ID="eSc_textblock_3708bc6f"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1608 140 1652 175 1652 2400 122 2400 131 140"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0095bd4e"
+                    
+                    BASELINE="133 210 1615 206" 
+                    HPOS="131"
+                    VPOS="160"
+                    WIDTH="1484"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="133 210 131 164 1613 160 1615 206 1615 221 133 225"/></Shape>
+	    <String CONTENT="وبالإضافة إلى ذلك عرفنا بأسلوب شيق كيف نحسن اختيار الأصدقاء ومعاملتهم،"
+                    HPOS="131"
+                    VPOS="160"
+                    WIDTH="1484"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ed3af13"
+                    
+                    BASELINE="131 304 1617 295" 
+                    HPOS="129"
+                    VPOS="247"
+                    WIDTH="1488"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="131 304 129 256 1615 247 1617 295 1617 309 131 317"/></Shape>
+	    <String CONTENT="والأعداء ومجالستهم ومعاملتهم بالحسنى والعدل، وإيثار الرضى للصديق على"
+                    HPOS="129"
+                    VPOS="247"
+                    WIDTH="1488"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b867d354"
+                    
+                    BASELINE="1332 392 1613 383" 
+                    HPOS="1330"
+                    VPOS="335"
+                    WIDTH="283"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1332 392 1330 344 1611 335 1613 383 1613 401 1332 409"/></Shape>
+	    <String CONTENT="القاضى النبيل."
+                    HPOS="1330"
+                    VPOS="335"
+                    WIDTH="283"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1288fc0"
+                    
+                    BASELINE="127 499 656 508 1198 499 1505 508" 
+                    HPOS="125"
+                    VPOS="445"
+                    WIDTH="1380"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="127 499 127 445 656 453 893 449 1196 445 1198 445 1505 453 1505 508 1503 530 1196 521 895 526 656 530 654 530 125 521"/></Shape>
+	    <String CONTENT="وابن المقفع في كتابه هذا يعترف بعلم السابقين، إذ لهم الفضل في تعليمه"
+                    HPOS="125"
+                    VPOS="445"
+                    WIDTH="1380"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a62e97e"
+                    
+                    BASELINE="127 596 1619 596" 
+                    HPOS="127"
+                    VPOS="548"
+                    WIDTH="1492"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="127 596 127 548 1619 548 1619 596 1619 611 127 611"/></Shape>
+	    <String CONTENT="والأخذ عنهم بقوله: &quot;وقد وضعت في هذا الكتاب من كلام الناس المحفوظ حروفا"
+                    HPOS="127"
+                    VPOS="548"
+                    WIDTH="1492"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_330757ed"
+                    
+                    BASELINE="127 681 302 690 1615 681" 
+                    HPOS="125"
+                    VPOS="631"
+                    WIDTH="1490"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="127 681 129 631 302 640 1613 631 1615 681 1615 697 302 705 300 705 125 697"/></Shape>
+	    <String CONTENT="فيها عون على عمارة القلوب وصقالها وتجلية أبصارها، وإحياء للتفكير وإقامة"
+                    HPOS="125"
+                    VPOS="631"
+                    WIDTH="1490"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf6944f6"
+                    
+                    BASELINE="129 782 1619 769" 
+                    HPOS="127"
+                    VPOS="721"
+                    WIDTH="1492"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="129 782 127 734 1617 721 1619 769 1619 784 129 798"/></Shape>
+	    <String CONTENT="التدبير، ودليل على محامد الأمور ومكارم الأخلاق إن شاء الله. ولكن لا نبخس"
+                    HPOS="127"
+                    VPOS="721"
+                    WIDTH="1492"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0bd2fff"
+                    
+                    BASELINE="129 868 1617 859" 
+                    HPOS="127"
+                    VPOS="811"
+                    WIDTH="1490"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="129 868 127 819 1615 811 1617 859 1617 874 129 883"/></Shape>
+	    <String CONTENT="الأديب حقه إذ كان أول من أدخل الحكمة على العربية، الحكمة الفارسية والهندية"
+                    HPOS="127"
+                    VPOS="811"
+                    WIDTH="1490"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1688b6de"
+                    
+                    BASELINE="129 955 1619 955" 
+                    HPOS="129"
+                    VPOS="909"
+                    WIDTH="1490"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="129 955 129 909 1619 909 1619 955 1619 975 129 975"/></Shape>
+	    <String CONTENT="بالاضافة إلى المنطق اليونانى وعلم الأخلاق وسياسة الاجتماع، وهو أول من ألف"
+                    HPOS="129"
+                    VPOS="909"
+                    WIDTH="1490"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b52bce42"
+                    
+                    BASELINE="566 1048 1619 1052" 
+                    HPOS="564"
+                    VPOS="999"
+                    WIDTH="1055"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="566 1048 566 999 1619 1004 1619 1052 1617 1069 564 1065"/></Shape>
+	    <String CONTENT="وترجم، وسما في كتبه النثر العربى إلى أرفع درجات الفن."
+                    HPOS="564"
+                    VPOS="999"
+                    WIDTH="1055"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5c7def9"
+                    
+                    BASELINE="129 1170 1501 1162" 
+                    HPOS="127"
+                    VPOS="1107"
+                    WIDTH="1374"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="129 1170 127 1115 1499 1107 1501 1162 1501 1177 129 1186"/></Shape>
+	    <String CONTENT="وقد تأثر ابن المقفع في تلك الدراسة الخصبة التى نجدها في &quot;الأدب الصغير"
+                    HPOS="127"
+                    VPOS="1107"
+                    WIDTH="1374"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b43401a"
+                    
+                    BASELINE="131 1254 1622 1254" 
+                    HPOS="131"
+                    VPOS="1210"
+                    WIDTH="1491"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="131 1254 131 1210 1622 1210 1622 1254 1622 1273 131 1273"/></Shape>
+	    <String CONTENT="والأدب الكبير&quot; بعاملين مهمين هما: العصر الذي عاش فيه، والفن الذي اشتغل به"
+                    HPOS="131"
+                    VPOS="1210"
+                    WIDTH="1491"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53e7dd45"
+                    
+                    BASELINE="133 1352 1617 1346" 
+                    HPOS="131"
+                    VPOS="1295"
+                    WIDTH="1486"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="133 1352 131 1302 1615 1295 1617 1346 1617 1359 133 1365"/></Shape>
+	    <String CONTENT="حتى وصل إلى ما كان يشتهى من المنصب والجاه مستقرءا ذلك من التاريخ"
+                    HPOS="131"
+                    VPOS="1295"
+                    WIDTH="1486"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e9a1f7d"
+                    
+                    BASELINE="131 1440 1617 1431" 
+                    HPOS="129"
+                    VPOS="1385"
+                    WIDTH="1488"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="131 1440 129 1394 1615 1385 1617 1431 1617 1449 131 1458"/></Shape>
+	    <String CONTENT="الاسلامى والعباسى. بهذه الثقافة التى حصلها، والعقول التى سبر أغوارها، اقتحم"
+                    HPOS="129"
+                    VPOS="1385"
+                    WIDTH="1488"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_917e909b"
+                    
+                    BASELINE="131 1528 1617 1523" 
+                    HPOS="129"
+                    VPOS="1477"
+                    WIDTH="1488"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="131 1528 129 1482 1615 1477 1617 1523 1617 1539 131 1543"/></Shape>
+	    <String CONTENT="ابن المقفع ميدان البحث الأدبي، فكان كتابه مجموعة من الأفكار المأثورة والحكم"
+                    HPOS="129"
+                    VPOS="1477"
+                    WIDTH="1488"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75020ab2"
+                    
+                    BASELINE="133 1629 357 1615 1619 1609" 
+                    HPOS="129"
+                    VPOS="1561"
+                    WIDTH="1490"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="133 1629 129 1580 353 1567 355 1567 1617 1561 1619 1609 1619 1626 357 1633 133 1646"/></Shape>
+	    <String CONTENT="البليغة - عن أولئك العلماء - ومزجها بأفكاره، فبدت شخصيته واضحة مستقلة بين"
+                    HPOS="129"
+                    VPOS="1561"
+                    WIDTH="1490"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ca30aad"
+                    
+                    BASELINE="131 1712 1617 1705" 
+                    HPOS="129"
+                    VPOS="1655"
+                    WIDTH="1488"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="131 1712 129 1661 1615 1655 1617 1705 1617 1718 131 1725"/></Shape>
+	    <String CONTENT="سمات غيرها من الشخصيات، ولم يكتف بأن يكون جامعا أو ناقلا، بل أراد أن"
+                    HPOS="129"
+                    VPOS="1655"
+                    WIDTH="1488"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_661079e8"
+                    
+                    BASELINE="1095 1797 1619 1797" 
+                    HPOS="1095"
+                    VPOS="1745"
+                    WIDTH="524"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1095 1797 1095 1745 1619 1745 1619 1797 1619 1815 1095 1815"/></Shape>
+	    <String CONTENT="يكون مؤلفا لامعا في الأدب."
+                    HPOS="1095"
+                    VPOS="1745"
+                    WIDTH="524"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ae39e23"
+                    
+                    BASELINE="129 1911 1507 1911" 
+                    HPOS="129"
+                    VPOS="1868"
+                    WIDTH="1378"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="129 1911 129 1868 1507 1868 1507 1911 1507 1927 129 1927"/></Shape>
+	    <String CONTENT="الذلك عملنا على تحقيق هذا الكتاب للناشئة العربية وطلاب هذا اللسان"
+                    HPOS="129"
+                    VPOS="1868"
+                    WIDTH="1378"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d7b85c6"
+                    
+                    BASELINE="136 2010 777 1999 1617 2001" 
+                    HPOS="133"
+                    VPOS="1946"
+                    WIDTH="1484"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="136 2010 133 1957 774 1946 777 1946 1617 1949 1617 2001 1615 2019 777 2017 136 2028"/></Shape>
+	    <String CONTENT="الذين يريدون الوقوف على الإفادة من &quot;الأدب الصغير والأدب الكبير&quot; لما فيه من"
+                    HPOS="133"
+                    VPOS="1946"
+                    WIDTH="1484"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43ae7173"
+                    
+                    BASELINE="136 2098 1619 2087" 
+                    HPOS="133"
+                    VPOS="2041"
+                    WIDTH="1486"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="136 2098 133 2052 1617 2041 1619 2087 1619 2104 136 2115"/></Shape>
+	    <String CONTENT="تحليل قيم لمشاكل جيلنا في هذه الظروف العصيبة التى مرت بهم، وبالتالى هم"
+                    HPOS="133"
+                    VPOS="2041"
+                    WIDTH="1486"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3ec9f41"
+                    
+                    BASELINE="133 2181 1611 2177" 
+                    HPOS="131"
+                    VPOS="2131"
+                    WIDTH="1480"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="133 2181 131 2135 1608 2131 1611 2177 1611 2196 133 2201"/></Shape>
+	    <String CONTENT="حوج إليها في هذا الوقت بعينه، حتى يظل الإنسان مميزا عن سائر الكائنات الحية"
+                    HPOS="131"
+                    VPOS="2131"
+                    WIDTH="1480"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f08fe0a6"
+                    
+                    BASELINE="138 2275 1619 2269" 
+                    HPOS="136"
+                    VPOS="2223"
+                    WIDTH="1483"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="138 2275 136 2229 1617 2223 1619 2269 1619 2286 138 2293"/></Shape>
+	    <String CONTENT="بالعقل الذى هو أداته لحسن التدبير الذي يؤدي به إلى العمران فالحضارة التى تقوم"
+                    HPOS="136"
+                    VPOS="2223"
+                    WIDTH="1483"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5142857e"
+                    
+                    BASELINE="1385 2359 1619 2354" 
+                    HPOS="1382"
+                    VPOS="2308"
+                    WIDTH="237"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1385 2359 1382 2313 1617 2308 1619 2354 1619 2372 1385 2376"/></Shape>
+	    <String CONTENT="على العدل."
+                    HPOS="1382"
+                    VPOS="2308"
+                    WIDTH="237"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="864"
+                   VPOS="2461"
+                   WIDTH="48"
+                   HEIGHT="66"
+                   ID="eSc_textblock_439f1d3c"
+                   TAGREFS="BT888">
+          <Shape><Polygon POINTS="912 2461 912 2527 864 2527 864 2461"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

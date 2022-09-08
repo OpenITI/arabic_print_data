@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>rashid_al_din_vatvat_divan.pdf_page_3.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1260" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1261" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1262" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1263" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1264" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1595"
+          HEIGHT="2683"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1595"
+                  HEIGHT="2683">
+        
+        <TextBlock HPOS="72"
+                   VPOS="865"
+                   WIDTH="1474"
+                   HEIGHT="1649"
+                   ID="eSc_textblock_d6396d49"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1546 2514 1546 865 72 865 72 2514"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1070"
+                   VPOS="772"
+                   WIDTH="336"
+                   HEIGHT="84"
+                   ID="eSc_textblock_a78cf66a"
+                   TAGREFS="BT1260">
+          <Shape><Polygon POINTS="1070 772 1070 856 1406 856 1406 772"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="691"
+                   VPOS="622"
+                   WIDTH="227"
+                   HEIGHT="115"
+                   ID="eSc_textblock_8c97546f"
+                   TAGREFS="BT1260">
+          <Shape><Polygon POINTS="691 622 691 737 918 737 918 622"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_b0b70cad"
+                    
+                    BASELINE="1060 820 1391 820" 
+                    HPOS="1060"
+                    VPOS="775"
+                    WIDTH="331"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1060 820 1060 775 1391 775 1391 820 1391 836 1060 836"/></Shape>
+	    <String CONTENT="1- زند گی رشید"
+                    HPOS="1060"
+                    VPOS="775"
+                    WIDTH="331"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aeafcbd1"
+                    
+                    BASELINE="73 912 1395 912" 
+                    HPOS="73"
+                    VPOS="867"
+                    WIDTH="1322"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="73 912 73 867 1395 867 1395 912 1395 927 73 927"/></Shape>
+	    <String CONTENT=" دراحوال امام سعدالملك رشیدالدین محمدبن محمدبن عبدالجلیل عمری کاتب"
+                    HPOS="73"
+                    VPOS="867"
+                    WIDTH="1322"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_079d0654"
+                    
+                    BASELINE="73 1010 1507 1001" 
+                    HPOS="71"
+                    VPOS="952"
+                    WIDTH="1436"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="73 1010 71 961 1505 952 1507 1001 1507 1015 73 1024"/></Shape>
+	    <String CONTENT="بلخی معروف برشید وطواط شاعر نامی قرن ششم همکار و دوست ناماور من مرحوم"
+                    HPOS="71"
+                    VPOS="952"
+                    WIDTH="1436"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9592f07d"
+                    
+                    BASELINE="76 1102 1509 1088" 
+                    HPOS="73"
+                    VPOS="1037"
+                    WIDTH="1436"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="76 1102 73 1050 1507 1037 1509 1088 1509 1102 76 1115"/></Shape>
+	    <String CONTENT="عباس اقبال آشتیانی که نایدیدشدنش از میان ما از ناسر انجامیهای این روز گار بود در"
+                    HPOS="73"
+                    VPOS="1037"
+                    WIDTH="1436"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3f1c5c9"
+                    
+                    BASELINE="76 1187 1509 1176" 
+                    HPOS="73"
+                    VPOS="1126"
+                    WIDTH="1436"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="76 1187 73 1138 1507 1126 1509 1176 1509 1191 76 1202"/></Shape>
+	    <String CONTENT="مقدمهٔ کتاب &quot;حدایق السحر فی دقایق الشعر&quot; که در طهران در 1308 منتشر کرده حق"
+                    HPOS="73"
+                    VPOS="1126"
+                    WIDTH="1436"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2105c058"
+                    
+                    BASELINE="73 1278 1507 1269" 
+                    HPOS="71"
+                    VPOS="1218"
+                    WIDTH="1436"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="73 1278 71 1227 1505 1218 1507 1269 1507 1283 73 1292"/></Shape>
+	    <String CONTENT="سخن را گزارده است. درین جاتنها کلیات مطلب رامکرر می کنم وجزییات را بهمان"
+                    HPOS="71"
+                    VPOS="1218"
+                    WIDTH="1436"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2215506e"
+                    
+                    BASELINE="73 1357 966 1368 1507 1354" 
+                    HPOS="71"
+                    VPOS="1301"
+                    WIDTH="1436"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="73 1357 73 1303 964 1314 1505 1301 1507 1354 1507 1372 966 1386 964 1386 71 1375"/></Shape>
+	    <String CONTENT="مقدمهٔ عالمانهٔ آن مرحوم محول میدارم و چند نکته ای را که از آن دانشمند فوت"
+                    HPOS="71"
+                    VPOS="1301"
+                    WIDTH="1436"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29e4f83d"
+                    
+                    BASELINE="1136 1455 1509 1446" 
+                    HPOS="1134"
+                    VPOS="1404"
+                    WIDTH="375"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1136 1455 1134 1413 1507 1404 1509 1446 1509 1462 1136 1471"/></Shape>
+	    <String CONTENT="شده است می افزایم ."
+                    HPOS="1134"
+                    VPOS="1404"
+                    WIDTH="375"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63076924"
+                    
+                    BASELINE="71 1547 1380 1542" 
+                    HPOS="69"
+                    VPOS="1491"
+                    WIDTH="1311"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="71 1547 69 1495 1378 1491 1380 1542 1380 1558 71 1562"/></Shape>
+	    <String CONTENT="رشید وطواط در شهر بلخ بجهان آمده است . چون برخی از تذ کره نویسان"
+                    HPOS="69"
+                    VPOS="1491"
+                    WIDTH="1311"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f404fe7a"
+                    
+                    BASELINE="73 1629 1239 1636 1503 1625" 
+                    HPOS="71"
+                    VPOS="1576"
+                    WIDTH="1432"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="73 1629 73 1580 1237 1587 1501 1576 1503 1625 1503 1647 1239 1658 1237 1658 71 1652"/></Shape>
+	    <String CONTENT="نوشتهاند که وی 97 سال درجهان مانده است و درست ترین گفتار در بارهٔ مرک"
+                    HPOS="71"
+                    VPOS="1576"
+                    WIDTH="1432"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17e4f825"
+                    
+                    BASELINE="73 1717 1503 1732" 
+                    HPOS="71"
+                    VPOS="1674"
+                    WIDTH="1432"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="73 1717 73 1674 1503 1690 1503 1732 1501 1746 71 1730"/></Shape>
+	    <String CONTENT="وی سال 573 است می بایست در 476 بجهان امده باشد. شهر بلخ در مدت صد"
+                    HPOS="71"
+                    VPOS="1674"
+                    WIDTH="1432"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8184fbce"
+                    
+                    BASELINE="71 1824 1507 1813" 
+                    HPOS="69"
+                    VPOS="1759"
+                    WIDTH="1438"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="71 1824 69 1770 1505 1759 1507 1813 1507 1828 71 1840"/></Shape>
+	    <String CONTENT="سال از پایان قرن پنجم تا پایان قرن ششم یکی از بزرگترین و آباد ترین شهرهای"
+                    HPOS="69"
+                    VPOS="1759"
+                    WIDTH="1438"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53fcd846"
+                    
+                    BASELINE="73 1898 1498 1911" 
+                    HPOS="71"
+                    VPOS="1851"
+                    WIDTH="1427"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="73 1898 73 1851 1498 1864 1498 1911 1496 1927 71 1913"/></Shape>
+	    <String CONTENT="آن سوی خراسان بود زیرا که از 389 که سامانیان بدست پادشاهان ترك سلسهٔ"
+                    HPOS="71"
+                    VPOS="1851"
+                    WIDTH="1427"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0024d46a"
+                    
+                    BASELINE="71 1994 1503 1994" 
+                    HPOS="71"
+                    VPOS="1951"
+                    WIDTH="1432"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="71 1994 71 1951 1503 1951 1503 1994 1503 2012 71 2012"/></Shape>
+	    <String CONTENT="خانیان ویا خانیه ویا آل افراسیاب که بایلمك خانیان معروف شده اند بر افتادند دشت"
+                    HPOS="71"
+                    VPOS="1951"
+                    WIDTH="1432"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dca3b699"
+                    
+                    BASELINE="71 2083 1011 2097 1501 2090" 
+                    HPOS="69"
+                    VPOS="2027"
+                    WIDTH="1432"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="71 2083 71 2027 1011 2041 1498 2034 1501 2090 1501 2108 1011 2115 1008 2115 69 2101"/></Shape>
+	    <String CONTENT="خاوران یاصحرای فراقوم امروز که شهر بلخ در حاشیهٔ شرقی آن ساخته شده است"
+                    HPOS="69"
+                    VPOS="2027"
+                    WIDTH="1432"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82faa06e"
+                    
+                    BASELINE="71 2177 1505 2182" 
+                    HPOS="69"
+                    VPOS="2128"
+                    WIDTH="1436"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="71 2177 71 2128 1505 2132 1505 2182 1503 2193 69 2188"/></Shape>
+	    <String CONTENT="میدان تاخت و تاز بیگانگان شد. نخست لشکریان سلسهٔ خانیان که قلمر و سامانیان"
+                    HPOS="69"
+                    VPOS="2128"
+                    WIDTH="1436"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff0ac11e"
+                    
+                    BASELINE="71 2267 1507 2278" 
+                    HPOS="69"
+                    VPOS="2215"
+                    WIDTH="1438"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="71 2267 71 2215 1507 2226 1507 2278 1505 2291 69 2280"/></Shape>
+	    <String CONTENT="را در میان خود و خاندان ترك دیگری یعنی ناصر الدین سبکتگین و باز ماندگان"
+                    HPOS="69"
+                    VPOS="2215"
+                    WIDTH="1438"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2fdf29d8"
+                    
+                    BASELINE="73 2365 1498 2365" 
+                    HPOS="73"
+                    VPOS="2318"
+                    WIDTH="1425"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="73 2365 73 2318 1498 2318 1498 2365 1498 2381 73 2381"/></Shape>
+	    <String CONTENT="غزنوی او تقسیم کرده بودند بارهابا شریکان خوددر افتادند. سپس دردورهٔ غزنویان"
+                    HPOS="73"
+                    VPOS="2318"
+                    WIDTH="1425"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94185e71"
+                    
+                    BASELINE="71 2457 1501 2457" 
+                    HPOS="71"
+                    VPOS="2410"
+                    WIDTH="1430"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="71 2457 71 2410 1501 2410 1501 2457 1501 2472 71 2472"/></Shape>
+	    <String CONTENT="تر کمانان سلجوقی وارد این سرزمین شدند و ایشان نیز باخانیان بارها زد و خورد"
+                    HPOS="71"
+                    VPOS="2410"
+                    WIDTH="1430"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19dfe72b"
+                    
+                    BASELINE="711 686 879 686" 
+                    HPOS="711"
+                    VPOS="637"
+                    WIDTH="168"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="711 686 711 637 879 637 879 686 879 704 711 704"/></Shape>
+	    <String CONTENT="هاچه"
+                    HPOS="711"
+                    VPOS="637"
+                    WIDTH="168"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

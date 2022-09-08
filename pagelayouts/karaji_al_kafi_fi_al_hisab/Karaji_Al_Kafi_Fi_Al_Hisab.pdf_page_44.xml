@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Karaji_Al_Kafi_Fi_Al_Hisab.pdf_page_44.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1044" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1045" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT1046" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1047" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1048" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    <OtherTag ID="LT62" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2194"
+          HEIGHT="2999"
+          PHYSICAL_IMG_NR="43"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2194"
+                  HEIGHT="2999">
+        
+        <TextBlock HPOS="410"
+                   VPOS="289"
+                   WIDTH="1593"
+                   HEIGHT="1174"
+                   ID="eSc_textblock_9b5cad71"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1973 1047 2003 1339 1973 1457 1830 1463 1830 1441 430 1441 410 429 450 289 1963 299 1993 329"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bbdf338c"
+                    
+                    BASELINE="295 344 1938 359" 
+                    HPOS="292"
+                    VPOS="292"
+                    WIDTH="1646"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="295 344 295 292 1938 307 1938 359 1936 374 292 359"/></Shape>
+	    <String CONTENT="من نسبة ، ستة وثلاثين من خمسة وعشرين ، أعنى واحداً وخمسين وخمس م 8ج"
+                    HPOS="292"
+                    VPOS="292"
+                    WIDTH="1646"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4495da3c"
+                    
+                    BASELINE="427 417 1936 434" 
+                    HPOS="425"
+                    VPOS="369"
+                    WIDTH="1511"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="427 417 427 369 1936 387 1936 434 1933 454 425 437"/></Shape>
+	    <String CONTENT="خمس ، وإذا ربعت الستة والثلاثين ثم ضربنا المبلغ ، فيما يكون من نسبة"
+                    HPOS="425"
+                    VPOS="369"
+                    WIDTH="1511"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ac34211"
+                    
+                    BASELINE="590 494 868 509 1941 512" 
+                    HPOS="587"
+                    VPOS="442"
+                    WIDTH="1354"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="590 494 592 442 868 457 1941 459 1941 512 1938 534 865 532 865 532 587 517"/></Shape>
+	    <String CONTENT="خمسة وعشرين من ستة وثلاثين ، أعني ثلثي واحد وربع تسع واحد(1) ."
+                    HPOS="587"
+                    VPOS="442"
+                    WIDTH="1354"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11b901df"
+                    TAGREFS="LT62"
+                    BASELINE="1636 637 1936 632" 
+                    HPOS="1633"
+                    VPOS="577"
+                    WIDTH="303"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1636 637 1633 582 1933 577 1936 632 1936 664 1636 669"/></Shape>
+	    <String CONTENT="الباب التاسع"
+                    HPOS="1633"
+                    VPOS="577"
+                    WIDTH="303"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aaa6215f"
+                    
+                    BASELINE="442 722 1786 739" 
+                    HPOS="440"
+                    VPOS="672"
+                    WIDTH="1346"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="442 722 442 672 1786 689 1786 739 1783 757 440 739"/></Shape>
+	    <String CONTENT="باب الميزان ، إذا أردت أن تعرف صحة ضرب قد عملته من خطأ به"
+                    HPOS="440"
+                    VPOS="672"
+                    WIDTH="1346"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e54caacd"
+                    
+                    BASELINE="450 809 1941 819" 
+                    HPOS="447"
+                    VPOS="757"
+                    WIDTH="1494"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="450 809 450 757 1941 767 1941 819 1938 832 447 822"/></Shape>
+	    <String CONTENT="جئت إلى المضروب وأخذت عدد عقود اعداده المفردة ، وحفظت ما كان من"
+                    HPOS="447"
+                    VPOS="757"
+                    WIDTH="1494"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b066d9e8"
+                    
+                    BASELINE="445 889 1936 897" 
+                    HPOS="442"
+                    VPOS="834"
+                    WIDTH="1494"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="445 889 445 834 1936 842 1936 897 1933 909 442 902"/></Shape>
+	    <String CONTENT="ذلك ان كان دون التسعة ، وان كان أكثر منها رددته إلى مادونها أو إلى"
+                    HPOS="442"
+                    VPOS="834"
+                    WIDTH="1494"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68b9aaba"
+                    
+                    BASELINE="452 964 1933 972" 
+                    HPOS="450"
+                    VPOS="917"
+                    WIDTH="1483"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="452 964 452 917 1933 924 1933 972 1931 992 450 984"/></Shape>
+	    <String CONTENT="مثلها ، بالقائها منه مرة بعد مرة ، وحفظت مابقى منه وعملت. مثل هذا العمل"
+                    HPOS="450"
+                    VPOS="917"
+                    WIDTH="1483"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe74868c"
+                    
+                    BASELINE="457 1037 1933 1054" 
+                    HPOS="455"
+                    VPOS="992"
+                    WIDTH="1478"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="457 1037 457 992 1933 1009 1933 1054 1931 1074 455 1057"/></Shape>
+	    <String CONTENT="باعداد المضروب فيه ، فما كان من ذلك ، ضربته في المحفوظ ، وحفظت المبلغ ،"
+                    HPOS="455"
+                    VPOS="992"
+                    WIDTH="1478"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbc6b74d"
+                    
+                    BASELINE="455 1119 1936 1129" 
+                    HPOS="452"
+                    VPOS="1069"
+                    WIDTH="1484"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="455 1119 455 1069 1936 1079 1936 1129 1933 1147 452 1137"/></Shape>
+	    <String CONTENT="فانه الميزان ، ان كان دون التسعة ، أو مثلها ، وان كان أكثر من التسعة ، القيتها"
+                    HPOS="452"
+                    VPOS="1069"
+                    WIDTH="1484"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c5697cb"
+                    
+                    BASELINE="452 1194 1363 1214 1938 1207" 
+                    HPOS="450"
+                    VPOS="1139"
+                    WIDTH="1488"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="452 1194 452 1139 1363 1159 1936 1152 1938 1207 1938 1232 1363 1239 1360 1239 450 1219"/></Shape>
+	    <String CONTENT="منه مرة بعد مرة ، حتى يبقى مادونها أو مثلها ، وحفظت الباقي ، فانه يكون"
+                    HPOS="450"
+                    VPOS="1139"
+                    WIDTH="1488"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_491a5cc5"
+                    
+                    BASELINE="455 1272 1045 1289 1933 1284" 
+                    HPOS="452"
+                    VPOS="1219"
+                    WIDTH="1481"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="455 1272 455 1219 1045 1237 1931 1232 1933 1284 1933 1314 1045 1319 1043 1319 452 1302"/></Shape>
+	    <String CONTENT="الميزان(2) ، ثم عملت بالمبلغ من الضرب عملك بالمضروب فإن كان الحاصل منه"
+                    HPOS="452"
+                    VPOS="1219"
+                    WIDTH="1481"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e52c439"
+                    
+                    BASELINE="1050 1359 1931 1372" 
+                    HPOS="1048"
+                    VPOS="1314"
+                    WIDTH="883"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1050 1359 1050 1314 1931 1327 1931 1372 1928 1399 1048 1387"/></Shape>
+	    <String CONTENT="مثل الميزان ، فالضرب صحيح وان خالفه بزيادة"
+                    HPOS="1048"
+                    VPOS="1314"
+                    WIDTH="883"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="300"
+                   VPOS="1698"
+                   WIDTH="1673"
+                   HEIGHT="888"
+                   ID="eSc_textblock_2d348d4e"
+                   TAGREFS="BT1044">
+          <Shape><Polygon POINTS="717 2416 610 2396 587 2256 517 2296 470 2276 397 2076 310 2106 300 2029 360 1946 300 1916 310 1799 347 1789 357 1856 407 1859 470 1729 590 1709 1946 1698 1973 2546 1205 2586 788 2546"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1103367f"
+                    
+                    BASELINE="567 1766 1916 1781" 
+                    HPOS="565"
+                    VPOS="1719"
+                    WIDTH="1351"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="567 1766 567 1719 1916 1734 1916 1781 1913 1799 565 1784"/></Shape>
+	    <String CONTENT="1- (ستة وثلاثين ضربتها فيما يكون من نسبة) (:) غ ؟ ستة وثلاثين : ستة وثلثين م أد"
+                    HPOS="565"
+                    VPOS="1719"
+                    WIDTH="1351"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97e494c7"
+                    
+                    BASELINE="300 1819 1903 1841" 
+                    HPOS="297"
+                    VPOS="1779"
+                    WIDTH="1606"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="300 1819 300 1779 1903 1801 1903 1841 1901 1861 297 1839"/></Shape>
+	    <String CONTENT="- خمس : * (ضربنا ذلك في ستمئة وخمسة وعشرين فبلغ تسعمئة وهو الجواب وان شئت) د؛ واذا ربعت :"
+                    HPOS="297"
+                    VPOS="1779"
+                    WIDTH="1606"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79582a64"
+                    
+                    BASELINE="305 1889 1831 1901" 
+                    HPOS="302"
+                    VPOS="1844"
+                    WIDTH="1529"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="305 1889 305 1844 1831 1856 1831 1901 1828 1919 302 1906"/></Shape>
+	    <String CONTENT="وان شيئت ربعنا د ؛ الستة والثلاثين : ستة وثلثين د : الستة والثلثين م أغ ؛ ثم ضربنا المبلغ : ضربتها م أغ ؛"
+                    HPOS="302"
+                    VPOS="1844"
+                    WIDTH="1529"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fbb89fd"
+                    
+                    BASELINE="1561 1961 1833 1966" 
+                    HPOS="1558"
+                    VPOS="1916"
+                    WIDTH="275"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1561 1961 1561 1916 1833 1921 1833 1966 1831 1984 1558 1979"/></Shape>
+	    <String CONTENT="فيما يكون : في د"
+                    HPOS="1558"
+                    VPOS="1916"
+                    WIDTH="275"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4f19c5e"
+                    
+                    BASELINE="1358 2024 1918 2029" 
+                    HPOS="1355"
+                    VPOS="1979"
+                    WIDTH="563"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1358 2024 1358 1979 1918 1984 1918 2029 1916 2046 1355 2041"/></Shape>
+	    <String CONTENT="3 - ستة وثلاثين : ستة وثلثين م أد"
+                    HPOS="1355"
+                    VPOS="1979"
+                    WIDTH="563"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e56937d5"
+                    
+                    BASELINE="297 2069 1916 2089" 
+                    HPOS="295"
+                    VPOS="2024"
+                    WIDTH="1621"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="297 2069 297 2024 1916 2044 1916 2089 1913 2109 295 2089"/></Shape>
+	    <String CONTENT="4- باب الميزان : (؟) م : باب1 ذكر الميزان غ : باب ذكر الميزان أ؟ صحة : * (:) الميزان"
+                    HPOS="295"
+                    VPOS="2024"
+                    WIDTH="1621"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a92a2d7f"
+                    
+                    BASELINE="1105 2141 1836 2149" 
+                    HPOS="1103"
+                    VPOS="2106"
+                    WIDTH="733"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1105 2141 1105 2106 1836 2114 1836 2149 1833 2166 1103 2159"/></Shape>
+	    <String CONTENT="وصحة م ؛ ضرب قد عملته : ضرب ماقد عملته د"
+                    HPOS="1103"
+                    VPOS="2106"
+                    WIDTH="733"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68ca37ba"
+                    
+                    BASELINE="918 2206 1916 2214" 
+                    HPOS="915"
+                    VPOS="2164"
+                    WIDTH="1001"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="918 2206 918 2164 1916 2171 1916 2214 1913 2229 915 2221"/></Shape>
+	    <String CONTENT="6- المضروب : المضروبين د ؛ عدد : عقدد ؛ وحفظت : (2)"
+                    HPOS="915"
+                    VPOS="2164"
+                    WIDTH="1001"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_015173c4"
+                    
+                    BASELINE="1230 2269 1926 2269" 
+                    HPOS="1230"
+                    VPOS="2234"
+                    WIDTH="696"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1230 2269 1230 2234 1926 2234 1926 2269 1926 2289 1230 2289"/></Shape>
+	    <String CONTENT="7- ذلك : المضروب م ؛ رددته : رددتها د"
+                    HPOS="1230"
+                    VPOS="2234"
+                    WIDTH="696"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d6d03ad"
+                    
+                    BASELINE="1085 2326 1918 2334" 
+                    HPOS="1083"
+                    VPOS="2286"
+                    WIDTH="835"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1085 2326 1085 2286 1918 2294 1918 2334 1916 2356 1083 2349"/></Shape>
+	    <String CONTENT="8 - بالقائها : بالقايه م : بالقايها أدغ ؛ هذا : -د"
+                    HPOS="1083"
+                    VPOS="2286"
+                    WIDTH="835"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d45df502"
+                    
+                    BASELINE="1223 2459 1918 2459" 
+                    HPOS="1223"
+                    VPOS="2416"
+                    WIDTH="695"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1223 2459 1223 2416 1918 2416 1918 2459 1918 2479 1223 2479"/></Shape>
+	    <String CONTENT="10/9- المبلغ فانه : (7) م : * يكون د"
+                    HPOS="1223"
+                    VPOS="2416"
+                    WIDTH="695"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5a75250"
+                    
+                    BASELINE="1295 2519 1906 2514" 
+                    HPOS="1293"
+                    VPOS="2476"
+                    WIDTH="613"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1295 2519 1293 2481 1903 2476 1906 2514 1906 2534 1295 2539"/></Shape>
+	    <String CONTENT="1- وان : ان أ؟ من التسعة : منها د"
+                    HPOS="1293"
+                    VPOS="2476"
+                    WIDTH="613"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="315"
+                   VPOS="1070"
+                   WIDTH="75"
+                   HEIGHT="75"
+                   ID="eSc_textblock_d2d72435"
+                   TAGREFS="BT1045">
+          <Shape><Polygon POINTS="315 1070 315 1145 390 1145 390 1070"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e58c691c"
+                    
+                    BASELINE="335 1117 352 1114" 
+                    HPOS="327"
+                    VPOS="1074"
+                    WIDTH="25"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="335 1117 327 1077 345 1074 352 1114 352 1129 335 1132"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="327"
+                    VPOS="1074"
+                    WIDTH="25"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="989"
+                   VPOS="2593"
+                   WIDTH="225"
+                   HEIGHT="60"
+                   ID="eSc_textblock_7774f219"
+                   TAGREFS="BT1046">
+          <Shape><Polygon POINTS="1214 2593 1214 2653 989 2653 989 2593"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e443ae0b"
+                    
+                    BASELINE="1000 2629 1183 2629" 
+                    HPOS="1000"
+                    VPOS="2586"
+                    WIDTH="183"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1000 2629 1000 2586 1183 2586 1183 2629 1183 2641 1000 2641"/></Shape>
+	    <String CONTENT="47"
+                    HPOS="1000"
+                    VPOS="2586"
+                    WIDTH="183"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="280"
+                   VPOS="286"
+                   WIDTH="128"
+                   HEIGHT="89"
+                   ID="eSc_textblock_e8b88eff"
+                   TAGREFS="BT1045">
+          <Shape><Polygon POINTS="280 286 280 375 408 375 408 286"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1128"
+                   VPOS="2619"
+                   WIDTH="87"
+                   HEIGHT="17"
+                   ID="eSc_textblock_fa419f03"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1215 2636 1128 2636 1185 2629 1188 2619"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="294"
+                   VPOS="707"
+                   WIDTH="46"
+                   HEIGHT="25"
+                   ID="eSc_textblock_d186a97a"
+                   TAGREFS="BT1045">
+          <Shape><Polygon POINTS="294 707 294 732 340 732 340 707"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

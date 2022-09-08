@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Majlesi_Mafatih_Al_Ghayb.pdf_page_15.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1305" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1306" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1307" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1308" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1309" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="68"
+                   VPOS="585"
+                   WIDTH="1968"
+                   HEIGHT="1987"
+                   ID="eSc_textblock_bf49d6f1"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2036 2572 2036 585 68 585 68 2572"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="309"
+                   VPOS="2596"
+                   WIDTH="1644"
+                   HEIGHT="605"
+                   ID="eSc_textblock_daf3e553"
+                   TAGREFS="BT1309">
+          <Shape><Polygon POINTS="1953 3201 1953 2596 309 2596 309 3201"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1847"
+                   VPOS="455"
+                   WIDTH="106"
+                   HEIGHT="67"
+                   ID="eSc_textblock_58519666"
+                   TAGREFS="BT1307">
+          <Shape><Polygon POINTS="1847 455 1847 522 1953 522 1953 455"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="63"
+                   VPOS="421"
+                   WIDTH="338"
+                   HEIGHT="140"
+                   ID="eSc_textblock_03c14610"
+                   TAGREFS="BT1305">
+          <Shape><Polygon POINTS="401 561 401 421 63 421 63 561"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_0eb8b0a8"
+                    
+                    BASELINE="1859 494 1911 488" 
+                    HPOS="1853"
+                    VPOS="447"
+                    WIDTH="58"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1859 494 1853 453 1906 447 1911 488 1911 508 1859 514"/></Shape>
+	    <String CONTENT="12"
+                    HPOS="1853"
+                    VPOS="447"
+                    WIDTH="58"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08c0910e"
+                    
+                    BASELINE="116 640 435 654 1944 640" 
+                    HPOS="114"
+                    VPOS="578"
+                    WIDTH="1830"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="116 640 116 578 435 593 1941 578 1944 640 1944 666 435 681 432 681 114 666"/></Shape>
+	    <String CONTENT="دارد، تا آن که خداوند رحیم او را به خود نگذارد، و در هر میسور و معسور مدبر امور 51"
+                    HPOS="114"
+                    VPOS="578"
+                    WIDTH="1830"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be4101d4"
+                    
+                    BASELINE="105 745 388 760 1259 760 1935 742" 
+                    HPOS="102"
+                    VPOS="672"
+                    WIDTH="1833"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="105 745 108 675 388 689 1257 689 1932 672 1935 742 1935 774 1259 792 1259 792 388 792 385 792 102 777"/></Shape>
+	    <String CONTENT="گردد، و به فحوای (1... و من يتوکل على الله فهوحشبه...) 3حق تعالی کافی مهمات اد"
+                    HPOS="102"
+                    VPOS="672"
+                    WIDTH="1833"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5cd70e3"
+                    
+                    BASELINE="938 865 1946 847" 
+                    HPOS="935"
+                    VPOS="792"
+                    WIDTH="1011"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="938 865 935 809 1944 792 1946 847 1946 871 938 888"/></Shape>
+	    <String CONTENT="باشد، و این مرتبه اعلای درجات مقربان است."
+                    HPOS="935"
+                    VPOS="792"
+                    WIDTH="1011"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b6c3247"
+                    
+                    BASELINE="93 958 923 970 1821 955" 
+                    HPOS="90"
+                    VPOS="894"
+                    WIDTH="1731"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="93 958 93 897 920 909 1818 894 1821 955 1821 985 923 999 920 999 90 988"/></Shape>
+	    <String CONTENT="و به سندهای بسیار، شیخ مفید و سید بن طاووس و دیگران از حضرت امام جعفر"
+                    HPOS="90"
+                    VPOS="894"
+                    WIDTH="1731"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fed770f2"
+                    
+                    BASELINE="99 1061 917 1075 1952 1061" 
+                    HPOS="96"
+                    VPOS="996"
+                    WIDTH="1856"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="99 1061 99 996 917 1011 1949 996 1952 1061 1952 1093 917 1107 915 1107 96 1093"/></Shape>
+	    <String CONTENT="صادق (علیه السلام) روایت کرده اند که حق تعالی می فرماید که از جمله شقاوت بنده"
+                    HPOS="96"
+                    VPOS="996"
+                    WIDTH="1856"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25e5412b"
+                    
+                    BASELINE="695 1181 1946 1163" 
+                    HPOS="692"
+                    VPOS="1105"
+                    WIDTH="1254"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="695 1181 692 1122 1944 1105 1946 1163 1946 1186 695 1204"/></Shape>
+	    <String CONTENT="من آن است که کارها کند و طلب خر خود از من ننماید2."
+                    HPOS="692"
+                    VPOS="1105"
+                    WIDTH="1254"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7803921e"
+                    
+                    BASELINE="96 1277 1812 1277" 
+                    HPOS="96"
+                    VPOS="1219"
+                    WIDTH="1716"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="96 1277 96 1219 1812 1219 1812 1277 1812 1303 96 1303"/></Shape>
+	    <String CONTENT="و سید و برقی، به سندهای معتبر از حضرت صادق (علیه السلام) روایت کرده اند"
+                    HPOS="96"
+                    VPOS="1219"
+                    WIDTH="1716"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fb1e7e2"
+                    
+                    BASELINE="96 1379 991 1391 1932 1373" 
+                    HPOS="93"
+                    VPOS="1303"
+                    WIDTH="1839"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="96 1379 96 1309 988 1321 1929 1303 1932 1373 1932 1403 991 1420 988 1420 93 1409"/></Shape>
+	    <String CONTENT="که هر که در امری بدون استخاره داخل شود و به بلایی مبتلا شود، خدا او را در آن بلاء"
+                    HPOS="93"
+                    VPOS="1303"
+                    WIDTH="1839"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15247da1"
+                    
+                    BASELINE="1634 1479 1941 1485" 
+                    HPOS="1631"
+                    VPOS="1420"
+                    WIDTH="310"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1634 1479 1634 1420 1941 1426 1941 1485 1938 1511 1631 1505"/></Shape>
+	    <String CONTENT="اجری ندهد."
+                    HPOS="1631"
+                    VPOS="1420"
+                    WIDTH="310"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24a50e5b"
+                    
+                    BASELINE="87 1599 1818 1584" 
+                    HPOS="84"
+                    VPOS="1511"
+                    WIDTH="1734"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="87 1599 84 1525 1815 1511 1818 1584 1818 1607 87 1622"/></Shape>
+	    <String CONTENT="و سید به سند معتبر از آن حضرت روایت کرده است که میگفت که هرگاه در"
+                    HPOS="84"
+                    VPOS="1511"
+                    WIDTH="1734"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba245b97"
+                    
+                    BASELINE="87 1707 1944 1692" 
+                    HPOS="84"
+                    VPOS="1628"
+                    WIDTH="1860"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="87 1707 84 1642 1941 1628 1944 1692 1944 1715 87 1730"/></Shape>
+	    <String CONTENT="امری طلب خیر از حق تعالی کرده باشم، پروا ندارم که به راحت افتم یا به بلاء. و"
+                    HPOS="84"
+                    VPOS="1628"
+                    WIDTH="1860"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8c54804"
+                    
+                    BASELINE="152 1812 1941 1797" 
+                    HPOS="149"
+                    VPOS="1736"
+                    WIDTH="1792"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="152 1812 149 1751 1938 1736 1941 1797 1941 1821 152 1835"/></Shape>
+	    <String CONTENT="فرمود که یدرم مرا تعلیم استخاره می نمود، جنانجه سورهای قرآن، مرا تعلم می نمود."
+                    HPOS="149"
+                    VPOS="1736"
+                    WIDTH="1792"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c421f5d8"
+                    
+                    BASELINE="93 1908 1824 1900" 
+                    HPOS="90"
+                    VPOS="1841"
+                    WIDTH="1734"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="93 1908 90 1850 1821 1841 1824 1900 1824 1926 93 1935"/></Shape>
+	    <String CONTENT="و ایضا از حضرت امام محمد باقر(علیه السلام) روایت کرده است که ما استخاره"
+                    HPOS="90"
+                    VPOS="1841"
+                    WIDTH="1734"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08c96c01"
+                    
+                    BASELINE="762 2022 1946 2008" 
+                    HPOS="760"
+                    VPOS="1938"
+                    WIDTH="1186"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="762 2022 760 1952 1944 1938 1946 2008 1946 2034 762 2049"/></Shape>
+	    <String CONTENT="را یاد میگرفتم، چنانچه سورهای قرآن را می آموختیم7."
+                    HPOS="760"
+                    VPOS="1938"
+                    WIDTH="1186"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d27eb2b9"
+                    
+                    BASELINE="96 2122 1824 2113" 
+                    HPOS="93"
+                    VPOS="2043"
+                    WIDTH="1731"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="96 2122 93 2052 1821 2043 1824 2113 1824 2136 96 2145"/></Shape>
+	    <String CONTENT="و ایضاً به سند صحیح، از حضرت صادق (علیه السلام) روایت کرده است که هیچ"
+                    HPOS="93"
+                    VPOS="2043"
+                    WIDTH="1731"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11c1d731"
+                    
+                    BASELINE="87 2233 1949 2218" 
+                    HPOS="84"
+                    VPOS="2148"
+                    WIDTH="1865"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="87 2233 84 2163 1946 2148 1949 2218 1949 2245 87 2259"/></Shape>
+	    <String CONTENT="بنده طلب خیر از خداوند عالمیان نکرده است مگر آن که خیر او را برای او میسر"
+                    HPOS="84"
+                    VPOS="2148"
+                    WIDTH="1865"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_003c7473"
+                    
+                    BASELINE="1186 2329 1941 2321" 
+                    HPOS="1183"
+                    VPOS="2262"
+                    WIDTH="758"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1186 2329 1183 2271 1938 2262 1941 2321 1941 2350 1186 2359"/></Shape>
+	    <String CONTENT="گردانیده است هر جند او نخواهد1."
+                    HPOS="1183"
+                    VPOS="2262"
+                    WIDTH="758"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7690193f"
+                    
+                    BASELINE="93 2438 1818 2435" 
+                    HPOS="90"
+                    VPOS="2364"
+                    WIDTH="1728"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="93 2438 90 2367 1815 2364 1818 2435 1818 2458 93 2461"/></Shape>
+	    <String CONTENT="و شیخ طوسی، به سند معتبر از حضرت امیرالمؤمنین (علیه السلام) روایت کرده"
+                    HPOS="90"
+                    VPOS="2364"
+                    WIDTH="1728"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c019bfdf"
+                    
+                    BASELINE="93 2534 1575 2543 1946 2531" 
+                    HPOS="90"
+                    VPOS="2470"
+                    WIDTH="1856"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="93 2534 93 2473 1572 2481 1944 2470 1946 2531 1946 2563 1575 2575 1572 2575 90 2566"/></Shape>
+	    <String CONTENT="اسب که چون حضرت رسول (صلی الله علیه و آله) مرا به یمن فرستاد مرا وصیت کرد که"
+                    HPOS="90"
+                    VPOS="2470"
+                    WIDTH="1856"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f04d7a8f"
+                    
+                    BASELINE="116 485 353 494" 
+                    HPOS="114"
+                    VPOS="435"
+                    WIDTH="239"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="116 485 116 435 353 444 353 494 350 517 114 508"/></Shape>
+	    <String CONTENT="مفاتح الغي"
+                    HPOS="114"
+                    VPOS="435"
+                    WIDTH="239"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5572ece3"
+                    
+                    BASELINE="1517 2680 1812 2680" 
+                    HPOS="1517"
+                    VPOS="2645"
+                    WIDTH="295"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1517 2680 1517 2645 1812 2645 1812 2680 1812 2701 1517 2701"/></Shape>
+	    <String CONTENT="2سورة طلق:"
+                    HPOS="1517"
+                    VPOS="2645"
+                    WIDTH="295"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_527ff225"
+                    
+                    BASELINE="333 2750 1818 2745" 
+                    HPOS="330"
+                    VPOS="2686"
+                    WIDTH="1488"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="333 2750 330 2692 1815 2686 1818 2745 1818 2774 333 2780"/></Shape>
+	    <String CONTENT="4 - بحارالانوار، (222/9. ازكتاب (&quot;مقنعه&quot;) شيخ مفد، وكتاب ((فتح الابواب&quot;) سيدبن طاووس"
+                    HPOS="330"
+                    VPOS="2686"
+                    WIDTH="1488"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9f41fc1"
+                    
+                    BASELINE="508 2832 1821 2832" 
+                    HPOS="508"
+                    VPOS="2785"
+                    WIDTH="1313"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="508 2832 508 2785 1821 2785 1821 2832 1821 2873 508 2873"/></Shape>
+	    <String CONTENT="5- محاس برقی ص 598 ح4. وبحارالانوار 223/91 ازمحاسن وفتح الابواب."
+                    HPOS="508"
+                    VPOS="2785"
+                    WIDTH="1313"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1eedd2cc"
+                    
+                    BASELINE="795 2923 1818 2908" 
+                    HPOS="792"
+                    VPOS="2859"
+                    WIDTH="1026"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="795 2923 792 2873 1815 2859 1818 2908 1818 2937 795 2952"/></Shape>
+	    <String CONTENT="6- بحارالانوار (223/9 از ررفتح الابواب&quot;) سيد بن طاووس."
+                    HPOS="792"
+                    VPOS="2859"
+                    WIDTH="1026"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e15ad72"
+                    
+                    BASELINE="1122 2993 1818 2993" 
+                    HPOS="1122"
+                    VPOS="2946"
+                    WIDTH="696"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1122 2993 1122 2946 1818 2946 1818 2993 1818 3019 1122 3019"/></Shape>
+	    <String CONTENT="7- بحارالانوار (224/9 از همان كتاب"
+                    HPOS="1122"
+                    VPOS="2946"
+                    WIDTH="696"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbb7a099"
+                    
+                    BASELINE="1119 3081 1818 3081" 
+                    HPOS="1119"
+                    VPOS="3037"
+                    WIDTH="699"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1119 3081 1119 3037 1818 3037 1818 3081 1818 3116 1119 3116"/></Shape>
+	    <String CONTENT="8- حارالانوار 224/91 از همان كتاب"
+                    HPOS="1119"
+                    VPOS="3037"
+                    WIDTH="699"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

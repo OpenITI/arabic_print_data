@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_mujaz_fi_al_nahw.pdf_page_11.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT936" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT937" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT938" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT939" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT940" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    <OtherTag ID="LT44" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1748"
+          HEIGHT="2480"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1748"
+                  HEIGHT="2480">
+        
+        <TextBlock HPOS="584"
+                   VPOS="126"
+                   WIDTH="1039"
+                   HEIGHT="528"
+                   ID="eSc_textblock_7e953a8b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1623 126 1623 654 584 654 584 126"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_415ccec0"
+                    
+                    BASELINE="1232 194 1539 186" 
+                    HPOS="1230"
+                    VPOS="136"
+                    WIDTH="309"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1232 194 1230 144 1536 136 1539 186 1539 202 1232 210"/></Shape>
+	    <String CONTENT="أمثلة على الخبر:"
+                    HPOS="1230"
+                    VPOS="136"
+                    WIDTH="309"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18670612"
+                    
+                    BASELINE="1040 266 1526 262" 
+                    HPOS="1038"
+                    VPOS="221"
+                    WIDTH="488"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1040 266 1038 225 1524 221 1526 262 1526 274 1040 279"/></Shape>
+	    <String CONTENT="(الحالة صحبة)، الخبر اسم عادى"
+                    HPOS="1038"
+                    VPOS="221"
+                    WIDTH="488"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce281e0a"
+                    
+                    BASELINE="939 338 1520 330" 
+                    HPOS="937"
+                    VPOS="289"
+                    WIDTH="583"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="939 338 937 297 1518 289 1520 330 1520 347 939 355"/></Shape>
+	    <String CONTENT="(البطيخ في الثلاجة)، الخبر جار ومجرور"
+                    HPOS="937"
+                    VPOS="289"
+                    WIDTH="583"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81b794fe"
+                    
+                    BASELINE="684 407 1526 400" 
+                    HPOS="682"
+                    VPOS="361"
+                    WIDTH="844"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="684 407 682 367 1524 361 1526 400 1526 415 684 421"/></Shape>
+	    <String CONTENT="(مكنا مراسلنا فى القدس)، الخبر جار ومجرور، وهو مقدم"
+                    HPOS="682"
+                    VPOS="361"
+                    WIDTH="844"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14ca7faf"
+                    
+                    BASELINE="914 473 1520 469" 
+                    HPOS="912"
+                    VPOS="431"
+                    WIDTH="608"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="914 473 912 436 1518 431 1520 469 1520 485 914 489"/></Shape>
+	    <String CONTENT="(الأخبار عندك)، الخبر ظرف ومضاف إليه"
+                    HPOS="912"
+                    VPOS="431"
+                    WIDTH="608"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f355751"
+                    
+                    BASELINE="943 545 1522 541" 
+                    HPOS="941"
+                    VPOS="500"
+                    WIDTH="581"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="943 545 941 504 1520 500 1522 541 1522 553 943 558"/></Shape>
+	    <String CONTENT="(الاقتصاد يمه بأزمة)، الخبر جملة فعلية"
+                    HPOS="941"
+                    VPOS="500"
+                    WIDTH="581"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78152f5a"
+                    
+                    BASELINE="906 611 1524 611" 
+                    HPOS="906"
+                    VPOS="574"
+                    WIDTH="618"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="906 611 906 574 1524 574 1524 611 1524 628 906 628"/></Shape>
+	    <String CONTENT="الاقتصاد حالثه سيئة)، الخبر جملة إسمية"
+                    HPOS="906"
+                    VPOS="574"
+                    WIDTH="618"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="92"
+                   VPOS="864"
+                   WIDTH="1508"
+                   HEIGHT="1238"
+                   ID="eSc_textblock_3185a4b3"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1600 864 1600 2102 92 2102 92 864"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1911f037"
+                    
+                    BASELINE="146 909 413 901 1584 903" 
+                    HPOS="144"
+                    VPOS="857"
+                    WIDTH="1440"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="146 909 144 865 411 857 413 857 1584 859 1584 903 1582 919 413 917 146 925"/></Shape>
+	    <String CONTENT="(كان، ليس، ظل، صار غداء أصبح، أضحى، أمسى، بات، ما زال، ما دام، ما انفك، ما فتىء، ما برح،"
+                    HPOS="144"
+                    VPOS="857"
+                    WIDTH="1440"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ec9a769"
+                    
+                    BASELINE="601 973 1137 973" 
+                    HPOS="601"
+                    VPOS="934"
+                    WIDTH="536"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="601 973 601 934 1137 934 1137 973 1137 989 601 989"/></Shape>
+	    <String CONTENT="كاد، أوشك شرع، عسى، أخذ، بدأ]"
+                    HPOS="601"
+                    VPOS="934"
+                    WIDTH="536"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38e12830"
+                    
+                    BASELINE="1441 1186 1586 1182" 
+                    HPOS="1439"
+                    VPOS="1142"
+                    WIDTH="147"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1441 1186 1439 1147 1584 1142 1586 1182 1586 1192 1441 1196"/></Shape>
+	    <String CONTENT="(كان"
+                    HPOS="1439"
+                    VPOS="1142"
+                    WIDTH="147"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13d1c2ed"
+                    
+                    BASELINE="995 1186 1383 1180" 
+                    HPOS="992"
+                    VPOS="1138"
+                    WIDTH="391"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="995 1186 992 1144 1381 1138 1383 1180 1383 1194 995 1200"/></Shape>
+	    <String CONTENT="الاجتماع مثمراً)"
+                    HPOS="992"
+                    VPOS="1138"
+                    WIDTH="391"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ac005d5"
+                    
+                    BASELINE="1226 1237 1586 1229" 
+                    HPOS="1224"
+                    VPOS="1198"
+                    WIDTH="362"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1226 1237 1224 1206 1584 1198 1586 1229 1586 1242 1226 1250"/></Shape>
+	    <String CONTENT="فحل ماض ناقص اسمها مرفوع"
+                    HPOS="1224"
+                    VPOS="1198"
+                    WIDTH="362"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50d704b9"
+                    
+                    BASELINE="1013 1235 1168 1235" 
+                    HPOS="1013"
+                    VPOS="1215"
+                    WIDTH="155"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="1013 1235 1013 1215 1168 1215 1168 1235 1168 1248 1013 1248"/></Shape>
+	    <String CONTENT="برها منصوب"
+                    HPOS="1013"
+                    VPOS="1215"
+                    WIDTH="155"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ceb25227"
+                    
+                    BASELINE="709 1374 1528 1370" 
+                    HPOS="707"
+                    VPOS="1328"
+                    WIDTH="821"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="709 1374 707 1333 1526 1328 1528 1370 1528 1386 709 1390"/></Shape>
+	    <String CONTENT="(كان الجمهور يهتف فى الخارج): خبر كان جملة فعلية."
+                    HPOS="707"
+                    VPOS="1328"
+                    WIDTH="821"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6530454a"
+                    
+                    BASELINE="711 1442 1530 1438" 
+                    HPOS="709"
+                    VPOS="1403"
+                    WIDTH="821"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="711 1442 709 1407 1528 1403 1530 1438 1530 1457 711 1461"/></Shape>
+	    <String CONTENT="(أصبحت القضية فی يد الرئيس): خبر أصبح شبه جملة."
+                    HPOS="709"
+                    VPOS="1403"
+                    WIDTH="821"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69b18227"
+                    
+                    BASELINE="792 1514 1526 1508" 
+                    HPOS="790"
+                    VPOS="1488"
+                    WIDTH="736"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="792 1514 790 1494 1524 1488 1526 1508 1526 1525 792 1531"/></Shape>
+	    <String CONTENT="لس مضعونا النجاح): خبر ليس جاء كبل اننلا"
+                    HPOS="790"
+                    VPOS="1488"
+                    WIDTH="736"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17502346"
+                    
+                    BASELINE="819 1585 1520 1581" 
+                    HPOS="817"
+                    VPOS="1510"
+                    WIDTH="703"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="819 1585 817 1514 1518 1510 1520 1581 1520 1597 819 1601"/></Shape>
+	    <String CONTENT="اليس فی البيت أحد): خبر ليس جاء قبل اسمها."
+                    HPOS="817"
+                    VPOS="1510"
+                    WIDTH="703"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_526924d6"
+                    
+                    BASELINE="568 1655 1522 1649" 
+                    HPOS="566"
+                    VPOS="1609"
+                    WIDTH="956"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="568 1655 566 1616 1520 1609 1522 1649 1522 1665 568 1671"/></Shape>
+	    <String CONTENT="(كانا شريكين): اسم كان هو الضمير الملتصق بها وهو ألف الاثنين."
+                    HPOS="566"
+                    VPOS="1609"
+                    WIDTH="956"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23d97bed"
+                    
+                    BASELINE="326 1725 1522 1721" 
+                    HPOS="324"
+                    VPOS="1678"
+                    WIDTH="1198"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="326 1725 324 1682 1520 1678 1522 1721 1522 1736 326 1740"/></Shape>
+	    <String CONTENT="(قد يكون العلاج مفيداً)، (كن مستعداً): كان وأخواتها تأتي بصيخة المضارع، والأمر."
+                    HPOS="324"
+                    VPOS="1678"
+                    WIDTH="1198"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18829d59"
+                    
+                    BASELINE="140 1795 1526 1789" 
+                    HPOS="138"
+                    VPOS="1744"
+                    WIDTH="1388"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="140 1795 138 1750 1524 1744 1526 1789 1526 1806 140 1812"/></Shape>
+	    <String CONTENT="(كان من اطمكن إنقاذهم)، (كان إنقاذهم من اطمكن): سواء أجاء شبه الجملة متقدماً أم متأخراً"
+                    HPOS="138"
+                    VPOS="1744"
+                    WIDTH="1388"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3538cc47"
+                    
+                    BASELINE="364 1862 1524 1866" 
+                    HPOS="362"
+                    VPOS="1822"
+                    WIDTH="1162"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="364 1862 364 1822 1524 1826 1524 1866 1522 1880 362 1876"/></Shape>
+	    <String CONTENT="بعد كان فليس له من إعراب سوى خبرها. لأن شبه الجملة لا يأخذ المقام الأول."
+                    HPOS="362"
+                    VPOS="1822"
+                    WIDTH="1162"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c2154f3"
+                    
+                    BASELINE="1373 1930 1514 1928" 
+                    HPOS="1371"
+                    VPOS="1891"
+                    WIDTH="143"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1373 1930 1371 1893 1512 1891 1514 1928 1514 1946 1373 1948"/></Shape>
+	    <String CONTENT="بدا"
+                    HPOS="1371"
+                    VPOS="1891"
+                    WIDTH="143"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_842ceb67"
+                    
+                    BASELINE="897 1934 1311 1934" 
+                    HPOS="897"
+                    VPOS="1897"
+                    WIDTH="414"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="897 1934 897 1897 1311 1897 1311 1934 1311 1946 897 1946"/></Shape>
+	    <String CONTENT="ططر بتساقط)"
+                    HPOS="897"
+                    VPOS="1897"
+                    WIDTH="414"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01f38fe8"
+                    
+                    BASELINE="885 1979 1526 1984" 
+                    HPOS="883"
+                    VPOS="1950"
+                    WIDTH="643"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="885 1979 885 1950 1526 1955 1526 1984 1524 1996 883 1992"/></Shape>
+	    <String CONTENT="من أخوات كان اسمها مرفوع جملة &quot;يتساقط، خبرها"
+                    HPOS="883"
+                    VPOS="1950"
+                    WIDTH="643"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2a7ca0f"
+                    
+                    BASELINE="906 2052 1526 2052" 
+                    HPOS="906"
+                    VPOS="2015"
+                    WIDTH="620"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="906 2052 906 2015 1526 2015 1526 2052 1526 2070 906 2070"/></Shape>
+	    <String CONTENT="ومثلها: (أخذ الحزب يطالب بالانتخابات)."
+                    HPOS="906"
+                    VPOS="2015"
+                    WIDTH="620"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="669"
+                   VPOS="796"
+                   WIDTH="437"
+                   HEIGHT="57"
+                   ID="eSc_textblock_867809a6"
+                   TAGREFS="BT938">
+          <Shape><Polygon POINTS="1106 796 1106 853 669 853 669 796"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fabd175c"
+                    
+                    BASELINE="759 832 1050 834" 
+                    HPOS="757"
+                    VPOS="772"
+                    WIDTH="293"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="759 832 759 772 1050 775 1050 834 1048 853 757 851"/></Shape>
+	    <String CONTENT="ان وأخواتها"
+                    HPOS="757"
+                    VPOS="772"
+                    WIDTH="293"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

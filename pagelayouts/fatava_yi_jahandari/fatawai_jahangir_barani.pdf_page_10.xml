@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>fatawai_jahangir_barani.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1114" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1115" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1116" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1757"
+          HEIGHT="2738"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1757"
+                  HEIGHT="2738">
+        
+        <TextBlock HPOS="298"
+                   VPOS="595"
+                   WIDTH="1358"
+                   HEIGHT="1524"
+                   ID="eSc_textblock_c8f544ed"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="298 595 298 2119 1656 2119 1656 595"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="746"
+                   VPOS="440"
+                   WIDTH="546"
+                   HEIGHT="149"
+                   ID="eSc_textblock_c794b974"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="746 440 746 589 1292 589 1292 440"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="304"
+                   VPOS="2137"
+                   WIDTH="1372"
+                   HEIGHT="394"
+                   ID="eSc_textblock_515ba9ed"
+                   TAGREFS="BT1114">
+          <Shape><Polygon POINTS="304 2149 304 2531 1676 2531 1662 2137"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="161"
+                   VPOS="425"
+                   WIDTH="158"
+                   HEIGHT="95"
+                   ID="eSc_textblock_b642e0c9"
+                   TAGREFS="BT1116">
+          <Shape><Polygon POINTS="161 425 161 520 319 520 319 425"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

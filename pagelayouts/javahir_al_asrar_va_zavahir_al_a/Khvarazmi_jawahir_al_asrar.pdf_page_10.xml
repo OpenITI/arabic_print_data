@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Khvarazmi_jawahir_al_asrar.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1234" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1235" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1236" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1237" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1238" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2192"
+          HEIGHT="2727"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2192"
+                  HEIGHT="2727">
+        
+        <TextBlock HPOS="205"
+                   VPOS="1273"
+                   WIDTH="1616"
+                   HEIGHT="1189"
+                   ID="eSc_textblock_c30a7ffb"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1821 2462 1821 1273 205 1273 205 2462"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="867"
+                   VPOS="1050"
+                   WIDTH="240"
+                   HEIGHT="176"
+                   ID="eSc_textblock_8cc89b97"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="867 1050 867 1226 1107 1226 1107 1050"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="908"
+                   VPOS="2479"
+                   WIDTH="146"
+                   HEIGHT="106"
+                   ID="eSc_textblock_6e9db35b"
+                   TAGREFS="BT1236">
+          <Shape><Polygon POINTS="908 2479 908 2585 1054 2585 1054 2479"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_f825744c"
+                    
+                    BASELINE="218 1338 1555 1329" 
+                    HPOS="216"
+                    VPOS="1272"
+                    WIDTH="1339"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="218 1338 216 1281 1553 1272 1555 1329 1555 1349 218 1358"/></Shape>
+	    <String CONTENT="در سال 1343 دیوانی به نام دیوان اشعار [حسین بن] منصور حلاج از"
+                    HPOS="216"
+                    VPOS="1272"
+                    WIDTH="1339"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c8da914"
+                    
+                    BASELINE="216 1436 1755 1424" 
+                    HPOS="213"
+                    VPOS="1374"
+                    WIDTH="1542"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="216 1436 213 1386 1753 1374 1755 1424 1755 1443 216 1454"/></Shape>
+	    <String CONTENT=" سوی کتابخانهٔ سنائی منتشر شد در حالی که شاید حسین بن منصور در همهٔ"
+                    HPOS="213"
+                    VPOS="1374"
+                    WIDTH="1542"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce12371b"
+                    
+                    BASELINE="218 1536 395 1527 1748 1522" 
+                    HPOS="213"
+                    VPOS="1474"
+                    WIDTH="1535"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="218 1536 213 1488 391 1479 393 1479 1746 1474 1748 1522 1748 1545 395 1549 218 1558"/></Shape>
+	    <String CONTENT="عمر خویش شعری به زبان فارسی نسروده و حتی شاید جمله ای به زبان فارسی"
+                    HPOS="213"
+                    VPOS="1474"
+                    WIDTH="1535"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94b6c05e"
+                    
+                    BASELINE="1473 1618 1748 1618" 
+                    HPOS="1473"
+                    VPOS="1570"
+                    WIDTH="275"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1473 1618 1473 1570 1748 1570 1748 1618 1748 1636 1473 1636"/></Shape>
+	    <String CONTENT="نگفته باشد."
+                    HPOS="1473"
+                    VPOS="1570"
+                    WIDTH="275"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e12cc659"
+                    
+                    BASELINE="218 1724 1548 1729" 
+                    HPOS="216"
+                    VPOS="1668"
+                    WIDTH="1332"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="218 1724 218 1668 1548 1672 1548 1729 1546 1745 216 1740"/></Shape>
+	    <String CONTENT="پس این دیوان از که بود؟ این دیوان (که البته ناقص هم هست) از"
+                    HPOS="216"
+                    VPOS="1668"
+                    WIDTH="1332"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7170026"
+                    
+                    BASELINE="218 1827 1730 1813" 
+                    HPOS="216"
+                    VPOS="1758"
+                    WIDTH="1514"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="218 1827 216 1772 1728 1758 1730 1813 1730 1836 218 1849"/></Shape>
+	    <String CONTENT="کمال الدین حسین خوارزمی بود که &quot;حسین، تخلص می کرد و کم و بیش اشعارش"
+                    HPOS="216"
+                    VPOS="1758"
+                    WIDTH="1514"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd4559a2"
+                    
+                    BASELINE="1236 1911 1746 1904" 
+                    HPOS="1234"
+                    VPOS="1861"
+                    WIDTH="512"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1236 1911 1234 1867 1744 1861 1746 1904 1746 1929 1236 1936"/></Shape>
+	    <String CONTENT="لطافت و ظرافتی هم دارد ."
+                    HPOS="1234"
+                    VPOS="1861"
+                    WIDTH="512"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c75819e3"
+                    
+                    BASELINE="784 2008 1184 2017 1598 2011" 
+                    HPOS="782"
+                    VPOS="1949"
+                    WIDTH="816"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="784 2008 784 1949 1184 1958 1596 1952 1598 2011 1598 2029 1184 2036 1182 2036 782 2027"/></Shape>
+	    <String CONTENT="این کمال الدین حسین خوارزمی کیست 2"
+                    HPOS="782"
+                    VPOS="1949"
+                    WIDTH="816"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3997b453"
+                    
+                    BASELINE="195 2117 441 2108 1605 2108" 
+                    HPOS="193"
+                    VPOS="2052"
+                    WIDTH="1412"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="195 2117 193 2061 438 2052 441 2052 1605 2052 1605 2108 1605 2129 441 2129 195 2136"/></Shape>
+	    <String CONTENT="مولانا کمال الدین حسین بن حسن خوارزمی شاگردخواجه ابوالوفای خوارزمی"
+                    HPOS="193"
+                    VPOS="2052"
+                    WIDTH="1412"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd815eae"
+                    
+                    BASELINE="220 2211 1748 2206" 
+                    HPOS="218"
+                    VPOS="2154"
+                    WIDTH="1530"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="220 2211 218 2158 1746 2154 1748 2206 1748 2224 220 2229"/></Shape>
+	    <String CONTENT="صوفی مشهور از سلسلهٔ کبرویه (رجوع کنید به تعلیقات کتاب حاضر صفحهٔ 277)"
+                    HPOS="218"
+                    VPOS="2154"
+                    WIDTH="1530"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dadcbc2a"
+                    
+                    BASELINE="211 2306 1748 2311" 
+                    HPOS="209"
+                    VPOS="2254"
+                    WIDTH="1539"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="211 2306 211 2254 1748 2258 1748 2311 1746 2329 209 2324"/></Shape>
+	    <String CONTENT="بود هم در علم ظاهر و هم در طریقهٔ تصوف . آنچه در بارهٔ او می دانیم از کتابهای"
+                    HPOS="209"
+                    VPOS="2254"
+                    WIDTH="1539"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a03bb6b"
+                    
+                    BASELINE="211 2411 1744 2404" 
+                    HPOS="209"
+                    VPOS="2352"
+                    WIDTH="1535"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="211 2411 209 2358 1741 2352 1744 2404 1744 2429 211 2436"/></Shape>
+	    <String CONTENT="مجالس النفائس و مجالس المؤمنین است و منابع دیگر همه از این دو منبع"
+                    HPOS="209"
+                    VPOS="2352"
+                    WIDTH="1535"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aff3a02c"
+                    
+                    BASELINE="909 2536 1007 2531" 
+                    HPOS="907"
+                    VPOS="2488"
+                    WIDTH="100"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="909 2536 907 2492 1005 2488 1007 2531 1007 2552 909 2556"/></Shape>
+	    <String CONTENT="يك"
+                    HPOS="907"
+                    VPOS="2488"
+                    WIDTH="100"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b048066"
+                    
+                    BASELINE="879 1181 1084 1188" 
+                    HPOS="877"
+                    VPOS="1152"
+                    WIDTH="207"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="879 1181 879 1152 1084 1158 1084 1188 1082 1206 877 1199"/></Shape>
+	    <String CONTENT=""
+                    HPOS="877"
+                    VPOS="1152"
+                    WIDTH="207"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

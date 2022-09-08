@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>DUPLICATE_rasuli_al_aqwal_al_kafiyah.pdf_page_21.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1024" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1025" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1026" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT1027" LABEL="Caption" DESCRIPTION="block type Caption"/><OtherTag ID="BT1028" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    <OtherTag ID="LT58" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2047"
+          HEIGHT="2776"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2047"
+                  HEIGHT="2776">
+        
+        <TextBlock HPOS="602"
+                   VPOS="434"
+                   WIDTH="961"
+                   HEIGHT="294"
+                   ID="eSc_textblock_3279056b"
+                   TAGREFS="BT1025">
+          <Shape><Polygon POINTS="1461 434 1544 490 1563 515 1516 536 1498 654 1331 700 889 728 602 645 620 545 657 534 639 490 1213 434"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_91c97f1d"
+                    
+                    BASELINE="602 580 998 592 1477 578" 
+                    HPOS="599"
+                    VPOS="497"
+                    WIDTH="878"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="602 580 604 499 998 511 1472 497 1477 578 1477 613 998 626 995 626 599 615"/></Shape>
+	    <String CONTENT="لشالبف فیالخبل والفروسیة"
+                    HPOS="599"
+                    VPOS="497"
+                    WIDTH="878"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1704"
+                   VPOS="897"
+                   WIDTH="81"
+                   HEIGHT="35"
+                   ID="eSc_textblock_91838c8a"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1785 916 1785 932 1704 932 1713 897"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b10f2d43"
+                    TAGREFS="LT58"
+                    BASELINE="1706 929 1824 934" 
+                    HPOS="1704"
+                    VPOS="858"
+                    WIDTH="123"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1706 929 1708 858 1827 862 1824 934 1822 953 1704 948"/></Shape>
+	    <String CONTENT="أولا :"
+                    HPOS="1704"
+                    VPOS="858"
+                    WIDTH="123"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="240"
+                   VPOS="943"
+                   WIDTH="1656"
+                   HEIGHT="1173"
+                   ID="eSc_textblock_ad5d6472"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="240 2116 240 953 1655 971 1722 943 1859 971 1887 1036 1896 2024 1868 2098"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1c38e0f1"
+                    
+                    BASELINE="252 1041 1701 1034" 
+                    HPOS="250"
+                    VPOS="980"
+                    WIDTH="1451"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="252 1041 250 987 1699 980 1701 1034 1701 1050 252 1057"/></Shape>
+	    <String CONTENT="القد حظيت الخيل بعناية المؤلفين القدامى، فأفردوا لها الكتب والرسائل"
+                    HPOS="250"
+                    VPOS="980"
+                    WIDTH="1451"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e861e65e"
+                    
+                    BASELINE="245 1108 1827 1119" 
+                    HPOS="243"
+                    VPOS="1059"
+                    WIDTH="1584"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="245 1108 245 1059 1827 1071 1827 1119 1824 1140 243 1128"/></Shape>
+	    <String CONTENT="والفصول في الكتب، وتابعهم المتأخرون في هذه العناية، وقد وصل جزء يسير مما"
+                    HPOS="243"
+                    VPOS="1059"
+                    WIDTH="1584"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51436934"
+                    
+                    BASELINE="250 1198 1829 1189" 
+                    HPOS="247"
+                    VPOS="1138"
+                    WIDTH="1582"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="250 1198 247 1147 1827 1138 1829 1189 1829 1207 250 1216"/></Shape>
+	    <String CONTENT="ألف الأقدمون وضاع كثيره، وقد عرفنا من خلال الإشارات التى تذكرها كتب الخيل"
+                    HPOS="247"
+                    VPOS="1138"
+                    WIDTH="1582"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ad41b64"
+                    
+                    BASELINE="252 1270 1831 1276" 
+                    HPOS="250"
+                    VPOS="1216"
+                    WIDTH="1581"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="252 1270 252 1216 1831 1223 1831 1276 1829 1293 250 1286"/></Shape>
+	    <String CONTENT="واللغة وفهارس الكتب بعضاً مما ألف عن الخيل والفروسية، وما جهلناه أكثر، ونذكر"
+                    HPOS="250"
+                    VPOS="1216"
+                    WIDTH="1581"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac8d16ec"
+                    
+                    BASELINE="247 1357 1833 1348" 
+                    HPOS="245"
+                    VPOS="1297"
+                    WIDTH="1588"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="247 1357 245 1307 1831 1297 1833 1348 1833 1367 247 1376"/></Shape>
+	    <String CONTENT="هنا ما ألف في هذا الفن وما يتعلق به منذ أقدم العصور حتى العصر الحديث مراعين"
+                    HPOS="245"
+                    VPOS="1297"
+                    WIDTH="1588"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c29682f"
+                    
+                    BASELINE="1280 1425 1831 1431" 
+                    HPOS="1278"
+                    VPOS="1376"
+                    WIDTH="553"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1280 1425 1280 1376 1831 1383 1831 1431 1829 1457 1278 1450"/></Shape>
+	    <String CONTENT="التسلسل الزمنى ما أمكن(1):"
+                    HPOS="1278"
+                    VPOS="1376"
+                    WIDTH="553"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_430893b1"
+                    
+                    BASELINE="254 1538 1843 1533" 
+                    HPOS="252"
+                    VPOS="1480"
+                    WIDTH="1591"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="254 1538 252 1485 1840 1480 1843 1533 1843 1549 254 1554"/></Shape>
+	    <String CONTENT="-عمرو بن كركرة - أبو مالك من أساتذة الخليل بن أحمد، له: كتاب الخيل."
+                    HPOS="252"
+                    VPOS="1480"
+                    WIDTH="1591"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2d9bf19"
+                    
+                    BASELINE="805 1614 1833 1607" 
+                    HPOS="803"
+                    VPOS="1563"
+                    WIDTH="1030"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="805 1614 803 1570 1831 1563 1833 1607 1833 1623 805 1630"/></Shape>
+	    <String CONTENT="خلف الأحمر- ت نحو 180ه له: كتاب الخيل."
+                    HPOS="803"
+                    VPOS="1563"
+                    WIDTH="1030"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c342b44"
+                    
+                    BASELINE="257 1695 773 1691 1125 1700 1843 1688" 
+                    HPOS="254"
+                    VPOS="1630"
+                    WIDTH="1589"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="257 1695 254 1637 771 1633 773 1633 849 1633 1125 1642 1840 1630 1843 1688 1843 1709 1125 1721 1123 1721 849 1714 771 1711 257 1716"/></Shape>
+	    <String CONTENT="- محمد بن الحسن - أبو عبد الله مولى بني شيبان ت 189 ه، له : كتاب الخيل."
+                    HPOS="254"
+                    VPOS="1630"
+                    WIDTH="1589"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05ce4d98"
+                    
+                    BASELINE="713 1776 1840 1772" 
+                    HPOS="710"
+                    VPOS="1723"
+                    WIDTH="1130"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="713 1776 710 1728 1838 1723 1840 1772 1840 1788 713 1792"/></Shape>
+	    <String CONTENT="-النضر بن شميل - ت 204 ه له: كتاب خلق الفرس."
+                    HPOS="710"
+                    VPOS="1723"
+                    WIDTH="1130"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53fb876b"
+                    
+                    BASELINE="252 1873 842 1866 1840 1876" 
+                    HPOS="250"
+                    VPOS="1815"
+                    WIDTH="1590"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="252 1873 250 1822 840 1815 842 1815 1840 1825 1840 1876 1838 1899 842 1889 252 1896"/></Shape>
+	    <String CONTENT="- ابن الكلبى - أبو المنذر هشام بن محمدت 204 أو 206 ه له : كتاب الخيل، طبع"
+                    HPOS="250"
+                    VPOS="1815"
+                    WIDTH="1590"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f659d2c9"
+                    
+                    BASELINE="257 1943 1792 1952" 
+                    HPOS="254"
+                    VPOS="1899"
+                    WIDTH="1538"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="257 1943 257 1899 1792 1908 1792 1952 1789 1975 254 1966"/></Shape>
+	    <String CONTENT="باسم: أنساب الخيل في الجاهلية والإسلام وأخبارها نشر في ليدن سنة 1928"
+                    HPOS="254"
+                    VPOS="1899"
+                    WIDTH="1538"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3630ad12"
+                    
+                    BASELINE="252 2024 1794 2035" 
+                    HPOS="250"
+                    VPOS="1973"
+                    WIDTH="1544"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="252 2024 252 1973 1794 1984 1794 2035 1792 2058 250 2047"/></Shape>
+	    <String CONTENT="باسم نسب الخيل في الجاهلية والإسلام وأخبارها، وتحقيق أحمد زكى باشا،"
+                    HPOS="250"
+                    VPOS="1973"
+                    WIDTH="1544"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="231"
+                   VPOS="2131"
+                   WIDTH="1656"
+                   HEIGHT="309"
+                   ID="eSc_textblock_71cb474d"
+                   TAGREFS="BT1024">
+          <Shape><Polygon POINTS="1835 2131 1887 2190 1850 2422 1766 2440 463 2440 240 2422 231 2165 268 2156"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ff5f666"
+                    
+                    BASELINE="245 2202 1338 2199 1833 2211" 
+                    HPOS="243"
+                    VPOS="2153"
+                    WIDTH="1590"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="245 2202 243 2156 1336 2153 1338 2153 1833 2165 1833 2211 1831 2232 1336 2220 245 2223"/></Shape>
+	    <String CONTENT="(1) ينظر: الفهرست - ابن النديم، كشف الظنون - حاجي خليفة، والمقال النفيس للمرحوم أحمد تيمور باشا"
+                    HPOS="243"
+                    VPOS="2153"
+                    WIDTH="1590"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_995b0f05"
+                    
+                    BASELINE="254 2267 1595 2267 1771 2276" 
+                    HPOS="254"
+                    VPOS="2220"
+                    WIDTH="1519"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="254 2267 254 2220 1595 2220 1597 2220 1773 2230 1771 2276 1769 2287 1593 2280 254 2280"/></Shape>
+	    <String CONTENT="(نوادر المخطوطات واماكن وجودها) المنشور في مجلة الهلال السنة الثامنة والعشرين 1919،"
+                    HPOS="254"
+                    VPOS="2220"
+                    WIDTH="1519"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19b733c6"
+                    
+                    BASELINE="245 2320 1773 2331" 
+                    HPOS="243"
+                    VPOS="2280"
+                    WIDTH="1530"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="245 2320 245 2280 1773 2292 1773 2331 1771 2350 243 2338"/></Shape>
+	    <String CONTENT="والمعجم العربي - حسين نصار ص 126 - 127، ومقدمة كتاب فضل الخيل للدمياطى لناشره محمد"
+                    HPOS="243"
+                    VPOS="2280"
+                    WIDTH="1530"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_170b5f68"
+                    
+                    BASELINE="1134 2385 1766 2391" 
+                    HPOS="1132"
+                    VPOS="2343"
+                    WIDTH="634"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1134 2385 1134 2343 1766 2350 1766 2391 1764 2415 1132 2408"/></Shape>
+	    <String CONTENT="راغب الطباخ، ومعجم الأدباء، والأعلام ."
+                    HPOS="1132"
+                    VPOS="2343"
+                    WIDTH="634"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1732"
+                   VPOS="842"
+                   WIDTH="108"
+                   HEIGHT="71"
+                   ID="eSc_textblock_69c55e83"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1840 851 1822 913 1732 904 1778 842"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="996"
+                   VPOS="2465"
+                   WIDTH="116"
+                   HEIGHT="81"
+                   ID="eSc_textblock_ef108928"
+                   TAGREFS="BT1028">
+          <Shape><Polygon POINTS="1112 2546 1112 2465 1046 2465 996 2465 996 2546"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

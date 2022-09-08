@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Ibn_al_Moqafa_al_adab_al_saghir_wa_adab_al_kabir.pdf_page_16.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT886" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT887" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT888" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT889" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT38" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1773"
+          HEIGHT="2661"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1773"
+                  HEIGHT="2661">
+        
+        <TextBlock HPOS="115"
+                   VPOS="124"
+                   WIDTH="1542"
+                   HEIGHT="1496"
+                   ID="eSc_textblock_7a0db21c"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1222 124 1506 133 1604 168 1648 239 1657 487 1639 1612 115 1620 124 124"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_90a0cea7"
+                    
+                    BASELINE="1260 299 1613 299" 
+                    HPOS="1260"
+                    VPOS="250"
+                    WIDTH="353"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1260 299 1260 250 1613 250 1613 299 1613 325 1260 325"/></Shape>
+	    <String CONTENT="العليم الحكيم (1)."
+                    HPOS="1260"
+                    VPOS="250"
+                    WIDTH="353"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd615d58"
+                    
+                    BASELINE="126 219 1506 210" 
+                    HPOS="124"
+                    VPOS="148"
+                    WIDTH="1382"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="126 219 124 157 1504 148 1506 210 1506 223 126 232"/></Shape>
+	    <String CONTENT="وذلك دليل على أن الناس لم يبتدعوا أصولها ولم يأتهم علمها إلا من قبل"
+                    HPOS="124"
+                    VPOS="148"
+                    WIDTH="1382"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e2a218b"
+                    
+                    BASELINE="126 436 670 450 1504 441" 
+                    HPOS="124"
+                    VPOS="365"
+                    WIDTH="1380"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="126 436 126 365 670 379 1502 370 1504 441 1504 463 670 472 667 472 124 459"/></Shape>
+	    <String CONTENT="فإذا خرج الناس من أن يكون لهم عمل أصيل وأن يقولوا قولاً بديعاً فليعلم"
+                    HPOS="124"
+                    VPOS="365"
+                    WIDTH="1380"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a50815b"
+                    
+                    BASELINE="124 527 1617 532" 
+                    HPOS="122"
+                    VPOS="472"
+                    WIDTH="1495"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="124 527 124 472 1617 476 1617 532 1615 549 122 545"/></Shape>
+	    <String CONTENT="الواصفون المخبئون أن أحدهم، وإن أحسن وأبلغ، ليس زائداً على أن يكون"
+                    HPOS="122"
+                    VPOS="472"
+                    WIDTH="1495"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b903a0be"
+                    
+                    BASELINE="122 609 923 627 1611 620" 
+                    HPOS="119"
+                    VPOS="558"
+                    WIDTH="1492"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="122 609 122 558 923 576 1608 569 1611 620 1611 638 923 645 920 645 119 627"/></Shape>
+	    <String CONTENT="كصاجب فضوص (2) وجد ياقوتا وزبرجدا ومرجانا، فنظمه قلائد وسموطا(3)"
+                    HPOS="119"
+                    VPOS="558"
+                    WIDTH="1492"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa65acf8"
+                    
+                    BASELINE="119 705 679 720 1613 720" 
+                    HPOS="117"
+                    VPOS="647"
+                    WIDTH="1496"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="119 705 119 647 679 663 1613 663 1613 720 1613 738 679 738 676 738 117 722"/></Shape>
+	    <String CONTENT="وأكاليل، ووضع كل فص موضعه، وجمع إلى كل لون شبهه وما يزيده بذلك"
+                    HPOS="117"
+                    VPOS="647"
+                    WIDTH="1496"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38ae706b"
+                    
+                    BASELINE="115 796 1613 807" 
+                    HPOS="113"
+                    VPOS="747"
+                    WIDTH="1500"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="115 796 115 747 1613 758 1613 807 1611 824 113 813"/></Shape>
+	    <String CONTENT="احسنا، فسمى بذلك صانعا(4) رفيقا(5)، وكصاغة الذهب والفضق، صنعوا منها ما"
+                    HPOS="113"
+                    VPOS="747"
+                    WIDTH="1500"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94d3aedf"
+                    
+                    BASELINE="124 889 1613 898" 
+                    HPOS="122"
+                    VPOS="840"
+                    WIDTH="1491"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="124 889 124 840 1613 849 1613 898 1611 915 122 906"/></Shape>
+	    <String CONTENT="بعجب الناس من الحلى والآنية، وكالنحل وجدت ثمرات أخرجها الله طيبة،"
+                    HPOS="122"
+                    VPOS="840"
+                    WIDTH="1491"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f113c860"
+                    
+                    BASELINE="124 982 1608 989" 
+                    HPOS="122"
+                    VPOS="922"
+                    WIDTH="1486"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="124 982 124 922 1608 929 1608 989 1606 1002 122 995"/></Shape>
+	    <String CONTENT="وسلكت سبلاً جعلها الله ذللا(6)، فصار ذلك شفاء وطعاماً، وشراباً منسوباً إليها،"
+                    HPOS="122"
+                    VPOS="922"
+                    WIDTH="1486"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7cdc08a3"
+                    
+                    BASELINE="1138 1077 1613 1077" 
+                    HPOS="1138"
+                    VPOS="1024"
+                    WIDTH="475"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1138 1077 1138 1024 1613 1024 1613 1077 1613 1095 1138 1095"/></Shape>
+	    <String CONTENT="مذكورا به أمرها وصنعتها."
+                    HPOS="1138"
+                    VPOS="1024"
+                    WIDTH="475"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be251a5e"
+                    
+                    BASELINE="115 1210 1497 1219" 
+                    HPOS="113"
+                    VPOS="1159"
+                    WIDTH="1384"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="115 1210 115 1159 1497 1168 1497 1219 1495 1235 113 1226"/></Shape>
+	    <String CONTENT="فمن جرى على لسانه كلام يستحسنه أو يستحسن منه، فلا يعجبن إعجاب"
+                    HPOS="113"
+                    VPOS="1159"
+                    WIDTH="1384"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11bd161f"
+                    
+                    BASELINE="754 1301 1613 1301" 
+                    HPOS="754"
+                    VPOS="1250"
+                    WIDTH="859"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="754 1301 754 1250 1613 1250 1613 1301 1613 1328 754 1328"/></Shape>
+	    <String CONTENT="المخترع المبتدع، فإنه إنما اجتناه كما وصفنا."
+                    HPOS="754"
+                    VPOS="1250"
+                    WIDTH="859"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d403da91"
+                    TAGREFS="LT38"
+                    BASELINE="1216 1465 1611 1452" 
+                    HPOS="1213"
+                    VPOS="1399"
+                    WIDTH="398"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1216 1465 1213 1412 1608 1399 1611 1452 1611 1465 1216 1479"/></Shape>
+	    <String CONTENT="الاقتداء بالصالحين"
+                    HPOS="1213"
+                    VPOS="1399"
+                    WIDTH="398"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdd1c4ac"
+                    
+                    BASELINE="113 1581 1500 1567" 
+                    HPOS="110"
+                    VPOS="1507"
+                    WIDTH="1390"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="113 1581 110 1521 1497 1507 1500 1567 1500 1578 113 1592"/></Shape>
+	    <String CONTENT="ومن أخذ كلاماً حسنا عن غيره فتكلم به في موضعه وعلى وجهه، فلا ترين"
+                    HPOS="110"
+                    VPOS="1507"
+                    WIDTH="1390"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="115"
+                   VPOS="1615"
+                   WIDTH="1537"
+                   HEIGHT="795"
+                   ID="eSc_textblock_c3948bfa"
+                   TAGREFS="BT886">
+          <Shape><Polygon POINTS="1652 1641 1639 2401 133 2410 115 1729 408 1615"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_acc58ce7"
+                    
+                    BASELINE="1542 1758 1591 1758" 
+                    HPOS="1542"
+                    VPOS="1720"
+                    WIDTH="49"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1542 1758 1542 1720 1591 1720 1591 1758 1591 1771 1542 1771"/></Shape>
+	    <String CONTENT="(1"
+                    HPOS="1542"
+                    VPOS="1720"
+                    WIDTH="49"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd67d79f"
+                    
+                    BASELINE="110 1758 1515 1758" 
+                    HPOS="110"
+                    VPOS="1711"
+                    WIDTH="1405"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="110 1758 110 1711 1515 1711 1515 1758 1515 1771 110 1771"/></Shape>
+	    <String CONTENT="العليم من صفات الله عز وجل العليم والعالم، ومنه قوله تعالى : (وهو الخلاق العليم* وهو"
+                    HPOS="110"
+                    VPOS="1711"
+                    WIDTH="1405"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef0eafe8"
+                    
+                    BASELINE="1358 1822 1508 1818" 
+                    HPOS="1355"
+                    VPOS="1782"
+                    WIDTH="153"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1358 1822 1355 1787 1506 1782 1508 1818 1508 1831 1358 1836"/></Shape>
+	    <String CONTENT="المقصود."
+                    HPOS="1355"
+                    VPOS="1782"
+                    WIDTH="153"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6dfc6463"
+                    
+                    BASELINE="117 1898 1508 1895" 
+                    HPOS="115"
+                    VPOS="1851"
+                    WIDTH="1393"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="117 1898 115 1853 1506 1851 1508 1895 1508 1911 117 1913"/></Shape>
+	    <String CONTENT="فضوص: جمع فص وفص الخاتم وفضه بالفتح والكسر: ما يركب فى الخاتم من الحجارة"
+                    HPOS="115"
+                    VPOS="1851"
+                    WIDTH="1393"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_431d10af"
+                    
+                    BASELINE="656 1964 1500 1969" 
+                    HPOS="654"
+                    VPOS="1924"
+                    WIDTH="846"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="656 1964 656 1924 1500 1929 1500 1969 1497 1984 654 1980"/></Shape>
+	    <String CONTENT="الكريمة، والفتح فيه أعلى، والمولدون يسمونه قلب الخاتم."
+                    HPOS="654"
+                    VPOS="1924"
+                    WIDTH="846"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_addc8610"
+                    
+                    BASELINE="119 2037 1508 2037" 
+                    HPOS="119"
+                    VPOS="1993"
+                    WIDTH="1389"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="119 2037 119 1993 1508 1993 1508 2037 1508 2051 119 2051"/></Shape>
+	    <String CONTENT="السموط: جم سقط والسمط: خيط النظم لأته يعلق، وقيل: هي قلادة أطول من المخنقة،،"
+                    HPOS="119"
+                    VPOS="1993"
+                    WIDTH="1389"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab3ca798"
+                    
+                    BASELINE="794 2104 1506 2108" 
+                    HPOS="792"
+                    VPOS="2060"
+                    WIDTH="714"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="794 2104 794 2060 1506 2064 1506 2108 1504 2122 792 2117"/></Shape>
+	    <String CONTENT="وقيل: السلك ما دام لم يخرز فيه لؤلؤ ولا مرجان."
+                    HPOS="792"
+                    VPOS="2060"
+                    WIDTH="714"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6106d83e"
+                    
+                    BASELINE="1548 2177 1593 2177" 
+                    HPOS="1548"
+                    VPOS="2139"
+                    WIDTH="45"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1548 2177 1548 2139 1593 2139 1593 2177 1593 2195 1548 2195"/></Shape>
+	    <String CONTENT="(4"
+                    HPOS="1548"
+                    VPOS="2139"
+                    WIDTH="45"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49d99db5"
+                    
+                    BASELINE="468 2175 1515 2175" 
+                    HPOS="468"
+                    VPOS="2135"
+                    WIDTH="1047"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="468 2175 468 2135 1515 2135 1515 2175 1515 2190 468 2190"/></Shape>
+	    <String CONTENT=" صانعا: الصانع الماهر الحاذق. ورجل صنع اليدين بكسر الصاد: الماهر"
+                    HPOS="468"
+                    VPOS="2135"
+                    WIDTH="1047"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b570d996"
+                    
+                    BASELINE="1551 2246 1586 2246" 
+                    HPOS="1551"
+                    VPOS="2210"
+                    WIDTH="35"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1551 2246 1551 2210 1586 2210 1586 2246 1586 2259 1551 2259"/></Shape>
+	    <String CONTENT="(5"
+                    HPOS="1551"
+                    VPOS="2210"
+                    WIDTH="35"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_692d8165"
+                    
+                    BASELINE="124 2248 1515 2244" 
+                    HPOS="122"
+                    VPOS="2199"
+                    WIDTH="1393"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="124 2248 122 2204 1513 2199 1515 2244 1515 2257 124 2261"/></Shape>
+	    <String CONTENT="الرفيق : جمع رفقاء المرافق ويطلق على الواحد والجمع فنقول هم رفيقي كما تقول هو رفيقي"
+                    HPOS="122"
+                    VPOS="2199"
+                    WIDTH="1393"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7117b524"
+                    
+                    BASELINE="687 2315 1495 2315" 
+                    HPOS="687"
+                    VPOS="2272"
+                    WIDTH="808"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="687 2315 687 2272 1495 2272 1495 2315 1495 2328 687 2328"/></Shape>
+	    <String CONTENT="المقصود هنا اللطيف وحسن الصنيع إذا كان رفيقأ بالعمل."
+                    HPOS="687"
+                    VPOS="2272"
+                    WIDTH="808"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2a4e937"
+                    
+                    BASELINE="1544 2383 1595 2388" 
+                    HPOS="1542"
+                    VPOS="2341"
+                    WIDTH="55"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1544 2383 1546 2341 1597 2346 1595 2388 1593 2401 1542 2397"/></Shape>
+	    <String CONTENT="(6"
+                    HPOS="1542"
+                    VPOS="2341"
+                    WIDTH="55"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b13c4a09"
+                    
+                    BASELINE="213 2386 1513 2383" 
+                    HPOS="210"
+                    VPOS="2335"
+                    WIDTH="1303"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="213 2386 210 2337 1511 2335 1513 2383 1513 2397 213 2399"/></Shape>
+	    <String CONTENT="ذللا: جمع الذل بالكسر: الليل وهو ضد الصعوبة، وقيل: ذل ذلولا في معنى رفيق ورؤوف"
+                    HPOS="210"
+                    VPOS="2335"
+                    WIDTH="1303"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="814"
+                   VPOS="2412"
+                   WIDTH="119"
+                   HEIGHT="167"
+                   ID="eSc_textblock_f4eed883"
+                   TAGREFS="BT888">
+          <Shape><Polygon POINTS="933 2412 933 2579 814 2579 814 2412"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

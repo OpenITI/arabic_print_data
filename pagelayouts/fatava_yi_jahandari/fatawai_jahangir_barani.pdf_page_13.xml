@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>fatawai_jahangir_barani.pdf_page_13.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1114" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1115" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1116" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1939"
+          HEIGHT="2733"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1939"
+                  HEIGHT="2733">
+        
+        <TextBlock HPOS="46"
+                   VPOS="298"
+                   WIDTH="1396"
+                   HEIGHT="2156"
+                   ID="eSc_textblock_d053fdd3"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="119 298 46 2405 1396 2454 1442 301"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="86"
+                   VPOS="2424"
+                   WIDTH="411"
+                   HEIGHT="135"
+                   ID="eSc_textblock_bf97ebae"
+                   TAGREFS="BT1114">
+          <Shape><Polygon POINTS="86 2424 86 2559 497 2556 497 2424"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1366"
+                   VPOS="229"
+                   WIDTH="56"
+                   HEIGHT="42"
+                   ID="eSc_textblock_97ac91c6"
+                   TAGREFS="BT1116">
+          <Shape><Polygon POINTS="1366 229 1366 271 1422 271 1422 229"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

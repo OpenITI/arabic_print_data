@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>majlisi_hilyah_al_mutaqqin.pdf_page_4.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1214" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1215" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1216" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1217" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1218" LABEL="Head" DESCRIPTION="block type Head"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2313"
+          HEIGHT="3221"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2313"
+                  HEIGHT="3221">
+        
+        <TextBlock HPOS="248"
+                   VPOS="1859"
+                   WIDTH="1791"
+                   HEIGHT="1141"
+                   ID="eSc_textblock_f94faf67"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2039 3000 2039 1859 248 1859 248 3000"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="993"
+                   VPOS="1710"
+                   WIDTH="302"
+                   HEIGHT="113"
+                   ID="eSc_textblock_b7cc749d"
+                   TAGREFS="BT1214">
+          <Shape><Polygon POINTS="993 1710 993 1823 1295 1823 1295 1710"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="289"
+                   VPOS="374"
+                   WIDTH="1710"
+                   HEIGHT="1340"
+                   ID="eSc_textblock_d394043c"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1999 1714 1999 374 289 374 289 1714"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1642"
+                   VPOS="257"
+                   WIDTH="375"
+                   HEIGHT="68"
+                   ID="eSc_textblock_54d67423"
+                   TAGREFS="BT1214">
+          <Shape><Polygon POINTS="1642 257 1642 325 2017 325 2017 257"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="257"
+                   VPOS="262"
+                   WIDTH="90"
+                   HEIGHT="63"
+                   ID="eSc_textblock_f7b0d053"
+                   TAGREFS="BT1217">
+          <Shape><Polygon POINTS="257 262 257 325 347 325 347 262"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_88475601"
+                    
+                    BASELINE="1636 292 1969 287" 
+                    HPOS="1633"
+                    VPOS="238"
+                    WIDTH="336"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1636 292 1633 244 1966 238 1969 287 1969 303 1636 308"/></Shape>
+	    <String CONTENT="ور فضيلت تجمل"
+                    HPOS="1633"
+                    VPOS="238"
+                    WIDTH="336"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_346f3b8a"
+                    
+                    BASELINE="287 437 1969 426" 
+                    HPOS="284"
+                    VPOS="370"
+                    WIDTH="1685"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="287 437 284 381 1966 370 1969 426 1969 445 287 456"/></Shape>
+	    <String CONTENT="وآشامیدن باب چهارم در فضیلت تزویج و آداب مجامعت و معاشرت زنان و کیفیت"
+                    HPOS="284"
+                    VPOS="370"
+                    WIDTH="1685"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f0c2113"
+                    
+                    BASELINE="290 531 1388 515 1958 520" 
+                    HPOS="287"
+                    VPOS="461"
+                    WIDTH="1671"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="290 531 287 477 1386 461 1388 461 1958 467 1958 520 1955 542 1388 536 290 552"/></Shape>
+	    <String CONTENT="تربیت فرزندان و معاشرت ایشان باب ینجم در آداب مسواك کردن و ناخن وشارب گرفتن"
+                    HPOS="287"
+                    VPOS="461"
+                    WIDTH="1671"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_288b9f79"
+                    
+                    BASELINE="290 611 1963 601" 
+                    HPOS="287"
+                    VPOS="550"
+                    WIDTH="1676"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="290 611 287 560 1961 550 1963 601 1963 617 290 628"/></Shape>
+	    <String CONTENT="وسرتراشیدن وشانه کردن و امثال اینها هاب ششم در آداب بوی خوش استعمال کردن و"
+                    HPOS="287"
+                    VPOS="550"
+                    WIDTH="1676"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d4bced0"
+                    
+                    BASELINE="292 697 1947 689" 
+                    HPOS="290"
+                    VPOS="638"
+                    WIDTH="1657"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="292 697 290 646 1944 638 1947 689 1947 705 292 713"/></Shape>
+	    <String CONTENT="کل خوشبوئیدن و روغن مالیدن باب هفتیم در آداب حمام رفتن و دارو کشیدن و امثال"
+                    HPOS="290"
+                    VPOS="638"
+                    WIDTH="1657"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47e23832"
+                    
+                    BASELINE="292 781 1961 767" 
+                    HPOS="290"
+                    VPOS="716"
+                    WIDTH="1671"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="292 781 290 730 1958 716 1961 767 1961 789 292 802"/></Shape>
+	    <String CONTENT="آن باب هشتم در آداب خواب رفتن و بیدارشدن و بیت الخلا رفتن باب نهم در آداب"
+                    HPOS="290"
+                    VPOS="716"
+                    WIDTH="1671"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_977b4f73"
+                    
+                    BASELINE="298 861 1963 853" 
+                    HPOS="295"
+                    VPOS="805"
+                    WIDTH="1668"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="298 861 295 813 1961 805 1963 853 1963 872 298 880"/></Shape>
+	    <String CONTENT="حجامت و تنقیه وذکر بعضی از ادعیه و احراز وخواص بعضی از ادویه و معالجهٔ بعضی"
+                    HPOS="295"
+                    VPOS="805"
+                    WIDTH="1668"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba56508c"
+                    
+                    BASELINE="300 950 1961 939" 
+                    HPOS="298"
+                    VPOS="888"
+                    WIDTH="1663"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="300 950 298 899 1958 888 1961 939 1961 958 300 968"/></Shape>
+	    <String CONTENT="از امراض یاب دهم در آداب معاشرت مؤمنان و حقوق و اصناف ایشان باب بازدهم"
+                    HPOS="298"
+                    VPOS="888"
+                    WIDTH="1663"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c60aa4a"
+                    
+                    BASELINE="292 1033 1971 1025" 
+                    HPOS="290"
+                    VPOS="977"
+                    WIDTH="1681"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="292 1033 290 985 1969 977 1971 1025 1971 1044 292 1052"/></Shape>
+	    <String CONTENT="در آداب مجالس و سلام و عطسه و مصافحه و معانقه و امثال اینها باب دوازدهم در"
+                    HPOS="290"
+                    VPOS="977"
+                    WIDTH="1681"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d03e2096"
+                    
+                    BASELINE="287 1119 1971 1113" 
+                    HPOS="284"
+                    VPOS="1062"
+                    WIDTH="1687"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="287 1119 284 1068 1969 1062 1971 1113 1971 1132 287 1138"/></Shape>
+	    <String CONTENT="آداب نخانه داخلشدنو بیرونرفتن باب سجزدهیم در آداب سوار شدن و راه رفتن و بازار"
+                    HPOS="284"
+                    VPOS="1062"
+                    WIDTH="1687"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1cab307"
+                    
+                    BASELINE="287 1205 1969 1202" 
+                    HPOS="284"
+                    VPOS="1154"
+                    WIDTH="1685"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="287 1205 284 1156 1966 1154 1969 1202 1969 1223 287 1226"/></Shape>
+	    <String CONTENT="رفتن و تجارت وزراعت نمودن و چهار پایان نگاه داشتن باب چهاردهم در آداب سفر"
+                    HPOS="284"
+                    VPOS="1154"
+                    WIDTH="1685"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca985bd4"
+                    
+                    BASELINE="287 1291 1641 1296 1963 1283" 
+                    HPOS="284"
+                    VPOS="1229"
+                    WIDTH="1679"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="287 1291 287 1237 1638 1242 1961 1229 1963 1283 1963 1307 1641 1320 1638 1320 284 1315"/></Shape>
+	    <String CONTENT="کردن خانمه در بیان بعضی از قواید متفرقه و هریك از ابواب را بر دوازده فصل مشتمل"
+                    HPOS="284"
+                    VPOS="1229"
+                    WIDTH="1679"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be46d66d"
+                    
+                    BASELINE="282 1371 1453 1385 1974 1368" 
+                    HPOS="279"
+                    VPOS="1309"
+                    WIDTH="1695"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="282 1371 282 1312 1450 1325 1971 1309 1974 1368 1974 1390 1453 1406 1450 1406 279 1393"/></Shape>
+	    <String CONTENT="ساخت و بکتاب حلیبة المتقبین مسمی گردانید مأمول از ناظران در اینرسالهٔ شافیه و عاملان"
+                    HPOS="279"
+                    VPOS="1309"
+                    WIDTH="1695"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc1bd8de"
+                    
+                    BASELINE="284 1457 1966 1465" 
+                    HPOS="282"
+                    VPOS="1411"
+                    WIDTH="1684"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="284 1457 284 1411 1966 1419 1966 1465 1963 1484 282 1476"/></Shape>
+	    <String CONTENT="باین عجالهٔ وافیه آنکه این مجرم خطاپیشه را بدعای مغفرت و استدعای رحمت یادنمایند"
+                    HPOS="282"
+                    VPOS="1411"
+                    WIDTH="1684"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a3dae62"
+                    
+                    BASELINE="284 1554 883 1546 1101 1556 1971 1556" 
+                    HPOS="282"
+                    VPOS="1489"
+                    WIDTH="1689"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="284 1554 282 1497 881 1489 886 1489 1071 1497 1101 1500 1971 1500 1971 1556 1971 1580 1101 1580 1098 1580 1069 1578 881 1570 284 1578"/></Shape>
+	    <String CONTENT="و بر خطای لفظ و معنى اين معترف بعجز و قصور را مؤاخذه ننمايند والله الموفق والمعين"
+                    HPOS="282"
+                    VPOS="1489"
+                    WIDTH="1689"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2497c732"
+                    
+                    BASELINE="1063 1640 1958 1650" 
+                    HPOS="1061"
+                    VPOS="1583"
+                    WIDTH="897"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1063 1640 1063 1583 1958 1594 1958 1650 1955 1666 1061 1656"/></Shape>
+	    <String CONTENT="باب اول در بیان آداب جامه و کفش پوشیدن"
+                    HPOS="1061"
+                    VPOS="1583"
+                    WIDTH="897"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c4cef6a"
+                    
+                    BASELINE="1007 1784 1230 1779" 
+                    HPOS="1004"
+                    VPOS="1715"
+                    WIDTH="226"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1007 1784 1004 1720 1227 1715 1230 1779 1230 1798 1007 1803"/></Shape>
+	    <String CONTENT="فصل اول"
+                    HPOS="1004"
+                    VPOS="1715"
+                    WIDTH="226"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b1bd28a"
+                    
+                    BASELINE="292 1897 1832 1903" 
+                    HPOS="290"
+                    VPOS="1846"
+                    WIDTH="1542"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="292 1897 292 1846 1832 1852 1832 1903 1829 1919 290 1913"/></Shape>
+	    <String CONTENT="در فضیلت تجمل وزینت کردن بدانکه موافق احادیث معتبرهٔ بسیار زینت کردن و"
+                    HPOS="290"
+                    VPOS="1846"
+                    WIDTH="1542"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e84c3e95"
+                    
+                    BASELINE="290 1972 1450 1997 1974 1983" 
+                    HPOS="287"
+                    VPOS="1919"
+                    WIDTH="1687"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="290 1972 290 1919 1447 1943 1971 1929 1974 1983 1974 2007 1450 2021 1447 2021 287 1997"/></Shape>
+	    <String CONTENT="جامههای پاکیزه و فاخر پوشیدن هرگاه از حلال بهم رسد و مناسب حال او باشدسنتست"
+                    HPOS="287"
+                    VPOS="1919"
+                    WIDTH="1687"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b412fc46"
+                    
+                    BASELINE="290 2061 1971 2082" 
+                    HPOS="287"
+                    VPOS="2010"
+                    WIDTH="1684"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="290 2061 290 2010 1971 2031 1971 2082 1969 2101 287 2080"/></Shape>
+	    <String CONTENT="و موجب خوشنودی پروردگار استواگر از حلال بهم نرسد بهرچه میسر شود باید قناعت"
+                    HPOS="287"
+                    VPOS="2010"
+                    WIDTH="1684"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_374440a7"
+                    
+                    BASELINE="295 2158 1192 2158 1396 2168 1974 2158" 
+                    HPOS="295"
+                    VPOS="2096"
+                    WIDTH="1679"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="295 2158 295 2096 1192 2096 1192 2096 1195 2096 1396 2107 1971 2096 1974 2158 1974 2179 1396 2190 1394 2190 1190 2182 295 2182"/></Shape>
+	    <String CONTENT="نماید و تحصیل ریادتیهای لباس را مانع عبادت الهی نگرداند واگر حقتعالی روزی را براو"
+                    HPOS="295"
+                    VPOS="2096"
+                    WIDTH="1679"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e16ae6bd"
+                    
+                    BASELINE="295 2238 1966 2254" 
+                    HPOS="292"
+                    VPOS="2184"
+                    WIDTH="1674"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="295 2238 295 2184 1966 2201 1966 2254 1963 2268 292 2252"/></Shape>
+	    <String CONTENT="فراخ کرداند در خور آن بخورد و بپوشد وصرف نماید و بیرادران مؤمن بدهدواگرروزی"
+                    HPOS="292"
+                    VPOS="2184"
+                    WIDTH="1674"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a858ab72"
+                    
+                    BASELINE="300 2321 1961 2340" 
+                    HPOS="298"
+                    VPOS="2270"
+                    WIDTH="1663"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="300 2321 300 2270 1961 2289 1961 2340 1958 2354 298 2335"/></Shape>
+	    <String CONTENT="بر او تنگ شود قناعت نماید و بحرام و شبهه خود را آلوده نکند چنانچه در حدیث معتبر"
+                    HPOS="298"
+                    VPOS="2270"
+                    WIDTH="1663"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc931c9d"
+                    
+                    BASELINE="298 2402 1961 2415" 
+                    HPOS="295"
+                    VPOS="2356"
+                    WIDTH="1666"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="298 2402 298 2356 1961 2370 1961 2415 1958 2439 295 2426"/></Shape>
+	    <String CONTENT="از حضرت امام جعفر صادق (ع) منقولستکه هرگاه خدا نعمتی ببندهٔ خود کرامت فرماید"
+                    HPOS="295"
+                    VPOS="2356"
+                    WIDTH="1666"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e277486"
+                    
+                    BASELINE="303 2488 1971 2507" 
+                    HPOS="300"
+                    VPOS="2439"
+                    WIDTH="1671"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="303 2488 303 2439 1971 2458 1971 2507 1969 2523 300 2504"/></Shape>
+	    <String CONTENT="واثر آن نعمت بر او ظاهر شود او را دوست خدا مینامند و یاد کنندهٔ نعمت پروردگار"
+                    HPOS="300"
+                    VPOS="2439"
+                    WIDTH="1671"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b03cc4d"
+                    
+                    BASELINE="300 2571 1566 2595 1977 2584" 
+                    HPOS="298"
+                    VPOS="2520"
+                    WIDTH="1679"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="300 2571 300 2520 1563 2544 1974 2533 1977 2584 1977 2609 1566 2619 1563 2619 298 2595"/></Shape>
+	    <String CONTENT="خواهد بود واگر براو ظاهر نشود اورا دشمن خدا مینامند و تکذیب کنندهٔ نعمت پروردگار"
+                    HPOS="298"
+                    VPOS="2520"
+                    WIDTH="1679"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5df353c6"
+                    
+                    BASELINE="300 2660 1971 2673" 
+                    HPOS="298"
+                    VPOS="2614"
+                    WIDTH="1673"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="300 2660 300 2614 1971 2627 1971 2673 1969 2694 298 2681"/></Shape>
+	    <String CONTENT="خواهد بود و در حدیث دیگر از آنحضرت منقولستکه هر گاه حق تعالی نعمتی بینده"
+                    HPOS="298"
+                    VPOS="2614"
+                    WIDTH="1673"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9dfcea1d"
+                    
+                    BASELINE="300 2748 1966 2759" 
+                    HPOS="298"
+                    VPOS="2697"
+                    WIDTH="1668"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="300 2748 300 2697 1966 2708 1966 2759 1963 2778 298 2767"/></Shape>
+	    <String CONTENT="گرامت فرماید دوست میدارد که اثر آن نعمت را بر او به بیند واز حضرت امیر المؤمکین"
+                    HPOS="298"
+                    VPOS="2697"
+                    WIDTH="1668"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40e3b619"
+                    
+                    BASELINE="292 2831 1211 2853 1977 2839" 
+                    HPOS="290"
+                    VPOS="2775"
+                    WIDTH="1687"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="292 2831 292 2775 1211 2796 1974 2783 1977 2839 1977 2864 1211 2877 1208 2877 290 2855"/></Shape>
+	    <String CONTENT="منقولستکه باید از برای برادر مؤمن خود زینت کنید چنانچه از برای بیگانه زینت میکنید"
+                    HPOS="290"
+                    VPOS="2775"
+                    WIDTH="1687"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0633934"
+                    
+                    BASELINE="295 2925 1235 2941 1977 2928" 
+                    HPOS="292"
+                    VPOS="2869"
+                    WIDTH="1685"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="295 2925 295 2869 1233 2885 1974 2872 1977 2928 1977 2955 1235 2968 1233 2968 292 2952"/></Shape>
+	    <String CONTENT="که خواهید شمارا بنیکوترین هیئتی بیند و بسنده معبتر منقولستکه حضرت علی بن موسی الرضا"
+                    HPOS="292"
+                    VPOS="2869"
+                    WIDTH="1685"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50503f41"
+                    
+                    BASELINE="287 300 319 297" 
+                    HPOS="282"
+                    VPOS="246"
+                    WIDTH="37"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="287 300 282 249 314 246 319 297 319 314 287 316"/></Shape>
+	    <String CONTENT="3"
+                    HPOS="282"
+                    VPOS="246"
+                    WIDTH="37"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

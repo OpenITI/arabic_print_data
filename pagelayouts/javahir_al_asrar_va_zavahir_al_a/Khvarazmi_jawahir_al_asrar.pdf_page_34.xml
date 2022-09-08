@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Khvarazmi_jawahir_al_asrar.pdf_page_34.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1234" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1235" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1236" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1237" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1238" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2067"
+          HEIGHT="2727"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2067"
+                  HEIGHT="2727">
+        
+        <TextBlock HPOS="238"
+                   VPOS="2186"
+                   WIDTH="1598"
+                   HEIGHT="303"
+                   ID="eSc_textblock_41f20e3c"
+                   TAGREFS="BT1237">
+          <Shape><Polygon POINTS="1836 2489 1836 2186 238 2186 238 2489"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="232"
+                   VPOS="415"
+                   WIDTH="1591"
+                   HEIGHT="1726"
+                   ID="eSc_textblock_ce6a5e18"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1823 415 1823 2141 232 2141 232 415"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="883"
+                   VPOS="324"
+                   WIDTH="303"
+                   HEIGHT="65"
+                   ID="eSc_textblock_7d74fa50"
+                   TAGREFS="BT1234">
+          <Shape><Polygon POINTS="883 324 883 389 1186 389 1186 324"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="290"
+                   VPOS="344"
+                   WIDTH="161"
+                   HEIGHT="25"
+                   ID="eSc_textblock_a07d02c9"
+                   TAGREFS="BT1234">
+          <Shape><Polygon POINTS="290 344 290 369 451 369 451 344"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1662"
+                   VPOS="324"
+                   WIDTH="65"
+                   HEIGHT="65"
+                   ID="eSc_textblock_814ce01b"
+                   TAGREFS="BT1236">
+          <Shape><Polygon POINTS="1662 324 1662 389 1727 389 1727 324"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_9e45fede"
+                    
+                    BASELINE="263 497 1764 486" 
+                    HPOS="261"
+                    VPOS="429"
+                    WIDTH="1503"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="263 497 261 440 1762 429 1764 486 1764 504 263 515"/></Shape>
+	    <String CONTENT="سال پداشت : بعد از آن چهار قسم ساخت : و قلم را(1) از قسمی آفرتد ؛ و لوح"
+                    HPOS="261"
+                    VPOS="429"
+                    WIDTH="1503"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f35b828"
+                    
+                    BASELINE="261 590 1764 581" 
+                    HPOS="259"
+                    VPOS="524"
+                    WIDTH="1505"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="261 590 259 534 1762 524 1764 581 1764 604 261 613"/></Shape>
+	    <String CONTENT="را از قسمی؛ و جنت را از قسمی(2) دیگر: و قسم رابع را در مقام خوف پادشاه(3)"
+                    HPOS="259"
+                    VPOS="524"
+                    WIDTH="1505"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e290560"
+                    
+                    BASELINE="256 681 1760 688" 
+                    HPOS="254"
+                    VPOS="627"
+                    WIDTH="1506"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="256 681 256 627 1760 634 1760 688 1757 704 254 697"/></Shape>
+	    <String CONTENT="بیزوال دوازده هزار سال بداشت . بعد از آن (4) چهار قسم ساخت : و ملائکه را(5)"
+                    HPOS="254"
+                    VPOS="627"
+                    WIDTH="1506"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4b94cec"
+                    
+                    BASELINE="259 781 1762 774" 
+                    HPOS="256"
+                    VPOS="722"
+                    WIDTH="1506"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="259 781 256 729 1760 722 1762 774 1762 793 259 799"/></Shape>
+	    <String CONTENT="از جزوی، و شمس را از جزوی، و قمر و کواکب(6) را از جزوی بیافرید . و"
+                    HPOS="256"
+                    VPOS="722"
+                    WIDTH="1506"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e503e3c5"
+                    
+                    BASELINE="263 872 1760 877" 
+                    HPOS="261"
+                    VPOS="820"
+                    WIDTH="1499"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="263 872 263 820 1760 824 1760 877 1757 897 261 893"/></Shape>
+	    <String CONTENT="جزو رابع را در مقام رجا دوازده هزار سال بداشت؛ و آنرا نیز چهارقسم ساخت:"
+                    HPOS="261"
+                    VPOS="820"
+                    WIDTH="1499"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd0e7986"
+                    
+                    BASELINE="256 983 500 972 1766 968" 
+                    HPOS="252"
+                    VPOS="913"
+                    WIDTH="1514"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="256 983 252 929 495 918 497 918 1764 913 1766 968 1766 990 500 995 256 1006"/></Shape>
+	    <String CONTENT="واز جزوی (7) عقل آفرید (8) :و از جزوی علم و جلم : و ازجزوی عصمت و توفیق"
+                    HPOS="252"
+                    VPOS="913"
+                    WIDTH="1514"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64c90642"
+                    
+                    BASELINE="256 1063 1762 1068" 
+                    HPOS="254"
+                    VPOS="1015"
+                    WIDTH="1508"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="256 1063 256 1015 1762 1020 1762 1068 1760 1088 254 1083"/></Shape>
+	    <String CONTENT="پدید آورد. و جزو رابع را در مقام حیا دوازده هزار سال بداشت. بعد از آن"
+                    HPOS="254"
+                    VPOS="1015"
+                    WIDTH="1508"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df9062d8"
+                    
+                    BASELINE="252 1165 1766 1158" 
+                    HPOS="250"
+                    VPOS="1108"
+                    WIDTH="1516"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="252 1165 250 1115 1764 1108 1766 1158 1766 1179 252 1186"/></Shape>
+	    <String CONTENT="حضرت الهی ، درآن نور نظر انداخت تا کرق از آن نور ترشح کرد و صدوبیست"
+                    HPOS="250"
+                    VPOS="1108"
+                    WIDTH="1516"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7dac0f4f"
+                    
+                    BASELINE="259 1268 1769 1258" 
+                    HPOS="256"
+                    VPOS="1204"
+                    WIDTH="1513"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="259 1268 256 1213 1766 1204 1769 1258 1769 1274 259 1283"/></Shape>
+	    <String CONTENT="و چهار هزار قطره از رشحات عرق آن نور متقاطر شد . پس حضرت الهی از هر"
+                    HPOS="256"
+                    VPOS="1204"
+                    WIDTH="1513"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f1419bc"
+                    
+                    BASELINE="256 1363 1437 1363 1766 1352" 
+                    HPOS="256"
+                    VPOS="1293"
+                    WIDTH="1510"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="256 1363 256 1304 1434 1304 1764 1293 1766 1352 1766 1374 1437 1386 1437 1386 256 1386"/></Shape>
+	    <String CONTENT="قطرهای (9) روح پیامبری یارسولی بیافرید . بعد از آن ارواح انبیاورسل نفس (10)"
+                    HPOS="256"
+                    VPOS="1293"
+                    WIDTH="1510"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbfaa7e9"
+                    
+                    BASELINE="252 1452 1766 1447" 
+                    HPOS="250"
+                    VPOS="1397"
+                    WIDTH="1516"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="252 1452 250 1402 1764 1397 1766 1447 1766 1468 252 1472"/></Shape>
+	    <String CONTENT="زدند : از آنفاس ارواح ایشان ، نور اولیا و شعدا و شهدا و صلحا و اهل ایمان و"
+                    HPOS="250"
+                    VPOS="1397"
+                    WIDTH="1516"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55f4035b"
+                    
+                    BASELINE="250 1552 650 1558 1766 1543" 
+                    HPOS="247"
+                    VPOS="1488"
+                    WIDTH="1519"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="250 1552 250 1497 650 1504 1764 1488 1766 1543 1766 1563 650 1579 648 1579 247 1572"/></Shape>
+	    <String CONTENT="ارباب طاعت را تا ساعت قیام و قیام ساعت بیافرید. پس عرش و کرسی از نورمنست؛"
+                    HPOS="247"
+                    VPOS="1488"
+                    WIDTH="1519"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ddbc00e"
+                    
+                    BASELINE="252 1654 591 1645 1766 1645" 
+                    HPOS="250"
+                    VPOS="1588"
+                    WIDTH="1516"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="252 1654 250 1597 588 1588 591 1588 1766 1588 1766 1645 1766 1670 591 1670 252 1677"/></Shape>
+	    <String CONTENT="و کروبیین و روحانیین و سموات سبع و جنت و آنچه دروست از نعیم ، هم از نور"
+                    HPOS="250"
+                    VPOS="1588"
+                    WIDTH="1516"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1087739"
+                    
+                    BASELINE="250 1747 1766 1738" 
+                    HPOS="247"
+                    VPOS="1688"
+                    WIDTH="1519"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="250 1747 247 1697 1764 1688 1766 1738 1766 1758 250 1768"/></Shape>
+	    <String CONTENT="منست؛ و شمس و قمرو کواکب و عقل و علم و توفیق از نورمنست؛ و ارواح رسل"
+                    HPOS="247"
+                    VPOS="1688"
+                    WIDTH="1519"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4457623"
+                    
+                    BASELINE="250 1845 1769 1833" 
+                    HPOS="247"
+                    VPOS="1783"
+                    WIDTH="1522"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="250 1845 247 1795 1766 1783 1769 1833 1769 1849 250 1861"/></Shape>
+	    <String CONTENT="و انبا از رشحات نورمنست؛ و ارواح اولیا و سعدا و شهدا و صلحا از انفاس"
+                    HPOS="247"
+                    VPOS="1783"
+                    WIDTH="1522"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a8ef202"
+                    
+                    BASELINE="252 1938 1771 1931" 
+                    HPOS="250"
+                    VPOS="1879"
+                    WIDTH="1521"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="252 1938 250 1886 1769 1879 1771 1931 1771 1949 252 1956"/></Shape>
+	    <String CONTENT="رشحات نور من (11) . بعداز آن خداوند تعالی دوازده(12) حجاب آفرید؛ و آن نور را"
+                    HPOS="250"
+                    VPOS="1879"
+                    WIDTH="1521"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58547554"
+                    
+                    BASELINE="254 2036 1753 2031" 
+                    HPOS="252"
+                    VPOS="1981"
+                    WIDTH="1501"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="254 2036 252 1986 1750 1981 1753 2031 1753 2049 254 2054"/></Shape>
+	    <String CONTENT="که جزو رابع است ، در هر حجابی هزار سال بداشت؛ و آن مقامات عبودیت است :"
+                    HPOS="252"
+                    VPOS="1981"
+                    WIDTH="1501"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69adfce0"
+                    
+                    BASELINE="247 2129 1771 2124" 
+                    HPOS="245"
+                    VPOS="2074"
+                    WIDTH="1526"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="247 2129 245 2079 1769 2074 1771 2124 1771 2145 247 2149"/></Shape>
+	    <String CONTENT="وآن حجب ججاب کرامت و سعادت و رحمت و رأفت و علم و جلم و وقار و سکینه"
+                    HPOS="245"
+                    VPOS="2074"
+                    WIDTH="1526"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9346991"
+                    
+                    BASELINE="884 365 1173 370" 
+                    HPOS="882"
+                    VPOS="322"
+                    WIDTH="291"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="884 365 884 322 1173 327 1173 370 1171 386 882 381"/></Shape>
+	    <String CONTENT="جواهر الاسرار"
+                    HPOS="882"
+                    VPOS="322"
+                    WIDTH="291"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9930910c"
+                    
+                    BASELINE="288 361 429 365" 
+                    HPOS="286"
+                    VPOS="320"
+                    WIDTH="143"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="288 361 288 320 429 324 429 365 427 379 286 374"/></Shape>
+	    <String CONTENT="مقدیمه"
+                    HPOS="286"
+                    VPOS="320"
+                    WIDTH="143"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_109a98e2"
+                    
+                    BASELINE="1498 2272 1725 2274" 
+                    HPOS="1496"
+                    VPOS="2227"
+                    WIDTH="229"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1498 2272 1498 2227 1725 2229 1725 2274 1723 2288 1496 2286"/></Shape>
+	    <String CONTENT="1- ر: قلم را"
+                    HPOS="1496"
+                    VPOS="2227"
+                    WIDTH="229"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14556c47"
+                    
+                    BASELINE="286 2274 1441 2274" 
+                    HPOS="286"
+                    VPOS="2231"
+                    WIDTH="1155"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="286 2274 286 2231 1441 2231 1441 2274 1441 2288 286 2288"/></Shape>
+	    <String CONTENT="چ : قسم3_ر: در مقام پادشاه * د: و بعد ازآن 5-ر"
+                    HPOS="286"
+                    VPOS="2231"
+                    WIDTH="1155"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af716152"
+                    
+                    BASELINE="277 2347 1264 2354 1739 2342" 
+                    HPOS="275"
+                    VPOS="2295"
+                    WIDTH="1464"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="277 2347 277 2299 1262 2306 1737 2295 1739 2342 1739 2361 1264 2372 1262 2372 275 2365"/></Shape>
+	    <String CONTENT="ملائکه راعر: کوکب 7-چ ور : ازجزوی 8_ ر : بیافرید هدهٔ از قطره ای"
+                    HPOS="275"
+                    VPOS="2295"
+                    WIDTH="1464"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d2ccdec"
+                    
+                    BASELINE="1480 2431 1732 2429" 
+                    HPOS="1478"
+                    VPOS="2390"
+                    WIDTH="254"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1480 2431 1478 2392 1730 2390 1732 2429 1732 2447 1480 2449"/></Shape>
+	    <String CONTENT="10- ر : نقش"
+                    HPOS="1478"
+                    VPOS="2390"
+                    WIDTH="254"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8c99581"
+                    
+                    BASELINE="279 2431 1412 2433" 
+                    HPOS="277"
+                    VPOS="2390"
+                    WIDTH="1135"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="279 2431 279 2390 1412 2392 1412 2433 1409 2449 277 2447"/></Shape>
+	    <String CONTENT="1-چ . من است 12_ ر : دوازده هزار سال،د : دوازده هزار"
+                    HPOS="277"
+                    VPOS="2390"
+                    WIDTH="1135"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

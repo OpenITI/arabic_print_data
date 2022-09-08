@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Davani_Naghde_Niyazi.pdf_page_27.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1089" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1090" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1091" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="25"
+                   VPOS="311"
+                   WIDTH="1928"
+                   HEIGHT="2712"
+                   ID="eSc_textblock_4597e1d5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="36 321 25 3018 1953 3023 1953 311"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="46"
+                   VPOS="210"
+                   WIDTH="263"
+                   HEIGHT="91"
+                   ID="eSc_textblock_2260da23"
+                   TAGREFS="BT1089">
+          <Shape><Polygon POINTS="46 210 46 301 309 301 309 210"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1852"
+                   VPOS="230"
+                   WIDTH="126"
+                   HEIGHT="76"
+                   ID="eSc_textblock_fffe10a0"
+                   TAGREFS="BT1091">
+          <Shape><Polygon POINTS="1852 230 1852 306 1978 306 1978 230"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="349"
+                   VPOS="3068"
+                   WIDTH="1584"
+                   HEIGHT="198"
+                   ID="eSc_textblock_848589e7"
+                   TAGREFS="BT1090">
+          <Shape><Polygon POINTS="349 3068 349 3266 1933 3266 1933 3068"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

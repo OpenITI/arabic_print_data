@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nasir_khusraw_safarnamah.pdf_page_49.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1129" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1367" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1368" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1369" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1370" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1840"
+          HEIGHT="2904"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1840"
+                  HEIGHT="2904">
+        
+        <TextBlock HPOS="258"
+                   VPOS="2085"
+                   WIDTH="1199"
+                   HEIGHT="377"
+                   ID="eSc_textblock_ce26eab9"
+                   TAGREFS="BT1129">
+          <Shape><Polygon POINTS="1457 2462 1457 2085 262 2085 258 2462"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="248"
+                   VPOS="305"
+                   WIDTH="1188"
+                   HEIGHT="1759"
+                   ID="eSc_textblock_da152770"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="248 305 248 2064 1436 2064 1436 305"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="732"
+                   VPOS="183"
+                   WIDTH="226"
+                   HEIGHT="104"
+                   ID="eSc_textblock_ec9cdfff"
+                   TAGREFS="BT1367">
+          <Shape><Polygon POINTS="732 183 732 287 958 287 958 183"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_06264d12"
+                    
+                    BASELINE="263 360 1409 355" 
+                    HPOS="261"
+                    VPOS="300"
+                    WIDTH="1148"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="263 360 261 304 1406 300 1409 355 1409 365 263 370"/></Shape>
+	    <String CONTENT="در وازه های(1) آهنین بر نشانده اند مخالف دروازه های(2) اندروفی"
+                    HPOS="261"
+                    VPOS="300"
+                    WIDTH="1148"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb3fef4c"
+                    
+                    BASELINE="259 435 1409 438" 
+                    HPOS="256"
+                    VPOS="384"
+                    WIDTH="1153"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="259 435 259 384 1409 387 1409 438 1406 454 256 452"/></Shape>
+	    <String CONTENT="چنانکه چون از دروازههای(3) سور اول در روند مبلغی در فصیل"
+                    HPOS="256"
+                    VPOS="384"
+                    WIDTH="1153"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47622c55"
+                    
+                    BASELINE="268 520 1409 513" 
+                    HPOS="266"
+                    VPOS="464"
+                    WIDTH="1143"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="268 520 266 471 1406 464 1409 513 1409 527 268 534"/></Shape>
+	    <String CONTENT="بباید رفت تا بدروازهٔ (4) سور دوم رسند و فراخی فصیل پانزده"
+                    HPOS="266"
+                    VPOS="464"
+                    WIDTH="1143"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08339a3c"
+                    
+                    BASELINE="271 585 847 600 1404 590" 
+                    HPOS="268"
+                    VPOS="534"
+                    WIDTH="1136"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="271 585 271 534 847 549 1401 539 1404 590 1404 612 847 621 844 621 268 607"/></Shape>
+	    <String CONTENT="گز باشد . و اندر میان شهر چشمه ایست که از سنگ خاره(5)"
+                    HPOS="268"
+                    VPOS="534"
+                    WIDTH="1136"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77fc1ec8"
+                    
+                    BASELINE="280 682 1413 677" 
+                    HPOS="278"
+                    VPOS="617"
+                    WIDTH="1135"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="280 682 278 621 1411 617 1413 677 1413 692 280 696"/></Shape>
+	    <String CONTENT="بیرون میآید مقدار پنج آسیا گرد آبی بغایت خوش و (6) هیچکس"
+                    HPOS="278"
+                    VPOS="617"
+                    WIDTH="1135"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81fff620"
+                    
+                    BASELINE="266 742 414 755 1423 755" 
+                    HPOS="263"
+                    VPOS="687"
+                    WIDTH="1160"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="266 742 268 687 414 699 1423 699 1423 755 1423 776 414 776 411 776 263 764"/></Shape>
+	    <String CONTENT="نداند از کجا میآید . و در آنشهر اشجار و بساتین است که از (7)"
+                    HPOS="263"
+                    VPOS="687"
+                    WIDTH="1160"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b22f3764"
+                    
+                    BASELINE="266 837 1413 832" 
+                    HPOS="263"
+                    VPOS="776"
+                    WIDTH="1150"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="266 837 263 781 1411 776 1413 832 1413 849 266 854"/></Shape>
+	    <String CONTENT="آن آب ساخته اند. وامیر وحاکم آن(8) شهر یسر آن نصر(9) الدوله است"
+                    HPOS="263"
+                    VPOS="776"
+                    WIDTH="1150"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71e8dcb3"
+                    
+                    BASELINE="266 919 1409 914" 
+                    HPOS="263"
+                    VPOS="863"
+                    WIDTH="1146"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="266 919 263 868 1406 863 1409 914 1409 929 266 934"/></Shape>
+	    <String CONTENT="که ذكر رفت . ومن فراوان شهرها و قلعه ها(1) دیدم در اطراف عالم"
+                    HPOS="263"
+                    VPOS="863"
+                    WIDTH="1146"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61b710d0"
+                    
+                    BASELINE="263 997 1423 992" 
+                    HPOS="261"
+                    VPOS="948"
+                    WIDTH="1162"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="263 997 261 953 1421 948 1423 992 1423 1011 263 1016"/></Shape>
+	    <String CONTENT="در بلاد عرب و عجم و هند و ترک مثل شهر امد هیچ جا ندیدم"
+                    HPOS="261"
+                    VPOS="948"
+                    WIDTH="1162"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f56b03a8"
+                    
+                    BASELINE="266 1076 1416 1076" 
+                    HPOS="266"
+                    VPOS="1026"
+                    WIDTH="1150"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="266 1076 266 1026 1416 1026 1416 1076 1416 1093 266 1093"/></Shape>
+	    <String CONTENT=" که بر روی زمین(11) چنان باشد و نه نیز از کسی(12) شنیدم که گفت"
+                    HPOS="266"
+                    VPOS="1026"
+                    WIDTH="1150"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_abe3de73"
+                    
+                    BASELINE="271 1159 1423 1159" 
+                    HPOS="271"
+                    VPOS="1113"
+                    WIDTH="1152"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="271 1159 271 1113 1423 1113 1423 1159 1423 1178 271 1178"/></Shape>
+	    <String CONTENT="چنان جای دیگر دیدهام. و مسجد جامع هم از این سنگ سیاه"
+                    HPOS="271"
+                    VPOS="1113"
+                    WIDTH="1152"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_328e96ec"
+                    
+                    BASELINE="271 1239 1423 1234" 
+                    HPOS="268"
+                    VPOS="1185"
+                    WIDTH="1155"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="271 1239 268 1190 1421 1185 1423 1234 1423 1251 271 1255"/></Shape>
+	    <String CONTENT="است چنانکه از آن راستتر و محکمتر نتواند بود. و در میان جامع"
+                    HPOS="268"
+                    VPOS="1185"
+                    WIDTH="1155"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcd40f02"
+                    
+                    BASELINE="268 1316 1426 1316" 
+                    HPOS="268"
+                    VPOS="1270"
+                    WIDTH="1158"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="268 1316 268 1270 1426 1270 1426 1316 1426 1335 268 1335"/></Shape>
+	    <String CONTENT=" دویست و اند ستون سنگین برداشته است هر ستونی یکپاره سنگ"
+                    HPOS="268"
+                    VPOS="1270"
+                    WIDTH="1158"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc667983"
+                    
+                    BASELINE="273 1403 1426 1398" 
+                    HPOS="271"
+                    VPOS="1345"
+                    WIDTH="1155"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="273 1403 271 1350 1423 1345 1426 1398 1426 1410 273 1415"/></Shape>
+	    <String CONTENT="و بر ستونها طاقها زده است همه از سنگ و بر سر طاقها باز ستونها"
+                    HPOS="271"
+                    VPOS="1345"
+                    WIDTH="1155"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb9b9656"
+                    
+                    BASELINE="285 1466 389 1481 1428 1481" 
+                    HPOS="280"
+                    VPOS="1410"
+                    WIDTH="1148"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="285 1466 292 1410 392 1425 1428 1425 1428 1481 1428 1497 389 1497 384 1497 280 1483"/></Shape>
+	    <String CONTENT="زده است کوتاهتر از آن . وصفی دیگر طاق زده بر سر آن طاقهای (13)"
+                    HPOS="280"
+                    VPOS="1410"
+                    WIDTH="1148"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ba7deb9"
+                    
+                    BASELINE="278 1560 1426 1556" 
+                    HPOS="276"
+                    VPOS="1510"
+                    WIDTH="1150"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="278 1560 276 1514 1423 1510 1426 1556 1426 1573 278 1577"/></Shape>
+	    <String CONTENT="بزر. وهمه بامهای این مسجد بخریشته پوشیده همه نجارت و"
+                    HPOS="276"
+                    VPOS="1510"
+                    WIDTH="1150"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c26bda50"
+                    
+                    BASELINE="273 1643 767 1635 1203 1643 1428 1631" 
+                    HPOS="271"
+                    VPOS="1580"
+                    WIDTH="1157"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="273 1643 271 1592 765 1585 767 1585 844 1585 1200 1592 1423 1580 1428 1631 1428 1648 1203 1660 1200 1660 842 1655 765 1652 273 1660"/></Shape>
+	    <String CONTENT="نقارت و منقوش و مدهون کرده . و اندر ساحت(14) مسجدسنکی"
+                    HPOS="271"
+                    VPOS="1580"
+                    WIDTH="1157"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8816acd"
+                    
+                    BASELINE="276 1727 1428 1718" 
+                    HPOS="273"
+                    VPOS="1662"
+                    WIDTH="1155"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="276 1727 273 1672 1426 1662 1428 1718 1428 1730 276 1739"/></Shape>
+	    <String CONTENT="بزرگ نهاده است وحوضی(15) سنگین مدور عظیم بزرگ بر سر آن"
+                    HPOS="273"
+                    VPOS="1662"
+                    WIDTH="1155"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9188fedc"
+                    
+                    BASELINE="418 1790 1433 1798" 
+                    HPOS="416"
+                    VPOS="1739"
+                    WIDTH="1017"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="418 1790 418 1739 1433 1747 1433 1798 1430 1817 416 1810"/></Shape>
+	    <String CONTENT=" سنگ نهاده و (16) ار تفاعش قامت مردی و دور دائرهٔ آن دو(1"
+                    HPOS="416"
+                    VPOS="1739"
+                    WIDTH="1017"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd5069ff"
+                    
+                    BASELINE="276 1885 1430 1885" 
+                    HPOS="276"
+                    VPOS="1827"
+                    WIDTH="1154"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="276 1885 276 1827 1430 1827 1430 1885 1430 1899 276 1899"/></Shape>
+	    <String CONTENT="و نایژهای (18) بر نجین از میان حوض بر آمده که آبی صافی بفواره از آن"
+                    HPOS="276"
+                    VPOS="1827"
+                    WIDTH="1154"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8c6c027"
+                    
+                    BASELINE="280 1948 438 1962 1426 1967" 
+                    HPOS="278"
+                    VPOS="1892"
+                    WIDTH="1148"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="280 1948 285 1892 440 1906 1426 1911 1426 1967 1423 1984 435 1979 435 1979 278 1965"/></Shape>
+	    <String CONTENT="بیرون میآید چنانکه مدخل و مخرج آن آب پیدا نیست . و متوضای(19)"
+                    HPOS="278"
+                    VPOS="1892"
+                    WIDTH="1148"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_165912ce"
+                    
+                    BASELINE="276 2037 1426 2037" 
+                    HPOS="276"
+                    VPOS="1989"
+                    WIDTH="1150"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="276 2037 276 1989 1426 1989 1426 2037 1426 2059 276 2059"/></Shape>
+	    <String CONTENT=" عظیم بزرگ و چنان نیکو ساخته که به از آن نباشد الا که سنگ"
+                    HPOS="276"
+                    VPOS="1989"
+                    WIDTH="1150"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da156b76"
+                    
+                    BASELINE="283 2151 1380 2156" 
+                    HPOS="280"
+                    VPOS="2110"
+                    WIDTH="1100"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="283 2151 283 2110 1380 2115 1380 2156 1377 2168 280 2163"/></Shape>
+	    <String CONTENT="(1) نب : در وازهای. (2) نب : در وازهای. (3) نب : در وازهای. (4) نب:"
+                    HPOS="280"
+                    VPOS="2110"
+                    WIDTH="1100"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9124f5aa"
+                    
+                    BASELINE="283 2207 1426 2207" 
+                    HPOS="283"
+                    VPOS="2168"
+                    WIDTH="1143"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="283 2207 283 2168 1426 2168 1426 2207 1426 2221 283 2221"/></Shape>
+	    <String CONTENT="بدروازهای. (5) نب : خارا. (6) ني &quot;&quot;و&quot; را ندارد. (7)نب (اصلا) : و بر،"
+                    HPOS="283"
+                    VPOS="2168"
+                    WIDTH="1143"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d7e7e57"
+                    
+                    BASELINE="290 2262 1421 2255" 
+                    HPOS="288"
+                    VPOS="2214"
+                    WIDTH="1133"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="290 2262 288 2221 1418 2214 1421 2255 1421 2272 290 2279"/></Shape>
+	    <String CONTENT="(باصلاح جديد): از (بر؟). (8) نب : این . (9) نب : نصير. (10) نبپ : شهر"
+                    HPOS="288"
+                    VPOS="2214"
+                    WIDTH="1133"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16f2b7ff"
+                    
+                    BASELINE="285 2313 1426 2313" 
+                    HPOS="285"
+                    VPOS="2274"
+                    WIDTH="1141"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="285 2313 285 2274 1426 2274 1426 2313 1426 2328 285 2328"/></Shape>
+	    <String CONTENT="وقلمها . (11) نب : (بخط الحاقی) افزوده : شهری. (12) نب : کس. (13)نب:"
+                    HPOS="285"
+                    VPOS="2274"
+                    WIDTH="1141"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f670e61"
+                    
+                    BASELINE="285 2364 1423 2364" 
+                    HPOS="285"
+                    VPOS="2328"
+                    WIDTH="1138"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="285 2364 285 2328 1423 2328 1423 2364 1423 2383 285 2383"/></Shape>
+	    <String CONTENT="طاقها. (14) نب : ساخت (غ). (15) نب : حوض. (16) نب &quot;1و&quot; را ندارد."
+                    HPOS="285"
+                    VPOS="2328"
+                    WIDTH="1138"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efa51d67"
+                    
+                    BASELINE="578 2415 1426 2420" 
+                    HPOS="576"
+                    VPOS="2378"
+                    WIDTH="850"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="578 2415 578 2378 1426 2383 1426 2420 1423 2439 576 2434"/></Shape>
+	    <String CONTENT="(17) نپ : ده . (18) نپ : نائره . (19) نپ : متوضاقی ."
+                    HPOS="576"
+                    VPOS="2378"
+                    WIDTH="850"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

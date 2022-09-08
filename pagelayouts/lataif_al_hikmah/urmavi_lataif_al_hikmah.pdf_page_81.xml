@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>urmavi_lataif_al_hikmah.pdf_page_81.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1189" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1190" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1191" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1192" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1193" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1989"
+          HEIGHT="2709"
+          PHYSICAL_IMG_NR="80"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1989"
+                  HEIGHT="2709">
+        
+        <TextBlock HPOS="1014"
+                   VPOS="2205"
+                   WIDTH="695"
+                   HEIGHT="229"
+                   ID="eSc_textblock_94f9b717"
+                   TAGREFS="BT1192">
+          <Shape><Polygon POINTS="1709 2434 1709 2205 1014 2205 1014 2434"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="306"
+                   VPOS="609"
+                   WIDTH="1493"
+                   HEIGHT="1576"
+                   ID="eSc_textblock_a0ee4a89"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1799 2185 1799 609 306 609 306 2185"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="698"
+                   VPOS="406"
+                   WIDTH="692"
+                   HEIGHT="193"
+                   ID="eSc_textblock_0b1d6b5d"
+                   TAGREFS="BT1189">
+          <Shape><Polygon POINTS="1390 599 1377 406 705 406 698 595"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1609"
+                   VPOS="256"
+                   WIDTH="77"
+                   HEIGHT="40"
+                   ID="eSc_textblock_69792a09"
+                   TAGREFS="BT1191">
+          <Shape><Polygon POINTS="1609 256 1609 296 1686 296 1686 256"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="276"
+                   VPOS="253"
+                   WIDTH="289"
+                   HEIGHT="63"
+                   ID="eSc_textblock_c6e49128"
+                   TAGREFS="BT1189">
+          <Shape><Polygon POINTS="565 253 565 316 276 316 276 253"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_0e3ff00d"
+                    
+                    BASELINE="1625 288 1645 288" 
+                    HPOS="1625"
+                    VPOS="259"
+                    WIDTH="20"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1625 288 1625 259 1645 259 1645 288 1645 309 1625 309"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="1625"
+                    VPOS="259"
+                    WIDTH="20"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f5a7067"
+                    
+                    BASELINE="903 465 1155 462" 
+                    HPOS="900"
+                    VPOS="408"
+                    WIDTH="255"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="903 465 900 410 1153 408 1155 462 1155 496 903 498"/></Shape>
+	    <String CONTENT="فصل سوم"
+                    HPOS="900"
+                    VPOS="408"
+                    WIDTH="255"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7467e71"
+                    
+                    BASELINE="697 577 1341 568" 
+                    HPOS="695"
+                    VPOS="519"
+                    WIDTH="646"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="697 577 695 528 1338 519 1341 568 1341 584 697 593"/></Shape>
+	    <String CONTENT="در فضیلت علم و رجحان او برمال"
+                    HPOS="695"
+                    VPOS="519"
+                    WIDTH="646"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26d8b6e8"
+                    
+                    BASELINE="338 661 1478 661" 
+                    HPOS="338"
+                    VPOS="602"
+                    WIDTH="1140"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="338 661 338 602 1478 602 1478 661 1478 677 338 677"/></Shape>
+	    <String CONTENT="دليل اول قول على رضی الله عنه: آدعلم خيرلك من المال آلمال"
+                    HPOS="338"
+                    VPOS="602"
+                    WIDTH="1140"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29adeebf"
+                    
+                    BASELINE="336 740 1621 744" 
+                    HPOS="334"
+                    VPOS="684"
+                    WIDTH="1287"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="336 740 336 684 1621 688 1621 744 1618 765 334 760"/></Shape>
+	    <String CONTENT="قنتمصه النفقته والعلم يزكوعلی الدنفاق. گفت : علم ترا بهتر از مال ، مال"
+                    HPOS="334"
+                    VPOS="684"
+                    WIDTH="1287"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60825426"
+                    
+                    BASELINE="945 833 1623 833" 
+                    HPOS="945"
+                    VPOS="785"
+                    WIDTH="678"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="945 833 945 785 1623 785 1623 833 1623 851 945 851"/></Shape>
+	    <String CONTENT="ازنفقت بکاهد و علم از انفاق زیادت گردد."
+                    HPOS="945"
+                    VPOS="785"
+                    WIDTH="678"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_826131cb"
+                    
+                    BASELINE="338 921 1476 921" 
+                    HPOS="338"
+                    VPOS="875"
+                    WIDTH="1138"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="338 921 338 875 1476 875 1476 921 1476 941 338 941"/></Shape>
+	    <String CONTENT="دلیل دوم بسبب مال دوست دشمن کردد زیرا که مال از بهر خود"
+                    HPOS="338"
+                    VPOS="875"
+                    WIDTH="1138"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0de423e"
+                    
+                    BASELINE="961 1009 1616 1002" 
+                    HPOS="959"
+                    VPOS="961"
+                    WIDTH="657"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="961 1009 959 968 1614 961 1616 1002 1616 1024 961 1031"/></Shape>
+	    <String CONTENT="خواهد و بسبب علم دشمن دوست کردد."
+                    HPOS="959"
+                    VPOS="961"
+                    WIDTH="657"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36854d74"
+                    
+                    BASELINE="331 1106 1481 1099" 
+                    HPOS="329"
+                    VPOS="1045"
+                    WIDTH="1152"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="331 1106 329 1051 1478 1045 1481 1099 1481 1117 331 1124"/></Shape>
+	    <String CONTENT="دلیل سوم علم از دنیا (8پ) ببرد وبمولی رساند ومال از مولی"
+                    HPOS="329"
+                    VPOS="1045"
+                    WIDTH="1152"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_913f5fa1"
+                    
+                    BASELINE="1293 1180 1621 1191" 
+                    HPOS="1291"
+                    VPOS="1133"
+                    WIDTH="330"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1293 1180 1293 1133 1621 1144 1621 1191 1618 1203 1291 1191"/></Shape>
+	    <String CONTENT="ببرد و بدنیا رساند."
+                    HPOS="1291"
+                    VPOS="1133"
+                    WIDTH="330"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab10c357"
+                    
+                    BASELINE="336 1266 1474 1277" 
+                    HPOS="334"
+                    VPOS="1216"
+                    WIDTH="1140"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="336 1266 336 1216 1474 1228 1474 1277 1471 1295 334 1284"/></Shape>
+	    <String CONTENT="دلیل چهارم مال تا وقت مرک بیش با تو نباشد. چون مرگرسد"
+                    HPOS="334"
+                    VPOS="1216"
+                    WIDTH="1140"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c2a168f"
+                    
+                    BASELINE="336 1363 1618 1359" 
+                    HPOS="334"
+                    VPOS="1311"
+                    WIDTH="1284"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="336 1363 334 1316 1616 1311 1618 1359 1618 1377 336 1381"/></Shape>
+	    <String CONTENT="دیگران بدان بهره مندگردند. اما علم با تو خواهد ماند هم در دنیا و هم در"
+                    HPOS="334"
+                    VPOS="1311"
+                    WIDTH="1284"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92919ef7"
+                    
+                    BASELINE="334 1447 878 1453 1616 1440" 
+                    HPOS="331"
+                    VPOS="1386"
+                    WIDTH="1285"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="334 1447 334 1392 875 1399 1614 1386 1616 1440 1616 1462 878 1476 875 1476 331 1469"/></Shape>
+	    <String CONTENT="آخرت . مصطفی عليه السلام می فرماید : إذامات ابن آدم أدقطع عمله الد"
+                    HPOS="331"
+                    VPOS="1386"
+                    WIDTH="1285"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3159c9cf"
+                    
+                    BASELINE="331 1532 828 1544 1618 1532" 
+                    HPOS="329"
+                    VPOS="1483"
+                    WIDTH="1289"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="331 1532 331 1483 828 1494 1616 1483 1618 1532 1618 1555 828 1566 826 1566 329 1555"/></Shape>
+	    <String CONTENT="عن ثلث: صدقه جاریته وعلم یستفع به بعدموته وولد صالح يدعوله."
+                    HPOS="329"
+                    VPOS="1483"
+                    WIDTH="1289"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11decb4a"
+                    
+                    BASELINE="331 1629 1471 1629" 
+                    HPOS="331"
+                    VPOS="1582"
+                    WIDTH="1140"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="331 1629 331 1582 1471 1582 1471 1629 1471 1645 331 1645"/></Shape>
+	    <String CONTENT="دلیل ببنجم قارون مال داشت عاقبتش این بود فخفنابه وبداره"
+                    HPOS="331"
+                    VPOS="1582"
+                    WIDTH="1140"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b886889"
+                    
+                    BASELINE="329 1720 1616 1713" 
+                    HPOS="327"
+                    VPOS="1654"
+                    WIDTH="1289"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="329 1720 327 1661 1614 1654 1616 1713 1616 1729 329 1736"/></Shape>
+	    <String CONTENT="الارضا. ادریس علم داشت عاقبتش این بود که ورفعناه مخادا عدیا3ً. پس"
+                    HPOS="327"
+                    VPOS="1654"
+                    WIDTH="1289"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c703e266"
+                    
+                    BASELINE="1338 1805 1609 1799" 
+                    HPOS="1336"
+                    VPOS="1751"
+                    WIDTH="273"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1338 1805 1336 1758 1607 1751 1609 1799 1609 1819 1338 1826"/></Shape>
+	    <String CONTENT="علم از مال بهتر."
+                    HPOS="1336"
+                    VPOS="1751"
+                    WIDTH="273"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a938f92"
+                    
+                    BASELINE="329 1885 1469 1896" 
+                    HPOS="327"
+                    VPOS="1833"
+                    WIDTH="1142"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="329 1885 329 1833 1469 1844 1469 1896 1467 1916 327 1905"/></Shape>
+	    <String CONTENT="سؤال اگر کسی گوید: پیوسته علمارا می بینم بردر اصحاب اموال،"
+                    HPOS="327"
+                    VPOS="1833"
+                    WIDTH="1142"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83d8b2a0"
+                    
+                    BASELINE="327 1975 988 1984 1616 1973" 
+                    HPOS="325"
+                    VPOS="1921"
+                    WIDTH="1291"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="327 1975 327 1923 986 1932 1614 1921 1616 1973 1616 1997 988 2009 986 2009 325 2000"/></Shape>
+	    <String CONTENT="طالب مال، وكم باشد که صاحب مالى بردر عالمی باشد از بهر طلب علم ."
+                    HPOS="325"
+                    VPOS="1921"
+                    WIDTH="1291"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c473713d"
+                    
+                    BASELINE="564 2067 1611 2074" 
+                    HPOS="562"
+                    VPOS="2015"
+                    WIDTH="1049"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="564 2067 564 2015 1611 2022 1611 2074 1609 2092 562 2085"/></Shape>
+	    <String CONTENT="پس اگرعلم فاضلتر ازمال بودی بایستی که بعکس این بودی."
+                    HPOS="562"
+                    VPOS="2015"
+                    WIDTH="1049"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce431c1c"
+                    
+                    BASELINE="320 2151 1471 2160" 
+                    HPOS="318"
+                    VPOS="2101"
+                    WIDTH="1153"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="320 2151 320 2101 1471 2110 1471 2160 1469 2178 318 2169"/></Shape>
+	    <String CONTENT="جواب این سؤال را از بعضی حکما کرده اند . درجواب گفت3 که"
+                    HPOS="318"
+                    VPOS="2101"
+                    WIDTH="1153"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d86440aa"
+                    
+                    BASELINE="1720 1273 1742 1273" 
+                    HPOS="1720"
+                    VPOS="1234"
+                    WIDTH="22"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1720 1273 1720 1234 1742 1234 1742 1273 1742 1293 1720 1293"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1720"
+                    VPOS="1234"
+                    WIDTH="22"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d29078f7"
+                    
+                    BASELINE="270 291 541 291" 
+                    HPOS="270"
+                    VPOS="273"
+                    WIDTH="271"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="270 291 270 273 541 273 541 291 541 309 270 309"/></Shape>
+	    <String CONTENT="اق ال"
+                    HPOS="270"
+                    VPOS="273"
+                    WIDTH="271"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0dcbe70"
+                    
+                    BASELINE="1706 1713 1760 1717" 
+                    HPOS="1704"
+                    VPOS="1666"
+                    WIDTH="59"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1706 1713 1709 1666 1763 1670 1760 1717 1758 1731 1704 1726"/></Shape>
+	    <String CONTENT="14"
+                    HPOS="1704"
+                    VPOS="1666"
+                    WIDTH="59"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_665fab0a"
+                    
+                    BASELINE="1702 2151 1760 2146" 
+                    HPOS="1697"
+                    VPOS="2110"
+                    WIDTH="63"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1702 2151 1697 2115 1756 2110 1760 2146 1760 2171 1702 2176"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="1697"
+                    VPOS="2110"
+                    WIDTH="63"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8124c4e0"
+                    
+                    BASELINE="1110 2271 1557 2275" 
+                    HPOS="1108"
+                    VPOS="2228"
+                    WIDTH="449"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1110 2271 1110 2228 1557 2232 1557 2275 1555 2289 1108 2284"/></Shape>
+	    <String CONTENT="1- سورهٔ قصص (28) آيه81ٔ."
+                    HPOS="1108"
+                    VPOS="2228"
+                    WIDTH="449"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_100c5ecb"
+                    
+                    BASELINE="1108 2331 1560 2336" 
+                    HPOS="1106"
+                    VPOS="2286"
+                    WIDTH="454"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1108 2331 1108 2286 1560 2291 1560 2336 1557 2352 1106 2347"/></Shape>
+	    <String CONTENT="2- سورۀ مریم (19) آيهٔ 57."
+                    HPOS="1106"
+                    VPOS="2286"
+                    WIDTH="454"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f73e40db"
+                    
+                    BASELINE="1350 2388 1560 2392" 
+                    HPOS="1347"
+                    VPOS="2343"
+                    WIDTH="213"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1350 2388 1350 2343 1560 2347 1560 2392 1557 2408 1347 2404"/></Shape>
+	    <String CONTENT="3- آ: گفتند."
+                    HPOS="1347"
+                    VPOS="2343"
+                    WIDTH="213"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

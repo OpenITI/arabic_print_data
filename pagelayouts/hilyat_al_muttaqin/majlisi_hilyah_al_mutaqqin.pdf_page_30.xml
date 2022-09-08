@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>majlisi_hilyah_al_mutaqqin.pdf_page_30.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1214" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1215" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1216" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1217" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1218" LABEL="Head" DESCRIPTION="block type Head"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2212"
+          HEIGHT="3094"
+          PHYSICAL_IMG_NR="36"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2212"
+                  HEIGHT="3094">
+        
+        <TextBlock HPOS="280"
+                   VPOS="375"
+                   WIDTH="1674"
+                   HEIGHT="2485"
+                   ID="eSc_textblock_09b74b6c"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1954 2860 1954 375 280 375 280 2860"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="298"
+                   VPOS="259"
+                   WIDTH="95"
+                   HEIGHT="60"
+                   ID="eSc_textblock_89f2dadf"
+                   TAGREFS="BT1217">
+          <Shape><Polygon POINTS="298 259 298 319 393 319 393 259"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1208"
+                   VPOS="237"
+                   WIDTH="751"
+                   HEIGHT="78"
+                   ID="eSc_textblock_1e256efc"
+                   TAGREFS="BT1214">
+          <Shape><Polygon POINTS="1208 237 1208 315 1959 315 1959 237"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_70dc3fbb"
+                    
+                    BASELINE="1210 283 1933 288" 
+                    HPOS="1207"
+                    VPOS="229"
+                    WIDTH="726"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1210 283 1210 229 1933 234 1933 288 1930 304 1207 299"/></Shape>
+	    <String CONTENT="دربیان ظرفهائیکه کوان استعمال نمود"
+                    HPOS="1207"
+                    VPOS="229"
+                    WIDTH="726"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b4c5630"
+                    
+                    BASELINE="304 430 619 420 1928 422" 
+                    HPOS="301"
+                    VPOS="371"
+                    WIDTH="1627"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="304 430 301 381 616 371 619 371 1928 373 1928 422 1925 438 619 435 304 446"/></Shape>
+	    <String CONTENT="نهی از آن وارد شده اسب جایزنیست خوردن وآشامیدن ازظرف طلا و نقره و در استعمال"
+                    HPOS="301"
+                    VPOS="371"
+                    WIDTH="1627"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd7dee67"
+                    
+                    BASELINE="296 505 1316 497 1920 505" 
+                    HPOS="294"
+                    VPOS="446"
+                    WIDTH="1626"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="296 505 294 453 1313 446 1316 446 1920 453 1920 505 1917 523 1313 515 296 523"/></Shape>
+	    <String CONTENT="غیرا کل وشرب خلافست و احوط اجتناب است و همچنین درنگاهداشتن برای زینت احوط"
+                    HPOS="294"
+                    VPOS="446"
+                    WIDTH="1626"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1602c05c"
+                    
+                    BASELINE="304 587 1920 574" 
+                    HPOS="301"
+                    VPOS="528"
+                    WIDTH="1619"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="304 587 301 541 1917 528 1920 574 1920 593 304 605"/></Shape>
+	    <String CONTENT="اجتنابست و بعضی گفتهاند طعامی را که در ظرف طلا و نقره کنند حرام میشود اگرچه"
+                    HPOS="301"
+                    VPOS="528"
+                    WIDTH="1619"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4cb1f711"
+                    
+                    BASELINE="304 667 1925 657" 
+                    HPOS="301"
+                    VPOS="608"
+                    WIDTH="1624"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="304 667 301 618 1922 608 1925 657 1925 672 304 683"/></Shape>
+	    <String CONTENT="طعام را درجای دیگر کنند و اگرچه دلیلی ندارد اما احوط اجتنابست و جمعی باطل میدانند"
+                    HPOS="301"
+                    VPOS="608"
+                    WIDTH="1624"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8492e616"
+                    
+                    BASELINE="307 745 1922 739" 
+                    HPOS="304"
+                    VPOS="693"
+                    WIDTH="1618"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="307 745 304 698 1920 693 1922 739 1922 758 307 763"/></Shape>
+	    <String CONTENT="وضوئی را ازظرف طلا و نقره بسازند و درمانند سرمه دان و عنبرچه و سرقلیان و قندیلها که"
+                    HPOS="304"
+                    VPOS="693"
+                    WIDTH="1618"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9012a62"
+                    
+                    BASELINE="304 827 1925 822" 
+                    HPOS="301"
+                    VPOS="776"
+                    WIDTH="1624"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="304 827 301 781 1922 776 1925 822 1925 840 304 845"/></Shape>
+	    <String CONTENT="هردو طرفش گشوده باشد که درمشاهد مشرفه میآویزند و ظرف مصحف و دعا و آئینه را بطلا"
+                    HPOS="301"
+                    VPOS="776"
+                    WIDTH="1624"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c803980"
+                    
+                    BASELINE="301 910 1925 904" 
+                    HPOS="299"
+                    VPOS="856"
+                    WIDTH="1626"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="301 910 299 861 1922 856 1925 904 1925 923 301 928"/></Shape>
+	    <String CONTENT="و نقره گرفتن بلکه چوب و نیرا بنقره گرفتن خلافست و احوط درهمه اجتناب است اگرچه"
+                    HPOS="299"
+                    VPOS="856"
+                    WIDTH="1626"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db4eebb6"
+                    
+                    BASELINE="296 990 1925 984" 
+                    HPOS="294"
+                    VPOS="933"
+                    WIDTH="1631"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="296 990 294 938 1922 933 1925 984 1925 1002 296 1008"/></Shape>
+	    <String CONTENT="حرمت اینها بر فقیر ثابت نیست و در نعلبکی قلیان که از نقره و طلاباشد احتیاط بیشتر باید کرد"
+                    HPOS="294"
+                    VPOS="933"
+                    WIDTH="1631"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8879f2b9"
+                    
+                    BASELINE="294 1067 1922 1072" 
+                    HPOS="291"
+                    VPOS="1018"
+                    WIDTH="1631"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="294 1067 294 1018 1922 1023 1922 1072 1920 1090 291 1085"/></Shape>
+	    <String CONTENT="و مکروهست ازظرف نقره کوب و طلاکوب چیزی خوردن و آشامیدن و اگربخورد بهتراست"
+                    HPOS="291"
+                    VPOS="1018"
+                    WIDTH="1631"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4bb9b26"
+                    
+                    BASELINE="294 1149 1922 1142" 
+                    HPOS="291"
+                    VPOS="1095"
+                    WIDTH="1631"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="294 1149 291 1103 1920 1095 1922 1142 1922 1162 294 1170"/></Shape>
+	    <String CONTENT="که دهانرا بموضع طلا و نقره نرساند و اشهر میان علماء آنست که جایز نیست استعمال پوست"
+                    HPOS="291"
+                    VPOS="1095"
+                    WIDTH="1631"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9cb15298"
+                    
+                    BASELINE="289 1229 1922 1224" 
+                    HPOS="286"
+                    VPOS="1178"
+                    WIDTH="1636"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="289 1229 286 1183 1920 1178 1922 1224 1922 1245 289 1250"/></Shape>
+	    <String CONTENT="مگر پوست حیوانی که درحال حیوة پاك باشد و آنرا بعنوان مشروع کشته باشند یا ازدست"
+                    HPOS="286"
+                    VPOS="1178"
+                    WIDTH="1636"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38c9500c"
+                    
+                    BASELINE="291 1307 825 1317 1922 1304" 
+                    HPOS="289"
+                    VPOS="1253"
+                    WIDTH="1633"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="291 1307 291 1255 825 1265 1920 1253 1922 1304 1922 1325 825 1338 823 1338 289 1327"/></Shape>
+	    <String CONTENT="مسلمانی گرفته باشند و حرام است استعمال پوست حیوان مرده وهمچنین پوستی که یافته با شند"
+                    HPOS="289"
+                    VPOS="1253"
+                    WIDTH="1633"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59d80301"
+                    
+                    BASELINE="291 1392 1922 1392" 
+                    HPOS="291"
+                    VPOS="1343"
+                    WIDTH="1631"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="291 1392 291 1343 1922 1343 1922 1392 1922 1410 291 1410"/></Shape>
+	    <String CONTENT="اگرچه گمان باشد که ازدست مسلمان افتاده است مثل کفش در مسجد مسلمانان و بعضی گفته اند"
+                    HPOS="291"
+                    VPOS="1343"
+                    WIDTH="1631"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb078d98"
+                    
+                    BASELINE="289 1477 1915 1469" 
+                    HPOS="286"
+                    VPOS="1423"
+                    WIDTH="1629"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="289 1477 286 1430 1912 1423 1915 1469 1915 1487 289 1495"/></Shape>
+	    <String CONTENT="که جایزاست استعمال میته در عملی که مشروط بطهارت نباشد مثل آب بزراعت و حیوانات"
+                    HPOS="286"
+                    VPOS="1423"
+                    WIDTH="1629"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9cef4da8"
+                    
+                    BASELINE="286 1557 1922 1557" 
+                    HPOS="286"
+                    VPOS="1513"
+                    WIDTH="1636"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="286 1557 286 1513 1922 1513 1922 1557 1922 1577 286 1577"/></Shape>
+	    <String CONTENT="دادن و امثال اینها و این قول قویست و احوط اجتنابست و همچنین بعضی جایز دانستهاند"
+                    HPOS="286"
+                    VPOS="1513"
+                    WIDTH="1636"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67a17a08"
+                    
+                    BASELINE="286 1642 1917 1637" 
+                    HPOS="283"
+                    VPOS="1585"
+                    WIDTH="1634"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="286 1642 283 1590 1915 1585 1917 1637 1917 1652 286 1657"/></Shape>
+	    <String CONTENT="استعمال پوستی را که ظن بهم رسد که آنرا کشته اند یا ازدست مسلمانی افتاده است و خالی از"
+                    HPOS="283"
+                    VPOS="1585"
+                    WIDTH="1634"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24054e44"
+                    
+                    BASELINE="286 1724 1910 1722" 
+                    HPOS="283"
+                    VPOS="1670"
+                    WIDTH="1627"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="286 1724 283 1673 1907 1670 1910 1722 1910 1735 286 1737"/></Shape>
+	    <String CONTENT="فوتی نیست و احوط اجتناب است و پوست حیوان طاهری که گوشت آن را نخورند و قابل"
+                    HPOS="283"
+                    VPOS="1670"
+                    WIDTH="1627"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_869555e0"
+                    
+                    BASELINE="289 1807 1915 1797" 
+                    HPOS="286"
+                    VPOS="1748"
+                    WIDTH="1629"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="289 1807 286 1758 1912 1748 1915 1797 1915 1817 289 1828"/></Shape>
+	    <String CONTENT="تذکیه باشد استعمال میتوان کرد اما پیش از دباغی کردن مکروه است استعمال آن و ظرفی که"
+                    HPOS="286"
+                    VPOS="1748"
+                    WIDTH="1629"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a2f1a28"
+                    
+                    BASELINE="283 1887 1917 1882" 
+                    HPOS="281"
+                    VPOS="1835"
+                    WIDTH="1636"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="283 1887 281 1840 1915 1835 1917 1882 1917 1900 283 1905"/></Shape>
+	    <String CONTENT="در آن شراب کرده باشند هرچند نجاست در آن نفوذ نکرده باشد مثل شیشه و مس بشستن پاك"
+                    HPOS="281"
+                    VPOS="1835"
+                    WIDTH="1636"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f147d9d4"
+                    
+                    BASELINE="289 1956 1917 1969" 
+                    HPOS="286"
+                    VPOS="1910"
+                    WIDTH="1631"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="289 1956 289 1910 1917 1923 1917 1969 1915 1987 286 1975"/></Shape>
+	    <String CONTENT="میشود و همچنین هرچه کاشی داشته باشد و منفذی نداشته باشد که شراب درجرم آن جاکند و"
+                    HPOS="286"
+                    VPOS="1910"
+                    WIDTH="1631"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41482911"
+                    
+                    BASELINE="289 2049 1512 2060 1915 2047" 
+                    HPOS="286"
+                    VPOS="1990"
+                    WIDTH="1629"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="289 2049 289 1993 1509 2003 1912 1990 1915 2047 1915 2065 1512 2078 1509 2080 286 2070"/></Shape>
+	    <String CONTENT="درمثل سبو و کدو و خم بی کاشی و امثال اینها خلافست و اشهر آنستکه بآب کشیدن پاك میشود"
+                    HPOS="286"
+                    VPOS="1990"
+                    WIDTH="1629"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_102c41c9"
+                    
+                    BASELINE="289 2127 1915 2127" 
+                    HPOS="289"
+                    VPOS="2083"
+                    WIDTH="1626"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="289 2127 289 2083 1915 2083 1915 2127 1915 2150 289 2150"/></Shape>
+	    <String CONTENT="صوصاً دروقتیکه آنقدر درآب بگذارند که آب در آن نفوذ کند و اثر شراب در آن نماند و"
+                    HPOS="289"
+                    VPOS="2083"
+                    WIDTH="1626"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3bc4d1a"
+                    
+                    BASELINE="291 2212 1912 2212" 
+                    HPOS="291"
+                    VPOS="2165"
+                    WIDTH="1621"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="291 2212 291 2165 1912 2165 1912 2212 1912 2235 291 2235"/></Shape>
+	    <String CONTENT="احوط اجتنابست و ازحضرت رسول (ص) منقولستکه هر که دردنیا ازظرف طلا و نقره آب"
+                    HPOS="291"
+                    VPOS="2165"
+                    WIDTH="1621"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1351a5a"
+                    
+                    BASELINE="291 2307 1915 2307" 
+                    HPOS="291"
+                    VPOS="2261"
+                    WIDTH="1624"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="291 2307 291 2261 1915 2261 1915 2307 1915 2325 291 2325"/></Shape>
+	    <String CONTENT="خورد درآخرت ازظروف طلا و نقره بهشت محروم باشد و بسند معتبر منقول استکه محمدبن"
+                    HPOS="291"
+                    VPOS="2261"
+                    WIDTH="1624"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e97c9917"
+                    
+                    BASELINE="294 2379 1641 2395 1910 2384" 
+                    HPOS="291"
+                    VPOS="2328"
+                    WIDTH="1619"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="294 2379 294 2328 1638 2343 1907 2333 1910 2384 1910 2408 1641 2418 1638 2418 291 2403"/></Shape>
+	    <String CONTENT="اسمعيل بن بزیع ازجناب امام رضا (ع) سئوال كرد ازظروف طلا و نقره حضرت اظهار"
+                    HPOS="291"
+                    VPOS="2328"
+                    WIDTH="1619"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c38e639"
+                    
+                    BASELINE="294 2457 815 2475 1904 2464" 
+                    HPOS="291"
+                    VPOS="2400"
+                    WIDTH="1613"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="294 2457 294 2400 815 2418 1902 2408 1904 2464 1904 2488 815 2498 813 2498 291 2480"/></Shape>
+	    <String CONTENT="کراهت فرمودند گفت بما روایت رسیده است که امام موسی (6) آئینه داشتند که بنقره گرفته"
+                    HPOS="291"
+                    VPOS="2400"
+                    WIDTH="1613"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e9af14a"
+                    
+                    BASELINE="289 2549 1910 2549" 
+                    HPOS="289"
+                    VPOS="2500"
+                    WIDTH="1621"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="289 2549 289 2500 1910 2500 1910 2549 1910 2568 289 2568"/></Shape>
+	    <String CONTENT="بودند آنجناب فرمودند که نه الحمدلله همین حلقهٔ داشت از نقره وآن آئینه الحال نزد من"
+                    HPOS="289"
+                    VPOS="2500"
+                    WIDTH="1621"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37e37afd"
+                    
+                    BASELINE="291 2632 1205 2647 1912 2637" 
+                    HPOS="289"
+                    VPOS="2575"
+                    WIDTH="1623"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="291 2632 291 2575 1205 2591 1910 2580 1912 2637 1912 2660 1205 2671 1202 2671 289 2655"/></Shape>
+	    <String CONTENT="است و فرمود که برادرم عباس را چون ختنه میکردند برای او چوبی ساخته بودند و آن را"
+                    HPOS="289"
+                    VPOS="2575"
+                    WIDTH="1623"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb141ddc"
+                    
+                    BASELINE="289 2712 1179 2730 1907 2720" 
+                    HPOS="286"
+                    VPOS="2660"
+                    WIDTH="1621"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="289 2712 289 2660 1179 2678 1904 2668 1907 2720 1907 2743 1179 2753 1176 2753 286 2735"/></Shape>
+	    <String CONTENT="بنقره گرفته بودند که قبضهٔ نقرهاش نزدیك بده درم بود که ششصدوسی دینار عجمی باشد"
+                    HPOS="286"
+                    VPOS="2660"
+                    WIDTH="1621"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b62aafb"
+                    
+                    BASELINE="289 2810 967 2805 1525 2823 1910 2800" 
+                    HPOS="286"
+                    VPOS="2735"
+                    WIDTH="1624"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="289 2810 286 2745 965 2740 967 2740 991 2743 1522 2758 1904 2735 1910 2800 1910 2825 1525 2849 1522 2849 988 2831 965 2831 289 2836"/></Shape>
+	    <String CONTENT="حضرت اما م موسی (6) فرمود که آنرا شکستند و در حدیث معتبر از حضرت موسی بن جعفر(ع)"
+                    HPOS="286"
+                    VPOS="2735"
+                    WIDTH="1624"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e68eaa6c"
+                    
+                    BASELINE="312 296 371 296" 
+                    HPOS="312"
+                    VPOS="255"
+                    WIDTH="59"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="312 296 312 255 371 255 371 296 371 314 312 314"/></Shape>
+	    <String CONTENT="29"
+                    HPOS="312"
+                    VPOS="255"
+                    WIDTH="59"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

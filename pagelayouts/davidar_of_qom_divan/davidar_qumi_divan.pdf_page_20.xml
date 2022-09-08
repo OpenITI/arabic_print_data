@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>davidar_qumi_divan.pdf_page_20.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1099" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1100" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1101" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1870"
+          HEIGHT="2743"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1870"
+                  HEIGHT="2743">
+        
+        <TextBlock HPOS="1433"
+                   VPOS="2486"
+                   WIDTH="71"
+                   HEIGHT="71"
+                   ID="eSc_textblock_506e9e25"
+                   TAGREFS="BT1101">
+          <Shape><Polygon POINTS="1504 2496 1495 2557 1433 2539 1442 2486"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3b7d7d65"
+                    
+                    BASELINE="1453 2528 1476 2528" 
+                    HPOS="1453"
+                    VPOS="2491"
+                    WIDTH="23"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1453 2528 1453 2491 1476 2491 1476 2528 1476 2546 1453 2546"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="1453"
+                    VPOS="2491"
+                    WIDTH="23"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="61"
+                   VPOS="181"
+                   WIDTH="1508"
+                   HEIGHT="1752"
+                   ID="eSc_textblock_0cfd279b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="61 181 61 1933 1569 1933 1565 181"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

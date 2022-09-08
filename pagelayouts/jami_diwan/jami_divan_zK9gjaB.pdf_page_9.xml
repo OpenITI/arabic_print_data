@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>jami_divan_zK9gjaB.pdf_page_9.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1229" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1230" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1231" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1232" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1233" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1872"
+          HEIGHT="2718"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1872"
+                  HEIGHT="2718">
+        
+        <TextBlock HPOS="53"
+                   VPOS="0"
+                   WIDTH="105"
+                   HEIGHT="61"
+                   ID="eSc_textblock_d8f6dc77"
+                   TAGREFS="BT1231">
+          <Shape><Polygon POINTS="158 61 158 0 53 0 53 61"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="285"
+                   VPOS="605"
+                   WIDTH="981"
+                   HEIGHT="368"
+                   ID="eSc_textblock_431a61e7"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="285 605 285 973 1266 951 1165 605"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="876"
+                   VPOS="1012"
+                   WIDTH="224"
+                   HEIGHT="75"
+                   ID="eSc_textblock_5215368d"
+                   TAGREFS="BT1229">
+          <Shape><Polygon POINTS="876 1012 876 1087 1100 1087 1100 1012"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="210"
+                   VPOS="1113"
+                   WIDTH="1538"
+                   HEIGHT="1288"
+                   ID="eSc_textblock_856612d2"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1748 2401 1748 1113 210 1113 210 2401"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="237"
+                   VPOS="2410"
+                   WIDTH="1511"
+                   HEIGHT="109"
+                   ID="eSc_textblock_b52065d8"
+                   TAGREFS="BT1233">
+          <Shape><Polygon POINTS="1748 2519 1748 2410 237 2410 237 2519"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_b851685a"
+                    
+                    BASELINE="324 647 1081 652" 
+                    HPOS="321"
+                    VPOS="604"
+                    WIDTH="760"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="324 647 324 604 1081 609 1081 652 1078 665 321 661"/></Shape>
+	    <String CONTENT="ثرکسی پرسد ز تو کز شهرها خوشت کدام"
+                    HPOS="321"
+                    VPOS="604"
+                    WIDTH="760"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1c645c8"
+                    
+                    BASELINE="328 727 1071 720" 
+                    HPOS="326"
+                    VPOS="670"
+                    WIDTH="745"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="328 727 326 677 1069 670 1071 720 1071 736 328 742"/></Shape>
+	    <String CONTENT="ر حواب راست خواهی داد او را گوهری"
+                    HPOS="326"
+                    VPOS="670"
+                    WIDTH="745"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad6f527f"
+                    
+                    BASELINE="328 797 1090 797" 
+                    HPOS="328"
+                    VPOS="761"
+                    WIDTH="762"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="328 797 328 761 1090 761 1090 797 1090 813 328 813"/></Shape>
+	    <String CONTENT="نجون بخردان دروی خراسان جون صدف"
+                    HPOS="328"
+                    VPOS="761"
+                    WIDTH="762"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12dc2c05"
+                    
+                    BASELINE="598 869 1022 869" 
+                    HPOS="598"
+                    VPOS="831"
+                    WIDTH="424"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="598 869 598 831 1022 831 1022 869 1022 883 598 883"/></Shape>
+	    <String CONTENT=" آن صدف شهر هرا"
+                    HPOS="598"
+                    VPOS="831"
+                    WIDTH="424"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52756987"
+                    
+                    BASELINE="349 872 577 869" 
+                    HPOS="346"
+                    VPOS="824"
+                    WIDTH="231"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="349 872 346 826 575 824 577 869 577 883 349 885"/></Shape>
+	    <String CONTENT="چون گوهر"
+                    HPOS="346"
+                    VPOS="824"
+                    WIDTH="231"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_622d7f1b"
+                    
+                    BASELINE="475 1175 963 1168 1529 1177" 
+                    HPOS="473"
+                    VPOS="1123"
+                    WIDTH="1056"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="475 1175 473 1130 960 1123 963 1123 1529 1132 1529 1177 1527 1195 960 1186 475 1193"/></Shape>
+	    <String CONTENT="وضع طبيعی ، چگونگی شهربندها ، وسعت هرات ، سابقۀ تاریخی"
+                    HPOS="473"
+                    VPOS="1123"
+                    WIDTH="1056"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e417ef07"
+                    
+                    BASELINE="557 1261 1391 1257" 
+                    HPOS="555"
+                    VPOS="1216"
+                    WIDTH="836"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="557 1261 555 1220 1389 1216 1391 1257 1391 1272 557 1277"/></Shape>
+	    <String CONTENT="لطافت آب و هوا ، ازدیاد جمعیت ، بیماری طاعون"
+                    HPOS="555"
+                    VPOS="1216"
+                    WIDTH="836"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6ba9f11"
+                    
+                    BASELINE="251 1388 389 1399 1164 1395 1586 1404" 
+                    HPOS="249"
+                    VPOS="1331"
+                    WIDTH="1337"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="251 1388 256 1331 389 1343 931 1338 1162 1338 1164 1338 1586 1347 1586 1404 1584 1420 1162 1411 936 1413 389 1415 387 1415 249 1404"/></Shape>
+	    <String CONTENT="هرات یکی از شهرهای بزرگ ، آبادان و خوش آب وهوای ایران است"
+                    HPOS="249"
+                    VPOS="1331"
+                    WIDTH="1337"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_769bcb1d"
+                    
+                    BASELINE="249 1488 1006 1501 1686 1494" 
+                    HPOS="247"
+                    VPOS="1438"
+                    WIDTH="1439"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="249 1488 249 1438 1006 1451 1683 1445 1686 1494 1686 1513 1006 1519 1003 1519 247 1506"/></Shape>
+	    <String CONTENT="که در قرن نهم ، یعنی قرنی که جاهی شاعروسخن پرداز و عارف نامی دردامنهٔ"
+                    HPOS="247"
+                    VPOS="1438"
+                    WIDTH="1439"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d8aa448"
+                    
+                    BASELINE="249 1596 1690 1592" 
+                    HPOS="247"
+                    VPOS="1542"
+                    WIDTH="1443"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="249 1596 247 1546 1688 1542 1690 1592 1690 1605 249 1610"/></Shape>
+	    <String CONTENT="آن زند کی می کذاشت به اوج عظمت وزیبایی وفر وشکوه خود رسیده بود این"
+                    HPOS="247"
+                    VPOS="1542"
+                    WIDTH="1443"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9230e0c2"
+                    
+                    BASELINE="247 1696 1692 1691" 
+                    HPOS="244"
+                    VPOS="1637"
+                    WIDTH="1448"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="247 1696 244 1642 1690 1637 1692 1691 1692 1705 247 1710"/></Shape>
+	    <String CONTENT="شهر که جایگاه زند کی و آرامگاه جاودانیر پیکر جامی است در قرن نهم آن"
+                    HPOS="244"
+                    VPOS="1637"
+                    WIDTH="1448"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9005d99e"
+                    
+                    BASELINE="256 1787 1697 1791" 
+                    HPOS="253"
+                    VPOS="1741"
+                    WIDTH="1444"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="256 1787 256 1741 1697 1746 1697 1791 1695 1809 253 1805"/></Shape>
+	    <String CONTENT="چنان بلند آوازه و نامش زبانزد بود که تاریخ ادبی ایران کمس بظیرش را"
+                    HPOS="253"
+                    VPOS="1741"
+                    WIDTH="1444"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e88edbf8"
+                    
+                    BASELINE="1461 1891 1699 1891" 
+                    HPOS="1461"
+                    VPOS="1852"
+                    WIDTH="238"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1461 1891 1461 1852 1699 1852 1699 1891 1699 1904 1461 1904"/></Shape>
+	    <String CONTENT="به پاد دارد."
+                    HPOS="1461"
+                    VPOS="1852"
+                    WIDTH="238"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bfa7879b"
+                    
+                    BASELINE="244 1997 1588 1988" 
+                    HPOS="242"
+                    VPOS="1941"
+                    WIDTH="1346"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="244 1997 242 1950 1586 1941 1588 1988 1588 2004 244 2013"/></Shape>
+	    <String CONTENT="هرات نزدیك به یک قرن ونیم تخت کاه سلاطین وپادشاهان تیموری بود."
+                    HPOS="242"
+                    VPOS="1941"
+                    WIDTH="1346"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d860729a"
+                    
+                    BASELINE="235 2106 770 2090 1683 2081" 
+                    HPOS="233"
+                    VPOS="2036"
+                    WIDTH="1450"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="235 2106 233 2061 768 2045 768 2045 1681 2036 1683 2081 1683 2101 770 2110 235 2126"/></Shape>
+	    <String CONTENT="که همواره درمجد وعظمتش کوشا بودند تا بدانجا که درزمان شاهرخ بن تیمور"
+                    HPOS="233"
+                    VPOS="2036"
+                    WIDTH="1450"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_788113d3"
+                    
+                    BASELINE="240 2201 1702 2190" 
+                    HPOS="237"
+                    VPOS="2147"
+                    WIDTH="1465"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="240 2201 237 2158 1699 2147 1702 2190 1702 2210 240 2221"/></Shape>
+	    <String CONTENT="مرکز تمام ممالک ایران : ترکستان ، هاوراءالنهر: افغانتان و مغرب"
+                    HPOS="237"
+                    VPOS="2147"
+                    WIDTH="1465"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8d41e5a"
+                    
+                    BASELINE="242 2289 548 2301 1692 2301" 
+                    HPOS="240"
+                    VPOS="2237"
+                    WIDTH="1452"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="242 2289 242 2237 548 2249 1692 2249 1692 2301 1692 2317 548 2317 546 2317 240 2305"/></Shape>
+	    <String CONTENT="هندوستان کردید این مجد و بزر کی باسوابق تاریخی که مشحون از افسانه ها"
+                    HPOS="240"
+                    VPOS="2237"
+                    WIDTH="1452"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc735a7c"
+                    
+                    BASELINE="754 2396 1702 2396" 
+                    HPOS="754"
+                    VPOS="2351"
+                    WIDTH="948"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="754 2396 754 2351 1702 2351 1702 2396 1702 2409 754 2409"/></Shape>
+	    <String CONTENT="وروایات دربارهٔ قدمت وسابقهٔ تاریخی هرات می بود،"
+                    HPOS="754"
+                    VPOS="2351"
+                    WIDTH="948"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caeba728"
+                    
+                    BASELINE="249 2482 1577 2477" 
+                    HPOS="247"
+                    VPOS="2434"
+                    WIDTH="1330"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="249 2482 247 2439 1575 2434 1577 2477 1577 2496 249 2500"/></Shape>
+	    <String CONTENT="1_ باستانی ترین نوشته می که نام شهر هرات آنجا آمده و به ما نیز رسیده است"
+                    HPOS="247"
+                    VPOS="2434"
+                    WIDTH="1330"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be576545"
+                    
+                    BASELINE="870 1050 1067 1046" 
+                    HPOS="868"
+                    VPOS="1007"
+                    WIDTH="199"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="870 1050 868 1012 1065 1007 1067 1046 1067 1062 870 1066"/></Shape>
+	    <String CONTENT="8- بشرات"
+                    HPOS="868"
+                    VPOS="1007"
+                    WIDTH="199"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

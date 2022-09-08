@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Karaji_Al_Kafi_Fi_Al_Hisab.pdf_page_43.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1044" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1045" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT1046" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1047" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1048" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    <OtherTag ID="LT62" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2483"
+          HEIGHT="2999"
+          PHYSICAL_IMG_NR="42"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2483"
+                  HEIGHT="2999">
+        
+        <TextBlock HPOS="160"
+                   VPOS="289"
+                   WIDTH="1472"
+                   HEIGHT="1247"
+                   ID="eSc_textblock_51158961"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="885 1536 160 1497 160 319 230 289 1632 299 1632 1507"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6b05c96c"
+                    
+                    BASELINE="175 369 1750 364" 
+                    HPOS="172"
+                    VPOS="312"
+                    WIDTH="1578"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="175 369 172 317 1747 312 1750 364 1750 384 175 389"/></Shape>
+	    <String CONTENT="7ظ إذا قيل : اضرب ثلاثة وخمسين في ثمانية وأربعين ضربت خمسين وثلاثة في"
+                    HPOS="172"
+                    VPOS="312"
+                    WIDTH="1578"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e6f391b"
+                    
+                    BASELINE="172 437 870 449 1622 437" 
+                    HPOS="170"
+                    VPOS="382"
+                    WIDTH="1452"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="172 437 172 382 870 394 1620 382 1622 437 1622 457 870 469 867 469 170 457"/></Shape>
+	    <String CONTENT="خمسين الا اثنين ، وهو أن تقول خمسون في خمسين ، ألفان وخمسمئة ، وخمسون"
+                    HPOS="170"
+                    VPOS="382"
+                    WIDTH="1452"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_836d59d2"
+                    
+                    BASELINE="177 519 1612 517" 
+                    HPOS="175"
+                    VPOS="467"
+                    WIDTH="1437"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="177 519 175 469 1610 467 1612 517 1612 537 177 539"/></Shape>
+	    <String CONTENT="في ثلاثة زائدة ، مئة وخمسون زائدة ، والا اثنان في خمسين ، مئة ناقصة ، والا"
+                    HPOS="175"
+                    VPOS="467"
+                    WIDTH="1437"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1bc783d"
+                    
+                    BASELINE="177 599 1615 592" 
+                    HPOS="175"
+                    VPOS="544"
+                    WIDTH="1440"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="177 599 175 552 1612 544 1615 592 1615 609 177 617"/></Shape>
+	    <String CONTENT="اثنان فی ثلاثة زائدة ، ستة ناقصة ، فإذا جمعت الزائد، ونقصت منه الناقص ،"
+                    HPOS="175"
+                    VPOS="544"
+                    WIDTH="1440"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92168401"
+                    
+                    BASELINE="175 682 1610 672" 
+                    HPOS="172"
+                    VPOS="622"
+                    WIDTH="1438"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="175 682 172 632 1607 622 1610 672 1610 692 175 702"/></Shape>
+	    <String CONTENT="كان من ذلك ألفان وخمسمئة وأربعة وأربعون(1) . وإذا قيل اضرب ثمانية وتسعين"
+                    HPOS="172"
+                    VPOS="622"
+                    WIDTH="1438"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c127e53a"
+                    
+                    BASELINE="175 762 1620 762" 
+                    HPOS="175"
+                    VPOS="712"
+                    WIDTH="1445"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="175 762 175 712 1620 712 1620 762 1620 777 175 777"/></Shape>
+	    <String CONTENT="في سبعة وتسعين ضربت مئة الا اثنين في مئة الا ثلاثة(2)، على الترتيب"
+                    HPOS="175"
+                    VPOS="712"
+                    WIDTH="1445"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81b0b588"
+                    
+                    BASELINE="177 839 1630 827" 
+                    HPOS="175"
+                    VPOS="779"
+                    WIDTH="1455"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="177 839 175 792 1627 779 1630 827 1630 849 177 862"/></Shape>
+	    <String CONTENT="الذي ذكرته ، وكلما كان ، من ضرب الزائد في الزائد ، والناقص في الناقص ،"
+                    HPOS="175"
+                    VPOS="779"
+                    WIDTH="1455"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10b30014"
+                    
+                    BASELINE="177 912 1012 919 1632 907" 
+                    HPOS="175"
+                    VPOS="852"
+                    WIDTH="1457"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="177 912 177 857 1010 864 1630 852 1632 907 1632 934 1012 947 1010 947 175 939"/></Shape>
+	    <String CONTENT="جمعته مفردا وألقيت من المبلغ ، مايكون من ضرب الزائد في الناقص ، لأجل أنه"
+                    HPOS="175"
+                    VPOS="852"
+                    WIDTH="1457"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a56f5cdc"
+                    
+                    BASELINE="1312 992 1635 992" 
+                    HPOS="1312"
+                    VPOS="937"
+                    WIDTH="323"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1312 992 1312 937 1635 937 1635 992 1635 1007 1312 1007"/></Shape>
+	    <String CONTENT="يكون ناقصاً(4)."
+                    HPOS="1312"
+                    VPOS="937"
+                    WIDTH="323"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_333592d1"
+                    TAGREFS="LT62"
+                    BASELINE="1317 1114 1615 1109" 
+                    HPOS="1315"
+                    VPOS="1054"
+                    WIDTH="300"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1317 1114 1315 1059 1612 1054 1615 1109 1615 1134 1317 1139"/></Shape>
+	    <String CONTENT="الباب الثامن"
+                    HPOS="1315"
+                    VPOS="1054"
+                    WIDTH="300"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ea200de"
+                    
+                    BASELINE="167 1219 1467 1214" 
+                    HPOS="165"
+                    VPOS="1164"
+                    WIDTH="1302"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="167 1219 165 1169 1465 1164 1467 1214 1467 1234 167 1239"/></Shape>
+	    <String CONTENT="باب منه آخر إذا أردت أن تضرب عدداً في عدد ، ربعت أيهما شئت"
+                    HPOS="165"
+                    VPOS="1164"
+                    WIDTH="1302"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c1ef1a6"
+                    
+                    BASELINE="172 1294 1640 1299" 
+                    HPOS="170"
+                    VPOS="1247"
+                    WIDTH="1470"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="172 1294 172 1247 1640 1252 1640 1299 1637 1322 170 1317"/></Shape>
+	    <String CONTENT="وضربت المبلغ ، فيما يخرج من نسبة العدد الآخر ، إلى الذي ربعته(4) ، مثاله ،"
+                    HPOS="170"
+                    VPOS="1247"
+                    WIDTH="1470"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cde43b97"
+                    
+                    BASELINE="170 1377 1637 1377" 
+                    HPOS="170"
+                    VPOS="1332"
+                    WIDTH="1467"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="170 1377 170 1332 1637 1332 1637 1377 1637 1399 170 1399"/></Shape>
+	    <String CONTENT=" ريد أن نضرب خمسة وعشرين في ستة وثلاثين ، ربعت خمسة وعشرين ، يكون"
+                    HPOS="170"
+                    VPOS="1332"
+                    WIDTH="1467"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_228ef00a"
+                    
+                    BASELINE="865 1459 1642 1449" 
+                    HPOS="862"
+                    VPOS="1402"
+                    WIDTH="780"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="865 1459 862 1412 1640 1402 1642 1449 1642 1472 865 1482"/></Shape>
+	    <String CONTENT="ستمئة وخمسة وعشرين ضربتها فيما يكون"
+                    HPOS="862"
+                    VPOS="1402"
+                    WIDTH="780"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1696"
+                   VPOS="1030"
+                   WIDTH="105"
+                   HEIGHT="109"
+                   ID="eSc_textblock_da413ad7"
+                   TAGREFS="BT1045">
+          <Shape><Polygon POINTS="1801 1030 1801 1139 1696 1139 1696 1030"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_43589860"
+                    
+                    BASELINE="1695 1109 1770 1102" 
+                    HPOS="1690"
+                    VPOS="1069"
+                    WIDTH="80"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1695 1109 1690 1077 1765 1069 1770 1102 1770 1119 1695 1127"/></Shape>
+	    <String CONTENT="10"
+                    HPOS="1690"
+                    VPOS="1069"
+                    WIDTH="80"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="150"
+                   VPOS="1705"
+                   WIDTH="1672"
+                   HEIGHT="901"
+                   ID="eSc_textblock_0adcd874"
+                   TAGREFS="BT1044">
+          <Shape><Polygon POINTS="1822 1705 1812 2566 1087 2576 1065 2606 680 2586 590 2546 610 2429 577 2316 250 2286 190 2246 150 2076 180 1749 1317 1709"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8c842889"
+                    
+                    BASELINE="637 1784 1770 1774" 
+                    HPOS="635"
+                    VPOS="1729"
+                    WIDTH="1135"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="637 1784 635 1739 1767 1729 1770 1774 1770 1794 637 1804"/></Shape>
+	    <String CONTENT="1- ثلاثة : ثلثة م أد : ثلث غ ؛ ثمانية : ثمنية م ؛ وثلاثة : وثلثة م أدغ"
+                    HPOS="635"
+                    VPOS="1729"
+                    WIDTH="1135"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a76b4ad8"
+                    
+                    BASELINE="175 1851 1772 1836" 
+                    HPOS="172"
+                    VPOS="1794"
+                    WIDTH="1600"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="175 1851 172 1809 1770 1794 1772 1836 1772 1856 175 1871"/></Shape>
+	    <String CONTENT="3 - الا إثنين : الا إثنتين غ ؛ خمسون : خمسين م دغ ؛ الفان : الفين م غ ؛ خممئة : خمس ماية م دغ :"
+                    HPOS="172"
+                    VPOS="1794"
+                    WIDTH="1600"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb3c2285"
+                    
+                    BASELINE="1520 1896 1672 1901" 
+                    HPOS="1517"
+                    VPOS="1854"
+                    WIDTH="155"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1520 1896 1520 1854 1672 1859 1672 1901 1670 1916 1517 1911"/></Shape>
+	    <String CONTENT="مايةا"
+                    HPOS="1517"
+                    VPOS="1854"
+                    WIDTH="155"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aaa26f20"
+                    
+                    BASELINE="377 1974 1775 1961" 
+                    HPOS="375"
+                    VPOS="1916"
+                    WIDTH="1400"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="377 1974 375 1929 1772 1916 1775 1961 1775 1979 377 1991"/></Shape>
+	    <String CONTENT="3 - والا إثنان : والا اثنين م أغ : الا إثنتين د : في خمين : * زائدة غ ؛ مثة : ماية م دغ"
+                    HPOS="375"
+                    VPOS="1916"
+                    WIDTH="1400"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a5dc4c1"
+                    
+                    BASELINE="865 2026 1775 2026" 
+                    HPOS="865"
+                    VPOS="1986"
+                    WIDTH="910"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="865 2026 865 1986 1775 1986 1775 2026 1775 2049 865 2049"/></Shape>
+	    <String CONTENT="4- الزائد : الزايد م دغ : ونقصيت (الافضل) وانقصت"
+                    HPOS="865"
+                    VPOS="1986"
+                    WIDTH="910"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b809edb5"
+                    
+                    BASELINE="172 2094 1780 2086" 
+                    HPOS="170"
+                    VPOS="2046"
+                    WIDTH="1610"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="172 2094 170 2054 1777 2046 1780 2086 1780 2106 172 2114"/></Shape>
+	    <String CONTENT="5 - الغان : الفين م ؛ وخممثة : وخمس ماية م د : وخمماية غ ؛ واربعون : واربعين م دغ ؛ واذا:"
+                    HPOS="170"
+                    VPOS="2046"
+                    WIDTH="1610"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6640ece6"
+                    
+                    BASELINE="1240 2149 1682 2141" 
+                    HPOS="1237"
+                    VPOS="2096"
+                    WIDTH="445"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1240 2149 1237 2104 1680 2096 1682 2141 1682 2166 1240 2174"/></Shape>
+	    <String CONTENT="اذام ؛ ثمانية : ثمنية م أد"
+                    HPOS="1237"
+                    VPOS="2096"
+                    WIDTH="445"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03307e2e"
+                    
+                    BASELINE="1390 2211 1787 2209" 
+                    HPOS="1387"
+                    VPOS="2169"
+                    WIDTH="400"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1390 2211 1387 2171 1785 2169 1787 2209 1787 2229 1390 2231"/></Shape>
+	    <String CONTENT="7- الذي ذكرته : - م"
+                    HPOS="1387"
+                    VPOS="2169"
+                    WIDTH="400"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd58b73a"
+                    
+                    BASELINE="1280 2271 1785 2274" 
+                    HPOS="1277"
+                    VPOS="2229"
+                    WIDTH="508"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1280 2271 1280 2229 1785 2231 1785 2274 1782 2289 1277 2286"/></Shape>
+	    <String CONTENT="8 - القيت (موجودة والقت)"
+                    HPOS="1277"
+                    VPOS="2229"
+                    WIDTH="508"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37dd4216"
+                    
+                    BASELINE="1295 2336 1777 2331" 
+                    HPOS="1292"
+                    VPOS="2286"
+                    WIDTH="485"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1295 2336 1292 2291 1775 2286 1777 2331 1777 2351 1295 2356"/></Shape>
+	    <String CONTENT="11 - باب منه آخر : باب 8 غ"
+                    HPOS="1292"
+                    VPOS="2286"
+                    WIDTH="485"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_694647a7"
+                    
+                    BASELINE="685 2396 1780 2396" 
+                    HPOS="685"
+                    VPOS="2356"
+                    WIDTH="1095"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="685 2396 685 2356 1780 2356 1780 2396 1780 2419 685 2419"/></Shape>
+	    <String CONTENT="12- يخرج : خرج غ؛ العدد (:) (2) م : حد ؛ إلى :-د"
+                    HPOS="685"
+                    VPOS="2356"
+                    WIDTH="1095"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1150d87a"
+                    
+                    BASELINE="1325 2461 1782 2459" 
+                    HPOS="1322"
+                    VPOS="2416"
+                    WIDTH="460"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1325 2461 1322 2419 1780 2416 1782 2459 1782 2476 1325 2479"/></Shape>
+	    <String CONTENT="13 - في ستة وثلاثين (:)"
+                    HPOS="1322"
+                    VPOS="2416"
+                    WIDTH="460"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_abc56e94"
+                    
+                    BASELINE="720 2524 1780 2519" 
+                    HPOS="717"
+                    VPOS="2474"
+                    WIDTH="1063"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="720 2524 717 2479 1777 2474 1780 2519 1780 2534 720 2539"/></Shape>
+	    <String CONTENT="14/13- ربعت خمة وعشرین یکون ستمثة وخمسة وعشرین : - م"
+                    HPOS="717"
+                    VPOS="2474"
+                    WIDTH="1063"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="837"
+                   VPOS="2599"
+                   WIDTH="270"
+                   HEIGHT="61"
+                   ID="eSc_textblock_8f838b73"
+                   TAGREFS="BT1046">
+          <Shape><Polygon POINTS="1107 2660 1107 2599 837 2599 837 2660"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_71ea0385"
+                    
+                    BASELINE="867 2634 1060 2629" 
+                    HPOS="865"
+                    VPOS="2586"
+                    WIDTH="195"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="867 2634 865 2591 1057 2586 1060 2629 1060 2644 867 2649"/></Shape>
+	    <String CONTENT="-46"
+                    HPOS="865"
+                    VPOS="2586"
+                    WIDTH="195"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1652"
+                   VPOS="304"
+                   WIDTH="129"
+                   HEIGHT="93"
+                   ID="eSc_textblock_688acd07"
+                   TAGREFS="BT1045">
+          <Shape><Polygon POINTS="1781 304 1781 397 1652 397 1652 304"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1729"
+                   VPOS="631"
+                   WIDTH="48"
+                   HEIGHT="72"
+                   ID="eSc_textblock_6835f6ca"
+                   TAGREFS="BT1045">
+          <Shape><Polygon POINTS="1777 631 1777 703 1729 703 1729 631"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

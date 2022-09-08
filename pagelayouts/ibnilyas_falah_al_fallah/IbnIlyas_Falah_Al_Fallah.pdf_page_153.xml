@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>IbnIlyas_Falah_Al_Fallah.pdf_page_153.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1071" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1072" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1073" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT1074" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1075" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    <OtherTag ID="LT67" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3507"
+          PHYSICAL_IMG_NR="152"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3507">
+        
+        <TextBlock HPOS="271"
+                   VPOS="365"
+                   WIDTH="2141"
+                   HEIGHT="2615"
+                   ID="eSc_textblock_30e74dfa"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2412 365 2412 2980 271 2980 271 365"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1db9577a"
+                    
+                    BASELINE="1397 496 2231 485" 
+                    HPOS="1389"
+                    VPOS="-5"
+                    WIDTH="842"
+                    HEIGHT="528">
+            <Shape><Polygon POINTS="1397 496 1389 2 2222 -5 2231 485 2231 511 1397 523"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1389"
+                    VPOS="-5"
+                    WIDTH="842"
+                    HEIGHT="528"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_664578e5"
+                    
+                    BASELINE="1383 602 2234 590" 
+                    HPOS="1380"
+                    VPOS="549"
+                    WIDTH="854"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1383 602 1380 561 2231 549 2234 590 2234 622 1383 634"/></Shape>
+	    <String CONTENT="ذو الحجة تاسعه الوقفة حاشره رمان"
+                    HPOS="1380"
+                    VPOS="549"
+                    WIDTH="854"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9cca84e8"
+                    
+                    BASELINE="947 704 2225 704" 
+                    HPOS="947"
+                    VPOS="648"
+                    WIDTH="1278"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="947 704 947 648 2225 648 2225 704 2225 745 947 745"/></Shape>
+	    <String CONTENT="ورأيت لبعضهم قاعدة أخرى في معرفة يوم الوقفة فهى قوله"
+                    HPOS="947"
+                    VPOS="648"
+                    WIDTH="1278"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cafba8fb"
+                    
+                    BASELINE="1511 806 2146 806" 
+                    HPOS="1511"
+                    VPOS="742"
+                    WIDTH="635"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1511 806 1511 742 2146 742 2146 806 2146 838 1511 838"/></Shape>
+	    <String CONTENT="ما بين كل وقفة ووقفة"
+                    HPOS="1511"
+                    VPOS="742"
+                    WIDTH="635"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d0e43a8"
+                    
+                    BASELINE="511 806 1125 806" 
+                    HPOS="511"
+                    VPOS="759"
+                    WIDTH="614"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="511 806 511 759 1125 759 1125 806 1125 829 511 829"/></Shape>
+	    <String CONTENT="تلاية تكمل بين خمسة"
+                    HPOS="511"
+                    VPOS="759"
+                    WIDTH="614"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab64fd0e"
+                    
+                    BASELINE="1511 911 2137 905" 
+                    HPOS="1509"
+                    VPOS="844"
+                    WIDTH="628"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1511 911 1509 850 2134 844 2137 905 2137 935 1511 941"/></Shape>
+	    <String CONTENT="فبعد الاثنين وقوف الجمعة"
+                    HPOS="1509"
+                    VPOS="844"
+                    WIDTH="628"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7148da1a"
+                    
+                    BASELINE="511 911 1128 905" 
+                    HPOS="508"
+                    VPOS="853"
+                    WIDTH="620"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="511 911 508 859 1125 853 1128 905 1128 932 511 938"/></Shape>
+	    <String CONTENT="ثم الثلاثة ثم سبت المسبت"
+                    HPOS="508"
+                    VPOS="853"
+                    WIDTH="620"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57f94a07"
+                    
+                    BASELINE="1514 1017 2140 1011" 
+                    HPOS="1511"
+                    VPOS="946"
+                    WIDTH="629"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1514 1017 1511 952 2137 946 2140 1011 2140 1040 1514 1046"/></Shape>
+	    <String CONTENT="فاریعا أحدنم اثیت"
+                    HPOS="1511"
+                    VPOS="946"
+                    WIDTH="629"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c1a3835"
+                    
+                    BASELINE="511 1017 1134 1011" 
+                    HPOS="508"
+                    VPOS="958"
+                    WIDTH="626"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="511 1017 508 964 1131 958 1134 1011 1134 1034 511 1040"/></Shape>
+	    <String CONTENT="خميسها للسنة المقبلة"
+                    HPOS="508"
+                    VPOS="958"
+                    WIDTH="626"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_421732eb"
+                    
+                    BASELINE="1523 1116 2137 1122" 
+                    HPOS="1520"
+                    VPOS="1057"
+                    WIDTH="617"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1523 1116 1523 1057 2137 1063 2137 1122 2134 1154 1520 1148"/></Shape>
+	    <String CONTENT="وعد إلى الأتبين بعد السبعة"
+                    HPOS="1520"
+                    VPOS="1057"
+                    WIDTH="617"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6dab18b4"
+                    
+                    BASELINE="508 1122 1125 1122" 
+                    HPOS="508"
+                    VPOS="1078"
+                    WIDTH="617"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="508 1122 508 1078 1125 1078 1125 1122 1125 1151 508 1151"/></Shape>
+	    <String CONTENT="وغير هذا تام في العدة"
+                    HPOS="508"
+                    VPOS="1078"
+                    WIDTH="617"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05895ad4"
+                    
+                    BASELINE="350 1224 2219 1230" 
+                    HPOS="348"
+                    VPOS="1160"
+                    WIDTH="1871"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="350 1224 350 1160 2219 1166 2219 1230 2216 1256 348 1250"/></Shape>
+	    <String CONTENT="ومن القوائد التی يعرف بها أول الشهر ما ذكروه أنه ينبغی أن تعرف أول المحرم فاذا عرفته"
+                    HPOS="348"
+                    VPOS="1160"
+                    WIDTH="1871"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c64c50b6"
+                    
+                    BASELINE="1125 1309 2278 1309" 
+                    HPOS="1125"
+                    VPOS="1253"
+                    WIDTH="1153"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1125 1309 1125 1253 2278 1253 2278 1309 2278 1338 1125 1338"/></Shape>
+	    <String CONTENT="بالنظر إلى الشهر الذى تريده ثالثا أو رابعا إلى غير ذلك."
+                    HPOS="1125"
+                    VPOS="1253"
+                    WIDTH="1153"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1902c3cf"
+                    
+                    BASELINE="345 1408 2219 1414" 
+                    HPOS="342"
+                    VPOS="1350"
+                    WIDTH="1877"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="345 1408 345 1350 2219 1356 2219 1414 2216 1437 342 1432"/></Shape>
+	    <String CONTENT="ثم ايدأ وعد من مفاصل أصابعك مبتدنا بمفصل الخنصر مما يلى الكف فصاعدا، واذا"
+                    HPOS="342"
+                    VPOS="1350"
+                    WIDTH="1877"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eadd0427"
+                    
+                    BASELINE="350 1490 2278 1484" 
+                    HPOS="348"
+                    VPOS="1437"
+                    WIDTH="1930"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="350 1490 348 1443 2275 1437 2278 1484 2278 1513 350 1519"/></Shape>
+	    <String CONTENT="انتهيت الخنصر استوفى من البنصر تم الوسطى ثم المسبحة تم الابهام، فحيث انتهى العدد"
+                    HPOS="348"
+                    VPOS="1437"
+                    WIDTH="1930"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6181991f"
+                    
+                    BASELINE="348 1575 2281 1563" 
+                    HPOS="345"
+                    VPOS="1513"
+                    WIDTH="1936"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="348 1575 345 1525 2278 1513 2281 1563 2281 1586 348 1598"/></Shape>
+	    <String CONTENT="الموافق لیشهرك الذی تريد غرته فاعرف المفصل الذى انتهيت إليه، تم اعتبر ذلك العدد من اول"
+                    HPOS="345"
+                    VPOS="1513"
+                    WIDTH="1936"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8234d71d"
+                    
+                    BASELINE="348 1651 2275 1651" 
+                    HPOS="348"
+                    VPOS="1601"
+                    WIDTH="1927"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="348 1651 348 1601 2275 1601 2275 1651 2275 1680 348 1680"/></Shape>
+	    <String CONTENT=" مفصل الخنصر الذى بدأت به أياما مبتدئا لأحد تاركا للمفصل الأوسط في كل إصبع، فحيت"
+                    HPOS="348"
+                    VPOS="1601"
+                    WIDTH="1927"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_27b4abab"
+                    
+                    BASELINE="1111 1727 2269 1733" 
+                    HPOS="1108"
+                    VPOS="1674"
+                    WIDTH="1161"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1111 1727 1111 1674 2269 1680 2269 1733 2266 1762 1108 1756"/></Shape>
+	    <String CONTENT="وقفت بالعدد الأول فذلك اليوم هو غرة ذلك الشهر مثاله:"
+                    HPOS="1108"
+                    VPOS="1674"
+                    WIDTH="1161"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c56391c7"
+                    
+                    BASELINE="345 1835 2219 1835" 
+                    HPOS="345"
+                    VPOS="1785"
+                    WIDTH="1874"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="345 1835 345 1785 2219 1785 2219 1835 2219 1861 345 1861"/></Shape>
+	    <String CONTENT="أردنا غرة رجب بماذا نهل وقد حفظنا أن أول المحرم كان بالسبت مثلا فنقول ونعد منه"
+                    HPOS="345"
+                    VPOS="1785"
+                    WIDTH="1874"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87e21ab4"
+                    
+                    BASELINE="348 1917 2278 1917" 
+                    HPOS="348"
+                    VPOS="1867"
+                    WIDTH="1930"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="348 1917 348 1867 2278 1867 2278 1917 2278 1946 348 1946"/></Shape>
+	    <String CONTENT="سعة أشهر السابع رجب وله أول مفصل من الوسطى، تم نبدأ بالدور من الأحد بأول مفصل"
+                    HPOS="348"
+                    VPOS="1867"
+                    WIDTH="1930"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15315ec4"
+                    
+                    BASELINE="350 1998 2275 1990" 
+                    HPOS="348"
+                    VPOS="1940"
+                    WIDTH="1927"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="350 1998 348 1949 2272 1940 2275 1990 2275 2025 350 2034"/></Shape>
+	    <String CONTENT="الخنصر فيكون أول الوسطى سابعا، وله يوم الخميس فنقول غرة رجب يوم الخميس وهو عمل"
+                    HPOS="348"
+                    VPOS="1940"
+                    WIDTH="1927"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72861e94"
+                    
+                    BASELINE="1944 2069 2281 2069" 
+                    HPOS="1944"
+                    VPOS="2025"
+                    WIDTH="337"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1944 2069 1944 2025 2281 2025 2281 2069 2281 2104 1944 2104"/></Shape>
+	    <String CONTENT="لطيف فاحفظه"
+                    HPOS="1944"
+                    VPOS="2025"
+                    WIDTH="337"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a81fbbfc"
+                    
+                    BASELINE="350 2194 696 2183 2210 2177" 
+                    HPOS="348"
+                    VPOS="2115"
+                    WIDTH="1862"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="350 2194 348 2133 693 2121 693 2121 2208 2115 2210 2177 2210 2203 696 2209 350 2221"/></Shape>
+	    <String CONTENT="تكميل ما وقع فيه العامة وقوفهم عند النظر للهلال، وقراءة بعض الأوراد الواردة في"
+                    HPOS="348"
+                    VPOS="2115"
+                    WIDTH="1862"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfb5d50e"
+                    
+                    BASELINE="350 2273 2284 2253" 
+                    HPOS="348"
+                    VPOS="2197"
+                    WIDTH="1936"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="350 2273 348 2218 2281 2197 2284 2253 2284 2279 350 2300"/></Shape>
+	    <String CONTENT="السنة مع أن ذلك الوقوف منهى عنه قال ابن فهد في تذكرته قال في منهاج الحليمي"
+                    HPOS="348"
+                    VPOS="2197"
+                    WIDTH="1936"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_955103e9"
+                    
+                    BASELINE="350 2346 2278 2346" 
+                    HPOS="350"
+                    VPOS="2294"
+                    WIDTH="1928"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="350 2346 350 2294 2278 2294 2278 2346 2278 2373 350 2373"/></Shape>
+	    <String CONTENT="ولاينيغى إن رأى الهلال أن يقوم في وجهه ويدعو بل يعرض عنه، ويقول ما يقول وهو لاينظر"
+                    HPOS="350"
+                    VPOS="2294"
+                    WIDTH="1928"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87f50f4e"
+                    
+                    BASELINE="350 2425 2281 2419" 
+                    HPOS="348"
+                    VPOS="2367"
+                    WIDTH="1933"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="350 2425 348 2373 2278 2367 2281 2419 2281 2446 350 2451"/></Shape>
+	    <String CONTENT="قال على رضى الله عنه إذا رأيت الهلال فلا ترفع له رأسا وقل ربى وربك الله قال ابن مسعود"
+                    HPOS="348"
+                    VPOS="2367"
+                    WIDTH="1933"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11de2624"
+                    
+                    BASELINE="345 2510 2278 2501" 
+                    HPOS="342"
+                    VPOS="2440"
+                    WIDTH="1936"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="345 2510 342 2449 2275 2440 2278 2501 2278 2525 345 2533"/></Shape>
+	    <String CONTENT="رضى الله عنه لين أقع من هذا القصر أحب إلى من أن أصنع كما صنع هؤلاء إذا رأوا الهلال"
+                    HPOS="342"
+                    VPOS="2440"
+                    WIDTH="1936"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ac831ac"
+                    
+                    BASELINE="342 2580 2082 2592 2278 2577" 
+                    HPOS="339"
+                    VPOS="2522"
+                    WIDTH="1939"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="342 2580 342 2522 2079 2533 2272 2522 2278 2577 2278 2606 2082 2621 2079 2621 339 2609"/></Shape>
+	    <String CONTENT="گأنهم يرون ربهم وعن ابن عباس رضی الله عنهما آنه کان یکره أن ینتصب للهلال انتصابا"
+                    HPOS="339"
+                    VPOS="2522"
+                    WIDTH="1939"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bf10cec"
+                    
+                    BASELINE="643 2662 2278 2668" 
+                    HPOS="640"
+                    VPOS="2609"
+                    WIDTH="1638"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="643 2662 643 2609 2278 2615 2278 2668 2275 2691 640 2685"/></Shape>
+	    <String CONTENT="ولكن يعرض ويقول الله أكبر الحمد لله الذى ذهب بهلال كذا وجاء بهلال كذا"
+                    HPOS="640"
+                    VPOS="2609"
+                    WIDTH="1638"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ae8a8e7"
+                    
+                    BASELINE="339 2767 2216 2767" 
+                    HPOS="339"
+                    VPOS="2720"
+                    WIDTH="1877"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="339 2767 339 2720 2216 2720 2216 2767 2216 2796 339 2796"/></Shape>
+	    <String CONTENT="مسألة: متى أردت معرفة درجة الشمس فانظر إلى الماضى من السنة القبطية وزد عليه"
+                    HPOS="339"
+                    VPOS="2720"
+                    WIDTH="1877"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cb5da371"
+                    
+                    BASELINE="342 2846 2278 2852" 
+                    HPOS="339"
+                    VPOS="2796"
+                    WIDTH="1939"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="342 2846 342 2796 2278 2802 2278 2852 2275 2881 339 2875"/></Shape>
+	    <String CONTENT="خمسة أشهر وخمسة عبشر يوما، واجعل لكل برج في الحمل ثلاثين، فحيث تنتهي تجد درجة"
+                    HPOS="339"
+                    VPOS="2796"
+                    WIDTH="1939"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9241fb7b"
+                    
+                    BASELINE="731 2934 2286 2928" 
+                    HPOS="728"
+                    VPOS="2875"
+                    WIDTH="1558"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="731 2934 728 2881 2284 2875 2286 2928 2286 2954 731 2960"/></Shape>
+	    <String CONTENT="الشمس فان تجاوزت الدور فاجعل لكل برج من المتجاوز واحدى وثلاثين"
+                    HPOS="728"
+                    VPOS="2875"
+                    WIDTH="1558"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="6"
+                   VPOS="2999"
+                   WIDTH="2208"
+                   HEIGHT="141"
+                   ID="eSc_textblock_e5596062"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="2214 2999 2214 3140 6 3140 6 2999"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_22fe6a49"
+                    
+                    BASELINE="1950 3089 2292 3089" 
+                    HPOS="1950"
+                    VPOS="2998"
+                    WIDTH="342"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="1950 3089 1950 2998 2292 2998 2292 3089 2292 3144 1950 3144"/></Shape>
+	    <String CONTENT="0"
+                    HPOS="1950"
+                    VPOS="2998"
+                    WIDTH="342"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f995d73"
+                    
+                    BASELINE="1614 3089 1640 3089" 
+                    HPOS="1614"
+                    VPOS="3004"
+                    WIDTH="26"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="1614 3089 1614 3004 1640 3004 1640 3089 1640 3138 1614 3138"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1614"
+                    VPOS="3004"
+                    WIDTH="26"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2339"
+                   VPOS="3011"
+                   WIDTH="141"
+                   HEIGHT="153"
+                   ID="eSc_textblock_7a51c08d"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="2339 3011 2339 3164 2480 3164 2480 3011"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2234"
+                   VPOS="3003"
+                   WIDTH="97"
+                   HEIGHT="149"
+                   ID="eSc_textblock_a5ec5b36"
+                   TAGREFS="BT1075">
+          <Shape><Polygon POINTS="2331 3003 2331 3152 2234 3152 2234 3003"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

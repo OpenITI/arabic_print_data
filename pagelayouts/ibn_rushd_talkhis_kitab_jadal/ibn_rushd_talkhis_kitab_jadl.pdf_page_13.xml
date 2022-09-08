@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ibn_rushd_talkhis_kitab_jadl.pdf_page_13.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1225" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1226" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1227" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1228" LABEL="Head" DESCRIPTION="block type Head"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2932"
+          HEIGHT="4050"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2932"
+                  HEIGHT="4050">
+        
+        <TextBlock HPOS="358"
+                   VPOS="1794"
+                   WIDTH="1755"
+                   HEIGHT="1549"
+                   ID="eSc_textblock_eda10d83"
+                   TAGREFS="BT1225">
+          <Shape><Polygon POINTS="2113 3343 2113 1794 358 1794 358 3343"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="417"
+                   VPOS="672"
+                   WIDTH="1774"
+                   HEIGHT="1117"
+                   ID="eSc_textblock_3102c26c"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2191 672 2191 1789 417 1789 417 672"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1157"
+                   VPOS="490"
+                   WIDTH="240"
+                   HEIGHT="88"
+                   ID="eSc_textblock_791a60bf"
+                   TAGREFS="BT1226">
+          <Shape><Polygon POINTS="1157 490 1157 578 1397 578 1397 490"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_b3f0ffb4"
+                    
+                    BASELINE="489 739 1935 739" 
+                    HPOS="489"
+                    VPOS="675"
+                    WIDTH="1446"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="489 739 489 675 1935 675 1935 739 1935 762 489 762"/></Shape>
+	    <String CONTENT="وهذه الصناعة هی بالجملة الصناعة التى نقدر بها - إذا كنا سائلين - أن"
+                    HPOS="489"
+                    VPOS="675"
+                    WIDTH="1446"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59c576ca"
+                    
+                    BASELINE="496 874 2026 887" 
+                    HPOS="493"
+                    VPOS="810"
+                    WIDTH="1533"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="496 874 496 810 2026 823 2026 887 2023 914 493 901"/></Shape>
+	    <String CONTENT="نعمل من مقدمات مشهورة قياسا على ابطال كل وضع يتضمن المجيب حفظه،"
+                    HPOS="493"
+                    VPOS="810"
+                    WIDTH="1533"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c836257"
+                    
+                    BASELINE="496 1026 2030 1026" 
+                    HPOS="496"
+                    VPOS="958"
+                    WIDTH="1534"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="496 1026 496 958 2030 958 2030 1026 2030 1053 496 1053"/></Shape>
+	    <String CONTENT="ال و على حفظ كل وضع كلى يروم السائل إبطاله، إذا كنا مجيبين، وذلك بحسب"
+                    HPOS="496"
+                    VPOS="958"
+                    WIDTH="1534"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5fda7f13"
+                    
+                    BASELINE="489 1157 2033 1164" 
+                    HPOS="486"
+                    VPOS="1093"
+                    WIDTH="1547"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="489 1157 489 1093 2033 1100 2033 1164 2030 1194 486 1188"/></Shape>
+	    <String CONTENT="ما يمكن فى وضع وضع . فإنه ليس من شأن السائل أن يبطـل ولا بد ما تضمن"
+                    HPOS="486"
+                    VPOS="1093"
+                    WIDTH="1547"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0915b0c1"
+                    
+                    BASELINE="489 1296 2033 1309" 
+                    HPOS="486"
+                    VPOS="1225"
+                    WIDTH="1547"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="489 1296 489 1225 2033 1238 2033 1309 2030 1333 486 1319"/></Shape>
+	    <String CONTENT="المجيب حفظه ، ولا من شأن المحجيب أن يحفظ عن الابطال ما تضمن حفظه"
+                    HPOS="486"
+                    VPOS="1225"
+                    WIDTH="1547"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e16ca0c7"
+                    
+                    BASELINE="486 1447 2030 1447" 
+                    HPOS="486"
+                    VPOS="1380"
+                    WIDTH="1544"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="486 1447 486 1380 2030 1380 2030 1447 2030 1471 486 1471"/></Shape>
+	    <String CONTENT=" ولا بده بل شان كل واحد منهما، اذا أجاد السؤال والجواب، أن يأتى بغاية"
+                    HPOS="486"
+                    VPOS="1380"
+                    WIDTH="1544"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70b87a67"
+                    
+                    BASELINE="489 1582 2026 1593" 
+                    HPOS="486"
+                    VPOS="1512"
+                    WIDTH="1540"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="489 1582 489 1512 2026 1522 2026 1593 2023 1616 486 1606"/></Shape>
+	    <String CONTENT="ما يمكن في ذلك الوضع من الحفظ أو الابطال . كالحال فى صناعة الطب . فإنه"
+                    HPOS="486"
+                    VPOS="1512"
+                    WIDTH="1540"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1546e84"
+                    
+                    BASELINE="489 1728 2026 1741" 
+                    HPOS="486"
+                    VPOS="1657"
+                    WIDTH="1540"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="489 1728 489 1657 2026 1670 2026 1741 2023 1761 486 1748"/></Shape>
+	    <String CONTENT="ليس يلزم الطبيب أن يبرئ ولا بد، وإنما الذى يلزمه الا يغفل شيئا مما توجبه"
+                    HPOS="486"
+                    VPOS="1657"
+                    WIDTH="1540"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efb82b9a"
+                    
+                    BASELINE="1172 550 1391 550" 
+                    HPOS="1172"
+                    VPOS="506"
+                    WIDTH="219"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1172 550 1172 506 1391 506 1391 550 1391 563 1172 563"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1172"
+                    VPOS="506"
+                    WIDTH="219"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_145b58df"
+                    
+                    BASELINE="1472 1917 1955 1906" 
+                    HPOS="1469"
+                    VPOS="1852"
+                    WIDTH="486"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1472 1917 1469 1863 1952 1852 1955 1906 1955 1923 1472 1933"/></Shape>
+	    <String CONTENT="4 تضمن : يتضمن ل"
+                    HPOS="1469"
+                    VPOS="1852"
+                    WIDTH="486"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51b9ed27"
+                    
+                    BASELINE="476 2200 2036 2187" 
+                    HPOS="472"
+                    VPOS="2129"
+                    WIDTH="1564"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="476 2200 472 2143 2033 2129 2036 2187 2036 2207 476 2220"/></Shape>
+	    <String CONTENT=" الفارابي، الجدل، مخطوط براتيسلافا، ورقة 187 ب 11- ١188ا 2 : &quot; وأرسطوطاليس"
+                    HPOS="472"
+                    VPOS="2129"
+                    WIDTH="1564"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64f76094"
+                    
+                    BASELINE="479 2284 2019 2295" 
+                    HPOS="476"
+                    VPOS="2227"
+                    WIDTH="1543"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="479 2284 479 2227 2019 2237 2019 2295 2016 2315 476 2305"/></Shape>
+	    <String CONTENT="يجعل هذه الصناعة عند تحديده لهـا أنها طريق، و يقول إنها طريق يتهيا لنا بها أن نعمل من مقدمات"
+                    HPOS="476"
+                    VPOS="2227"
+                    WIDTH="1543"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8fba4da8"
+                    
+                    BASELINE="493 2382 2019 2386" 
+                    HPOS="489"
+                    VPOS="2325"
+                    WIDTH="1530"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="493 2382 493 2325 2019 2328 2019 2386 2016 2406 489 2403"/></Shape>
+	    <String CONTENT="مشهورة قياسا فى كل مصئلة تفصد &quot; رأن نكون إذا أجبنا جوابا لم نأت فيه بشیء مضاد . فقوله :"
+                    HPOS="489"
+                    VPOS="2325"
+                    WIDTH="1530"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a035ea97"
+                    
+                    BASELINE="483 2487 2016 2480" 
+                    HPOS="479"
+                    VPOS="2419"
+                    WIDTH="1537"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="483 2487 479 2426 2013 2419 2016 2480 2016 2494 483 2500"/></Shape>
+	    <String CONTENT="&quot; مضاد * استعمله مكان المقابل، واشار به إلى المناقض . وقوليا؛ لم نأت فيه بشىء مناقض، نعنى"
+                    HPOS="479"
+                    VPOS="2419"
+                    WIDTH="1537"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_138e6f4f"
+                    
+                    BASELINE="483 2581 2016 2571" 
+                    HPOS="479"
+                    VPOS="2514"
+                    WIDTH="1537"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="483 2581 479 2524 2013 2514 2016 2571 2016 2592 483 2602"/></Shape>
+	    <String CONTENT="لم نسلم شيئا يلزمنا عنه نقيض الوضع الذى تضمنا حفظه . وقوله : ه فى كل مسثلة تقصد)، يعنى"
+                    HPOS="479"
+                    VPOS="2514"
+                    WIDTH="1537"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e28049e7"
+                    
+                    BASELINE="489 2676 2019 2669" 
+                    HPOS="486"
+                    VPOS="2608"
+                    WIDTH="1533"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="489 2676 486 2615 2016 2608 2019 2669 2019 2686 489 2693"/></Shape>
+	    <String CONTENT="فى كل وضع تسلم بالسؤال ، وأراد به أى جزء اتفق من جزأى النقيض أن يتسلمه السائل عن المجيب "
+                    HPOS="486"
+                    VPOS="2608"
+                    WIDTH="1533"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d168f44"
+                    
+                    BASELINE="479 2777 2019 2764" 
+                    HPOS="476"
+                    VPOS="2696"
+                    WIDTH="1543"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="479 2777 476 2710 2016 2696 2019 2764 2019 2781 479 2794"/></Shape>
+	    <String CONTENT="والطريق والمذهب والسبيل عند القدماء كل ملكة اعتيادية يمعن الإنسان بهـا على ترتيب نحو"
+                    HPOS="476"
+                    VPOS="2696"
+                    WIDTH="1543"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0182c7b6"
+                    
+                    BASELINE="1759 2858 2009 2858" 
+                    HPOS="1759"
+                    VPOS="2811"
+                    WIDTH="250"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1759 2858 1759 2811 2009 2811 2009 2858 2009 2878 1759 2878"/></Shape>
+	    <String CONTENT="فض ما"
+                    HPOS="1759"
+                    VPOS="2811"
+                    WIDTH="250"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3369993"
+                    
+                    BASELINE="499 2986 1962 2963" 
+                    HPOS="496"
+                    VPOS="2899"
+                    WIDTH="1466"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="499 2986 496 2922 1959 2899 1962 2963 1962 2983 499 3007"/></Shape>
+	    <String CONTENT="لاحظ التطابق بين الترجمة العربية و بين ما يقتبس الفارابى : ان نعمل من مقدمات ... مضاد ."
+                    HPOS="496"
+                    VPOS="2899"
+                    WIDTH="1466"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2047f388"
+                    
+                    BASELINE="493 3101 1955 3078" 
+                    HPOS="489"
+                    VPOS="3013"
+                    WIDTH="1466"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="493 3101 489 3037 1952 3013 1955 3078 1955 3094 493 3118"/></Shape>
+	    <String CONTENT="ابن سينا&quot; الجدل، ص 921 ه نفرضنا الآن فى هذا الفن هو تحصيل صناهة يمكننا بها أن ناق"
+                    HPOS="489"
+                    VPOS="3013"
+                    WIDTH="1466"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14be7643"
+                    
+                    BASELINE="496 3202 996 3186 2019 3179" 
+                    HPOS="493"
+                    VPOS="3118"
+                    WIDTH="1526"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="496 3202 493 3142 993 3125 993 3125 2016 3118 2019 3179 2019 3209 996 3216 496 3233"/></Shape>
+	    <String CONTENT="بالحجة هلى كل ما يوضع مطلو با من مقدمات ذائعة ، وأن نكون = إذا أجبنا = لم يؤخذ منا"
+                    HPOS="493"
+                    VPOS="3118"
+                    WIDTH="1526"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b016c526"
+                    
+                    BASELINE="1658 3270 2026 3280" 
+                    HPOS="1655"
+                    VPOS="3216"
+                    WIDTH="371"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1658 3270 1658 3216 2026 3226 2026 3280 2023 3307 1655 3297"/></Shape>
+	    <String CONTENT="ما يناقض به وضعناع ."
+                    HPOS="1655"
+                    VPOS="3216"
+                    WIDTH="371"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_347b67f6"
+                    
+                    BASELINE="705 2008 1959 2008" 
+                    HPOS="705"
+                    VPOS="1957"
+                    WIDTH="1254"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="705 2008 705 1957 1959 1957 1959 2008 1959 2028 705 2028"/></Shape>
+	    <String CONTENT=" انه ليس يلزم الطبيب أن يبرأ ولا بد رما يلزمه : فى هامش مخطوط فلورنسه"
+                    HPOS="705"
+                    VPOS="1957"
+                    WIDTH="1254"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

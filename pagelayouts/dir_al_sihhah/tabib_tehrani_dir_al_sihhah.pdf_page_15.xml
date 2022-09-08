@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>tabib_tehrani_dir_al_sihhah.pdf_page_15.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1081" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1082" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1083" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1084" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2006"
+          HEIGHT="2726"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2006"
+                  HEIGHT="2726">
+        
+        <TextBlock HPOS="263"
+                   VPOS="2217"
+                   WIDTH="1424"
+                   HEIGHT="215"
+                   ID="eSc_textblock_1e455b50"
+                   TAGREFS="BT1082">
+          <Shape><Polygon POINTS="1687 2217 1687 2405 1615 2432 517 2423 299 2414 263 2360 290 2226 772 2217"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f3d2e4b9"
+                    
+                    BASELINE="279 2273 1656 2269" 
+                    HPOS="277"
+                    VPOS="2226"
+                    WIDTH="1379"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="279 2273 277 2230 1653 2226 1656 2269 1656 2283 279 2287"/></Shape>
+	    <String CONTENT="1. اطلاعات کتاب شناسی این نسخهها را از جلد پنجم فهرستوارهٔ نسخههای خطی"
+                    HPOS="277"
+                    VPOS="2226"
+                    WIDTH="1379"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2734a10f"
+                    
+                    BASELINE="277 2333 1601 2333" 
+                    HPOS="277"
+                    VPOS="2292"
+                    WIDTH="1324"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="277 2333 277 2292 1601 2292 1601 2333 1601 2348 277 2348"/></Shape>
+	    <String CONTENT="فارسی و فهرستوارهٔ مشترک نسخههای خطی پزشکی و علوم وابسته در"
+                    HPOS="277"
+                    VPOS="2292"
+                    WIDTH="1324"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b6e1ebf"
+                    
+                    BASELINE="1224 2394 1603 2387" 
+                    HPOS="1222"
+                    VPOS="2342"
+                    WIDTH="381"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1224 2394 1222 2348 1601 2342 1603 2387 1603 2401 1224 2407"/></Shape>
+	    <String CONTENT="کتابخانههای ایران آوردم."
+                    HPOS="1222"
+                    VPOS="2342"
+                    WIDTH="381"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="282"
+                   VPOS="379"
+                   WIDTH="1413"
+                   HEIGHT="1694"
+                   ID="eSc_textblock_6c1fdae5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="282 379 282 2073 1695 2073 1695 379"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="254"
+                   VPOS="256"
+                   WIDTH="462"
+                   HEIGHT="82"
+                   ID="eSc_textblock_36e580d0"
+                   TAGREFS="BT1081">
+          <Shape><Polygon POINTS="254 256 254 338 716 338 716 256"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Turkah_Tamhid_Al_Qawaid.pdf_page_112.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT950" LABEL="Footnote" DESCRIPTION="block type Footnote"/><OtherTag ID="BT951" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT952" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1977"
+          HEIGHT="2762"
+          PHYSICAL_IMG_NR="111"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1977"
+                  HEIGHT="2762">
+        
+        <TextBlock HPOS="1426"
+                   VPOS="377"
+                   WIDTH="117"
+                   HEIGHT="99"
+                   ID="eSc_textblock_6df9faeb"
+                   TAGREFS="BT951">
+          <Shape><Polygon POINTS="1543 395 1543 476 1435 467 1426 405 1481 377"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6ab70e2b"
+                    
+                    BASELINE="1440 441 1509 446" 
+                    HPOS="1437"
+                    VPOS="398"
+                    WIDTH="74"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1440 441 1442 398 1511 402 1509 446 1506 455 1437 451"/></Shape>
+	    <String CONTENT="10"
+                    HPOS="1437"
+                    VPOS="398"
+                    WIDTH="74"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="193"
+                   VPOS="497"
+                   WIDTH="1415"
+                   HEIGHT="1958"
+                   ID="eSc_textblock_ad269f40"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1506 497 1580 524 1608 2347 1580 2446 221 2455 193 2428 193 957 202 524 230 497"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c7515bbd"
+                    
+                    BASELINE="221 554 1520 554" 
+                    HPOS="221"
+                    VPOS="510"
+                    WIDTH="1299"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="221 554 221 510 1520 510 1520 554 1520 570 221 570"/></Shape>
+	    <String CONTENT="ولایت او اخذ معارف نمودهاند وخلیفه و ورارث علم اومهدی موعود دارای"
+                    HPOS="221"
+                    VPOS="510"
+                    WIDTH="1299"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dcdf6c80"
+                    
+                    BASELINE="221 621 460 632 1523 632" 
+                    HPOS="218"
+                    VPOS="575"
+                    WIDTH="1305"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="221 621 221 575 460 586 1523 586 1523 632 1523 649 460 649 458 649 218 637"/></Shape>
+	    <String CONTENT="ولایت مطلقه است. عشق او بهذریهٔ حضرت ختمی مقام مرز و حشد ندارد"
+                    HPOS="218"
+                    VPOS="575"
+                    WIDTH="1305"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_267d641e"
+                    
+                    BASELINE="221 706 1527 711" 
+                    HPOS="218"
+                    VPOS="658"
+                    WIDTH="1309"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="221 706 221 658 1527 662 1527 711 1525 725 218 720"/></Shape>
+	    <String CONTENT="واز نهایت حب باهل عصمت گوید ذریتهٔ زهرا کلا معصومند، اگر درظاهر"
+                    HPOS="218"
+                    VPOS="658"
+                    WIDTH="1309"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_015acb3b"
+                    
+                    BASELINE="218 784 1529 777" 
+                    HPOS="216"
+                    VPOS="731"
+                    WIDTH="1313"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="218 784 216 738 1527 731 1529 777 1529 794 218 800"/></Shape>
+	    <String CONTENT="از آنها عصیان سربزند درباطن آنها تأثیر نمی گذارد - اگرچه این کلام اخیر"
+                    HPOS="216"
+                    VPOS="731"
+                    WIDTH="1313"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffe2b59f"
+                    
+                    BASELINE="221 851 456 865 1534 860" 
+                    HPOS="218"
+                    VPOS="803"
+                    WIDTH="1316"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="221 851 223 803 456 817 1532 812 1534 860 1534 881 456 886 453 886 218 872"/></Shape>
+	    <String CONTENT="اونیز از همان مطالب بی اصل و اساس است عصیان هرروحی را تیره میکند"
+                    HPOS="218"
+                    VPOS="803"
+                    WIDTH="1316"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d3f4fa6"
+                    
+                    BASELINE="225 932 1532 948" 
+                    HPOS="223"
+                    VPOS="890"
+                    WIDTH="1309"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="225 932 225 890 1532 906 1532 948 1529 964 223 948"/></Shape>
+	    <String CONTENT="و كفر هر نفسی را بعذاب ابدی مبتلا مینماید ، لذا صاحب ولایت کلیه"
+                    HPOS="223"
+                    VPOS="890"
+                    WIDTH="1309"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_376c6f90"
+                    
+                    BASELINE="223 1024 1529 1017" 
+                    HPOS="221"
+                    VPOS="973"
+                    WIDTH="1308"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="223 1024 221 980 1527 973 1529 1017 1529 1033 223 1040"/></Shape>
+	    <String CONTENT="فرمود: مطیع به بهشت میرود اگرچه سیاه حبشی باشد و عاصی در نانه"
+                    HPOS="221"
+                    VPOS="973"
+                    WIDTH="1308"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b61858b"
+                    
+                    BASELINE="760 1097 1532 1097" 
+                    HPOS="760"
+                    VPOS="1058"
+                    WIDTH="772"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="760 1097 760 1058 1532 1058 1532 1097 1532 1118 760 1118"/></Shape>
+	    <String CONTENT="حرمان میسوزد اگرچه سید قریشی باشد."
+                    HPOS="760"
+                    VPOS="1058"
+                    WIDTH="772"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c60912a"
+                    
+                    BASELINE="753 1270 995 1270" 
+                    HPOS="753"
+                    VPOS="1219"
+                    WIDTH="242"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="753 1270 753 1219 995 1219 995 1270 995 1286 753 1286"/></Shape>
+	    <String CONTENT="حت وتحقببق"
+                    HPOS="753"
+                    VPOS="1219"
+                    WIDTH="242"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2f7be91"
+                    
+                    BASELINE="214 1404 1460 1408" 
+                    HPOS="211"
+                    VPOS="1360"
+                    WIDTH="1249"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="214 1404 214 1360 1460 1364 1460 1408 1458 1427 211 1422"/></Shape>
+	    <String CONTENT="در مباحث گذشته بیان نمودیم که اولین جلوه حق درمظاهر خلقی"
+                    HPOS="211"
+                    VPOS="1360"
+                    WIDTH="1249"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13086811"
+                    
+                    BASELINE="214 1489 1149 1500 1534 1493" 
+                    HPOS="211"
+                    VPOS="1440"
+                    WIDTH="1323"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="214 1489 214 1440 1147 1452 1532 1445 1534 1493 1534 1512 1149 1519 1147 1519 211 1507"/></Shape>
+	    <String CONTENT="نزدعر فا وصوفيه وجودعام و فيض مقدس و وجود منبسطاست، استدلال"
+                    HPOS="211"
+                    VPOS="1440"
+                    WIDTH="1323"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_736e49b6"
+                    
+                    BASELINE="211 1567 594 1581 1536 1576" 
+                    HPOS="209"
+                    VPOS="1516"
+                    WIDTH="1327"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="211 1567 211 1516 594 1530 1534 1526 1536 1576 1536 1590 594 1595 592 1595 209 1581"/></Shape>
+	    <String CONTENT="آین طایفه را نقل وبوجوه متعدد تقریر نمودیم ، ونیز بیان شد که حکما"
+                    HPOS="209"
+                    VPOS="1516"
+                    WIDTH="1327"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_015fdabe"
+                    
+                    BASELINE="214 1657 1543 1664" 
+                    HPOS="211"
+                    VPOS="1611"
+                    WIDTH="1332"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="214 1657 214 1611 1543 1618 1543 1664 1541 1680 211 1673"/></Shape>
+	    <String CONTENT="اولين صادر وفعل اول وبلا واسطهٔ حق را عقل اول دانستهاند، وهردو"
+                    HPOS="211"
+                    VPOS="1611"
+                    WIDTH="1332"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cb619bad"
+                    
+                    BASELINE="216 1730 1539 1737" 
+                    HPOS="214"
+                    VPOS="1689"
+                    WIDTH="1325"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="216 1730 216 1689 1539 1696 1539 1737 1536 1756 214 1749"/></Shape>
+	    <String CONTENT="دسته ، به قاعدهٔ مسلمهٔ - الواحد - استدلال کردهاند وبیان نمودیم که"
+                    HPOS="214"
+                    VPOS="1689"
+                    WIDTH="1325"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d360040"
+                    
+                    BASELINE="209 1818 1536 1813" 
+                    HPOS="207"
+                    VPOS="1769"
+                    WIDTH="1329"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="209 1818 207 1774 1534 1769 1536 1813 1536 1834 209 1839"/></Shape>
+	    <String CONTENT="بعضی ازاکابر، بین این دوعقیده یك نحو جمعی بر قرار نمودهاند، باین معنی"
+                    HPOS="207"
+                    VPOS="1769"
+                    WIDTH="1329"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1234dd43"
+                    
+                    BASELINE="262 1891 1539 1891" 
+                    HPOS="262"
+                    VPOS="1852"
+                    WIDTH="1277"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="262 1891 262 1852 1539 1852 1539 1891 1539 1912 262 1912"/></Shape>
+	    <String CONTENT="که عقل اول را اجمال وجود عام و وجود عام را تفصيل آن دانستهاند."
+                    HPOS="262"
+                    VPOS="1852"
+                    WIDTH="1277"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8a29ed5"
+                    
+                    BASELINE="211 1997 394 1988 1456 1993" 
+                    HPOS="207"
+                    VPOS="1935"
+                    WIDTH="1249"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="211 1997 207 1944 389 1935 394 1935 1456 1940 1456 1993 1453 2013 394 2009 211 2018"/></Shape>
+	    <String CONTENT="دلائلی را که عرفا جهت اثبات مرام خود، ذکر کردهاند به تفصیل نقل"
+                    HPOS="207"
+                    VPOS="1935"
+                    WIDTH="1249"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e3246db"
+                    
+                    BASELINE="209 2071 1541 2078" 
+                    HPOS="207"
+                    VPOS="2025"
+                    WIDTH="1334"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="209 2071 209 2025 1541 2032 1541 2078 1539 2092 207 2085"/></Shape>
+	    <String CONTENT="کردیم و در ضمن این بحث بهسبك و روش عرفا سخن از ملائکه و عقول"
+                    HPOS="207"
+                    VPOS="2025"
+                    WIDTH="1334"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de695ada"
+                    
+                    BASELINE="214 2149 1209 2145 1548 2154" 
+                    HPOS="211"
+                    VPOS="2099"
+                    WIDTH="1337"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="214 2149 211 2103 1207 2099 1209 2099 1548 2108 1548 2154 1546 2172 1207 2163 214 2168"/></Shape>
+	    <String CONTENT="مجردهيی بمیان آمد که اهل عرفان آنها را ملائکهٔ مهیدمین یا میهیمیه"
+                    HPOS="211"
+                    VPOS="2099"
+                    WIDTH="1337"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1185ff3"
+                    
+                    BASELINE="209 2228 1553 2228" 
+                    HPOS="209"
+                    VPOS="2186"
+                    WIDTH="1344"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="209 2228 209 2186 1553 2186 1553 2228 1553 2244 209 2244"/></Shape>
+	    <String CONTENT="ناميدهاند ودرمطاوی اين بحث بيان شد كه عقل اول ، اولين عقل مجسرد،"
+                    HPOS="209"
+                    VPOS="2186"
+                    WIDTH="1344"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0114da8b"
+                    
+                    BASELINE="211 2315 1553 2308" 
+                    HPOS="209"
+                    VPOS="2262"
+                    WIDTH="1344"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="211 2315 209 2269 1550 2262 1553 2308 1553 2322 211 2329"/></Shape>
+	    <String CONTENT="درمقام تسطير وترقیم کلمات وجودیه است وصادر نخست وجود عام و"
+                    HPOS="209"
+                    VPOS="2262"
+                    WIDTH="1344"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa2618b6"
+                    
+                    BASELINE="211 2400 1553 2389" 
+                    HPOS="209"
+                    VPOS="2338"
+                    WIDTH="1344"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="211 2400 209 2350 1550 2338 1553 2389 1553 2405 211 2416"/></Shape>
+	    <String CONTENT="مطلق است كه فعل حق است واول قابل كه واسطه جهت ترقيم يا تكوين"
+                    HPOS="209"
+                    VPOS="2338"
+                    WIDTH="1344"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="718"
+                   VPOS="386"
+                   WIDTH="337"
+                   HEIGHT="81"
+                   ID="eSc_textblock_533ad9f2"
+                   TAGREFS="BT952">
+          <Shape><Polygon POINTS="1046 386 1055 467 746 467 718 414 774 386"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bf07db85"
+                    
+                    BASELINE="737 439 1036 444" 
+                    HPOS="735"
+                    VPOS="400"
+                    WIDTH="301"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="737 439 737 400 1036 405 1036 444 1034 462 735 458"/></Shape>
+	    <String CONTENT="مقدمه تمهید القواعد"
+                    HPOS="735"
+                    VPOS="400"
+                    WIDTH="301"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

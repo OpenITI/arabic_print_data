@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ibn_sina_daneshnameh_alai.pdf_page_47.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1219" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1220" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1221" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1222" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1223" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1224" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1756"
+          HEIGHT="2382"
+          PHYSICAL_IMG_NR="46"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1756"
+                  HEIGHT="2382">
+        
+        <TextBlock HPOS="18"
+                   VPOS="1433"
+                   WIDTH="1362"
+                   HEIGHT="654"
+                   ID="eSc_textblock_702b5cd4"
+                   TAGREFS="BT1223">
+          <Shape><Polygon POINTS="1380 2087 1380 1433 18 1433 18 2087"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="640"
+                   VPOS="2117"
+                   WIDTH="94"
+                   HEIGHT="76"
+                   ID="eSc_textblock_89768d9f"
+                   TAGREFS="BT1222">
+          <Shape><Polygon POINTS="640 2117 640 2193 734 2193 734 2117"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="47"
+                   VPOS="173"
+                   WIDTH="1371"
+                   HEIGHT="1257"
+                   ID="eSc_textblock_9eb36662"
+                   TAGREFS="BT1219">
+          <Shape><Polygon POINTS="47 173 47 1430 1418 1430 1418 173"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="402"
+                   VPOS="94"
+                   WIDTH="614"
+                   HEIGHT="67"
+                   ID="eSc_textblock_eeed55d2"
+                   TAGREFS="BT1220">
+          <Shape><Polygon POINTS="1016 94 1016 161 402 161 402 94"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_198eb4c2"
+                    
+                    BASELINE="411 146 999 131" 
+                    HPOS="409"
+                    VPOS="87"
+                    WIDTH="590"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="411 146 409 103 997 87 999 131 999 148 411 164"/></Shape>
+	    <String CONTENT="دانشنامهٔ علائی - بخش دوم - علم الهی"
+                    HPOS="409"
+                    VPOS="87"
+                    WIDTH="590"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84455cc7"
+                    
+                    BASELINE="71 228 409 242 1342 232" 
+                    HPOS="69"
+                    VPOS="174"
+                    WIDTH="1273"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="71 228 73 174 409 188 1340 178 1342 232 1342 256 409 265 407 265 69 252"/></Shape>
+	    <String CONTENT="اندر ایشان این سه چیز بدین صفت شاید بفرض کردن یك گونه اند"
+                    HPOS="69"
+                    VPOS="174"
+                    WIDTH="1273"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12394373"
+                    
+                    BASELINE="73 321 506 333 721 325 1344 329" 
+                    HPOS="71"
+                    VPOS="267"
+                    WIDTH="1273"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="73 321 73 267 504 279 717 271 719 271 721 271 1344 275 1344 329 1342 351 721 347 719 347 506 355 504 355 71 343"/></Shape>
+	    <String CONTENT="ویکی اند بی اختلاف ، واما اندر اندازۀ درازنا و پهنا و ستبرا مختلف اند ."
+                    HPOS="71"
+                    VPOS="267"
+                    WIDTH="1273"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_290684b7"
+                    
+                    BASELINE="73 410 293 422 1086 414 1275 426" 
+                    HPOS="71"
+                    VPOS="359"
+                    WIDTH="1206"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="73 410 75 359 293 371 677 367 1084 363 1088 363 1277 375 1275 426 1273 448 1084 436 681 440 293 444 292 444 71 432"/></Shape>
+	    <String CONTENT="پس پدید(1) آمد فرق میان صورت جسمی که جسم بوی جسم است"
+                    HPOS="71"
+                    VPOS="359"
+                    WIDTH="1206"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cdf8ccd"
+                    
+                    BASELINE="73 508 854 516 1342 506" 
+                    HPOS="71"
+                    VPOS="450"
+                    WIDTH="1271"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="73 508 73 452 852 460 1340 450 1342 506 1342 526 854 535 852 535 71 528"/></Shape>
+	    <String CONTENT="و میان این اندازه ها ، آری برخی جسمها را اندازه همیشه بریکسان بود"
+                    HPOS="71"
+                    VPOS="450"
+                    WIDTH="1271"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_044832bf"
+                    
+                    BASELINE="69 603 246 599 566 609 1350 597" 
+                    HPOS="67"
+                    VPOS="545"
+                    WIDTH="1283"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="69 603 67 551 244 547 246 547 333 549 566 557 1348 545 1350 597 1350 617 566 629 564 629 333 623 244 619 69 623"/></Shape>
+	    <String CONTENT="وبرنگردد هرچند که صورت وی نبود بل عرضی لازم بود چنانکه سیاهی"
+                    HPOS="67"
+                    VPOS="545"
+                    WIDTH="1283"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b8d0c3a"
+                    
+                    BASELINE="69 688 297 698 1114 698 1338 688" 
+                    HPOS="67"
+                    VPOS="631"
+                    WIDTH="1271"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="69 688 71 631 297 641 1112 641 1334 631 1338 688 1338 708 1114 718 1114 718 297 718 295 718 67 708"/></Shape>
+	    <String CONTENT="لازم مرحبشی را و چنان چون(2) شكلی لازم و لازم بودن دلیل آن نبود"
+                    HPOS="67"
+                    VPOS="631"
+                    WIDTH="1271"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94733d84"
+                    
+                    BASELINE="154 780 818 790 1317 776" 
+                    HPOS="152"
+                    VPOS="716"
+                    WIDTH="1165"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="154 780 154 720 816 730 1315 716 1317 776 1317 797 818 811 816 811 152 801"/></Shape>
+	    <String CONTENT="که بیرونین و عرضی(3) نبود و این بجای دیگر پدید(1) آمدست."
+                    HPOS="152"
+                    VPOS="716"
+                    WIDTH="1165"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7dea8a7b"
+                    
+                    BASELINE="65 867 1128 873 1261 881" 
+                    HPOS="63"
+                    VPOS="821"
+                    WIDTH="1200"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="65 867 65 821 1128 827 1130 827 1263 835 1261 881 1259 903 1126 895 63 889"/></Shape>
+	    <String CONTENT="پس میان مردمان خلاف است که اصل جسم چیست. اندر انجا سه"
+                    HPOS="63"
+                    VPOS="821"
+                    WIDTH="1200"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71900f50"
+                    
+                    BASELINE="1084 956 1330 954" 
+                    HPOS="1082"
+                    VPOS="913"
+                    WIDTH="248"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1084 956 1082 915 1328 913 1330 954 1330 972 1084 974"/></Shape>
+	    <String CONTENT="مذهب است :"
+                    HPOS="1082"
+                    VPOS="913"
+                    WIDTH="248"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_662a7a26"
+                    
+                    BASELINE="256 1056 1255 1050" 
+                    HPOS="254"
+                    VPOS="990"
+                    WIDTH="1001"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="256 1056 254 996 1253 990 1255 1050 1255 1069 256 1075"/></Shape>
+	    <String CONTENT="یکی مذهب آنست که جسم از اصلی(4) مر کب نیست."
+                    HPOS="254"
+                    VPOS="990"
+                    WIDTH="1001"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df3201b4"
+                    
+                    BASELINE="63 1141 1255 1141" 
+                    HPOS="63"
+                    VPOS="1089"
+                    WIDTH="1192"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="63 1141 63 1089 1255 1089 1255 1141 1255 1159 63 1159"/></Shape>
+	    <String CONTENT="و دیگر مذهب آنست که جسم مر کب است از پارهها که ایشان را"
+                    HPOS="63"
+                    VPOS="1089"
+                    WIDTH="1192"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4a7f655"
+                    
+                    BASELINE="218 1228 1040 1238 1324 1222" 
+                    HPOS="216"
+                    VPOS="1171"
+                    WIDTH="1108"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="218 1228 218 1177 1038 1187 1320 1171 1324 1222 1324 1242 1040 1258 1038 1258 216 1248"/></Shape>
+	    <String CONTENT="اندر نفس خویش پذیرایی پاره بودن نیست نه بوهم و نه بفعل ."
+                    HPOS="216"
+                    VPOS="1171"
+                    WIDTH="1108"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96ec3b35"
+                    
+                    BASELINE="61 1320 530 1329 732 1318 1257 1318" 
+                    HPOS="59"
+                    VPOS="1256"
+                    WIDTH="1198"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="61 1320 61 1258 528 1268 715 1258 729 1258 732 1256 1257 1256 1257 1318 1257 1341 732 1341 717 1341 530 1351 528 1351 59 1341"/></Shape>
+	    <String CONTENT="وسوم(5) مذهب آنست که جسم از مادتی وصورتی جسمی امر کب است."
+                    HPOS="59"
+                    VPOS="1256"
+                    WIDTH="1198"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e287dcc7"
+                    
+                    BASELINE="522 1395 969 1411 1322 1403" 
+                    HPOS="520"
+                    VPOS="1341"
+                    WIDTH="802"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="522 1395 522 1341 969 1357 1320 1349 1322 1403 1322 1423 969 1431 967 1431 520 1415"/></Shape>
+	    <String CONTENT="باید بدانیم که ازاین هرسه ، حق کدامست 22"
+                    HPOS="520"
+                    VPOS="1341"
+                    WIDTH="802"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60414dd9"
+                    
+                    BASELINE="790 1508 1299 1504" 
+                    HPOS="788"
+                    VPOS="1468"
+                    WIDTH="511"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="790 1508 788 1472 1297 1468 1299 1504 1299 1522 790 1526"/></Shape>
+	    <String CONTENT="1) مك 1، مك 2 ، مل : بديد ."
+                    HPOS="788"
+                    VPOS="1468"
+                    WIDTH="511"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78038eb8"
+                    
+                    BASELINE="444 1516 742 1512" 
+                    HPOS="442"
+                    VPOS="1472"
+                    WIDTH="300"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="444 1516 442 1476 740 1472 742 1512 742 1526 444 1530"/></Shape>
+	    <String CONTENT="(2) عس : - چون ."
+                    HPOS="442"
+                    VPOS="1472"
+                    WIDTH="300"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a16d74a"
+                    
+                    BASELINE="79 1510 307 1514" 
+                    HPOS="77"
+                    VPOS="1474"
+                    WIDTH="230"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="79 1510 79 1474 307 1478 307 1514 305 1530 77 1526"/></Shape>
+	    <String CONTENT="س، تم ، چه:"
+                    HPOS="77"
+                    VPOS="1474"
+                    WIDTH="230"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0627520"
+                    
+                    BASELINE="129 1582 1311 1572" 
+                    HPOS="127"
+                    VPOS="1530"
+                    WIDTH="1184"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="129 1582 127 1540 1309 1530 1311 1572 1311 1588 129 1597"/></Shape>
+	    <String CONTENT="عرض . (4) چخ : اصل . رك : ح2. (5) مج : سؤم : مك1 ، تم : سيوم ."
+                    HPOS="127"
+                    VPOS="1530"
+                    WIDTH="1184"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66ece3d0"
+                    
+                    BASELINE="79 1669 1299 1657" 
+                    HPOS="77"
+                    VPOS="1615"
+                    WIDTH="1222"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="79 1669 77 1627 1297 1615 1299 1657 1299 1673 79 1685"/></Shape>
+	    <String CONTENT="1- تقیید صورت به &quot;جسمی * برای خارج کردن دصورت نوعیه * است. (خ)."
+                    HPOS="77"
+                    VPOS="1615"
+                    WIDTH="1222"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc9a057c"
+                    
+                    BASELINE="75 1730 1303 1720" 
+                    HPOS="73"
+                    VPOS="1677"
+                    WIDTH="1230"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="75 1730 73 1687 1301 1677 1303 1720 1303 1736 75 1746"/></Shape>
+	    <String CONTENT="2 - &quot;قداختلف الناس فی امر هذه الاجسام المحسوسة فمنهم من جعل لها تأليفا من اجزاء"
+                    HPOS="73"
+                    VPOS="1677"
+                    WIDTH="1230"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f53e250a"
+                    
+                    BASELINE="69 1792 1303 1792" 
+                    HPOS="69"
+                    VPOS="1750"
+                    WIDTH="1234"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="69 1792 69 1750 1303 1750 1303 1792 1303 1812 69 1812"/></Shape>
+	    <String CONTENT="الايتجزى البتة ، وجعل كل جسم متضمنًاً لعدة منها متناهية ومنهم جعل الجسم مؤلفا"
+                    HPOS="69"
+                    VPOS="1750"
+                    WIDTH="1234"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_272b0bf0"
+                    
+                    BASELINE="75 1863 1301 1859" 
+                    HPOS="73"
+                    VPOS="1814"
+                    WIDTH="1228"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="75 1863 73 1818 1299 1814 1301 1859 1301 1875 75 1879"/></Shape>
+	    <String CONTENT="من اجزاء لانهاية له ، و منهم من جعل كل جسم اما متناهى الاجزاء الموجودة فيه بالفعل"
+                    HPOS="73"
+                    VPOS="1814"
+                    WIDTH="1228"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5fcec3f"
+                    
+                    BASELINE="73 1925 1301 1925" 
+                    HPOS="73"
+                    VPOS="1883"
+                    WIDTH="1228"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="73 1925 73 1883 1301 1883 1301 1925 1301 1943 73 1943"/></Shape>
+	    <String CONTENT="واما غير ذى اجزاء اصلاً بالفعل ، و اذا كان ذااجزاء بالفعل كان كل واحد من اجزائه"
+                    HPOS="73"
+                    VPOS="1883"
+                    WIDTH="1228"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96987afb"
+                    
+                    BASELINE="79 1994 1305 1988" 
+                    HPOS="77"
+                    VPOS="1943"
+                    WIDTH="1228"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="79 1994 77 1949 1303 1943 1305 1988 1305 2004 79 2010"/></Shape>
+	    <String CONTENT="المنفردة جسما ايضًا لاجزء له بالفمل ، فالجسم عنده اما ان يكون جسما لاجزءله بالفعل"
+                    HPOS="77"
+                    VPOS="1943"
+                    WIDTH="1228"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0bc8cdf4"
+                    
+                    BASELINE="208 2052 1303 2058" 
+                    HPOS="206"
+                    VPOS="2008"
+                    WIDTH="1097"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="208 2052 208 2008 1303 2014 1303 2058 1301 2076 206 2070"/></Shape>
+	    <String CONTENT="و اما ان يكون مؤلفا من اجسام لاجزء لها...* (شفا . طبيعيات ص 86)."
+                    HPOS="206"
+                    VPOS="2008"
+                    WIDTH="1097"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_782f5bb1"
+                    
+                    BASELINE="659 2153 699 2153" 
+                    HPOS="659"
+                    VPOS="2114"
+                    WIDTH="40"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="659 2153 659 2114 699 2114 699 2153 699 2167 659 2167"/></Shape>
+	    <String CONTENT="14"
+                    HPOS="659"
+                    VPOS="2114"
+                    WIDTH="40"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

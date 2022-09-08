@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Turkah_Tamhid_Al_Qawaid.pdf_page_102.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT950" LABEL="Footnote" DESCRIPTION="block type Footnote"/><OtherTag ID="BT951" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT952" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2063"
+          HEIGHT="2760"
+          PHYSICAL_IMG_NR="101"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2063"
+                  HEIGHT="2760">
+        
+        <TextBlock HPOS="1390"
+                   VPOS="358"
+                   WIDTH="99"
+                   HEIGHT="81"
+                   ID="eSc_textblock_51f37d17"
+                   TAGREFS="BT951">
+          <Shape><Polygon POINTS="1480 358 1489 439 1390 430 1399 358"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fa9c3073"
+                    
+                    BASELINE="1395 411 1459 416" 
+                    HPOS="1392"
+                    VPOS="365"
+                    WIDTH="70"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1395 411 1397 365 1462 370 1459 416 1457 430 1392 425"/></Shape>
+	    <String CONTENT="9"
+                    HPOS="1392"
+                    VPOS="365"
+                    WIDTH="70"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="672"
+                   VPOS="349"
+                   WIDTH="347"
+                   HEIGHT="90"
+                   ID="eSc_textblock_42008e19"
+                   TAGREFS="BT952">
+          <Shape><Polygon POINTS="1019 358 1010 439 736 439 672 402 718 358 838 349"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_79e47986"
+                    
+                    BASELINE="699 413 996 413" 
+                    HPOS="699"
+                    VPOS="377"
+                    WIDTH="297"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="699 413 699 377 996 377 996 413 996 430 699 430"/></Shape>
+	    <String CONTENT="مفدمه تمهید القواعد"
+                    HPOS="699"
+                    VPOS="377"
+                    WIDTH="297"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="285"
+                   VPOS="2355"
+                   WIDTH="274"
+                   HEIGHT="7"
+                   ID="eSc_textblock_fec9761b"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="559 2355 559 2362 285 2362 285 2355"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="257"
+                   VPOS="2281"
+                   WIDTH="357"
+                   HEIGHT="16"
+                   ID="eSc_textblock_c58d6a80"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="377 2290 614 2297 257 2297 359 2281"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="119"
+                   VPOS="478"
+                   WIDTH="1427"
+                   HEIGHT="1938"
+                   ID="eSc_textblock_1f971ed6"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1546 478 1546 2416 119 2416 119 478"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_1293c3b0"
+                    
+                    BASELINE="177 519 1468 524" 
+                    HPOS="174"
+                    VPOS="476"
+                    WIDTH="1294"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="177 519 177 476 1468 480 1468 524 1466 542 174 538"/></Shape>
+	    <String CONTENT="تقدم ملائكه مهيمه ازباب تقدم جلال حق برجمال اوست وناچار مظهر جلال"
+                    HPOS="174"
+                    VPOS="476"
+                    WIDTH="1294"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c67ecfa7"
+                    
+                    BASELINE="184 595 1468 591" 
+                    HPOS="181"
+                    VPOS="547"
+                    WIDTH="1287"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="184 595 181 552 1466 547 1468 591 1468 609 184 614"/></Shape>
+	    <String CONTENT="که ملائکه مهیشمه باشند، مقدم برعقل است که مظهر جمال است وما گفتیم"
+                    HPOS="181"
+                    VPOS="547"
+                    WIDTH="1287"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4455bd77"
+                    
+                    BASELINE="179 683 1473 676" 
+                    HPOS="177"
+                    VPOS="630"
+                    WIDTH="1296"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="179 683 177 637 1471 630 1473 676 1473 690 179 696"/></Shape>
+	    <String CONTENT="که صفت جمال وجلال درقواهر اعلون بیك وجود تحفق دارند وجهتی بر"
+                    HPOS="177"
+                    VPOS="630"
+                    WIDTH="1296"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4da4fea3"
+                    
+                    BASELINE="1162 761 1478 765" 
+                    HPOS="1160"
+                    VPOS="722"
+                    WIDTH="318"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1162 761 1162 722 1478 726 1478 765 1475 781 1160 777"/></Shape>
+	    <String CONTENT="جهتی نمی چربد."
+                    HPOS="1160"
+                    VPOS="722"
+                    WIDTH="318"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0febd133"
+                    
+                    BASELINE="179 850 1402 864" 
+                    HPOS="177"
+                    VPOS="807"
+                    WIDTH="1225"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="179 850 179 807 1402 821 1402 864 1399 880 177 867"/></Shape>
+	    <String CONTENT="برخی گفتهاند، ملائکه مهیمه برعقل مقدمند واگر درجائی گفته شوده"
+                    HPOS="177"
+                    VPOS="807"
+                    WIDTH="1225"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4e528a7"
+                    
+                    BASELINE="181 931 1478 940" 
+                    HPOS="179"
+                    VPOS="883"
+                    WIDTH="1299"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="181 931 181 883 1478 892 1478 940 1475 954 179 945"/></Shape>
+	    <String CONTENT="این دو دریك رتبهاند ، ازباب عدم وساطت بین آنها وحق اول است. حفیر"
+                    HPOS="179"
+                    VPOS="883"
+                    WIDTH="1299"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ab4223a"
+                    
+                    BASELINE="177 1005 1482 1014" 
+                    HPOS="174"
+                    VPOS="961"
+                    WIDTH="1308"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="177 1005 177 961 1482 970 1482 1014 1480 1032 174 1023"/></Shape>
+	    <String CONTENT="نگارنده بیاد دارد که مؤلف اساس الننوحببد در قاعدهٔ الواحد دراین مسأله"
+                    HPOS="174"
+                    VPOS="961"
+                    WIDTH="1308"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd90a9cb"
+                    
+                    BASELINE="174 1083 1485 1094" 
+                    HPOS="172"
+                    VPOS="1037"
+                    WIDTH="1313"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="174 1083 174 1037 1485 1048 1485 1094 1482 1113 172 1101"/></Shape>
+	    <String CONTENT="مفصل بحث فرموده است ولی مطالب آن درنظر نگارندهٔ این سطور نیست،"
+                    HPOS="172"
+                    VPOS="1037"
+                    WIDTH="1313"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21dcdd2e"
+                    
+                    BASELINE="174 1154 1480 1177" 
+                    HPOS="172"
+                    VPOS="1113"
+                    WIDTH="1308"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="174 1154 174 1113 1480 1136 1480 1177 1478 1198 172 1175"/></Shape>
+	    <String CONTENT="چون آن استاد عظیم (1) درقید حيات بودند که این اثر چاپ شد وشاید"
+                    HPOS="172"
+                    VPOS="1113"
+                    WIDTH="1308"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_643df829"
+                    
+                    BASELINE="174 1306 1404 1322" 
+                    HPOS="172"
+                    VPOS="1262"
+                    WIDTH="1232"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="174 1306 174 1262 1404 1278 1404 1322 1402 1340 172 1324"/></Shape>
+	    <String CONTENT="1- مراد حکیبم متألكه وعارف نامدار آقا میرزا مهدی آشتیانی - قدس الله"
+                    HPOS="172"
+                    VPOS="1262"
+                    WIDTH="1232"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e56d485"
+                    
+                    BASELINE="174 1384 481 1398 1491 1405" 
+                    HPOS="172"
+                    VPOS="1336"
+                    WIDTH="1319"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="174 1384 174 1336 481 1350 1491 1357 1491 1405 1489 1428 478 1421 478 1421 172 1407"/></Shape>
+	    <String CONTENT="روحه - است . مرحوم میرزا نسخهیی از این کتاب را برای حقیر فرستادند - قم -"
+                    HPOS="172"
+                    VPOS="1336"
+                    WIDTH="1319"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b394614"
+                    
+                    BASELINE="172 1472 1487 1488" 
+                    HPOS="170"
+                    VPOS="1423"
+                    WIDTH="1317"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="172 1472 172 1423 1487 1439 1487 1488 1485 1504 170 1488"/></Shape>
+	    <String CONTENT="نگارنده در آن زمان درشهرستان قم تحصیل مینمودم ، وهمان ایام بقرائت اسفار"
+                    HPOS="170"
+                    VPOS="1423"
+                    WIDTH="1317"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_290dffe6"
+                    
+                    BASELINE="170 1554 1491 1563" 
+                    HPOS="168"
+                    VPOS="1511"
+                    WIDTH="1323"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="170 1554 170 1511 1491 1520 1491 1563 1489 1582 168 1573"/></Shape>
+	    <String CONTENT="اشتغال داشتم، ودوسال بعد که برای تحصیل به نجف اشرف مشرف شدم کتاب اساس"
+                    HPOS="168"
+                    VPOS="1511"
+                    WIDTH="1323"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14ea28b7"
+                    
+                    BASELINE="177 1630 1482 1637" 
+                    HPOS="174"
+                    VPOS="1586"
+                    WIDTH="1308"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="177 1630 177 1586 1482 1593 1482 1637 1480 1655 174 1649"/></Shape>
+	    <String CONTENT="التوحید را با خود بردم وهنگام مراجعت بابران، این کتاب را با دورهٔ اسفار و"
+                    HPOS="174"
+                    VPOS="1586"
+                    WIDTH="1308"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46173f35"
+                    
+                    BASELINE="170 1708 1491 1720" 
+                    HPOS="168"
+                    VPOS="1662"
+                    WIDTH="1323"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="170 1708 170 1662 1491 1674 1491 1720 1489 1736 168 1724"/></Shape>
+	    <String CONTENT="شواهد ربوبیه وچند کتاب دییگر بکتابخانه مدرسه بی که در آن سکونت داشتم"
+                    HPOS="168"
+                    VPOS="1662"
+                    WIDTH="1323"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f32cae95"
+                    
+                    BASELINE="170 1782 1498 1793" 
+                    HPOS="168"
+                    VPOS="1736"
+                    WIDTH="1330"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="170 1782 170 1736 1498 1747 1498 1793 1496 1812 168 1800"/></Shape>
+	    <String CONTENT="حمدرسه مرحوم استادنا العظیم آیت الله حاج آقاحسین بروجردی - اعلی الله قدره فی"
+                    HPOS="168"
+                    VPOS="1736"
+                    WIDTH="1330"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be23b574"
+                    
+                    BASELINE="170 2014 1494 2026" 
+                    HPOS="168"
+                    VPOS="2003"
+                    WIDTH="1326"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="170 2014 170 2003 1494 2014 1494 2026 1491 2044 168 2033"/></Shape>
+	    <String CONTENT="               "
+                    HPOS="168"
+                    VPOS="2003"
+                    WIDTH="1326"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69ef9af6"
+                    
+                    BASELINE="163 2088 1139 2106 1496 2099" 
+                    HPOS="161"
+                    VPOS="2040"
+                    WIDTH="1335"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="163 2088 163 2040 1137 2058 1494 2051 1496 2099 1496 2120 1139 2127 1137 2127 161 2109"/></Shape>
+	    <String CONTENT="استاد خودشان مرحوم آقامیرزا هاشم گیلانی دراین باب مباحثات و مناقشات زباد"
+                    HPOS="161"
+                    VPOS="2040"
+                    WIDTH="1335"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ae1ace4"
+                    
+                    BASELINE="170 1856 1491 1867" 
+                    HPOS="168"
+                    VPOS="1812"
+                    WIDTH="1323"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="170 1856 170 1812 1491 1823 1491 1867 1489 1885 168 1874"/></Shape>
+	    <String CONTENT="النشئآت العفلبية والمثالية ورفع شأنه فی الدرجات العلميه والعملية - تقديم كردم ،"
+                    HPOS="168"
+                    VPOS="1812"
+                    WIDTH="1323"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66dd0565"
+                    
+                    BASELINE="170 1938 1489 1950" 
+                    HPOS="168"
+                    VPOS="1892"
+                    WIDTH="1321"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="170 1938 170 1892 1489 1904 1489 1950 1487 1966 168 1954"/></Shape>
+	    <String CONTENT="لذا از مطالب آن کتاب درزمینهٔ ملائکهٔ مهیمه چیزی بیاد ندارم همین اندازه میدانم"
+                    HPOS="168"
+                    VPOS="1892"
+                    WIDTH="1321"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d9a3f48"
+                    
+                    BASELINE="1310 2180 1496 2175" 
+                    HPOS="1307"
+                    VPOS="2134"
+                    WIDTH="189"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1310 2180 1307 2139 1494 2134 1496 2175 1496 2189 1310 2194"/></Shape>
+	    <String CONTENT="داشته اند ."
+                    HPOS="1307"
+                    VPOS="2134"
+                    WIDTH="189"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05bd40df"
+                    
+                    BASELINE="168 2290 1418 2290" 
+                    HPOS="168"
+                    VPOS="2244"
+                    WIDTH="1250"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="168 2290 168 2244 1418 2244 1418 2290 1418 2306 168 2306"/></Shape>
+	    <String CONTENT="حقیر باابنکه بیشتر ازهمه کس مورد عنابات مرحوم آقا میرزا مهدی بودم ،"
+                    HPOS="168"
+                    VPOS="2244"
+                    WIDTH="1250"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_463ce7d6"
+                    
+                    BASELINE="168 2355 1498 2371" 
+                    HPOS="165"
+                    VPOS="2302"
+                    WIDTH="1333"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="168 2355 168 2302 1498 2318 1498 2371 1496 2385 165 2369"/></Shape>
+	    <String CONTENT="پدرس ایشان غیر ازچند مجلس آنهم زمانی که بنده خیلی مبتدی بودم حاضر نشدم"
+                    HPOS="165"
+                    VPOS="2302"
+                    WIDTH="1333"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

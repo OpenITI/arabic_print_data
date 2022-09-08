@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>tabib_tehrani_dir_al_sihhah.pdf_page_23.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1081" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1082" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1083" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1084" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1996"
+          HEIGHT="2726"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1996"
+                  HEIGHT="2726">
+        
+        <TextBlock HPOS="654"
+                   VPOS="2189"
+                   WIDTH="550"
+                   HEIGHT="125"
+                   ID="eSc_textblock_ffec5a62"
+                   TAGREFS="BT1084">
+          <Shape><Polygon POINTS="1159 2217 1204 2253 1195 2314 654 2314 691 2226 963 2189"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8127c6d8"
+                    
+                    BASELINE="672 2278 1157 2289" 
+                    HPOS="670"
+                    VPOS="2187"
+                    WIDTH="487"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="672 2278 672 2187 1157 2198 1157 2289 1154 2303 670 2292"/></Shape>
+	    <String CONTENT="حکس یک صفحه از نسخةٔ (ج)"
+                    HPOS="670"
+                    VPOS="2187"
+                    WIDTH="487"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="358"
+                   VPOS="364"
+                   WIDTH="1288"
+                   HEIGHT="1776"
+                   ID="eSc_textblock_ed657f54"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="358 364 358 2140 1646 2140 1642 364"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

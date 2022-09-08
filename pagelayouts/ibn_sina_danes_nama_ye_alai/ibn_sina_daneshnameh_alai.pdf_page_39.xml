@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ibn_sina_daneshnameh_alai.pdf_page_39.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1219" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1220" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1221" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1222" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1223" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1224" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1776"
+          HEIGHT="2382"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1776"
+                  HEIGHT="2382">
+        
+        <TextBlock HPOS="39"
+                   VPOS="1072"
+                   WIDTH="1342"
+                   HEIGHT="1021"
+                   ID="eSc_textblock_2654356e"
+                   TAGREFS="BT1223">
+          <Shape><Polygon POINTS="1381 2093 1381 1072 39 1072 39 2093"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="74"
+                   VPOS="199"
+                   WIDTH="1354"
+                   HEIGHT="879"
+                   ID="eSc_textblock_eda493b9"
+                   TAGREFS="BT1219">
+          <Shape><Polygon POINTS="74 199 74 1078 1428 1078 1428 199"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="425"
+                   VPOS="107"
+                   WIDTH="602"
+                   HEIGHT="68"
+                   ID="eSc_textblock_c5bc1ae9"
+                   TAGREFS="BT1220">
+          <Shape><Polygon POINTS="425 107 425 175 1027 175 1027 107"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="644"
+                   VPOS="2135"
+                   WIDTH="69"
+                   HEIGHT="65"
+                   ID="eSc_textblock_2f6e14d4"
+                   TAGREFS="BT1222">
+          <Shape><Polygon POINTS="644 2135 644 2200 713 2200 713 2135"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_f243bca2"
+                    
+                    BASELINE="425 160 1011 152" 
+                    HPOS="423"
+                    VPOS="111"
+                    WIDTH="588"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="425 160 423 119 1009 111 1011 152 1011 168 425 176"/></Shape>
+	    <String CONTENT="دانشنامهٔ علاثی - بخش دوم - علم الهی"
+                    HPOS="423"
+                    VPOS="111"
+                    WIDTH="588"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0dc38d5e"
+                    
+                    BASELINE="87 242 458 260 1360 252" 
+                    HPOS="85"
+                    VPOS="182"
+                    WIDTH="1275"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="87 242 89 182 458 200 1358 192 1360 252 1360 275 458 283 456 283 85 265"/></Shape>
+	    <String CONTENT="ولیکن (1)ا تشویش اندروی (2) بیشتراست و موضوع این علم جسم محسوس است"
+                    HPOS="85"
+                    VPOS="182"
+                    WIDTH="1275"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2aea6646"
+                    
+                    BASELINE="89 333 488 349 1354 341" 
+                    HPOS="87"
+                    VPOS="273"
+                    WIDTH="1267"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="89 333 91 273 488 289 1352 281 1354 341 1354 359 488 367 486 367 87 351"/></Shape>
+	    <String CONTENT="از آن جهت که اندر جنبش افتد واندر گردش1، و ورا(3) پارهها و کنارها"
+                    HPOS="87"
+                    VPOS="273"
+                    WIDTH="1267"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2902db44"
+                    
+                    BASELINE="87 430 1354 434" 
+                    HPOS="85"
+                    VPOS="381"
+                    WIDTH="1269"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="87 430 87 381 1354 385 1354 434 1352 454 85 450"/></Shape>
+	    <String CONTENT="بسیار است، ودیگرم2(4) علم ریاضی است واندر وی تشویش و اختلاف کم"
+                    HPOS="85"
+                    VPOS="381"
+                    WIDTH="1269"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e675732"
+                    
+                    BASELINE="83 518 381 528 1350 520" 
+                    HPOS="81"
+                    VPOS="468"
+                    WIDTH="1269"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="83 518 83 468 381 478 1348 470 1350 520 1350 541 381 549 379 549 81 539"/></Shape>
+	    <String CONTENT="افتد، زیرا که از جنبش و گردش دوراست وموضوع وی چون بجمله گیری"
+                    HPOS="81"
+                    VPOS="468"
+                    WIDTH="1269"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60e32252"
+                    
+                    BASELINE="81 603 719 619 1392 607" 
+                    HPOS="79"
+                    VPOS="553"
+                    WIDTH="1313"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="81 603 81 553 719 569 1390 557 1392 607 1392 629 719 641 717 641 79 625"/></Shape>
+	    <String CONTENT="&quot;چندی&quot; است وچون بتفصیل کگیری &quot;اندازه وشمار&quot; است ، وعلم هندسه"
+                    HPOS="79"
+                    VPOS="553"
+                    WIDTH="1313"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0c04121"
+                    
+                    BASELINE="79 696 266 694 504 706 1342 698" 
+                    HPOS="77"
+                    VPOS="637"
+                    WIDTH="1265"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="79 696 77 639 264 637 268 637 313 641 504 649 1340 641 1342 698 1342 728 504 736 502 736 311 726 264 724 79 726"/></Shape>
+	    <String CONTENT="و علم حساب وعلم هيأت عالم و علم موسيقى وعلم مناظر3 (5) و علم"
+                    HPOS="77"
+                    VPOS="637"
+                    WIDTH="1265"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0b84382"
+                    
+                    BASELINE="79 782 508 799 1340 786" 
+                    HPOS="77"
+                    VPOS="724"
+                    WIDTH="1263"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="79 782 81 724 508 742 1338 728 1340 786 1340 809 508 823 506 823 77 805"/></Shape>
+	    <String CONTENT="اثقال4 (6) وعلم اكر متحرك* وعلم حيل6 وهرچه بدین ماند از اوست."
+                    HPOS="77"
+                    VPOS="724"
+                    WIDTH="1263"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07221245"
+                    
+                    BASELINE="75 879 1076 889 1265 879" 
+                    HPOS="73"
+                    VPOS="829"
+                    WIDTH="1192"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="75 879 75 829 1074 839 1261 831 1265 879 1265 899 1076 909 1074 909 73 899"/></Shape>
+	    <String CONTENT="و اما علم برین، موضوع وی نه چیزیست جزئی بلکه هستی مطلق"
+                    HPOS="73"
+                    VPOS="829"
+                    WIDTH="1192"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de63272c"
+                    
+                    BASELINE="75 970 1334 970" 
+                    HPOS="75"
+                    VPOS="925"
+                    WIDTH="1259"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="75 970 75 925 1334 925 1334 970 1334 990 75 990"/></Shape>
+	    <String CONTENT="است از آن جهت که وی مطلق است ، ومحمولات مسائل وی آن حالها"
+                    HPOS="75"
+                    VPOS="925"
+                    WIDTH="1259"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38f04887"
+                    
+                    BASELINE="71 1052 1064 1056 1412 1046" 
+                    HPOS="69"
+                    VPOS="990"
+                    WIDTH="1343"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="71 1052 71 996 1062 1000 1410 990 1412 1046 1412 1063 1064 1073 1062 1073 69 1069"/></Shape>
+	    <String CONTENT="1 است که هستی را از قبل خود است و ورا ذاتی است، چنانکه اندر آموزش"
+                    HPOS="69"
+                    VPOS="990"
+                    WIDTH="1343"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b211dd64"
+                    
+                    BASELINE="85 1147 1307 1153" 
+                    HPOS="83"
+                    VPOS="1105"
+                    WIDTH="1224"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="85 1147 85 1105 1307 1111 1307 1153 1305 1169 83 1163"/></Shape>
+	    <String CONTENT="(1) رك : ح (4) صفحهٔ قبل . (2) مل : - وی . (3) مج ، مك 1 : و او را ."
+                    HPOS="83"
+                    VPOS="1105"
+                    WIDTH="1224"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_267de2a7"
+                    
+                    BASELINE="464 1212 1307 1216" 
+                    HPOS="462"
+                    VPOS="1169"
+                    WIDTH="845"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="464 1212 464 1169 1307 1173 1307 1216 1305 1234 462 1230"/></Shape>
+	    <String CONTENT="(4) چنين است درق ومل ، و در دیگر نسخ : دیگر."
+                    HPOS="462"
+                    VPOS="1169"
+                    WIDTH="845"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_598a2ec6"
+                    
+                    BASELINE="79 1204 450 1212" 
+                    HPOS="77"
+                    VPOS="1167"
+                    WIDTH="373"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="79 1204 79 1167 450 1175 450 1212 448 1236 77 1228"/></Shape>
+	    <String CONTENT="(5) مج ، مك 2، تم :"
+                    HPOS="77"
+                    VPOS="1167"
+                    WIDTH="373"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22948099"
+                    
+                    BASELINE="874 1274 1313 1268" 
+                    HPOS="872"
+                    VPOS="1228"
+                    WIDTH="441"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="874 1274 872 1234 1311 1228 1313 1268 1313 1286 874 1292"/></Shape>
+	    <String CONTENT="مناظره . (6) طم : انتقال ."
+                    HPOS="872"
+                    VPOS="1228"
+                    WIDTH="441"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f3fa1e6"
+                    
+                    BASELINE="79 1367 1301 1355" 
+                    HPOS="77"
+                    VPOS="1310"
+                    WIDTH="1224"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="79 1367 77 1322 1299 1310 1301 1355 1301 1371 79 1383"/></Shape>
+	    <String CONTENT="1- تغيير ، استحاله ، انقلاب (خ). 2- از : دیگر * ام (مزید مؤخر عدد ترتیبی"
+                    HPOS="77"
+                    VPOS="1310"
+                    WIDTH="1224"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2a96aaa"
+                    
+                    BASELINE="83 1425 1303 1425" 
+                    HPOS="83"
+                    VPOS="1387"
+                    WIDTH="1220"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="83 1425 83 1387 1303 1387 1303 1425 1303 1445 83 1445"/></Shape>
+	    <String CONTENT="همچون دوم ، سوم ..) (از افادات علامه دهخدا) . 2- جمع منظر ، جای نظر ، چشم."
+                    HPOS="83"
+                    VPOS="1387"
+                    WIDTH="1220"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8afbf6b1"
+                    
+                    BASELINE="79 1498 1299 1488" 
+                    HPOS="77"
+                    VPOS="1443"
+                    WIDTH="1222"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="79 1498 77 1453 1297 1443 1299 1488 1299 1506 79 1516"/></Shape>
+	    <String CONTENT="(غيات اللغات) : علم مناظر ، دانشی است که بدان کیفیت مقدار اشیاء بسبب نزدیکی و"
+                    HPOS="77"
+                    VPOS="1443"
+                    WIDTH="1222"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3afb7e3f"
+                    
+                    BASELINE="77 1562 1303 1554" 
+                    HPOS="75"
+                    VPOS="1510"
+                    WIDTH="1228"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="77 1562 75 1518 1301 1510 1303 1554 1303 1570 77 1578"/></Shape>
+	    <String CONTENT="دوری آنها از نظر بیننده شناخته شود . (اقرب الموارد). علم مناظر ، عبارتست از علمی"
+                    HPOS="75"
+                    VPOS="1510"
+                    WIDTH="1228"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a34b7881"
+                    
+                    BASELINE="77 1625 1291 1617" 
+                    HPOS="75"
+                    VPOS="1576"
+                    WIDTH="1216"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="77 1625 75 1584 1289 1576 1291 1617 1291 1635 77 1643"/></Shape>
+	    <String CONTENT="که از اواحوال حاسهٔ بصرازجهت کیفیت شعور او بمحسوسات او، معلوم کنند . (نفایس"
+                    HPOS="75"
+                    VPOS="1576"
+                    WIDTH="1216"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5525fba4"
+                    
+                    BASELINE="75 1687 538 1695 1176 1691 1291 1681" 
+                    HPOS="73"
+                    VPOS="1631"
+                    WIDTH="1218"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="75 1687 75 1637 538 1645 1172 1641 1285 1631 1291 1681 1291 1701 1176 1711 1176 1711 538 1715 536 1715 73 1707"/></Shape>
+	    <String CONTENT="لفنون ج 2ص170).4 - جمع ثقل (بفتح اول ودوم) وجمع تقل (بكسر اول) بار"
+                    HPOS="73"
+                    VPOS="1631"
+                    WIDTH="1218"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_483d2a24"
+                    
+                    BASELINE="75 1754 1297 1748" 
+                    HPOS="73"
+                    VPOS="1705"
+                    WIDTH="1224"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="75 1754 73 1711 1295 1705 1297 1748 1297 1764 75 1770"/></Shape>
+	    <String CONTENT="های گران ، گرانيها ، بارها ، اسباب ، امتعه (لغت نامهٔ دهخدا) ؛ علم اثقال ، علم جر"
+                    HPOS="73"
+                    VPOS="1705"
+                    WIDTH="1224"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6795acb7"
+                    
+                    BASELINE="929 1820 1297 1812" 
+                    HPOS="927"
+                    VPOS="1770"
+                    WIDTH="370"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="929 1820 927 1778 1295 1770 1297 1812 1297 1832 929 1840"/></Shape>
+	    <String CONTENT="اثقال . (درة التاج بخش"
+                    HPOS="927"
+                    VPOS="1770"
+                    WIDTH="370"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19ebbbb7"
+                    
+                    BASELINE="623 1820 858 1820" 
+                    HPOS="623"
+                    VPOS="1782"
+                    WIDTH="235"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="623 1820 623 1782 858 1782 858 1820 858 1836 623 1836"/></Shape>
+	    <String CONTENT="جاص 74)"
+                    HPOS="623"
+                    VPOS="1782"
+                    WIDTH="235"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f53f860"
+                    
+                    BASELINE="73 1824 586 1818" 
+                    HPOS="71"
+                    VPOS="1768"
+                    WIDTH="515"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="73 1824 71 1774 584 1768 586 1818 586 1832 73 1838"/></Shape>
+	    <String CONTENT="5 - اكر (بضم اول و فتح دوم)"
+                    HPOS="71"
+                    VPOS="1768"
+                    WIDTH="515"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19f29839"
+                    
+                    BASELINE="75 1885 1295 1885" 
+                    HPOS="75"
+                    VPOS="1840"
+                    WIDTH="1220"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="75 1885 75 1840 1295 1840 1295 1885 1295 1903 75 1903"/></Shape>
+	    <String CONTENT="جمع كره ، علم اكر بردوقسم است : اكر متحرك و اكر ساکن (خ) ورك : درة التاج"
+                    HPOS="75"
+                    VPOS="1840"
+                    WIDTH="1220"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e5dcd48"
+                    
+                    BASELINE="75 1947 1285 1949" 
+                    HPOS="73"
+                    VPOS="1909"
+                    WIDTH="1212"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="75 1947 75 1909 1285 1911 1285 1949 1283 1967 73 1965"/></Shape>
+	    <String CONTENT="خش اج1 ص 6.57- جمع حيله بالکسر، حذاقت وجودت نظروقدرت بر تصرف"
+                    HPOS="73"
+                    VPOS="1909"
+                    WIDTH="1212"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17459a10"
+                    
+                    BASELINE="75 2016 1287 2012" 
+                    HPOS="73"
+                    VPOS="1971"
+                    WIDTH="1214"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="75 2016 73 1975 1285 1971 1287 2012 1287 2030 75 2034"/></Shape>
+	    <String CONTENT="(منتهی الارب): علم حيل عبارتست از معرفت اصولى که بدان براظهار امور غریبه"
+                    HPOS="73"
+                    VPOS="1971"
+                    WIDTH="1214"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2dd1958c"
+                    
+                    BASELINE="383 2076 770 2082 1287 2074" 
+                    HPOS="381"
+                    VPOS="2028"
+                    WIDTH="906"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="383 2076 383 2030 770 2036 1285 2028 1287 2074 1287 2094 770 2102 768 2102 381 2096"/></Shape>
+	    <String CONTENT="از حركات وآلات قادرباشند.. (نفايس الفنون ج 2 ص 209)"
+                    HPOS="381"
+                    VPOS="2028"
+                    WIDTH="906"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

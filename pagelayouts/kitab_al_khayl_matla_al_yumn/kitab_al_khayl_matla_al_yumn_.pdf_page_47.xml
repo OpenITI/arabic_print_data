@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_al_khayl_matla_al_yumn_.pdf_page_47.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT969" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT970" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT971" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT972" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT973" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    <OtherTag ID="LT49" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1880"
+          HEIGHT="2908"
+          PHYSICAL_IMG_NR="46"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1880"
+                  HEIGHT="2908">
+        
+        <TextBlock HPOS="116"
+                   VPOS="252"
+                   WIDTH="1628"
+                   HEIGHT="2450"
+                   ID="eSc_textblock_1439c857"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1705 281 1744 407 1744 2702 139 2702 116 2585 126 387 145 271 194 252"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_70a06423"
+                    
+                    BASELINE="177 348 1671 339" 
+                    HPOS="174"
+                    VPOS="283"
+                    WIDTH="1497"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="177 348 174 293 1668 283 1671 339 1671 358 177 368"/></Shape>
+	    <String CONTENT="المتخذة للركوب خاصة، والرمكة هى الأنثى المتخذة للنسل وقد تركب ."
+                    HPOS="174"
+                    VPOS="283"
+                    WIDTH="1497"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02abde88"
+                    
+                    BASELINE="143 465 1062 479 1557 470" 
+                    HPOS="140"
+                    VPOS="409"
+                    WIDTH="1417"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="143 465 143 409 1060 424 1554 414 1557 470 1557 494 1062 504 1060 504 140 489"/></Shape>
+	    <String CONTENT="ونظير لفظ الفرس في كونه يغم المذكر والمؤنث ، والمذكر له لفظ"
+                    HPOS="140"
+                    VPOS="409"
+                    WIDTH="1417"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e696e54c"
+                    
+                    BASELINE="140 569 1678 569" 
+                    HPOS="140"
+                    VPOS="518"
+                    WIDTH="1538"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="140 569 140 518 1678 518 1678 569 1678 586 140 586"/></Shape>
+	    <String CONTENT="خصه، والمؤنث له لفظ يخصه، كما ذكرنا، نظيز ذلك لفظ البعير : فإنه"
+                    HPOS="140"
+                    VPOS="518"
+                    WIDTH="1538"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bb74659"
+                    
+                    BASELINE="147 663 1016 676 1678 663" 
+                    HPOS="145"
+                    VPOS="603"
+                    WIDTH="1533"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="147 663 147 603 1013 615 1676 603 1678 663 1678 683 1016 695 1013 695 145 683"/></Shape>
+	    <String CONTENT="لفظ يغم المذكر والمؤنث من الإبل ، فإن أردت المذكر خصوصا قلت :"
+                    HPOS="145"
+                    VPOS="603"
+                    WIDTH="1533"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20acb6f0"
+                    
+                    BASELINE="143 763 1678 770" 
+                    HPOS="140"
+                    VPOS="710"
+                    WIDTH="1538"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="143 763 143 710 1678 717 1678 770 1676 785 140 777"/></Shape>
+	    <String CONTENT="جمل، وإن آردت المؤنث خصوصا، قلت : ناقة ؛ وكذلك لفظ الانسان"
+                    HPOS="140"
+                    VPOS="710"
+                    WIDTH="1538"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_448d02f8"
+                    
+                    BASELINE="145 862 572 872 834 862 1685 862" 
+                    HPOS="143"
+                    VPOS="804"
+                    WIDTH="1542"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="145 862 145 804 570 814 832 804 832 804 834 804 1685 804 1685 862 1685 882 834 882 572 889 570 889 143 879"/></Shape>
+	    <String CONTENT="يعم المذكر والمؤنث، فإن أردت المذكر خصوصا قلت : رجل ، وإن أردت"
+                    HPOS="143"
+                    VPOS="804"
+                    WIDTH="1542"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f369be18"
+                    
+                    BASELINE="989 957 1685 957" 
+                    HPOS="989"
+                    VPOS="911"
+                    WIDTH="696"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="989 957 989 911 1685 911 1685 957 1685 979 989 979"/></Shape>
+	    <String CONTENT="المؤنث خصوصا، قلت : امرأة"
+                    HPOS="989"
+                    VPOS="911"
+                    WIDTH="696"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b24625a3"
+                    
+                    BASELINE="140 1095 1559 1085" 
+                    HPOS="138"
+                    VPOS="1029"
+                    WIDTH="1421"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="140 1095 138 1039 1557 1029 1559 1085 1559 1109 140 1119"/></Shape>
+	    <String CONTENT="وأما لفظ الدابة فإنه اسم يقع على كل ماش على الأرض من إنسان أو"
+                    HPOS="138"
+                    VPOS="1029"
+                    WIDTH="1421"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b00686de"
+                    
+                    BASELINE="152 1194 1693 1194" 
+                    HPOS="152"
+                    VPOS="1131"
+                    WIDTH="1541"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="152 1194 152 1131 1693 1131 1693 1194 1693 1209 152 1209"/></Shape>
+	    <String CONTENT=" بهيمة وقوعا عاما في أصل اللغة، لكن كثر استعماله في العرف واقعا على"
+                    HPOS="152"
+                    VPOS="1131"
+                    WIDTH="1541"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25416f12"
+                    
+                    BASELINE="543 1291 1683 1281" 
+                    HPOS="540"
+                    VPOS="1231"
+                    WIDTH="1143"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="543 1291 540 1240 1681 1231 1683 1281 1683 1301 543 1311"/></Shape>
+	    <String CONTENT="المركوبات من الخيل والبغال والحمير على الخصوص ."
+                    HPOS="540"
+                    VPOS="1231"
+                    WIDTH="1143"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad34f0c8"
+                    
+                    BASELINE="162 1412 1562 1417" 
+                    HPOS="160"
+                    VPOS="1354"
+                    WIDTH="1402"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="162 1412 162 1354 1562 1359 1562 1417 1559 1437 160 1432"/></Shape>
+	    <String CONTENT="والدليل على وقوع الدابة على كل ماش في أصل اللغة قوله تعالى :"
+                    HPOS="160"
+                    VPOS="1354"
+                    WIDTH="1402"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0fdf136f"
+                    
+                    BASELINE="150 1521 1688 1514" 
+                    HPOS="147"
+                    VPOS="1461"
+                    WIDTH="1541"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="150 1521 147 1468 1685 1461 1688 1514 1688 1529 150 1536"/></Shape>
+	    <String CONTENT="والله خلق كل دابة من ماء فمنهم من يمشى على بطنه، ومنهم من"
+                    HPOS="147"
+                    VPOS="1461"
+                    WIDTH="1541"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6be12147"
+                    
+                    BASELINE="152 1604 781 1618 1695 1613" 
+                    HPOS="150"
+                    VPOS="1548"
+                    WIDTH="1545"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="152 1604 152 1548 781 1563 1693 1558 1695 1613 1695 1633 781 1638 778 1638 150 1623"/></Shape>
+	    <String CONTENT="يمشى على رجلين، ومنهم من يمشي على أربع} فأوقع - سبحانه - لفظ"
+                    HPOS="150"
+                    VPOS="1548"
+                    WIDTH="1545"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f11c7a11"
+                    
+                    BASELINE="160 1718 366 1708 1695 1701" 
+                    HPOS="157"
+                    VPOS="1647"
+                    WIDTH="1538"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="160 1718 157 1664 363 1655 363 1655 1693 1647 1695 1701 1695 1722 366 1730 160 1739"/></Shape>
+	    <String CONTENT="الدابة على ما يمشى على بطنه كالحيات وشبهها، وعلى الماشي على"
+                    HPOS="157"
+                    VPOS="1647"
+                    WIDTH="1538"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1240e715"
+                    
+                    BASELINE="167 1802 1695 1817" 
+                    HPOS="164"
+                    VPOS="1749"
+                    WIDTH="1531"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="167 1802 167 1749 1695 1764 1695 1817 1693 1836 164 1822"/></Shape>
+	    <String CONTENT="رجلين من الإنسان وعلى الماضي على أربع من المركوبات وبهائم الأنعام ."
+                    HPOS="164"
+                    VPOS="1749"
+                    WIDTH="1531"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cbdcf15"
+                    
+                    BASELINE="152 1933 1567 1933" 
+                    HPOS="152"
+                    VPOS="1882"
+                    WIDTH="1415"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="152 1933 152 1882 1567 1882 1567 1933 1567 1955 152 1955"/></Shape>
+	    <String CONTENT="تبيه نبيه : أقول : لسائل أن يسأل في هذه الاية المذكورة فيقول : ما"
+                    HPOS="152"
+                    VPOS="1882"
+                    WIDTH="1415"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7421f1e4"
+                    
+                    BASELINE="152 2028 1698 2023" 
+                    HPOS="150"
+                    VPOS="1975"
+                    WIDTH="1548"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="152 2028 150 1979 1695 1975 1698 2023 1698 2047 152 2052"/></Shape>
+	    <String CONTENT="الحكمة في أن قدم الله - سبحانه - في الذكر الماشى على بطنه كالحيات"
+                    HPOS="150"
+                    VPOS="1975"
+                    WIDTH="1548"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4acb3c0"
+                    
+                    BASELINE="164 2125 419 2137 1698 2139" 
+                    HPOS="162"
+                    VPOS="2064"
+                    WIDTH="1536"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="164 2125 167 2064 419 2076 1698 2079 1698 2139 1695 2164 417 2161 417 2161 162 2149"/></Shape>
+	    <String CONTENT="وشبهها على الماشي على رجلين مع كون الماشي على رجلين له المزية"
+                    HPOS="162"
+                    VPOS="2064"
+                    WIDTH="1536"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e64195d1"
+                    
+                    BASELINE="1001 2224 1700 2231" 
+                    HPOS="999"
+                    VPOS="2171"
+                    WIDTH="701"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1001 2224 1001 2171 1700 2178 1700 2231 1698 2253 999 2246"/></Shape>
+	    <String CONTENT="والشرف على الماشى على بطنه ."
+                    HPOS="999"
+                    VPOS="2171"
+                    WIDTH="701"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c17e03c6"
+                    
+                    BASELINE="162 2384 1569 2377" 
+                    HPOS="160"
+                    VPOS="2316"
+                    WIDTH="1409"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="162 2384 160 2323 1567 2316 1569 2377 1569 2391 162 2399"/></Shape>
+	    <String CONTENT="الجوات عن ذلك أن الآية مسوقة للدلالة على كمال قدرة الله - عز"
+                    HPOS="160"
+                    VPOS="2316"
+                    WIDTH="1409"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03e9be2e"
+                    
+                    BASELINE="164 2493 671 2481 1707 2481" 
+                    HPOS="162"
+                    VPOS="2418"
+                    WIDTH="1545"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="164 2493 162 2430 669 2418 671 2418 1707 2418 1707 2481 1707 2503 671 2503 164 2512"/></Shape>
+	    <String CONTENT="وجل - وإحاطتها ؛ ولا شك أن الماشي على بطنه من غير استعانة برجلين"
+                    HPOS="162"
+                    VPOS="2418"
+                    WIDTH="1545"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e14a03ce"
+                    
+                    BASELINE="167 2580 1707 2576" 
+                    HPOS="164"
+                    VPOS="2515"
+                    WIDTH="1543"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="167 2580 164 2520 1705 2515 1707 2576 1707 2595 167 2600"/></Shape>
+	    <String CONTENT="ولا بأربع أعجب في باب القدرة وأكمل في شأن الدلالة، فقدم فى الذكر"
+                    HPOS="164"
+                    VPOS="2515"
+                    WIDTH="1543"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a03b3739"
+                    
+                    BASELINE="616 2677 1705 2672" 
+                    HPOS="613"
+                    VPOS="2622"
+                    WIDTH="1092"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="616 2677 613 2626 1702 2622 1705 2672 1705 2692 616 2697"/></Shape>
+	    <String CONTENT="القوته في الاستدلال وظهور القدرة فيه على الكمال ."
+                    HPOS="613"
+                    VPOS="2622"
+                    WIDTH="1092"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="891"
+                   VPOS="2730"
+                   WIDTH="103"
+                   HEIGHT="94"
+                   ID="eSc_textblock_5b5937fd"
+                   TAGREFS="BT972">
+          <Shape><Polygon POINTS="994 2730 994 2824 891 2824 891 2730"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ecd0eea1"
+                    
+                    BASELINE="897 2798 970 2794" 
+                    HPOS="892"
+                    VPOS="2745"
+                    WIDTH="78"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="897 2798 892 2750 965 2745 970 2794 970 2808 897 2813"/></Shape>
+	    <String CONTENT="45"
+                    HPOS="892"
+                    VPOS="2745"
+                    WIDTH="78"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

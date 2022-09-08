@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>DUPLICATE_kitab_fadl_al_khayl_wa_ajnasiha.pdf_page_19.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT965" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT966" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT967" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT968" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT48" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1786"
+          HEIGHT="2732"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1786"
+                  HEIGHT="2732">
+        
+        <TextBlock HPOS="255"
+                   VPOS="327"
+                   WIDTH="1401"
+                   HEIGHT="2211"
+                   ID="eSc_textblock_fb5f1736"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1619 327 1656 373 1628 1101 1656 2447 1610 2538 264 2520 255 346 282 327"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_af78146f"
+                    
+                    BASELINE="273 389 1006 409 1583 402" 
+                    HPOS="271"
+                    VPOS="321"
+                    WIDTH="1312"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="273 389 273 321 1006 341 1580 334 1583 402 1583 428 1006 434 1004 434 271 414"/></Shape>
+	    <String CONTENT="اوردهاوشرح فیها کثیر آمن الغریب الواردفي کتابه علمناذلك من التعلیقة ااقالتة"
+                    HPOS="271"
+                    VPOS="321"
+                    WIDTH="1312"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb004682"
+                    
+                    BASELINE="282 523 674 509 1405 519 1583 507" 
+                    HPOS="280"
+                    VPOS="441"
+                    WIDTH="1303"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="282 523 280 457 672 443 674 443 1034 448 1403 453 1578 441 1583 507 1583 532 1405 544 1403 544 1029 539 674 535 282 548"/></Shape>
+	    <String CONTENT="حيث قال فيها قال شيخنا الحافظ المنذرى والحافظ المنذري هو من شهوح"
+                    HPOS="280"
+                    VPOS="441"
+                    WIDTH="1303"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ef11ccf"
+                    
+                    BASELINE="284 623 1592 614" 
+                    HPOS="282"
+                    VPOS="546"
+                    WIDTH="1310"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="284 623 282 555 1590 546 1592 614 1592 637 284 646"/></Shape>
+	    <String CONTENT="الصنف وقد لازمه سنین فی مصر کماسیأتي فی ترجمته واشتمل الکناب علی"
+                    HPOS="282"
+                    VPOS="546"
+                    WIDTH="1310"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5618ed7a"
+                    
+                    BASELINE="1330 723 1583 728" 
+                    HPOS="1328"
+                    VPOS="657"
+                    WIDTH="255"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1330 723 1330 657 1583 662 1583 728 1580 758 1328 753"/></Shape>
+	    <String CONTENT="ثمانية ابواب"
+                    HPOS="1328"
+                    VPOS="657"
+                    WIDTH="255"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c1695a5"
+                    
+                    BASELINE="280 837 1592 833" 
+                    HPOS="277"
+                    VPOS="769"
+                    WIDTH="1315"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="280 837 277 774 1590 769 1592 833 1592 862 280 867"/></Shape>
+	    <String CONTENT="الباب الأول فی فضل الخيل المتخذة للجهاد فی سبيل الله وما جاء فی مسح"
+                    HPOS="277"
+                    VPOS="769"
+                    WIDTH="1315"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3357e18c"
+                    
+                    BASELINE="842 947 1592 947" 
+                    HPOS="842"
+                    VPOS="883"
+                    WIDTH="750"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="842 947 842 883 1592 883 1592 947 1592 967 842 967"/></Shape>
+	    <String CONTENT="اواصيها وبر كتها والنفقة عليها وخدمتها"
+                    HPOS="842"
+                    VPOS="883"
+                    WIDTH="750"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9677c167"
+                    
+                    BASELINE="277 1051 669 1063 1590 1049" 
+                    HPOS="275"
+                    VPOS="983"
+                    WIDTH="1315"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="277 1051 277 985 669 997 1587 983 1590 1049 1590 1074 669 1088 667 1088 275 1076"/></Shape>
+	    <String CONTENT="الباب الثاني فی التماس نسلها وثمائها وخصائها وجز نواصيها وادنابها"
+                    HPOS="275"
+                    VPOS="983"
+                    WIDTH="1315"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5548ba7a"
+                    
+                    BASELINE="1243 1161 1585 1165" 
+                    HPOS="1241"
+                    VPOS="1101"
+                    WIDTH="344"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1243 1161 1243 1101 1585 1106 1585 1165 1583 1186 1241 1181"/></Shape>
+	    <String CONTENT="واذالتها وتعذيبها:"
+                    HPOS="1241"
+                    VPOS="1101"
+                    WIDTH="344"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb947350"
+                    
+                    BASELINE="455 1270 1334 1274 1594 1263" 
+                    HPOS="453"
+                    VPOS="1195"
+                    WIDTH="1141"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="455 1270 455 1202 1332 1206 1590 1195 1594 1263 1594 1290 1334 1302 1332 1302 453 1297"/></Shape>
+	    <String CONTENT="الباب الثالث في الامر بارتباطها وما يستحب من الوانها وشياتها"
+                    HPOS="453"
+                    VPOS="1195"
+                    WIDTH="1141"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6940d0bd"
+                    
+                    BASELINE="366 1386 1590 1377" 
+                    HPOS="364"
+                    VPOS="1313"
+                    WIDTH="1226"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="366 1386 364 1322 1587 1313 1590 1377 1590 1406 366 1416"/></Shape>
+	    <String CONTENT="الباب الرابع في كراهة شؤمها وشكلهاوما يذم من عصمها ور جلها"
+                    HPOS="364"
+                    VPOS="1313"
+                    WIDTH="1226"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b71b6f74"
+                    
+                    BASELINE="635 1491 975 1502 1590 1482" 
+                    HPOS="633"
+                    VPOS="1413"
+                    WIDTH="957"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="635 1491 635 1422 975 1434 1587 1413 1590 1482 1590 1511 975 1532 972 1532 633 1520"/></Shape>
+	    <String CONTENT="الباب الخامس في سباقها وما يحل او يحرم من اسبماقها"
+                    HPOS="633"
+                    VPOS="1413"
+                    WIDTH="957"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_254f7508"
+                    
+                    BASELINE="601 1595 1316 1602 1592 1591" 
+                    HPOS="599"
+                    VPOS="1527"
+                    WIDTH="993"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="601 1595 601 1532 1314 1539 1587 1527 1592 1591 1592 1620 1316 1632 1314 1632 599 1625"/></Shape>
+	    <String CONTENT="الباب السادس فيما يقسم لصاحبها في الغنائم من السهام"
+                    HPOS="599"
+                    VPOS="1527"
+                    WIDTH="993"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17619fea"
+                    
+                    BASELINE="940 1712 1587 1700" 
+                    HPOS="938"
+                    VPOS="1641"
+                    WIDTH="649"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="940 1712 938 1652 1585 1641 1587 1700 1587 1725 940 1737"/></Shape>
+	    <String CONTENT="الباب السابع في سقوط الزكاة فيها."
+                    HPOS="938"
+                    VPOS="1641"
+                    WIDTH="649"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a84f3bf2"
+                    
+                    BASELINE="273 1812 769 1823 1587 1809" 
+                    HPOS="271"
+                    VPOS="1741"
+                    WIDTH="1316"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="273 1812 273 1743 769 1755 1585 1741 1587 1809 1587 1839 769 1853 767 1853 271 1841"/></Shape>
+	    <String CONTENT="الباب الثامن فيما وقع الي من تسمية مراكب النبی ودوابه وتسمية"
+                    HPOS="271"
+                    VPOS="1741"
+                    WIDTH="1316"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1be07329"
+                    
+                    BASELINE="913 1921 1585 1921" 
+                    HPOS="913"
+                    VPOS="1866"
+                    WIDTH="672"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="913 1921 913 1866 1585 1866 1585 1921 1585 1948 913 1948"/></Shape>
+	    <String CONTENT="دواب من کان من اصحابه واحزابه."
+                    HPOS="913"
+                    VPOS="1866"
+                    WIDTH="672"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_243e3bc7"
+                    
+                    BASELINE="273 2030 1558 2026" 
+                    HPOS="271"
+                    VPOS="1967"
+                    WIDTH="1287"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="273 2030 271 1971 1555 1967 1558 2026 1558 2051 273 2055"/></Shape>
+	    <String CONTENT="ومن تصدى للتاليف في هذا الفن العلامة الشيخ محمد بن محمد بن محمد"
+                    HPOS="271"
+                    VPOS="1967"
+                    WIDTH="1287"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7d73a87"
+                    
+                    BASELINE="273 2140 1580 2133" 
+                    HPOS="271"
+                    VPOS="2076"
+                    WIDTH="1309"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="273 2140 271 2083 1578 2076 1580 2133 1580 2162 273 2169"/></Shape>
+	    <String CONTENT="البخشى الحلى المتوفی سنة &quot;هوا عثرت على مؤلفه فيه في مكتبة المدرسة"
+                    HPOS="271"
+                    VPOS="2076"
+                    WIDTH="1309"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a002941"
+                    
+                    BASELINE="273 2249 1585 2240" 
+                    HPOS="271"
+                    VPOS="2178"
+                    WIDTH="1314"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="273 2249 271 2187 1583 2178 1585 2240 1585 2263 273 2272"/></Shape>
+	    <String CONTENT="الاحمدية والنسخة جميلة الخط ومضبوطة غير انه لم يثبت عليها اسم الكتاب"
+                    HPOS="271"
+                    VPOS="2178"
+                    WIDTH="1314"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e06da69a"
+                    
+                    BASELINE="273 2358 1580 2354" 
+                    HPOS="271"
+                    VPOS="2292"
+                    WIDTH="1309"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="273 2358 271 2297 1578 2292 1580 2354 1580 2379 273 2383"/></Shape>
+	    <String CONTENT="ولم يذكر المؤلف في غطبته اسم كنابه وقد اهتدیت لأسمه وهو[رشحات"
+                    HPOS="271"
+                    VPOS="2292"
+                    WIDTH="1309"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5835f712"
+                    
+                    BASELINE="271 2467 1583 2458" 
+                    HPOS="268"
+                    VPOS="2397"
+                    WIDTH="1315"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="271 2467 268 2406 1580 2397 1583 2458 1583 2490 271 2499"/></Shape>
+	    <String CONTENT="المداد فيما يتعلق بالصافنات الجياد] مما كتبه العلامة المرحوم حمدتيمورباشا"
+                    HPOS="268"
+                    VPOS="2397"
+                    WIDTH="1315"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="810"
+                   VPOS="200"
+                   WIDTH="244"
+                   HEIGHT="107"
+                   ID="eSc_textblock_b03dfc0e"
+                   TAGREFS="BT967">
+          <Shape><Polygon POINTS="1045 209 1054 298 810 307 810 245 874 200"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5a79f7ae"
+                    
+                    BASELINE="826 275 1038 275" 
+                    HPOS="826"
+                    VPOS="214"
+                    WIDTH="212"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="826 275 826 214 1038 214 1038 275 1038 298 826 298"/></Shape>
+	    <String CONTENT="15"
+                    HPOS="826"
+                    VPOS="214"
+                    WIDTH="212"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>DUPLICATE_kitab_fadl_al_khayl_wa_ajnasiha.pdf_page_23.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT965" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT966" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT967" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT968" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT48" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1786"
+          HEIGHT="2732"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1786"
+                  HEIGHT="2732">
+        
+        <TextBlock HPOS="264"
+                   VPOS="327"
+                   WIDTH="1401"
+                   HEIGHT="2193"
+                   ID="eSc_textblock_48811229"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1619 327 1647 355 1665 2465 1628 2520 273 2511 264 400 328 336 583 327"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_320a9a46"
+                    
+                    BASELINE="1248 375 1565 382" 
+                    HPOS="1246"
+                    VPOS="325"
+                    WIDTH="319"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1248 375 1248 325 1565 332 1565 382 1562 400 1246 393"/></Shape>
+	    <String CONTENT="من لفظه لنفسه:"
+                    HPOS="1246"
+                    VPOS="325"
+                    WIDTH="319"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17d0acda"
+                    
+                    BASELINE="348 500 1273 491 1492 498" 
+                    HPOS="346"
+                    VPOS="423"
+                    WIDTH="1146"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="348 500 346 432 1271 423 1273 423 1492 430 1492 498 1489 525 1271 519 348 528"/></Shape>
+	    <String CONTENT="روينا بأسناد هن ابن مغفل * حديثاشهير أصح من علة القدح"
+                    HPOS="346"
+                    VPOS="423"
+                    WIDTH="1146"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a8adb3c"
+                    
+                    BASELINE="346 610 1503 601" 
+                    HPOS="343"
+                    VPOS="544"
+                    WIDTH="1160"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="346 610 343 553 1501 544 1503 601 1503 623 346 632"/></Shape>
+	    <String CONTENT="بان رسول الله حين مسيره * لثامنة وافته فی غروة الفتح"
+                    HPOS="343"
+                    VPOS="544"
+                    WIDTH="1160"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e5913c6"
+                    
+                    BASELINE="346 719 1113 719 1498 705" 
+                    HPOS="346"
+                    VPOS="642"
+                    WIDTH="1152"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="346 719 346 655 1111 655 1496 642 1498 705 1498 735 1113 749 1113 749 346 749"/></Shape>
+	    <String CONTENT="آلاخير مقرؤ على خير مرسل * فرجع فی الايات من سورة الفتح"
+                    HPOS="346"
+                    VPOS="642"
+                    WIDTH="1152"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c40c250"
+                    
+                    BASELINE="599 826 1501 810" 
+                    HPOS="596"
+                    VPOS="749"
+                    WIDTH="905"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="599 826 596 764 1498 749 1501 810 1501 830 599 846"/></Shape>
+	    <String CONTENT="وترحمه العلامة ابن شاكر في فوات الوفيات فقال"
+                    HPOS="596"
+                    VPOS="749"
+                    WIDTH="905"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e9ab049"
+                    
+                    BASELINE="273 928 1585 917" 
+                    HPOS="271"
+                    VPOS="856"
+                    WIDTH="1314"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="273 928 271 867 1583 856 1585 917 1585 949 273 960"/></Shape>
+	    <String CONTENT="الشيخ الأمام البارع الحافظ النسابة المجود الحجة علم المحدثين عمدة النقاد"
+                    HPOS="271"
+                    VPOS="856"
+                    WIDTH="1314"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d5e39b0"
+                    
+                    BASELINE="277 1049 1587 1024" 
+                    HPOS="275"
+                    VPOS="965"
+                    WIDTH="1312"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="277 1049 275 990 1585 965 1587 1024 1587 1044 277 1070"/></Shape>
+	    <String CONTENT="شرف الدین الدیاطی الشافعی صاحب النصانیف مولده بتولة قرية من عمل"
+                    HPOS="275"
+                    VPOS="965"
+                    WIDTH="1312"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf59a8b9"
+                    
+                    BASELINE="275 1154 1587 1133" 
+                    HPOS="273"
+                    VPOS="1072"
+                    WIDTH="1314"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="275 1154 273 1092 1585 1072 1587 1133 1587 1158 275 1179"/></Shape>
+	    <String CONTENT="تنيس ولدعام ثلاثة عشر وستمائة ووفاته في خامس عشر ذي القعدة سنة خمس"
+                    HPOS="273"
+                    VPOS="1072"
+                    WIDTH="1314"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9ad40fa"
+                    
+                    BASELINE="681 1254 1590 1245" 
+                    HPOS="678"
+                    VPOS="1186"
+                    WIDTH="912"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="681 1254 678 1195 1587 1186 1590 1245 1590 1272 681 1281"/></Shape>
+	    <String CONTENT="وسبعائة ودفن بمقبرة باب النصرخارج القاهرة."
+                    HPOS="678"
+                    VPOS="1186"
+                    WIDTH="912"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_845a39e2"
+                    
+                    BASELINE="277 1366 1592 1354" 
+                    HPOS="275"
+                    VPOS="1288"
+                    WIDTH="1317"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="277 1366 275 1299 1590 1288 1592 1354 1592 1381 277 1393"/></Shape>
+	    <String CONTENT="وكان منشؤه بدمباط وقميز في المذهب وقرأ القراآت وطلب الحديث وقد"
+                    HPOS="275"
+                    VPOS="1288"
+                    WIDTH="1317"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a29e27d4"
+                    
+                    BASELINE="277 1477 526 1484 1592 1461" 
+                    HPOS="275"
+                    VPOS="1397"
+                    WIDTH="1317"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="277 1477 277 1413 526 1420 1590 1397 1592 1461 1592 1486 526 1509 523 1509 275 1502"/></Shape>
+	    <String CONTENT="صارله ثلاث وعشرون سنة فسمع بالاسکندریة فی سنةست وثلاثین من اصحاب"
+                    HPOS="275"
+                    VPOS="1397"
+                    WIDTH="1317"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_059aa0c7"
+                    
+                    BASELINE="277 1593 1129 1584 1594 1566" 
+                    HPOS="275"
+                    VPOS="1498"
+                    WIDTH="1319"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="277 1593 275 1525 1127 1516 1590 1498 1594 1566 1594 1598 1129 1616 1129 1616 277 1625"/></Shape>
+	    <String CONTENT="السلفی ثم قدم القاهرة وعنى بهذا الشان روايةودراية ولازم الحافظ زفی"
+                    HPOS="275"
+                    VPOS="1498"
+                    WIDTH="1319"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7c1de53"
+                    
+                    BASELINE="280 1709 1599 1680" 
+                    HPOS="277"
+                    VPOS="1618"
+                    WIDTH="1322"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="280 1709 277 1648 1596 1618 1599 1680 1599 1707 280 1737"/></Shape>
+	    <String CONTENT="الدين حتى صار معيده وحج سنة ثلاث واربعين وتمع بالحرمين وارتحل"
+                    HPOS="277"
+                    VPOS="1618"
+                    WIDTH="1322"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d965711"
+                    
+                    BASELINE="280 1812 1098 1812 1596 1787" 
+                    HPOS="280"
+                    VPOS="1716"
+                    WIDTH="1316"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="280 1812 280 1741 1095 1741 1592 1716 1596 1787 1596 1816 1098 1841 1098 1841 280 1841"/></Shape>
+	    <String CONTENT="الي الشام سنة خمس واربعين وارتحل الي الجزيرة والعراق مرتين وكتب"
+                    HPOS="280"
+                    VPOS="1716"
+                    WIDTH="1316"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98c13518"
+                    
+                    BASELINE="282 1919 1232 1912 1596 1896" 
+                    HPOS="280"
+                    VPOS="1828"
+                    WIDTH="1316"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="282 1919 280 1850 1230 1844 1592 1828 1596 1896 1596 1926 1232 1941 1232 1941 282 1948"/></Shape>
+	    <String CONTENT="العالى والنازل وصنف وحدث واعلى في حياة كبار مشايخه وكان مليح"
+                    HPOS="280"
+                    VPOS="1828"
+                    WIDTH="1316"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8930e530"
+                    
+                    BASELINE="289 2023 1093 2021 1599 2003" 
+                    HPOS="287"
+                    VPOS="1939"
+                    WIDTH="1312"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="289 2023 287 1957 1091 1955 1594 1939 1599 2003 1599 2033 1093 2051 1093 2051 289 2053"/></Shape>
+	    <String CONTENT="الهيئة حسن الأخلاق بساما فصيحا نحويا لغويا مقرئًا سريع القرآءة جيد"
+                    HPOS="287"
+                    VPOS="1939"
+                    WIDTH="1312"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e75f7053"
+                    
+                    BASELINE="282 2130 984 2130 1599 2115" 
+                    HPOS="282"
+                    VPOS="2046"
+                    WIDTH="1317"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="282 2130 282 2062 981 2062 1596 2046 1599 2115 1599 2142 984 2158 984 2158 282 2158"/></Shape>
+	    <String CONTENT="العبارة كثير التفنن جيد الكتب مكثراً مفيداً حسن المذاكرة حمن العقيدة"
+                    HPOS="282"
+                    VPOS="2046"
+                    WIDTH="1317"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_073acb07"
+                    
+                    BASELINE="291 2247 1079 2240 1585 2222" 
+                    HPOS="289"
+                    VPOS="2153"
+                    WIDTH="1296"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="291 2247 289 2178 1077 2171 1580 2153 1585 2222 1585 2249 1079 2267 1079 2267 291 2274"/></Shape>
+	    <String CONTENT="كافاً عن الدخول فی الكلام سمع من ابن المقيرويوسف بن عبد المعطى"
+                    HPOS="289"
+                    VPOS="2153"
+                    WIDTH="1296"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1951d8c0"
+                    
+                    BASELINE="287 2351 423 2363 988 2356 1353 2349 1596 2331" 
+                    HPOS="282"
+                    VPOS="2263"
+                    WIDTH="1314"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="287 2351 291 2283 425 2294 986 2288 1348 2281 1590 2263 1596 2331 1596 2358 1353 2376 1353 2376 988 2383 988 2383 423 2390 419 2390 282 2379"/></Shape>
+	    <String CONTENT="المحلى والعلم ابن الصابوني وابن العليق وابن قيرة وموهوب بن الجواليقی وهبة"
+                    HPOS="282"
+                    VPOS="2263"
+                    WIDTH="1314"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f888f429"
+                    
+                    BASELINE="293 2458 829 2467 1603 2442" 
+                    HPOS="291"
+                    VPOS="2372"
+                    WIDTH="1312"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="293 2458 293 2388 826 2397 1601 2372 1603 2442 1603 2481 829 2506 826 2506 291 2497"/></Shape>
+	    <String CONTENT="الله بن محمد بن مفرج الواعظ وشعیب بن الزعفرانی وابن رواح وابن رواحة"
+                    HPOS="291"
+                    VPOS="2372"
+                    WIDTH="1312"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="820"
+                   VPOS="205"
+                   WIDTH="226"
+                   HEIGHT="71"
+                   ID="eSc_textblock_a3ed550a"
+                   TAGREFS="BT967">
+          <Shape><Polygon POINTS="1046 205 1046 276 820 276 820 205"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_63bc3590"
+                    
+                    BASELINE="836 264 956 259" 
+                    HPOS="833"
+                    VPOS="202"
+                    WIDTH="123"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="836 264 833 207 954 202 956 259 956 282 836 286"/></Shape>
+	    <String CONTENT="16"
+                    HPOS="833"
+                    VPOS="202"
+                    WIDTH="123"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="829"
+                   VPOS="264"
+                   WIDTH="79"
+                   HEIGHT="16"
+                   ID="eSc_textblock_5184797c"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="829 280 838 264 908 264 908 270"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

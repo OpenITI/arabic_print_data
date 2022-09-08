@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_al_qawl_fi_al_bighal_3AMt9YD.pdf_page_18.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1034" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1035" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT1036" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1037" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    <OtherTag ID="LT60" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="339"
+                   VPOS="292"
+                   WIDTH="1868"
+                   HEIGHT="2967"
+                   ID="eSc_textblock_3ad7a7b4"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="409 292 2160 315 2207 3110 2160 3201 1134 3259 514 3224 374 3177 339 2885 350 491 374 304 409 292"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1344cede"
+                    
+                    BASELINE="780 350 2122 350" 
+                    HPOS="780"
+                    VPOS="306"
+                    WIDTH="1342"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="780 350 780 306 2122 306 2122 350 2122 371 780 371"/></Shape>
+	    <String CONTENT=" قلت فسألتك عن العلة فقلت: لأن تشريف ذنب البغلة تشريفتان وثلثا تشريفة."
+                    HPOS="780"
+                    VPOS="306"
+                    WIDTH="1342"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c492df9"
+                    
+                    BASELINE="409 441 1096 456 2116 447" 
+                    HPOS="406"
+                    VPOS="380"
+                    WIDTH="1710"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="409 441 409 380 1096 394 2113 385 2116 447 2116 467 1096 476 1093 476 406 461"/></Shape>
+	    <String CONTENT="وقال الأصمعي: أرسل الحجاج إلى الجرمي المعبر يسأله عن رجل رأى كأنه على بغلة، وكأنه على شرف،"
+                    HPOS="406"
+                    VPOS="380"
+                    WIDTH="1710"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4223653f"
+                    
+                    BASELINE="385 540 2119 534" 
+                    HPOS="382"
+                    VPOS="482"
+                    WIDTH="1737"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="385 540 382 488 2116 482 2119 534 2119 552 385 558"/></Shape>
+	    <String CONTENT="وكأنه يستف تراباً فقال له: أما البغل فطول عمر، وأما الشرف فشرف من شرف الدنيا وأما التراب ففيء"
+                    HPOS="382"
+                    VPOS="482"
+                    WIDTH="1737"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4df19014"
+                    
+                    BASELINE="1993 631 2125 625" 
+                    HPOS="1990"
+                    VPOS="578"
+                    WIDTH="135"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1993 631 1990 584 2122 578 2125 625 2125 640 1993 646"/></Shape>
+	    <String CONTENT="تأكله."
+                    HPOS="1990"
+                    VPOS="578"
+                    WIDTH="135"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f06fd41"
+                    
+                    BASELINE="385 733 2122 722" 
+                    HPOS="382"
+                    VPOS="660"
+                    WIDTH="1740"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="385 733 382 672 2119 660 2122 722 2122 739 385 751"/></Shape>
+	    <String CONTENT="وقالوا: وسأل بعض المصريين الفراء المعبر، فقال: رأيت كأن معى درهماً بغلياً. قال: لست تمسي حتى تأكل"
+                    HPOS="382"
+                    VPOS="660"
+                    WIDTH="1740"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c00c0f8"
+                    
+                    BASELINE="1695 818 2125 818" 
+                    HPOS="1695"
+                    VPOS="768"
+                    WIDTH="430"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1695 818 1695 768 2125 768 2125 818 2125 830 1695 830"/></Shape>
+	    <String CONTENT=" شيئا طيبا. فكان كذلك"
+                    HPOS="1695"
+                    VPOS="768"
+                    WIDTH="430"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03a3f4ff"
+                    
+                    BASELINE="450 915 2119 906" 
+                    HPOS="447"
+                    VPOS="850"
+                    WIDTH="1672"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="450 915 447 859 2116 850 2119 906 2119 923 450 932"/></Shape>
+	    <String CONTENT="ثم أتاه بعد أيام فقال: رأيت فيما يرى النائم كأن معى درهما بخياً. قال: لست تمسي حتى تضرب ضربا"
+                    HPOS="447"
+                    VPOS="850"
+                    WIDTH="1672"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a89fe8a6"
+                    
+                    BASELINE="1751 1005 2125 1005" 
+                    HPOS="1751"
+                    VPOS="950"
+                    WIDTH="374"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1751 1005 1751 950 2125 950 2125 1005 2125 1020 1751 1020"/></Shape>
+	    <String CONTENT=" وجيعا! فكان كذلك."
+                    HPOS="1751"
+                    VPOS="950"
+                    WIDTH="374"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6473e1a"
+                    
+                    BASELINE="406 1099 2119 1093" 
+                    HPOS="403"
+                    VPOS="1040"
+                    WIDTH="1716"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="406 1099 403 1046 2116 1040 2119 1093 2119 1110 406 1116"/></Shape>
+	    <String CONTENT="فسأله عن العلة، فقال: الدرهم البغلى مكتوب عليه بالفارسية: 1 خش بخر1 ترجمة هنه الكلمة: كل طيبا"
+                    HPOS="403"
+                    VPOS="1040"
+                    WIDTH="1716"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f12996d0"
+                    
+                    BASELINE="1069 1183 2116 1192" 
+                    HPOS="1067"
+                    VPOS="1134"
+                    WIDTH="1049"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1069 1183 1069 1134 2116 1143 2116 1192 2113 1210 1067 1201"/></Shape>
+	    <String CONTENT="والدرهم البخى مكتوب عليه ضرب هذا الدرهم. وهما مخلفان."
+                    HPOS="1067"
+                    VPOS="1134"
+                    WIDTH="1049"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c04ae910"
+                    
+                    BASELINE="862 1277 2119 1277" 
+                    HPOS="862"
+                    VPOS="1230"
+                    WIDTH="1257"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="862 1277 862 1230 2119 1230 2119 1277 2119 1300 862 1300"/></Shape>
+	    <String CONTENT=" وأنشد الحكم بن عبدل أسماء بن خارجة شعرا ذكر فيه أنه رآه في المنام فقال:"
+                    HPOS="862"
+                    VPOS="1230"
+                    WIDTH="1257"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b23f4cc5"
+                    
+                    BASELINE="1090 1368 2125 1368" 
+                    HPOS="1090"
+                    VPOS="1324"
+                    WIDTH="1035"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1090 1368 1090 1324 2125 1324 2125 1368 2125 1391 1090 1391"/></Shape>
+	    <String CONTENT="أغفيت قبل الصبح نوم مسهد ... في ساعة ما كنت قبل أنامها"
+                    HPOS="1090"
+                    VPOS="1324"
+                    WIDTH="1035"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d29753d9"
+                    
+                    BASELINE="1198 1473 2119 1464" 
+                    HPOS="1195"
+                    VPOS="1414"
+                    WIDTH="924"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1198 1473 1195 1423 2116 1414 2119 1464 2119 1482 1198 1490"/></Shape>
+	    <String CONTENT="فرأيت أنك رعتنى بوليدة ... مغنوجة حسن علي قيامها"
+                    HPOS="1195"
+                    VPOS="1414"
+                    WIDTH="924"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b076546"
+                    
+                    BASELINE="1248 1555 2119 1563" 
+                    HPOS="1245"
+                    VPOS="1505"
+                    WIDTH="874"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1248 1555 1248 1505 2119 1514 2119 1563 2116 1581 1245 1572"/></Shape>
+	    <String CONTENT="وببدرة حملت إلي وبغلة ... شهباء ناجية يصل لجامها"
+                    HPOS="1245"
+                    VPOS="1505"
+                    WIDTH="874"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bd80d10"
+                    
+                    BASELINE="1113 1651 2125 1645" 
+                    HPOS="1110"
+                    VPOS="1596"
+                    WIDTH="1015"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1113 1651 1110 1601 2122 1596 2125 1645 2125 1663 1113 1669"/></Shape>
+	    <String CONTENT="فدعوت رلى أن يشيك جنة ... عوضا يصيبك بردها وسلامها"
+                    HPOS="1110"
+                    VPOS="1596"
+                    WIDTH="1015"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_300f1550"
+                    
+                    BASELINE="409 1742 2125 1736" 
+                    HPOS="406"
+                    VPOS="1683"
+                    WIDTH="1719"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="409 1742 406 1689 2122 1683 2125 1736 2125 1756 409 1762"/></Shape>
+	    <String CONTENT="قال أسماء: كل ما رأيته في النوم فهو عندنا كما رأيت، إلا البغلة فإنها دهماءا قال: أعتق ما أملك إن كان"
+                    HPOS="406"
+                    VPOS="1683"
+                    WIDTH="1719"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae808e41"
+                    
+                    BASELINE="1654 1830 2125 1838" 
+                    HPOS="1651"
+                    VPOS="1780"
+                    WIDTH="474"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1654 1830 1654 1780 2125 1789 2125 1838 2122 1856 1651 1847"/></Shape>
+	    <String CONTENT="رآها إلا دهماء ولكنه غلط."
+                    HPOS="1651"
+                    VPOS="1780"
+                    WIDTH="474"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7ebbd4a"
+                    
+                    BASELINE="429 1938 2125 1929" 
+                    HPOS="426"
+                    VPOS="1876"
+                    WIDTH="1699"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="429 1938 426 1885 2122 1876 2125 1929 2125 1946 429 1955"/></Shape>
+	    <String CONTENT="ومما اشتق من اسم البغل: الدرهم البغلى. وفي بني تغلب رأس البغل وهو رئيس من رؤسائهم وهو الذي"
+                    HPOS="426"
+                    VPOS="1876"
+                    WIDTH="1699"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fba326c9"
+                    
+                    BASELINE="1461 2025 2122 2020" 
+                    HPOS="1458"
+                    VPOS="1970"
+                    WIDTH="664"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1461 2025 1458 1976 2119 1970 2122 2020 2122 2037 1461 2043"/></Shape>
+	    <String CONTENT="كان إبراهيم بن هاني الخليع نسب إليه."
+                    HPOS="1458"
+                    VPOS="1970"
+                    WIDTH="664"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a1c467e"
+                    
+                    BASELINE="418 2110 2122 2116" 
+                    HPOS="415"
+                    VPOS="2060"
+                    WIDTH="1707"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="418 2110 418 2060 2122 2066 2122 2116 2119 2136 415 2131"/></Shape>
+	    <String CONTENT="وإذا كان الإنسان عظيم الرأس لقبوه: رأس البغل. والبغلات: جوار من رقيق مصر نتاج ما بين الصقالبة"
+                    HPOS="415"
+                    VPOS="2060"
+                    WIDTH="1707"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae0a0ee6"
+                    
+                    BASELINE="955 2201 2125 2210" 
+                    HPOS="953"
+                    VPOS="2151"
+                    WIDTH="1172"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="955 2201 955 2151 2125 2160 2125 2210 2122 2227 953 2218"/></Shape>
+	    <String CONTENT=" وجنس آخر والواحدة منهن يقال لها: بغلة ولهن أبدان ووثارة وحدارة"
+                    HPOS="953"
+                    VPOS="2151"
+                    WIDTH="1172"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa6a2e3f"
+                    
+                    BASELINE="432 2297 2125 2306" 
+                    HPOS="429"
+                    VPOS="2248"
+                    WIDTH="1696"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="432 2297 432 2248 2125 2256 2125 2306 2122 2321 429 2312"/></Shape>
+	    <String CONTENT=" ويروى عن بعض العراقيين: كنت عند قاضى مصر، وهو يقول لبعض جلسائه: عندي جارية أطؤها منذ"
+                    HPOS="429"
+                    VPOS="2248"
+                    WIDTH="1696"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cd5ed48"
+                    
+                    BASELINE="368 2388 2122 2394" 
+                    HPOS="365"
+                    VPOS="2338"
+                    WIDTH="1757"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="368 2388 368 2338 2122 2344 2122 2394 2119 2411 365 2405"/></Shape>
+	    <String CONTENT="حين، وقد اعتران شبق، وأنا على أن أشتري بغلة. قلت: وما تصنع ببغلة؟ قال: أطؤها وأصيب منها. فقلت"
+                    HPOS="365"
+                    VPOS="2338"
+                    WIDTH="1757"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db226fa2"
+                    
+                    BASELINE="453 2487 2122 2487" 
+                    HPOS="453"
+                    VPOS="2438"
+                    WIDTH="1669"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="453 2487 453 2438 2122 2438 2122 2487 2122 2505 453 2505"/></Shape>
+	    <String CONTENT="في نفسي: هذا أمجن الناس وأحمقهم، يتكلم هذا وهو قاض؟! ثم حكيت ذلك عند رجل من أهل مصر،"
+                    HPOS="453"
+                    VPOS="2438"
+                    WIDTH="1669"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a7fca83"
+                    
+                    BASELINE="374 2581 2125 2566" 
+                    HPOS="371"
+                    VPOS="2516"
+                    WIDTH="1754"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="374 2581 371 2531 2122 2516 2125 2566 2125 2584 374 2598"/></Shape>
+	    <String CONTENT="فقال: عافاك الله ما منا من أحد إلا وعنده بغلات ينيكهن! فتعجبت فلما رأى إنكاري ذلك فسر لي معنى"
+                    HPOS="371"
+                    VPOS="2516"
+                    WIDTH="1754"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe15663a"
+                    
+                    BASELINE="1870 2669 2128 2663" 
+                    HPOS="1868"
+                    VPOS="2622"
+                    WIDTH="260"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1870 2669 1868 2628 2125 2622 2128 2663 2128 2680 1870 2686"/></Shape>
+	    <String CONTENT="البغلة عندهم"
+                    HPOS="1868"
+                    VPOS="2622"
+                    WIDTH="260"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_978cd2c7"
+                    
+                    BASELINE="397 2768 2128 2756" 
+                    HPOS="394"
+                    VPOS="2704"
+                    WIDTH="1734"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="397 2768 394 2715 2125 2704 2128 2756 2128 2777 397 2788"/></Shape>
+	    <String CONTENT="قالوا: وإذا عظمت المرأة وعظم بطنها، قالوا: ما هى إلا بغلة وما رأس فلان إلا رأس بغل وما أيره إلا أير"
+                    HPOS="394"
+                    VPOS="2704"
+                    WIDTH="1734"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c46c4fcb"
+                    
+                    BASELINE="1505 2856 2128 2850" 
+                    HPOS="1502"
+                    VPOS="2800"
+                    WIDTH="626"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1505 2856 1502 2806 2125 2800 2128 2850 2128 2867 1505 2873"/></Shape>
+	    <String CONTENT="بغل، وما خلقه إلا من أخلاق البغال."
+                    HPOS="1502"
+                    VPOS="2800"
+                    WIDTH="626"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8b0882b"
+                    
+                    BASELINE="567 2940 906 2955 2119 2943" 
+                    HPOS="564"
+                    VPOS="2879"
+                    WIDTH="1555"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="567 2940 567 2879 906 2894 2116 2882 2119 2943 2119 2967 906 2978 903 2978 564 2964"/></Shape>
+	    <String CONTENT="والمثل السائر: كأنه جاء برأس خاقان، ورأس الجالوت، ورأس الفاعوس ورأس الكيتبة والقبيلة"
+                    HPOS="564"
+                    VPOS="2879"
+                    WIDTH="1555"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4212431"
+                    
+                    BASELINE="1637 3049 2125 3034" 
+                    HPOS="1634"
+                    VPOS="2981"
+                    WIDTH="491"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1637 3049 1634 2996 2122 2981 2125 3034 2125 3051 1637 3066"/></Shape>
+	    <String CONTENT="فلذلك قال عمرو بن كلثوم:"
+                    HPOS="1634"
+                    VPOS="2981"
+                    WIDTH="491"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c22078c8"
+                    
+                    BASELINE="1169 3133 2131 3145" 
+                    HPOS="1166"
+                    VPOS="3081"
+                    WIDTH="965"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1169 3133 1169 3081 2131 3092 2131 3145 2128 3163 1166 3151"/></Shape>
+	    <String CONTENT="برأس من بني جشم بن بكر ... ندق به السهولة والحزونا"
+                    HPOS="1166"
+                    VPOS="3081"
+                    WIDTH="965"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

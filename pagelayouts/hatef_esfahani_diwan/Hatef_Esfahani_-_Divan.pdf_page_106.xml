@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Hatef_Esfahani_-_Divan.pdf_page_106.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1204" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1205" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1206" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1207" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1208" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2481"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="105"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2481"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="2469"
+                   VPOS="3496"
+                   WIDTH="9"
+                   HEIGHT="9"
+                   ID="eSc_textblock_d0e36727"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2478 3496 2478 3505 2469 3505 2469 3496"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2457"
+                   VPOS="3472"
+                   WIDTH="21"
+                   HEIGHT="21"
+                   ID="eSc_textblock_19b69c57"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2457 3484 2469 3472 2478 3493 2457 3493"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="481"
+                   VPOS="639"
+                   WIDTH="1514"
+                   HEIGHT="203"
+                   ID="eSc_textblock_ba15a98f"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1995 842 1995 639 481 639 481 842"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1555"
+                   VPOS="527"
+                   WIDTH="312"
+                   HEIGHT="50"
+                   ID="eSc_textblock_392b7039"
+                   TAGREFS="BT1204">
+          <Shape><Polygon POINTS="1555 527 1555 577 1867 577 1867 527"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1904"
+                   VPOS="523"
+                   WIDTH="74"
+                   HEIGHT="66"
+                   ID="eSc_textblock_4272072c"
+                   TAGREFS="BT1208">
+          <Shape><Polygon POINTS="1978 523 1978 589 1904 589 1904 523"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_c5cfccb8"
+                    
+                    BASELINE="1544 564 1963 552" 
+                    HPOS="1541"
+                    VPOS="508"
+                    WIDTH="422"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1544 564 1541 520 1960 508 1963 552 1963 567 1544 578"/></Shape>
+	    <String CONTENT="10/ ديوان هاتف اصفهانی"
+                    HPOS="1541"
+                    VPOS="508"
+                    WIDTH="422"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_709f3c99"
+                    
+                    BASELINE="1053 698 1928 689" 
+                    HPOS="1050"
+                    VPOS="646"
+                    WIDTH="878"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1053 698 1050 654 1925 646 1928 689 1928 707 1053 716"/></Shape>
+	    <String CONTENT="محبان تورا روشن ز رويت ديدهٔ حق بين"
+                    HPOS="1050"
+                    VPOS="646"
+                    WIDTH="878"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97c249d0"
+                    
+                    BASELINE="517 780 1433 774" 
+                    HPOS="514"
+                    VPOS="704"
+                    WIDTH="919"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="517 780 514 710 1430 704 1433 774 1433 798 517 803"/></Shape>
+	    <String CONTENT="حسودان تو را بی بهرهزان رخ دیدهٔ اعمی"
+                    HPOS="514"
+                    VPOS="704"
+                    WIDTH="919"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

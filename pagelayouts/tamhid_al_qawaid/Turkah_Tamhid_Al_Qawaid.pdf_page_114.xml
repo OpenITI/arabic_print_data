@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Turkah_Tamhid_Al_Qawaid.pdf_page_114.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT950" LABEL="Footnote" DESCRIPTION="block type Footnote"/><OtherTag ID="BT951" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT952" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1920"
+          HEIGHT="2760"
+          PHYSICAL_IMG_NR="113"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1920"
+                  HEIGHT="2760">
+        
+        <TextBlock HPOS="1388"
+                   VPOS="386"
+                   WIDTH="108"
+                   HEIGHT="80"
+                   ID="eSc_textblock_65f8c2ce"
+                   TAGREFS="BT951">
+          <Shape><Polygon POINTS="1496 413 1487 466 1388 457 1388 404 1434 386"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9f8f33dd"
+                    
+                    BASELINE="1381 434 1475 439" 
+                    HPOS="1378"
+                    VPOS="390"
+                    WIDTH="97"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1381 434 1381 390 1475 395 1475 439 1473 450 1378 446"/></Shape>
+	    <String CONTENT="108"
+                    HPOS="1378"
+                    VPOS="390"
+                    WIDTH="97"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="147"
+                   VPOS="487"
+                   WIDTH="1377"
+                   HEIGHT="1546"
+                   ID="eSc_textblock_9916e344"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1524 515 1505 2033 156 2021 147 524 174 487"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a1de8b3b"
+                    
+                    BASELINE="170 542 1114 552 1480 540" 
+                    HPOS="168"
+                    VPOS="494"
+                    WIDTH="1312"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="170 542 170 496 1111 505 1477 494 1480 540 1480 563 1114 575 1111 575 168 565"/></Shape>
+	    <String CONTENT="نه به ضميمهئی ازضمائم وحيثيتى از حيثيات ، والا جهت امكانى ، بل که"
+                    HPOS="168"
+                    VPOS="494"
+                    WIDTH="1312"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_27f6ccea"
+                    
+                    BASELINE="170 630 1480 634" 
+                    HPOS="168"
+                    VPOS="584"
+                    WIDTH="1312"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="170 630 170 584 1480 588 1480 634 1477 653 168 648"/></Shape>
+	    <String CONTENT="ترکیب ازجهت وجوبی و امکانی درذات اقدس او ثابت میشود، و حق به تمام"
+                    HPOS="168"
+                    VPOS="584"
+                    WIDTH="1312"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f0b8ecd"
+                    
+                    BASELINE="313 713 1482 703" 
+                    HPOS="310"
+                    VPOS="662"
+                    WIDTH="1172"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="313 713 310 671 1480 662 1482 703 1482 724 313 733"/></Shape>
+	    <String CONTENT="ذات متجلى وفياض است ، نه بجزء ذات، والا تركيب لازم ميآيد."
+                    HPOS="310"
+                    VPOS="662"
+                    WIDTH="1172"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2675bd62"
+                    
+                    BASELINE="170 800 1402 807" 
+                    HPOS="168"
+                    VPOS="756"
+                    WIDTH="1234"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="170 800 170 756 1402 763 1402 807 1399 825 168 818"/></Shape>
+	    <String CONTENT="يس بايد جلوهٔ اول وفيض اول ، تمام اثر ذات حق وجلوه تمام ذات و"
+                    HPOS="168"
+                    VPOS="756"
+                    WIDTH="1234"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5913642b"
+                    
+                    BASELINE="168 878 1487 873" 
+                    HPOS="165"
+                    VPOS="830"
+                    WIDTH="1322"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="168 878 165 834 1484 830 1487 873 1487 892 168 896"/></Shape>
+	    <String CONTENT="حقيقت مبدا اول باشد، وازبیگناتست که اثرتمام ذات، تمام اثر ذات وجلوهٔ"
+                    HPOS="165"
+                    VPOS="830"
+                    WIDTH="1322"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1196315b"
+                    
+                    BASELINE="168 961 1484 947" 
+                    HPOS="165"
+                    VPOS="906"
+                    WIDTH="1319"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="168 961 165 919 1482 906 1484 947 1484 963 168 977"/></Shape>
+	    <String CONTENT="مام ذات، تمام جلوهٔ ذاتست، درشدت وقوت وتمامیست وصرافت غیر"
+                    HPOS="165"
+                    VPOS="906"
+                    WIDTH="1319"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0415fee5"
+                    
+                    BASELINE="163 1039 1491 1025" 
+                    HPOS="161"
+                    VPOS="986"
+                    WIDTH="1330"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="163 1039 161 1000 1489 986 1491 1025 1491 1046 163 1060"/></Shape>
+	    <String CONTENT="متناهی است بعدهٔ غیرمتناهی، پس تمام اثر نیز صرف وتام، ومحدودیتی"
+                    HPOS="161"
+                    VPOS="986"
+                    WIDTH="1330"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ec1bf0e"
+                    
+                    BASELINE="163 1113 1491 1113" 
+                    HPOS="163"
+                    VPOS="1074"
+                    WIDTH="1328"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="163 1113 163 1074 1491 1074 1491 1113 1491 1131 163 1131"/></Shape>
+	    <String CONTENT="دراو متحقق نباشد، مگر بقدرایکه لازم مجعولیت ایست، وآن فقدان مرتبة"
+                    HPOS="163"
+                    VPOS="1074"
+                    WIDTH="1328"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_219db579"
+                    
+                    BASELINE="163 1196 1484 1196" 
+                    HPOS="163"
+                    VPOS="1152"
+                    WIDTH="1321"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="163 1196 163 1152 1484 1152 1484 1196 1484 1212 163 1212"/></Shape>
+	    <String CONTENT="فوقیت همه کمالات ونقصان از درجهٔ شدت وقوت غیرمتناهیه مفیض"
+                    HPOS="163"
+                    VPOS="1152"
+                    WIDTH="1321"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_469fb30d"
+                    
+                    BASELINE="165 1276 1487 1276" 
+                    HPOS="165"
+                    VPOS="1235"
+                    WIDTH="1322"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="165 1276 165 1235 1487 1235 1487 1276 1487 1297 165 1297"/></Shape>
+	    <String CONTENT="بالذاتست ، زيرا كه دو مجعول بالذات واثر بالذات حفيفت تعلشقيه و"
+                    HPOS="165"
+                    VPOS="1235"
+                    WIDTH="1322"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ce3d585"
+                    
+                    BASELINE="165 1357 1484 1357" 
+                    HPOS="165"
+                    VPOS="1315"
+                    WIDTH="1319"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="165 1357 165 1315 1484 1315 1484 1357 1484 1377 165 1377"/></Shape>
+	    <String CONTENT="حیشیت ارتباطیه ایست. پس حقیفت وحیشیتی ازبرای او، سوای ارتباط و"
+                    HPOS="165"
+                    VPOS="1315"
+                    WIDTH="1319"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d78f7ec"
+                    
+                    BASELINE="163 1426 1491 1426" 
+                    HPOS="163"
+                    VPOS="1389"
+                    WIDTH="1328"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="163 1426 163 1389 1491 1389 1491 1426 1491 1449 163 1449"/></Shape>
+	    <String CONTENT="تعلق متصور نمیتواند شد، پس در محدودیت وصرافت تابع مرتبط الیه"
+                    HPOS="163"
+                    VPOS="1389"
+                    WIDTH="1328"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_781d96a3"
+                    
+                    BASELINE="163 1499 1487 1504" 
+                    HPOS="161"
+                    VPOS="1460"
+                    WIDTH="1326"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="163 1499 163 1460 1487 1465 1487 1504 1484 1524 161 1520"/></Shape>
+	    <String CONTENT="خواهد بود مگر بقدری که مقتضای اثریشت ونزول ایست و او اینستکه،"
+                    HPOS="161"
+                    VPOS="1460"
+                    WIDTH="1326"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c3f698a"
+                    
+                    BASELINE="163 1591 1489 1586" 
+                    HPOS="161"
+                    VPOS="1543"
+                    WIDTH="1328"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="163 1591 161 1547 1487 1543 1489 1586 1489 1605 163 1609"/></Shape>
+	    <String CONTENT="مبدا اول ، تام بل كه فوق التمام است ، واين مرتبه تام است . بعبارت دیگر"
+                    HPOS="161"
+                    VPOS="1543"
+                    WIDTH="1328"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc8ac834"
+                    
+                    BASELINE="161 1662 1489 1669" 
+                    HPOS="158"
+                    VPOS="1621"
+                    WIDTH="1331"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="161 1662 161 1621 1489 1628 1489 1669 1487 1688 158 1681"/></Shape>
+	    <String CONTENT="ميگويم ، ذات اقدس مبدا اول درشدت وعشدت کمالات غیرمتناهی است،"
+                    HPOS="158"
+                    VPOS="1621"
+                    WIDTH="1331"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cf03cc8"
+                    
+                    BASELINE="161 1738 1484 1752" 
+                    HPOS="158"
+                    VPOS="1697"
+                    WIDTH="1326"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="161 1738 161 1697 1484 1711 1484 1752 1482 1768 158 1754"/></Shape>
+	    <String CONTENT="و این مرتبه ازوجود بحسب عشدت کمالات غیر متناهی ایست نه بحسب عدت"
+                    HPOS="158"
+                    VPOS="1697"
+                    WIDTH="1326"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a730730"
+                    
+                    BASELINE="163 1830 1487 1826" 
+                    HPOS="161"
+                    VPOS="1780"
+                    WIDTH="1326"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="163 1830 161 1784 1484 1780 1487 1826 1487 1842 163 1846"/></Shape>
+	    <String CONTENT="وشدت. وبعبارت ديگر، وجود مبدا اول ، صرفصرف ، واین مرتبه از"
+                    HPOS="161"
+                    VPOS="1780"
+                    WIDTH="1326"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_972337d4"
+                    
+                    BASELINE="158 1899 488 1911 1484 1902" 
+                    HPOS="156"
+                    VPOS="1851"
+                    WIDTH="1328"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="158 1899 158 1851 488 1862 1482 1853 1484 1902 1484 1920 488 1929 485 1929 156 1918"/></Shape>
+	    <String CONTENT="وجود ، صرفست ؛ وباوجود این معنی، نسبتاین مرتبه از وجود بمبدا"
+                    HPOS="156"
+                    VPOS="1851"
+                    WIDTH="1328"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5dcf645"
+                    
+                    BASELINE="156 1982 1484 1987" 
+                    HPOS="154"
+                    VPOS="1936"
+                    WIDTH="1330"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="156 1982 156 1936 1484 1941 1484 1987 1482 2003 154 1998"/></Shape>
+	    <String CONTENT="اول ، نسبت نقص بهتمام ونسبت ضعف بقوت ونسبت فقر بغناست ...."
+                    HPOS="154"
+                    VPOS="1936"
+                    WIDTH="1330"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="653"
+                   VPOS="377"
+                   WIDTH="346"
+                   HEIGHT="89"
+                   ID="eSc_textblock_cd5a4397"
+                   TAGREFS="BT952">
+          <Shape><Polygon POINTS="999 386 999 448 755 466 653 430 681 386 828 377"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cd97f17e"
+                    
+                    BASELINE="679 441 983 441" 
+                    HPOS="679"
+                    VPOS="402"
+                    WIDTH="304"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="679 441 679 402 983 402 983 441 983 455 679 455"/></Shape>
+	    <String CONTENT="مفدمه تمهید الفواعد"
+                    HPOS="679"
+                    VPOS="402"
+                    WIDTH="304"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="134"
+                   VPOS="2035"
+                   WIDTH="1399"
+                   HEIGHT="391"
+                   ID="eSc_textblock_b5a38144"
+                   TAGREFS="BT950">
+          <Shape><Polygon POINTS="1481 2035 1533 2180 1514 2398 174 2426 134 2057 312 2048"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4cab35cf"
+                    
+                    BASELINE="156 2155 1494 2148" 
+                    HPOS="154"
+                    VPOS="2109"
+                    WIDTH="1340"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="156 2155 154 2116 1491 2109 1494 2148 1494 2164 156 2171"/></Shape>
+	    <String CONTENT="متصور نمیباشد مگر آن حدی که لازمهٔ مجعولیت است و آن فقدان مقام حقیفت وجود و"
+                    HPOS="154"
+                    VPOS="2109"
+                    WIDTH="1340"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7deba4ee"
+                    
+                    BASELINE="168 2233 1494 2237" 
+                    HPOS="165"
+                    VPOS="2196"
+                    WIDTH="1329"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="168 2233 168 2196 1494 2201 1494 2237 1491 2254 165 2249"/></Shape>
+	    <String CONTENT="دارابودن نقص لازم انحطاط آن ازمقام وجوبى . اگر کسی بگوید ، این حد نقصی لازم انحطاط،"
+                    HPOS="165"
+                    VPOS="2196"
+                    WIDTH="1329"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8836afe2"
+                    
+                    BASELINE="163 2311 1494 2316" 
+                    HPOS="161"
+                    VPOS="2274"
+                    WIDTH="1333"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="163 2311 163 2274 1494 2279 1494 2316 1491 2334 161 2329"/></Shape>
+	    <String CONTENT="همان ماهیت كليهٔ لازم و ذاتی وجود معلول امكانی است واین فقط منطبق برعقل اول است،"
+                    HPOS="161"
+                    VPOS="2274"
+                    WIDTH="1333"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c2ee99f"
+                    
+                    BASELINE="934 2385 1484 2394" 
+                    HPOS="932"
+                    VPOS="2348"
+                    WIDTH="552"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="934 2385 934 2348 1484 2357 1484 2394 1482 2408 932 2398"/></Shape>
+	    <String CONTENT="جواب این شبههٔ عویصه خواهد آمد ."
+                    HPOS="932"
+                    VPOS="2348"
+                    WIDTH="552"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="148"
+                   VPOS="2091"
+                   WIDTH="3"
+                   HEIGHT="18"
+                   ID="eSc_textblock_ba7b6cd8"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="151 2109 151 2091 148 2091 148 2109"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

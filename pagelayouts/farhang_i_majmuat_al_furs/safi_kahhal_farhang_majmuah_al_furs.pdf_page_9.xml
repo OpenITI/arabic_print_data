@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>safi_kahhal_farhang_majmuah_al_furs.pdf_page_9.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1108" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1109" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1110" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1746"
+          HEIGHT="2692"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1746"
+                  HEIGHT="2692">
+        
+        <TextBlock HPOS="1245"
+                   VPOS="349"
+                   WIDTH="258"
+                   HEIGHT="70"
+                   ID="eSc_textblock_c432f527"
+                   TAGREFS="BT1108">
+          <Shape><Polygon POINTS="1263 419 1245 367 1299 349 1503 358 1503 419"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0c49eb7a"
+                    
+                    BASELINE="1254 401 1494 397" 
+                    HPOS="1252"
+                    VPOS="363"
+                    WIDTH="242"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1254 401 1252 367 1492 363 1494 397 1494 415 1254 419"/></Shape>
+	    <String CONTENT="مقدمهٔ مصحح"
+                    HPOS="1252"
+                    VPOS="363"
+                    WIDTH="242"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="287"
+                   VPOS="358"
+                   WIDTH="114"
+                   HEIGHT="61"
+                   ID="eSc_textblock_05a077b9"
+                   TAGREFS="BT1110">
+          <Shape><Polygon POINTS="305 419 287 358 401 358 401 419"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7573279d"
+                    
+                    BASELINE="305 401 386 403" 
+                    HPOS="302"
+                    VPOS="358"
+                    WIDTH="84"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="305 401 305 358 386 361 386 403 383 412 302 410"/></Shape>
+	    <String CONTENT="بازده"
+                    HPOS="302"
+                    VPOS="358"
+                    WIDTH="84"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="264"
+                   VPOS="451"
+                   WIDTH="1286"
+                   HEIGHT="1300"
+                   ID="eSc_textblock_78bc2698"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="264 451 264 1751 1550 1751 1550 451"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="260"
+                   VPOS="1773"
+                   WIDTH="1297"
+                   HEIGHT="705"
+                   ID="eSc_textblock_093a2f86"
+                   TAGREFS="BT1109">
+          <Shape><Polygon POINTS="260 1773 260 2478 1554 2478 1557 1773"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

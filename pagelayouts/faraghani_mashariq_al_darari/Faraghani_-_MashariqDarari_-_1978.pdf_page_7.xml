@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Faraghani_-_MashariqDarari_-_1978.pdf_page_7.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1102" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1103" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1104" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2042"
+          HEIGHT="2942"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2042"
+                  HEIGHT="2942">
+        
+        <TextBlock HPOS="1394"
+                   VPOS="353"
+                   WIDTH="311"
+                   HEIGHT="95"
+                   ID="eSc_textblock_64a84d60"
+                   TAGREFS="BT1104">
+          <Shape><Polygon POINTS="1686 362 1705 438 1521 448 1394 399 1423 362 1590 353"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cd7bfb19"
+                    
+                    BASELINE="1408 424 1678 414" 
+                    HPOS="1406"
+                    VPOS="372"
+                    WIDTH="272"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1408 424 1406 382 1676 372 1678 414 1678 426 1408 436"/></Shape>
+	    <String CONTENT=" مشارق البدراری"
+                    HPOS="1406"
+                    VPOS="372"
+                    WIDTH="272"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="363"
+                   VPOS="411"
+                   WIDTH="86"
+                   HEIGHT="67"
+                   ID="eSc_textblock_745808f8"
+                   TAGREFS="BT1103">
+          <Shape><Polygon POINTS="429 411 449 468 363 478 382 411"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_09972b23"
+                    
+                    BASELINE="390 453 417 451" 
+                    HPOS="385"
+                    VPOS="414"
+                    WIDTH="32"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="390 453 385 416 412 414 417 451 417 465 390 468"/></Shape>
+	    <String CONTENT="5"
+                    HPOS="385"
+                    VPOS="414"
+                    WIDTH="32"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="367"
+                   VPOS="585"
+                   WIDTH="1400"
+                   HEIGHT="1922"
+                   ID="eSc_textblock_7a6c252f"
+                   TAGREFS="BT1102">
+          <Shape><Polygon POINTS="367 648 371 2507 1767 2507 1742 585"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="358"
+                   VPOS="473"
+                   WIDTH="1367"
+                   HEIGHT="154"
+                   ID="eSc_textblock_c26c802e"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="358 515 367 627 1725 569 1725 473"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

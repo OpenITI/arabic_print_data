@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ibn_rushd_talkhis_kitab_jadl.pdf_page_26.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1225" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1226" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1227" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1228" LABEL="Head" DESCRIPTION="block type Head"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2811"
+          HEIGHT="4093"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2811"
+                  HEIGHT="4093">
+        
+        <TextBlock HPOS="752"
+                   VPOS="1250"
+                   WIDTH="1758"
+                   HEIGHT="2218"
+                   ID="eSc_textblock_4c07eeb7"
+                   TAGREFS="BT1225">
+          <Shape><Polygon POINTS="2510 3431 2510 1250 766 1250 752 3468 1833 3445"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="625"
+                   VPOS="606"
+                   WIDTH="1852"
+                   HEIGHT="639"
+                   ID="eSc_textblock_4acd8540"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2477 606 2477 1245 630 1241 625 606"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1457"
+                   VPOS="442"
+                   WIDTH="352"
+                   HEIGHT="108"
+                   ID="eSc_textblock_987ce6ca"
+                   TAGREFS="BT1226">
+          <Shape><Polygon POINTS="1457 442 1457 550 1809 550 1809 442"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_2b1ce1e3"
+                    
+                    BASELINE="791 706 2432 692" 
+                    HPOS="788"
+                    VPOS="624"
+                    WIDTH="1644"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="791 706 788 637 2428 624 2432 692 2432 709 791 723"/></Shape>
+	    <String CONTENT="واما جنساء وإما فصلا، واما خاصةه وإما رسما، واما عرضا. وإذا كان الأمر"
+                    HPOS="788"
+                    VPOS="624"
+                    WIDTH="1644"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7d4af94"
+                    
+                    BASELINE="791 832 2432 811" 
+                    HPOS="788"
+                    VPOS="743"
+                    WIDTH="1644"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="791 832 788 764 2428 743 2432 811 2432 832 791 852"/></Shape>
+	    <String CONTENT="هكذا، كانت المطلوبات الحدلية ستة أصناف . إلا أن أرسطو يضيف الفصل إلى"
+                    HPOS="788"
+                    VPOS="743"
+                    WIDTH="1644"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b5824d2"
+                    
+                    BASELINE="794 955 2425 941" 
+                    HPOS="791"
+                    VPOS="876"
+                    WIDTH="1634"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="794 955 791 890 2422 876 2425 941 2425 968 794 982"/></Shape>
+	    <String CONTENT="الجنس ويجعله فی باب واحد، وكذلك الرسم يضيفه إلى الخاصة، فتحصل"
+                    HPOS="791"
+                    VPOS="876"
+                    WIDTH="1634"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec304e77"
+                    
+                    BASELINE="801 1077 2432 1067" 
+                    HPOS="798"
+                    VPOS="1002"
+                    WIDTH="1634"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="801 1077 798 1013 2428 1002 2432 1067 2432 1091 801 1101"/></Shape>
+	    <String CONTENT="المطلوبات الحدلية عنده أربعة أصناف : اما حدود، وإما خواص، وإما"
+                    HPOS="798"
+                    VPOS="1002"
+                    WIDTH="1634"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e865dc5"
+                    
+                    BASELINE="791 1210 2435 1197" 
+                    HPOS="788"
+                    VPOS="1122"
+                    WIDTH="1647"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="791 1210 788 1135 2432 1122 2435 1197 2435 1221 791 1234"/></Shape>
+	    <String CONTENT="أجناس ، وإما أعراض. وقصده بذلك أن يبين المواضع التى تستعمل فى مطلوب"
+                    HPOS="788"
+                    VPOS="1122"
+                    WIDTH="1647"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff8eaed4"
+                    
+                    BASELINE="805 1650 2377 1633" 
+                    HPOS="801"
+                    VPOS="1572"
+                    WIDTH="1576"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="805 1650 801 1589 2374 1572 2377 1633 2377 1654 805 1671"/></Shape>
+	    <String CONTENT="ويختلفان فى أن الفصل يبميز النوع عن كل ما يشاركه فى جنسه القريب ، وأن الفصل يتلو الجنس"
+                    HPOS="801"
+                    VPOS="1572"
+                    WIDTH="1576"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1211a556"
+                    
+                    BASELINE="2162 1732 2442 1732" 
+                    HPOS="2162"
+                    VPOS="1681"
+                    WIDTH="280"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="2162 1732 2162 1681 2442 1681 2442 1732 2442 1756 2162 1756"/></Shape>
+	    <String CONTENT="فى الترتيب*"
+                    HPOS="2162"
+                    VPOS="1681"
+                    WIDTH="280"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c854797"
+                    
+                    BASELINE="1463 504 1736 497" 
+                    HPOS="1460"
+                    VPOS="446"
+                    WIDTH="276"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1463 504 1460 453 1732 446 1736 497 1736 511 1463 518"/></Shape>
+	    <String CONTENT="17 "
+                    HPOS="1460"
+                    VPOS="446"
+                    WIDTH="276"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52fd2516"
+                    
+                    BASELINE="1193 1947 1251 1947" 
+                    HPOS="1193"
+                    VPOS="1893"
+                    WIDTH="58"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1193 1947 1193 1893 1251 1893 1251 1947 1251 1961 1193 1961"/></Shape>
+	    <String CONTENT="6"
+                    HPOS="1193"
+                    VPOS="1893"
+                    WIDTH="58"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_668d93aa"
+                    
+                    BASELINE="859 1940 999 1944" 
+                    HPOS="856"
+                    VPOS="1889"
+                    WIDTH="143"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="859 1940 859 1889 999 1893 999 1944 996 1957 856 1954"/></Shape>
+	    <String CONTENT="4،r3)"
+                    HPOS="856"
+                    VPOS="1889"
+                    WIDTH="143"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_742ef7db"
+                    
+                    BASELINE="1821 2111 1961 2111" 
+                    HPOS="1821"
+                    VPOS="2063"
+                    WIDTH="140"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1821 2111 1821 2063 1961 2063 1961 2111 1961 2135 1821 2135"/></Shape>
+	    <String CONTENT="16"
+                    HPOS="1821"
+                    VPOS="2063"
+                    WIDTH="140"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ddcd5cc"
+                    
+                    BASELINE="815 2469 2456 2483" 
+                    HPOS="811"
+                    VPOS="2411"
+                    WIDTH="1645"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="815 2469 815 2411 2456 2425 2456 2483 2452 2503 811 2489"/></Shape>
+	    <String CONTENT="وليس ينبغى أن يظن بنا أحد أنا نقول إن كل واحد من هذه إذا قيل على حدته فهو اما مسئلة، وإما"
+                    HPOS="811"
+                    VPOS="2411"
+                    WIDTH="1645"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3478af9"
+                    
+                    BASELINE="828 2687 2387 2680" 
+                    HPOS="825"
+                    VPOS="2626"
+                    WIDTH="1562"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="828 2687 825 2633 2384 2626 2387 2680 2387 2697 828 2704"/></Shape>
+	    <String CONTENT="الفارا، الجدل، مخطوط براتيسلافا، ورقة 240 12١ 240ب 1 :  وينبغی"
+                    HPOS="825"
+                    VPOS="2626"
+                    WIDTH="1562"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd882021"
+                    
+                    BASELINE="822 2878 2449 2878" 
+                    HPOS="822"
+                    VPOS="2820"
+                    WIDTH="1627"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="822 2878 822 2820 2449 2820 2449 2878 2449 2895 822 2895"/></Shape>
+	    <String CONTENT="مخلو محمولها من أن يكون جنسا أو فصلا أو خاصة او حدا أو رسما أو عرضا أوشيئا غير ذلك مما يجعل"
+                    HPOS="822"
+                    VPOS="2820"
+                    WIDTH="1627"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d3e43a7"
+                    
+                    BASELINE="828 3056 2452 3066" 
+                    HPOS="825"
+                    VPOS="3004"
+                    WIDTH="1627"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="828 3056 828 3004 2452 3015 2452 3066 2449 3090 825 3079"/></Shape>
+	    <String CONTENT="أجناس المقدمات الجدلية من جهة محمولاتها على عدد أجناس المطلوبات . وموضوعات هذه الصناعة"
+                    HPOS="825"
+                    VPOS="3004"
+                    WIDTH="1627"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04b1b4fe"
+                    
+                    BASELINE="1156 3250 2449 3264" 
+                    HPOS="1153"
+                    VPOS="3192"
+                    WIDTH="1296"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1156 3250 1156 3192 2449 3206 2449 3264 2445 3291 1153 3277"/></Shape>
+	    <String CONTENT="والكيفية والاضافة وأين ومتى والوضع وأن يكون له رأن يفعل وأن ينفعل * ."
+                    HPOS="1153"
+                    VPOS="3192"
+                    WIDTH="1296"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2432faba"
+                    
+                    BASELINE="658 1210 692 1210" 
+                    HPOS="658"
+                    VPOS="1169"
+                    WIDTH="34"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="658 1210 658 1169 692 1169 692 1210 692 1227 658 1227"/></Shape>
+	    <String CONTENT="5"
+                    HPOS="658"
+                    VPOS="1169"
+                    WIDTH="34"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47235b4e"
+                    
+                    BASELINE="801 1357 2374 1350" 
+                    HPOS="798"
+                    VPOS="1296"
+                    WIDTH="1576"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="801 1357 798 1302 2370 1296 2374 1350 2374 1367 801 1374"/></Shape>
+	    <String CONTENT="(1) الفارابی، الجدل، مخطوط براتيسلافا، ورقة 235 ١ 1 5 : و والفصل بشارك"
+                    HPOS="798"
+                    VPOS="1296"
+                    WIDTH="1576"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc083abc"
+                    
+                    BASELINE="801 1459 2439 1442" 
+                    HPOS="798"
+                    VPOS="1381"
+                    WIDTH="1641"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="801 1459 798 1398 2435 1381 2439 1442 2439 1463 801 1480"/></Shape>
+	    <String CONTENT="الجنس فى أكثر الأشياء، فانه يعرف جرهر الشيء  كما يعرفه الجنس . وإنه يحمل أيضا على كثيرين"
+                    HPOS="798"
+                    VPOS="1381"
+                    WIDTH="1641"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4543ea92"
+                    
+                    BASELINE="1367 1541 2442 1541" 
+                    HPOS="1367"
+                    VPOS="1490"
+                    WIDTH="1075"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1367 1541 1367 1490 2442 1490 2442 1541 2442 1568 1367 1568"/></Shape>
+	    <String CONTENT="مختلفين بالنوع ، وإنه يكون جزءا لحد، كما يكون الجنس جزءا لحد 0"
+                    HPOS="1367"
+                    VPOS="1490"
+                    WIDTH="1075"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f4b671c"
+                    
+                    BASELINE="1968 2026 2452 2032" 
+                    HPOS="1964"
+                    VPOS="1971"
+                    WIDTH="488"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1968 2026 1968 1971 2452 1978 2452 2032 2449 2049 1964 2043"/></Shape>
+	    <String CONTENT="2f526 1r6r 56"
+                    HPOS="1964"
+                    VPOS="1971"
+                    WIDTH="488"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e39a9aa"
+                    
+                    BASELINE="2193 2111 2432 2107" 
+                    HPOS="2190"
+                    VPOS="2053"
+                    WIDTH="242"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2193 2111 2190 2056 2428 2053 2432 2107 2432 2131 2193 2135"/></Shape>
+	    <String CONTENT="2517  217"
+                    HPOS="2190"
+                    VPOS="2053"
+                    WIDTH="242"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a9900ed"
+                    
+                    BASELINE="822 2281 2391 2281" 
+                    HPOS="822"
+                    VPOS="2234"
+                    WIDTH="1569"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="822 2281 822 2234 2391 2234 2391 2281 2391 2305 822 2305"/></Shape>
+	    <String CONTENT="ت6 91243- ٤13 طبعة بدوی، ص4 47 : &quot;فبين مما قلنا انه يلزم أن يكون"
+                    HPOS="822"
+                    VPOS="2234"
+                    WIDTH="1569"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5a47e5c"
+                    
+                    BASELINE="822 2370 2456 2387" 
+                    HPOS="818"
+                    VPOS="2315"
+                    WIDTH="1638"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="822 2370 822 2315 2456 2333 2456 2387 2452 2404 818 2387"/></Shape>
+	    <String CONTENT="جميعها على حسب هذه القسمة : أربعة : اما حدا، وإما خاصة، وإما جنسا&quot; وإماهرضا "
+                    HPOS="818"
+                    VPOS="2315"
+                    WIDTH="1638"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_acb39b9e"
+                    
+                    BASELINE="1449 2568 2456 2568" 
+                    HPOS="1449"
+                    VPOS="2520"
+                    WIDTH="1007"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1449 2568 1449 2520 2456 2520 2456 2568 2456 2592 1449 2592"/></Shape>
+	    <String CONTENT="مقدمة&quot; لكنا نقول إن من هذه تحدث المقدمات والمسائل *"
+                    HPOS="1449"
+                    VPOS="2520"
+                    WIDTH="1007"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21da42a2"
+                    
+                    BASELINE="825 2783 2456 2776" 
+                    HPOS="822"
+                    VPOS="2718"
+                    WIDTH="1634"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="825 2783 822 2725 2452 2718 2456 2776 2456 2796 825 2803"/></Shape>
+	    <String CONTENT="أن تعلم أن محمولات المقدمات هی باعيانها فى الجنس محمولات المطلو بات . فإن كل مقدمة جدلية فليس"
+                    HPOS="822"
+                    VPOS="2718"
+                    WIDTH="1634"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb46a783"
+                    
+                    BASELINE="828 2964 2449 2970" 
+                    HPOS="825"
+                    VPOS="2909"
+                    WIDTH="1624"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="828 2964 828 2909 2449 2916 2449 2970 2445 2991 825 2984"/></Shape>
+	    <String CONTENT="محمولا فى المطلوب . وكذلك قد يكون فى المقدمات ما محموله محمول بالأكثر أو الأقل * فتكون"
+                    HPOS="825"
+                    VPOS="2909"
+                    WIDTH="1624"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f81dc290"
+                    
+                    BASELINE="818 3161 2442 3172" 
+                    HPOS="815"
+                    VPOS="3097"
+                    WIDTH="1627"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="818 3161 818 3097 2442 3107 2442 3172 2439 3189 815 3178"/></Shape>
+	    <String CONTENT="هی الأجناس العشرة كلها وكل ماتحتها من المعانى الكلية  والأجناس العشرة هى : الجوهر والكمية"
+                    HPOS="815"
+                    VPOS="3097"
+                    WIDTH="1627"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13c86d8f"
+                    
+                    BASELINE="1415 1841 2367 1848" 
+                    HPOS="1412"
+                    VPOS="1790"
+                    WIDTH="955"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1415 1841 1415 1790 2367 1797 2367 1848 2364 1865 1412 1858"/></Shape>
+	    <String CONTENT="(2) أرسطو٤ 44٤1 101 ب 23 28: 17"
+                    HPOS="1412"
+                    VPOS="1790"
+                    WIDTH="955"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a02bb3c0"
+                    
+                    BASELINE="818 1845 1002 1845" 
+                    HPOS="818"
+                    VPOS="1794"
+                    WIDTH="184"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="818 1845 818 1794 1002 1794 1002 1845 1002 1865 818 1865"/></Shape>
+	    <String CONTENT="661 "
+                    HPOS="818"
+                    VPOS="1794"
+                    WIDTH="184"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65a79a1f"
+                    
+                    BASELINE="1961 1944 2435 1944" 
+                    HPOS="1961"
+                    VPOS="1893"
+                    WIDTH="474"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1961 1944 1961 1893 2435 1893 2435 1944 2435 1961 1961 1961"/></Shape>
+	    <String CONTENT="6669f.21 655"
+                    HPOS="1961"
+                    VPOS="1893"
+                    WIDTH="474"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6fccab5"
+                    
+                    BASELINE="1156 3393 1248 3386" 
+                    HPOS="1149"
+                    VPOS="3318"
+                    WIDTH="99"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1156 3393 1149 3325 1241 3318 1248 3386 1248 3407 1156 3414"/></Shape>
+	    <String CONTENT="(2"
+                    HPOS="1149"
+                    VPOS="3318"
+                    WIDTH="99"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

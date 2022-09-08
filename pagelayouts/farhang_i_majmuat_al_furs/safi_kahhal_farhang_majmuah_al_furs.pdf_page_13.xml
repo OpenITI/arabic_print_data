@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>safi_kahhal_farhang_majmuah_al_furs.pdf_page_13.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1108" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1109" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1110" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1746"
+          HEIGHT="2692"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1746"
+                  HEIGHT="2692">
+        
+        <TextBlock HPOS="232"
+                   VPOS="476"
+                   WIDTH="1300"
+                   HEIGHT="2020"
+                   ID="eSc_textblock_13008765"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="232 476 232 2496 1532 2496 1532 476"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="249"
+                   VPOS="383"
+                   WIDTH="157"
+                   HEIGHT="82"
+                   ID="eSc_textblock_7f75effe"
+                   TAGREFS="BT1110">
+          <Shape><Polygon POINTS="249 383 249 465 406 465 406 383"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1190"
+                   VPOS="376"
+                   WIDTH="303"
+                   HEIGHT="89"
+                   ID="eSc_textblock_92c84e33"
+                   TAGREFS="BT1108">
+          <Shape><Polygon POINTS="1190 376 1190 465 1493 465 1493 376"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_itiqadat.pdf_page_20.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT841" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT842" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT843" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT844" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT30" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1466"
+                   VPOS="303"
+                   WIDTH="798"
+                   HEIGHT="145"
+                   ID="eSc_textblock_2c22a276"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1466 303 1466 448 2264 448 2264 303"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_be600c24"
+                    
+                    BASELINE="1511 394 2245 388" 
+                    HPOS="1508"
+                    VPOS="347"
+                    WIDTH="737"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1511 394 1508 353 2242 347 2245 388 2245 432 1511 438"/></Shape>
+	    <String CONTENT="الصفحة الأولى من النسخة 11 س"
+                    HPOS="1508"
+                    VPOS="347"
+                    WIDTH="737"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1184"
+                   VPOS="480"
+                   WIDTH="129"
+                   HEIGHT="101"
+                   ID="eSc_textblock_eea6eedb"
+                   TAGREFS="BT842">
+          <Shape><Polygon POINTS="1313 480 1313 581 1184 581 1184 480"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0389529b"
+                    
+                    BASELINE="1181 540 1248 532" 
+                    HPOS="1175"
+                    VPOS="485"
+                    WIDTH="76"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1181 540 1175 494 1242 485 1248 532 1251 555 1183 564"/></Shape>
+	    <String CONTENT="(1"
+                    HPOS="1175"
+                    VPOS="485"
+                    WIDTH="76"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0"
+                   VPOS="3496"
+                   WIDTH="2"
+                   HEIGHT="3"
+                   ID="eSc_textblock_bbeb0bbe"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="0 3496 2 3496 2 3499 0 3499"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2186"
+                   VPOS="3449"
+                   WIDTH="290"
+                   HEIGHT="56"
+                   ID="eSc_textblock_4ae5b15d"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2440 3484 2467 3449 2476 3505 2186 3505"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

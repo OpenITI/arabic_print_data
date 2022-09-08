@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Ibn_al_Moqafa_al_adab_al_saghir_wa_adab_al_kabir.pdf_page_6.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT886" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT887" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT888" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT889" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT38" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1773"
+          HEIGHT="2661"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1773"
+                  HEIGHT="2661">
+        
+        <TextBlock HPOS="1322"
+                   VPOS="674"
+                   WIDTH="300"
+                   HEIGHT="77"
+                   ID="eSc_textblock_398f5700"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1568 691 1622 733 1349 751 1322 716 1340 674"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2bf544dc"
+                    TAGREFS="LT38"
+                    BASELINE="1340 727 1619 729" 
+                    HPOS="1338"
+                    VPOS="671"
+                    WIDTH="281"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1340 727 1340 671 1619 674 1619 729 1617 747 1338 745"/></Shape>
+	    <String CONTENT="مولده وهويته"
+                    HPOS="1338"
+                    VPOS="671"
+                    WIDTH="281"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="682"
+                   VPOS="309"
+                   WIDTH="383"
+                   HEIGHT="172"
+                   ID="eSc_textblock_e909afc3"
+                   TAGREFS="BT889">
+          <Shape><Polygon POINTS="682 309 682 481 1065 481 1065 309"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_aa83192e"
+                    
+                    BASELINE="734 394 912 394" 
+                    HPOS="734"
+                    VPOS="348"
+                    WIDTH="178"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="734 394 734 348 912 348 912 394 912 425 734 425"/></Shape>
+	    <String CONTENT="لهففه"
+                    HPOS="734"
+                    VPOS="348"
+                    WIDTH="178"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="97"
+                   VPOS="753"
+                   WIDTH="1551"
+                   HEIGHT="974"
+                   ID="eSc_textblock_a3d31f20"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1630 771 1648 1700 1506 1727 124 1727 97 1665 106 780 159 753"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_11a42876"
+                    
+                    BASELINE="115 822 1504 831" 
+                    HPOS="113"
+                    VPOS="776"
+                    WIDTH="1391"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="115 822 115 776 1504 784 1504 831 1502 849 113 840"/></Shape>
+	    <String CONTENT="هو عبد الله بن المقفع، ولد في العراق مجوسيا (106- 724/142"
+                    HPOS="113"
+                    VPOS="776"
+                    WIDTH="1391"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d3c11c0"
+                    
+                    BASELINE="133 918 1608 924" 
+                    HPOS="130"
+                    VPOS="873"
+                    WIDTH="1478"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="133 918 133 873 1608 880 1608 924 1606 940 130 933"/></Shape>
+	    <String CONTENT="759م): أصله من الفرس، وكان اسمه روزبه وكنيته أبا عمرو قبل إسلامه، اتهم"
+                    HPOS="130"
+                    VPOS="873"
+                    WIDTH="1478"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4d69cd4"
+                    
+                    BASELINE="124 1006 1615 1017" 
+                    HPOS="122"
+                    VPOS="960"
+                    WIDTH="1493"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="124 1006 124 960 1615 971 1615 1017 1613 1033 122 1022"/></Shape>
+	    <String CONTENT="بالزندقة، وفى هذا المجال قال ابن خلكان(1): &quot;كان يجتمع هو ويحيى بن زياد"
+                    HPOS="122"
+                    VPOS="960"
+                    WIDTH="1493"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e22efd60"
+                    
+                    BASELINE="133 1099 672 1099 834 1108 1613 1104" 
+                    HPOS="133"
+                    VPOS="1048"
+                    WIDTH="1480"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="133 1099 133 1048 672 1048 674 1048 703 1048 834 1057 1611 1053 1613 1104 1613 1124 834 1128 832 1128 701 1122 670 1122 133 1122"/></Shape>
+	    <String CONTENT="الحارثى وحماد الراويه وابن المقفع ووالب بن الحباب ويتنادمون لا يفترون ولا"
+                    HPOS="133"
+                    VPOS="1048"
+                    WIDTH="1480"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a0735c1"
+                    
+                    BASELINE="126 1181 863 1197 1619 1197" 
+                    HPOS="124"
+                    VPOS="1130"
+                    WIDTH="1495"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="126 1181 126 1130 863 1146 1619 1146 1619 1197 1619 1219 863 1219 860 1217 124 1201"/></Shape>
+	    <String CONTENT="يستأثر أحد منهم على صاحبه بمال؛ وكان يرمى الجميع بالزندقة&quot;(2). وقيل(3) : &quot;ما"
+                    HPOS="124"
+                    VPOS="1130"
+                    WIDTH="1495"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1305b31c"
+                    
+                    BASELINE="765 1277 1611 1288" 
+                    HPOS="763"
+                    VPOS="1230"
+                    WIDTH="848"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="765 1277 765 1230 1611 1241 1611 1288 1608 1310 763 1299"/></Shape>
+	    <String CONTENT="وجد كتاب زندقة إلا وأصله من ابن المقفع&quot;(4)."
+                    HPOS="763"
+                    VPOS="1230"
+                    WIDTH="848"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_48c1dc6d"
+                    TAGREFS="LT38"
+                    BASELINE="1455 1392 1606 1388" 
+                    HPOS="1453"
+                    VPOS="1341"
+                    WIDTH="153"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1455 1392 1453 1346 1604 1341 1606 1388 1606 1408 1455 1412"/></Shape>
+	    <String CONTENT="اسلامه"
+                    HPOS="1453"
+                    VPOS="1341"
+                    WIDTH="153"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37cb5cf7"
+                    
+                    BASELINE="119 1490 632 1490 876 1501 1500 1494" 
+                    HPOS="119"
+                    VPOS="1432"
+                    WIDTH="1381"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="119 1490 119 1432 632 1432 634 1432 672 1434 876 1443 1497 1436 1500 1494 1500 1516 876 1523 874 1523 670 1514 630 1514 119 1514"/></Shape>
+	    <String CONTENT="أسلم ابن المقفع على يد عيسى بن علي عم السفاح والمنصور الخليفتين"
+                    HPOS="119"
+                    VPOS="1432"
+                    WIDTH="1381"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45b7c0f5"
+                    
+                    BASELINE="119 1576 1611 1592" 
+                    HPOS="117"
+                    VPOS="1530"
+                    WIDTH="1494"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="119 1576 119 1530 1611 1545 1611 1592 1608 1607 117 1592"/></Shape>
+	    <String CONTENT="الأولين من خلفاء بنى العباس، فسمى نفسه عبد الله بن المقفع. وقد حكى"
+                    HPOS="117"
+                    VPOS="1530"
+                    WIDTH="1494"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a136e4a4"
+                    
+                    BASELINE="115 1671 459 1667 727 1685 1604 1680" 
+                    HPOS="113"
+                    VPOS="1609"
+                    WIDTH="1491"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="115 1671 113 1614 457 1609 461 1609 568 1616 727 1627 1602 1623 1604 1680 1604 1703 727 1707 725 1707 565 1696 457 1689 115 1694"/></Shape>
+	    <String CONTENT="الهيثم بن عدي قال: &quot;جاء ابن المقفع إلى عيسى بن علي فقال له: &quot;قد دخل"
+                    HPOS="113"
+                    VPOS="1609"
+                    WIDTH="1491"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="106"
+                   VPOS="1747"
+                   WIDTH="1542"
+                   HEIGHT="698"
+                   ID="eSc_textblock_15b15e72"
+                   TAGREFS="BT886">
+          <Shape><Polygon POINTS="1648 1756 1622 1773 1648 1827 1648 1975 1622 2002 1648 2046 1639 2108 1595 2128 1639 2137 1630 2295 1586 2419 1142 2445 124 2419 106 1747"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_77211444"
+                    
+                    BASELINE="115 1780 1588 1789" 
+                    HPOS="113"
+                    VPOS="1742"
+                    WIDTH="1475"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="115 1780 115 1742 1588 1751 1588 1789 1586 1800 113 1791"/></Shape>
+	    <String CONTENT="1) هو أحمد بن محمد بن إبراهيم بن خلكان قاضى القضاة شمس الدين أبو العباس البرمكى الشافعى"
+                    HPOS="113"
+                    VPOS="1742"
+                    WIDTH="1475"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae5e95fd"
+                    
+                    BASELINE="117 1851 1500 1860" 
+                    HPOS="115"
+                    VPOS="1809"
+                    WIDTH="1385"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="117 1851 117 1809 1500 1818 1500 1860 1497 1871 115 1862"/></Shape>
+	    <String CONTENT="الاربلى (ت 681ه/1282 م) انظر السبكى، الطبقات، ج5، ص 14، وابن تغري بردي،"
+                    HPOS="115"
+                    VPOS="1809"
+                    WIDTH="1385"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6981451d"
+                    
+                    BASELINE="201 1913 1502 1924" 
+                    HPOS="199"
+                    VPOS="1878"
+                    WIDTH="1303"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="201 1913 201 1878 1502 1889 1502 1924 1500 1942 199 1931"/></Shape>
+	    <String CONTENT="النجوم الزاهرة، ج 7، ص 353 وابن العماد الحتبلى، شذرات الذهب ج5، ص 371."
+                    HPOS="199"
+                    VPOS="1878"
+                    WIDTH="1303"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_612caff4"
+                    
+                    BASELINE="119 1984 1504 2002" 
+                    HPOS="117"
+                    VPOS="1942"
+                    WIDTH="1387"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="119 1984 119 1942 1504 1960 1504 2002 1502 2015 117 1997"/></Shape>
+	    <String CONTENT="ابن خلكان، وفيات الأعيان، ج 2، ص 151، وابن شاكر الكتبى، الوافى بالوفيات ج4،"
+                    HPOS="117"
+                    VPOS="1942"
+                    WIDTH="1387"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46b8b552"
+                    
+                    BASELINE="1537 2000 1573 2004" 
+                    HPOS="1535"
+                    VPOS="1953"
+                    WIDTH="42"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1537 2000 1542 1953 1577 1958 1573 2004 1571 2017 1535 2013"/></Shape>
+	    <String CONTENT="(1"
+                    HPOS="1535"
+                    VPOS="1953"
+                    WIDTH="42"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e1b002c"
+                    
+                    BASELINE="110 2055 1493 2066" 
+                    HPOS="108"
+                    VPOS="2015"
+                    WIDTH="1385"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="110 2055 110 2015 1493 2026 1493 2066 1491 2077 108 2066"/></Shape>
+	    <String CONTENT="ص 145؛ والأصفهانى، الأغانى، تحقيق لجنة من الأدباء دار الثقافة، بيروت لبنان، ط6،"
+                    HPOS="108"
+                    VPOS="2015"
+                    WIDTH="1385"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02b8f7e0"
+                    
+                    BASELINE="1273 2133 1493 2128" 
+                    HPOS="1271"
+                    VPOS="2091"
+                    WIDTH="222"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1273 2133 1271 2095 1491 2091 1493 2128 1493 2139 1273 2144"/></Shape>
+	    <String CONTENT="1983/1404"
+                    HPOS="1271"
+                    VPOS="2091"
+                    WIDTH="222"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4f8050c"
+                    
+                    BASELINE="960 2201 1508 2206" 
+                    HPOS="958"
+                    VPOS="2159"
+                    WIDTH="550"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="960 2201 960 2159 1508 2164 1508 2206 1506 2219 958 2215"/></Shape>
+	    <String CONTENT="المهدي بن المنصور الخليفة العباسى."
+                    HPOS="958"
+                    VPOS="2159"
+                    WIDTH="550"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbca19ef"
+                    
+                    BASELINE="1535 2206 1582 2208" 
+                    HPOS="1533"
+                    VPOS="2162"
+                    WIDTH="49"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1535 2206 1535 2162 1582 2164 1582 2208 1579 2221 1533 2219"/></Shape>
+	    <String CONTENT="(3"
+                    HPOS="1533"
+                    VPOS="2162"
+                    WIDTH="49"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98594c7d"
+                    
+                    BASELINE="124 2257 818 2264" 
+                    HPOS="122"
+                    VPOS="2215"
+                    WIDTH="696"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="124 2257 124 2215 818 2221 818 2264 816 2275 122 2268"/></Shape>
+	    <String CONTENT="طبعة مصر 1351- 1358ه. والقفاع جمع"
+                    HPOS="122"
+                    VPOS="2215"
+                    WIDTH="696"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7cdfb0a1"
+                    
+                    BASELINE="1067 2270 1502 2275" 
+                    HPOS="1065"
+                    VPOS="2226"
+                    WIDTH="437"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1067 2270 1067 2226 1502 2230 1502 2275 1500 2286 1065 2281"/></Shape>
+	    <String CONTENT="ابن كثير، البداية والنهاية، ج"
+                    HPOS="1065"
+                    VPOS="2226"
+                    WIDTH="437"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05bfa233"
+                    
+                    BASELINE="117 2319 632 2332 1497 2328" 
+                    HPOS="115"
+                    VPOS="2272"
+                    WIDTH="1382"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="117 2319 117 2272 632 2286 1495 2281 1497 2328 1497 2348 632 2352 630 2352 115 2339"/></Shape>
+	    <String CONTENT="القفعة، وهي هنة تتخذ من خوص تشبه الزبيل ليس بالكبير لا عرق لها، يجنى فيها الثمر،"
+                    HPOS="115"
+                    VPOS="2272"
+                    WIDTH="1382"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_440cc6a7"
+                    
+                    BASELINE="1122 2403 1495 2403" 
+                    HPOS="1122"
+                    VPOS="2359"
+                    WIDTH="373"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1122 2403 1122 2359 1495 2359 1495 2403 1495 2417 1122 2417"/></Shape>
+	    <String CONTENT="والخوص: أوراق النخيل."
+                    HPOS="1122"
+                    VPOS="2359"
+                    WIDTH="373"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="810"
+                   VPOS="2487"
+                   WIDTH="70"
+                   HEIGHT="48"
+                   ID="eSc_textblock_447efff3"
+                   TAGREFS="BT888">
+          <Shape><Polygon POINTS="880 2487 880 2535 810 2535 810 2487"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

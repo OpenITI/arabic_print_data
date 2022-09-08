@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>balatunusi_tahrir_al_maqal.pdf_page_34.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT920" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT921" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT922" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT923" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/>
+    <OtherTag ID="LT41" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1979"
+          HEIGHT="2682"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1979"
+                  HEIGHT="2682">
+        
+        <TextBlock HPOS="322"
+                   VPOS="160"
+                   WIDTH="1558"
+                   HEIGHT="2010"
+                   ID="eSc_textblock_fbc9a20f"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1817 160 1871 196 1871 409 1844 447 1880 742 1844 1108 1871 1197 1844 2170 322 2170 339 160"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fe335d27"
+                    
+                    BASELINE="342 225 1813 221" 
+                    HPOS="339"
+                    VPOS="174"
+                    WIDTH="1474"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="342 225 339 178 1811 174 1813 221 1813 243 342 248"/></Shape>
+	    <String CONTENT="وقفوا بعضها على الأعمال الخيرية فكانوا كالتى تزنى وتتصدق ، وما كانت"
+                    HPOS="339"
+                    VPOS="174"
+                    WIDTH="1474"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8aaebd78"
+                    
+                    BASELINE="344 308 1822 301" 
+                    HPOS="342"
+                    VPOS="248"
+                    WIDTH="1480"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="344 308 342 254 1820 248 1822 301 1822 319 344 326"/></Shape>
+	    <String CONTENT="صدقاتهم فى الحقيقة إلا فراراً بأموالهم من المصادرات ، لأن مصادرة الوزراء"
+                    HPOS="342"
+                    VPOS="248"
+                    WIDTH="1480"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92820c1b"
+                    
+                    BASELINE="366 375 632 391 1822 382" 
+                    HPOS="364"
+                    VPOS="319"
+                    WIDTH="1458"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="366 375 368 319 632 335 1820 326 1822 382 1822 406 632 415 630 415 364 400"/></Shape>
+	    <String CONTENT="والامراء أصبحت فى الدولة العثمانية مورداً من الموارد التى تعيش بها الدولة (1)"
+                    HPOS="364"
+                    VPOS="319"
+                    WIDTH="1458"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a073ef5c"
+                    TAGREFS="LT41"
+                    BASELINE="1292 587 1815 587" 
+                    HPOS="1292"
+                    VPOS="529"
+                    WIDTH="523"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1292 587 1292 529 1815 529 1815 587 1815 605 1292 605"/></Shape>
+	    <String CONTENT=" انيا : الحالة الاقتصادية"
+                    HPOS="1292"
+                    VPOS="529"
+                    WIDTH="523"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8e54cbb"
+                    TAGREFS="LT41"
+                    BASELINE="867 726 1817 721" 
+                    HPOS="865"
+                    VPOS="668"
+                    WIDTH="952"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="867 726 865 672 1815 668 1817 721 1817 737 867 742"/></Shape>
+	    <String CONTENT="أ- الحالة الاقتصادية فى عهد المماليك الأخير :"
+                    HPOS="865"
+                    VPOS="668"
+                    WIDTH="952"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76398465"
+                    
+                    BASELINE="335 822 1715 835" 
+                    HPOS="333"
+                    VPOS="775"
+                    WIDTH="1382"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="335 822 335 775 1715 788 1715 835 1712 851 333 838"/></Shape>
+	    <String CONTENT="إذا كانت دولة المماليك قد تمتعت فی بدايتها بمركز اقتصادى مرموق - إذ"
+                    HPOS="333"
+                    VPOS="775"
+                    WIDTH="1382"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d426a571"
+                    
+                    BASELINE="335 916 1820 911" 
+                    HPOS="333"
+                    VPOS="858"
+                    WIDTH="1487"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="335 916 333 862 1817 858 1820 911 1820 929 335 934"/></Shape>
+	    <String CONTENT="اشتهرت بثرواتها الطائلة لازدهار التجارة الداخلية والخارجية والانتعاش الذى شمل"
+                    HPOS="333"
+                    VPOS="858"
+                    WIDTH="1487"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3fbf07e"
+                    
+                    BASELINE="333 985 1815 996" 
+                    HPOS="330"
+                    VPOS="938"
+                    WIDTH="1485"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="333 985 333 938 1815 949 1815 996 1813 1014 330 1003"/></Shape>
+	    <String CONTENT="جميع مرافق الحياة من زراعة وصناعة وتجارة - فان تلك الحالة الاقتصادية تلقت"
+                    HPOS="330"
+                    VPOS="938"
+                    WIDTH="1485"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8bd68156"
+                    
+                    BASELINE="335 1068 1440 1079 1815 1070" 
+                    HPOS="333"
+                    VPOS="1014"
+                    WIDTH="1482"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="335 1068 335 1014 1437 1025 1813 1016 1815 1070 1815 1092 1440 1101 1437 1101 333 1090"/></Shape>
+	    <String CONTENT="ضربة أدت إلى تدهورها وانحطاط قوتها فی عهد المماليك الأخير(3) ، وبداية عصر"
+                    HPOS="333"
+                    VPOS="1014"
+                    WIDTH="1482"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_433b6b6c"
+                    
+                    BASELINE="1196 1155 1817 1148" 
+                    HPOS="1194"
+                    VPOS="1104"
+                    WIDTH="623"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1196 1155 1194 1110 1815 1104 1817 1148 1817 1171 1196 1177"/></Shape>
+	    <String CONTENT="الدولة العثمانية على النحو التالى :"
+                    HPOS="1194"
+                    VPOS="1104"
+                    WIDTH="623"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d6aa389"
+                    
+                    BASELINE="330 1262 1659 1262" 
+                    HPOS="330"
+                    VPOS="1209"
+                    WIDTH="1329"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="330 1262 330 1209 1659 1209 1659 1262 1659 1278 330 1278"/></Shape>
+	    <String CONTENT=" الزراعة : يمكن أن يقال إن البلاد خربت بنزول الفاتحين والمخربين"
+                    HPOS="330"
+                    VPOS="1209"
+                    WIDTH="1329"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b94f9ec5"
+                    
+                    BASELINE="335 1334 1817 1341" 
+                    HPOS="333"
+                    VPOS="1282"
+                    WIDTH="1484"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="335 1334 335 1282 1817 1289 1817 1341 1815 1361 333 1354"/></Shape>
+	    <String CONTENT="والعاهات الطبيعية، ثم من فساد النظام فى الدولتين الجركسية والتركية فى القرون"
+                    HPOS="333"
+                    VPOS="1282"
+                    WIDTH="1484"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8617b6c"
+                    
+                    BASELINE="333 1412 1815 1421" 
+                    HPOS="330"
+                    VPOS="1370"
+                    WIDTH="1485"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="333 1412 333 1370 1815 1378 1815 1421 1813 1441 330 1432"/></Shape>
+	    <String CONTENT="الوسطى إلى هذا العهد . وقد كانت قرونا مسرح ظلم ، وميدان حروب،"
+                    HPOS="330"
+                    VPOS="1370"
+                    WIDTH="1485"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c84182ff"
+                    
+                    BASELINE="333 1488 516 1499 1815 1501" 
+                    HPOS="330"
+                    VPOS="1432"
+                    WIDTH="1485"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="333 1488 335 1432 516 1443 1815 1446 1815 1501 1813 1522 514 1519 514 1519 330 1508"/></Shape>
+	    <String CONTENT="وغارات يهلك الفلاح فيها كما يهلك النمل تحت الأقدام ، قبل أن يهلك ابن المدن"
+                    HPOS="330"
+                    VPOS="1432"
+                    WIDTH="1485"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e1bdd86"
+                    
+                    BASELINE="330 1571 1813 1580" 
+                    HPOS="328"
+                    VPOS="1528"
+                    WIDTH="1485"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="330 1571 330 1528 1813 1537 1813 1580 1811 1600 328 1591"/></Shape>
+	    <String CONTENT="الذى له من اجتماعه بأخيه واعتصامه وراء حصنه وسوره بعض الوقاية ، وكانت"
+                    HPOS="328"
+                    VPOS="1528"
+                    WIDTH="1485"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d42bbc90"
+                    
+                    BASELINE="330 1658 1813 1662" 
+                    HPOS="328"
+                    VPOS="1609"
+                    WIDTH="1485"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="330 1658 330 1609 1813 1613 1813 1662 1811 1682 328 1678"/></Shape>
+	    <String CONTENT="القرى التى على جوانب الطريق تخرب قبل غيرها ، وعلى نسبة قرب القرية من"
+                    HPOS="328"
+                    VPOS="1609"
+                    WIDTH="1485"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b60553f3"
+                    
+                    BASELINE="330 1734 1813 1738" 
+                    HPOS="328"
+                    VPOS="1682"
+                    WIDTH="1485"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="330 1734 330 1682 1813 1687 1813 1738 1811 1758 328 1754"/></Shape>
+	    <String CONTENT="المدينة أو من الطرق الموصلة بين البلاد أو طرق الغزاة والفاتحين كان الخراب إليها"
+                    HPOS="328"
+                    VPOS="1682"
+                    WIDTH="1485"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b597dc9"
+                    
+                    BASELINE="330 1814 1811 1819" 
+                    HPOS="328"
+                    VPOS="1763"
+                    WIDTH="1483"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="330 1814 330 1763 1811 1767 1811 1819 1809 1839 328 1834"/></Shape>
+	    <String CONTENT="أسرع من الماء إلى الحدود، وكان من دلائل القوة فى تلك العصور أن تخرب"
+                    HPOS="328"
+                    VPOS="1763"
+                    WIDTH="1483"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b5f59af"
+                    
+                    BASELINE="330 1890 1811 1899" 
+                    HPOS="328"
+                    VPOS="1841"
+                    WIDTH="1483"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="330 1890 330 1841 1811 1850 1811 1899 1809 1922 328 1913"/></Shape>
+	    <String CONTENT="القرى وتلقى النار فيها إذا غضب الملك أو الأمير أو صاحب الاقطاع على ذاك"
+                    HPOS="328"
+                    VPOS="1841"
+                    WIDTH="1483"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17091174"
+                    
+                    BASELINE="328 1973 1809 1977" 
+                    HPOS="326"
+                    VPOS="1924"
+                    WIDTH="1483"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="328 1973 328 1924 1809 1928 1809 1977 1806 2002 326 1998"/></Shape>
+	    <String CONTENT="الاقليم أو تلك القرية ، وكان قطع الأشجار من أبلغ النكاية فى الخصم ، وكانت"
+                    HPOS="326"
+                    VPOS="1924"
+                    WIDTH="1483"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd7b45d6"
+                    
+                    BASELINE="333 2056 1813 2056" 
+                    HPOS="333"
+                    VPOS="2009"
+                    WIDTH="1480"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="333 2056 333 2009 1813 2009 1813 2056 1813 2080 333 2080"/></Shape>
+	    <String CONTENT="الظالم الأرضية والمفاسد البشرية أشد تأثيراً فى أهل الفلاحة والقائمين على تربية"
+                    HPOS="333"
+                    VPOS="2009"
+                    WIDTH="1480"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6d9aa66"
+                    
+                    BASELINE="328 2127 1466 2145 1811 2134" 
+                    HPOS="326"
+                    VPOS="2074"
+                    WIDTH="1485"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="328 2127 328 2074 1464 2091 1809 2080 1811 2134 1811 2161 1466 2172 1464 2172 326 2154"/></Shape>
+	    <String CONTENT="الماشية والضرع من الآفات السماوية ، كالزلازل ، والأوبئة ، والقحط من قلة"
+                    HPOS="326"
+                    VPOS="2074"
+                    WIDTH="1485"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1026"
+                   VPOS="2181"
+                   WIDTH="812"
+                   HEIGHT="257"
+                   ID="eSc_textblock_bfdf4a1b"
+                   TAGREFS="BT920">
+          <Shape><Polygon POINTS="1838 2193 1791 2333 1817 2375 1775 2375 1791 2411 1737 2429 1089 2438 1026 2411 1138 2187 1326 2188 1346 2181"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_586047e3"
+                    
+                    BASELINE="1104 2261 1730 2268" 
+                    HPOS="1102"
+                    VPOS="2221"
+                    WIDTH="628"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1104 2261 1104 2221 1730 2228 1730 2268 1728 2281 1102 2275"/></Shape>
+	    <String CONTENT="(1) انظر خطط الشام 5/ 114،113."
+                    HPOS="1102"
+                    VPOS="2221"
+                    WIDTH="628"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9e79d2e"
+                    
+                    BASELINE="1169 2322 1719 2326" 
+                    HPOS="1167"
+                    VPOS="2284"
+                    WIDTH="552"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1169 2322 1169 2284 1719 2288 1719 2326 1717 2342 1167 2337"/></Shape>
+	    <String CONTENT="2) حطط الشام 114،113/5."
+                    HPOS="1167"
+                    VPOS="2284"
+                    WIDTH="552"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc8ed003"
+                    
+                    BASELINE="1071 2384 1737 2395" 
+                    HPOS="1068"
+                    VPOS="2342"
+                    WIDTH="669"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1071 2384 1071 2342 1737 2353 1737 2395 1735 2416 1068 2404"/></Shape>
+	    <String CONTENT="(3) العصر المماليكى فى مصر والشام 308."
+                    HPOS="1068"
+                    VPOS="2342"
+                    WIDTH="669"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="322"
+                   VPOS="2565"
+                   WIDTH="78"
+                   HEIGHT="70"
+                   ID="eSc_textblock_076607ff"
+                   TAGREFS="BT922">
+          <Shape><Polygon POINTS="400 2565 400 2626 322 2635 322 2565"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_42694917"
+                    
+                    BASELINE="328 2610 393 2610" 
+                    HPOS="328"
+                    VPOS="2572"
+                    WIDTH="65"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="328 2610 328 2572 393 2572 393 2610 393 2628 328 2628"/></Shape>
+	    <String CONTENT="35"
+                    HPOS="328"
+                    VPOS="2572"
+                    WIDTH="65"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

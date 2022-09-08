@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Faraghani_-_MashariqDarari_-_1978.pdf_page_9.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1102" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1103" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1104" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2042"
+          HEIGHT="2942"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2042"
+                  HEIGHT="2942">
+        
+        <TextBlock HPOS="1423"
+                   VPOS="323"
+                   WIDTH="312"
+                   HEIGHT="96"
+                   ID="eSc_textblock_161bb70c"
+                   TAGREFS="BT1104">
+          <Shape><Polygon POINTS="1715 333 1735 419 1423 409 1443 343 1531 323"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6aec0286"
+                    
+                    BASELINE="1452 392 1720 387" 
+                    HPOS="1450"
+                    VPOS="348"
+                    WIDTH="270"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1452 392 1450 353 1718 348 1720 387 1720 402 1452 406"/></Shape>
+	    <String CONTENT="مشارق الشدراری"
+                    HPOS="1450"
+                    VPOS="348"
+                    WIDTH="270"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="373"
+                   VPOS="470"
+                   WIDTH="1430"
+                   HEIGHT="1753"
+                   ID="eSc_textblock_c82615b5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1794 490 1803 1723 1784 2135 1745 2223 402 2223 373 2174 373 539 402 470"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d23fe787"
+                    
+                    BASELINE="409 556 726 549 1013 558 1720 541" 
+                    HPOS="407"
+                    VPOS="482"
+                    WIDTH="1313"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="409 556 407 497 724 490 726 490 809 492 1013 500 1718 482 1720 541 1720 563 1013 581 1011 581 809 573 724 571 409 578"/></Shape>
+	    <String CONTENT="نوشتهاند و خود قونوی یکی از فارسی نویسان بزرگ اعصار و دهور"
+                    HPOS="407"
+                    VPOS="482"
+                    WIDTH="1313"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_edf7ade3"
+                    
+                    BASELINE="1332 634 1720 632" 
+                    HPOS="1330"
+                    VPOS="595"
+                    WIDTH="390"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1332 634 1330 598 1718 595 1720 632 1720 652 1332 654"/></Shape>
+	    <String CONTENT="باید محسوب شود."
+                    HPOS="1330"
+                    VPOS="595"
+                    WIDTH="390"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76ec60ad"
+                    
+                    BASELINE="412 728 1428 733 1624 720" 
+                    HPOS="409"
+                    VPOS="666"
+                    WIDTH="1215"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="412 728 412 674 1425 679 1619 666 1624 720 1624 740 1428 752 1425 752 409 747"/></Shape>
+	    <String CONTENT="افاضل حوزهٔ درسی قونوی و تربیت شدگان حوزه این شاگرد بزرگ"
+                    HPOS="409"
+                    VPOS="666"
+                    WIDTH="1215"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be3b7b95"
+                    
+                    BASELINE="412 816 1720 828" 
+                    HPOS="409"
+                    VPOS="764"
+                    WIDTH="1311"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="412 816 412 764 1720 777 1720 828 1718 845 409 833"/></Shape>
+	    <String CONTENT="بیش از تلامیذ حوزه علمی شیخ اکبر، ابن عربی استاد قونوی کما و کبفاً"
+                    HPOS="409"
+                    VPOS="764"
+                    WIDTH="1311"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ab39d41"
+                    
+                    BASELINE="409 912 1725 912" 
+                    HPOS="409"
+                    VPOS="862"
+                    WIDTH="1316"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="409 912 409 862 1725 862 1725 912 1725 926 409 926"/></Shape>
+	    <String CONTENT=" دارای رتبت تقشدمند، وآثاری که قونوی و تلامیذ وعرفای بعد ازاو"
+                    HPOS="409"
+                    VPOS="862"
+                    WIDTH="1316"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21f32ced"
+                    
+                    BASELINE="412 1002 1730 997" 
+                    HPOS="409"
+                    VPOS="946"
+                    WIDTH="1321"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="412 1002 409 951 1727 946 1730 997 1730 1014 412 1019"/></Shape>
+	    <String CONTENT="در عرفان و تفسبر و حدیث بوجود آوردهاند از آثار عرفای قبل از خود"
+                    HPOS="409"
+                    VPOS="946"
+                    WIDTH="1321"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6146d77d"
+                    
+                    BASELINE="431 1083 606 1095 1722 1086" 
+                    HPOS="429"
+                    VPOS="1034"
+                    WIDTH="1293"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="431 1083 434 1034 606 1046 1720 1037 1722 1086 1722 1108 606 1117 603 1115 429 1103"/></Shape>
+	    <String CONTENT="مسندلتر ومنظمتر وعمیقتر ومبسرا ومنزه از خبال پردازی میباشند ."
+                    HPOS="429"
+                    VPOS="1034"
+                    WIDTH="1293"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85cd3309"
+                    
+                    BASELINE="409 1174 1619 1181" 
+                    HPOS="407"
+                    VPOS="1127"
+                    WIDTH="1212"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="409 1174 409 1127 1619 1135 1619 1181 1617 1198 407 1191"/></Shape>
+	    <String CONTENT="قونوی علاوه بر آثار خود فصوص الحكم ونقش فصوص مختصر"
+                    HPOS="407"
+                    VPOS="1127"
+                    WIDTH="1212"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfea9d0f"
+                    
+                    BASELINE="417 1265 1718 1272" 
+                    HPOS="414"
+                    VPOS="1218"
+                    WIDTH="1304"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="417 1265 417 1218 1718 1225 1718 1272 1715 1292 414 1284"/></Shape>
+	    <String CONTENT="فصوص الحکم- اثر بی نظیر اسناد خود را تدریس می نمودو به توسسط او"
+                    HPOS="414"
+                    VPOS="1218"
+                    WIDTH="1304"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69204554"
+                    
+                    BASELINE="419 1368 1720 1358" 
+                    HPOS="417"
+                    VPOS="1306"
+                    WIDTH="1303"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="419 1368 417 1316 1718 1306 1720 1358 1720 1377 419 1387"/></Shape>
+	    <String CONTENT=" ندريج افكار و آراء محبى الدين ترويج شد وتلاميذاو برفصوص"
+                    HPOS="417"
+                    VPOS="1306"
+                    WIDTH="1303"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b02af0ef"
+                    
+                    BASELINE="596 1448 1725 1448" 
+                    HPOS="596"
+                    VPOS="1409"
+                    WIDTH="1129"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="596 1448 596 1409 1725 1409 1725 1448 1725 1471 596 1471"/></Shape>
+	    <String CONTENT=" شرحها نوشتند و تقریرات اسناد عظیم خود را ضبط نمودند."
+                    HPOS="596"
+                    VPOS="1409"
+                    WIDTH="1129"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a94957ac"
+                    
+                    BASELINE="822 1596 1551 1586" 
+                    HPOS="819"
+                    VPOS="1542"
+                    WIDTH="732"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="822 1596 819 1551 1548 1542 1551 1586 1551 1603 822 1613"/></Shape>
+	    <String CONTENT="خصوصیات و مزابای علمی و فکری قوهنوی"
+                    HPOS="819"
+                    VPOS="1542"
+                    WIDTH="732"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6a498cc"
+                    
+                    BASELINE="412 1708 1624 1703" 
+                    HPOS="409"
+                    VPOS="1649"
+                    WIDTH="1215"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="412 1708 409 1654 1622 1649 1624 1703 1624 1721 412 1725"/></Shape>
+	    <String CONTENT="قونوی دارای هوش واستعداد کم نظیر وذوقی درخور توجه و"
+                    HPOS="409"
+                    VPOS="1649"
+                    WIDTH="1215"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b2b23a9"
+                    
+                    BASELINE="409 1789 1195 1801 1735 1792" 
+                    HPOS="407"
+                    VPOS="1735"
+                    WIDTH="1328"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="409 1789 409 1735 1192 1748 1732 1738 1735 1792 1735 1809 1195 1819 1192 1819 407 1806"/></Shape>
+	    <String CONTENT="حافظهيی حبیرت آور و درعین کثرت حفظ واجد نظری عمیق و محققانه"
+                    HPOS="407"
+                    VPOS="1735"
+                    WIDTH="1328"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7eee1f29"
+                    
+                    BASELINE="409 1885 1732 1877" 
+                    HPOS="407"
+                    VPOS="1836"
+                    WIDTH="1325"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="409 1885 407 1843 1730 1836 1732 1877 1732 1897 409 1904"/></Shape>
+	    <String CONTENT="است که ازحسن اتفاق از محضر استادی بی نظیر در ادوار تصوف سالبان"
+                    HPOS="407"
+                    VPOS="1836"
+                    WIDTH="1325"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_124bc287"
+                    
+                    BASELINE="409 1976 1725 1968" 
+                    HPOS="407"
+                    VPOS="1927"
+                    WIDTH="1318"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="409 1976 407 1934 1722 1927 1725 1968 1725 1988 409 1995"/></Shape>
+	    <String CONTENT="منمادی استفاضت نموده و بالاخره در زمان کهولت سن استاد، حوزة"
+                    HPOS="407"
+                    VPOS="1927"
+                    WIDTH="1318"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_810345ce"
+                    
+                    BASELINE="409 2069 1727 2064" 
+                    HPOS="407"
+                    VPOS="2017"
+                    WIDTH="1320"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="409 2069 407 2022 1725 2017 1727 2064 1727 2083 409 2088"/></Shape>
+	    <String CONTENT="درسی او را اداره می نمود و رسما خلیفه و جانشین کسیشد که مریدان"
+                    HPOS="407"
+                    VPOS="2017"
+                    WIDTH="1320"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66888490"
+                    
+                    BASELINE="964 2157 1725 2152" 
+                    HPOS="962"
+                    VPOS="2110"
+                    WIDTH="763"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="964 2157 962 2115 1722 2110 1725 2152 1725 2174 964 2179"/></Shape>
+	    <String CONTENT="او راخاتم ولابت محمديه 1 میدانسند ."
+                    HPOS="962"
+                    VPOS="2110"
+                    WIDTH="763"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="392"
+                   VPOS="2284"
+                   WIDTH="1343"
+                   HEIGHT="165"
+                   ID="eSc_textblock_4a55e79e"
+                   TAGREFS="BT1102">
+          <Shape><Polygon POINTS="1607 2294 1705 2314 1735 2400 441 2449 392 2383 402 2304 451 2284"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5b49723a"
+                    
+                    BASELINE="412 2358 1592 2363" 
+                    HPOS="409"
+                    VPOS="2314"
+                    WIDTH="1183"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="412 2358 412 2314 1592 2319 1592 2363 1590 2385 409 2380"/></Shape>
+	    <String CONTENT="1- خاتم ولایت مقیشده محمدیه در حقیقت تابع ولایت کلیه محمدیه"
+                    HPOS="409"
+                    VPOS="2314"
+                    WIDTH="1183"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="402"
+                   VPOS="343"
+                   WIDTH="86"
+                   HEIGHT="86"
+                   ID="eSc_textblock_014f756a"
+                   TAGREFS="BT1103">
+          <Shape><Polygon POINTS="468 343 488 419 412 429 402 343"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

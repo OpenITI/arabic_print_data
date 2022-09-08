@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Ibn_al_Moqafa_al_adab_al_saghir_wa_adab_al_kabir.pdf_page_12.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT886" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT887" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT888" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT889" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT38" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1773"
+          HEIGHT="2661"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1773"
+                  HEIGHT="2661">
+        
+        <TextBlock HPOS="142"
+                   VPOS="150"
+                   WIDTH="1542"
+                   HEIGHT="2003"
+                   ID="eSc_textblock_325bded6"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1666 168 1684 2126 1657 2153 142 2153 150 150"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ad6204ed"
+                    
+                    BASELINE="146 223 1635 212" 
+                    HPOS="144"
+                    VPOS="166"
+                    WIDTH="1491"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="146 223 144 177 1633 166 1635 212 1635 228 146 239"/></Shape>
+	    <String CONTENT="لبطليموس، وإن صح ما رواه المسعودى فإن ترجمة كتاب اقليدس وكتاب"
+                    HPOS="144"
+                    VPOS="166"
+                    WIDTH="1491"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f2632f0"
+                    
+                    BASELINE="157 323 1633 299" 
+                    HPOS="155"
+                    VPOS="248"
+                    WIDTH="1478"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="157 323 155 272 1630 248 1633 299 1633 317 157 341"/></Shape>
+	    <String CONTENT="المجسطى (بفتح الميم وكسرها) وهو أعظم تسآليف بطليموس في الفلك قد تم في"
+                    HPOS="155"
+                    VPOS="248"
+                    WIDTH="1478"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b8e8f96"
+                    
+                    BASELINE="153 399 1262 405 1635 390" 
+                    HPOS="150"
+                    VPOS="339"
+                    WIDTH="1485"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="153 399 153 348 1260 354 1633 339 1635 390 1635 405 1262 421 1260 421 150 414"/></Shape>
+	    <String CONTENT="هذه الفترة من الزمن إلى جانب معرفة المنصور بالعلم والأدب والفقه والفلسفة"
+                    HPOS="150"
+                    VPOS="339"
+                    WIDTH="1485"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecfad6db"
+                    
+                    BASELINE="153 496 1635 483" 
+                    HPOS="150"
+                    VPOS="434"
+                    WIDTH="1485"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="153 496 150 447 1633 434 1635 483 1635 498 153 512"/></Shape>
+	    <String CONTENT="والفلك، وهو الذى عمل أول أسطرلاب(1) في الإسلام فضلا عن حبه للعلماء،"
+                    HPOS="150"
+                    VPOS="434"
+                    WIDTH="1485"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fed32a8c"
+                    
+                    BASELINE="157 594 889 578 1639 574" 
+                    HPOS="155"
+                    VPOS="525"
+                    WIDTH="1484"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="157 594 155 545 887 529 887 529 1637 525 1639 574 1639 594 889 598 157 614"/></Shape>
+	    <String CONTENT="وعرف ببعده عن العبث واللهو واهتمامه بالجد والتفكير. إلى جانب تواقيع غاية في"
+                    HPOS="155"
+                    VPOS="525"
+                    WIDTH="1484"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83dc5ca4"
+                    
+                    BASELINE="153 678 1637 660" 
+                    HPOS="150"
+                    VPOS="612"
+                    WIDTH="1487"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="153 678 150 629 1635 612 1637 660 1637 676 153 694"/></Shape>
+	    <String CONTENT="البلاغة، لهذا اعتبر المنصور والد الخلفاء العباسيين جميعا وأفلحهم حيث صرف"
+                    HPOS="150"
+                    VPOS="612"
+                    WIDTH="1487"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_674fc37a"
+                    
+                    BASELINE="153 771 1639 753" 
+                    HPOS="150"
+                    VPOS="705"
+                    WIDTH="1489"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="153 771 150 722 1637 705 1639 753 1639 769 153 787"/></Shape>
+	    <String CONTENT="الآفاق إلى الحيرة والعراق وأصبهان وفارس وكذلك كان المنصور أبو جعفر من أفراد"
+                    HPOS="150"
+                    VPOS="705"
+                    WIDTH="1489"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7998d028"
+                    
+                    BASELINE="155 871 1639 842" 
+                    HPOS="153"
+                    VPOS="791"
+                    WIDTH="1486"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="155 871 153 820 1637 791 1639 842 1639 855 155 884"/></Shape>
+	    <String CONTENT="الدهر حزما ودهاء، وكان ممن له فضل في حث العلماء المسلمين في تدوين"
+                    HPOS="153"
+                    VPOS="791"
+                    WIDTH="1486"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dcfbaefe"
+                    
+                    BASELINE="153 951 1642 933" 
+                    HPOS="150"
+                    VPOS="886"
+                    WIDTH="1492"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="153 951 150 904 1639 886 1642 933 1642 951 153 969"/></Shape>
+	    <String CONTENT="الحديث والفقه والتفسير القرآنى. فصنف ابن جريح بمكة، ومالك &quot;الموطأ&quot;"
+                    HPOS="150"
+                    VPOS="886"
+                    WIDTH="1492"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ddd873a"
+                    
+                    BASELINE="157 1044 514 1037 989 1044 1642 1026" 
+                    HPOS="155"
+                    VPOS="969"
+                    WIDTH="1487"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="157 1044 155 986 512 980 514 980 605 980 987 986 1639 969 1642 1026 1642 1046 989 1064 987 1064 605 1059 514 1057 157 1064"/></Shape>
+	    <String CONTENT="بالمدينة، والأوزاعي بالشام، وابن أبي عربة وحماد بن سلمة بالبصرة، ومعمر"
+                    HPOS="155"
+                    VPOS="969"
+                    WIDTH="1487"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da115117"
+                    
+                    BASELINE="157 1142 630 1126 1642 1117" 
+                    HPOS="155"
+                    VPOS="1064"
+                    WIDTH="1487"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="157 1142 155 1088 627 1073 627 1073 1639 1064 1642 1117 1642 1135 630 1144 157 1159"/></Shape>
+	    <String CONTENT="باليمن، وسفيان الثورى بالكوفة، كما صنف أبو حنيفة الفقه والرأي، ثم صنف ابن"
+                    HPOS="155"
+                    VPOS="1064"
+                    WIDTH="1487"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4c3be51"
+                    
+                    BASELINE="155 1224 1642 1210" 
+                    HPOS="153"
+                    VPOS="1164"
+                    WIDTH="1489"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="155 1224 153 1177 1639 1164 1642 1210 1642 1226 155 1239"/></Shape>
+	    <String CONTENT="وهب، وابن مبارك. وكذلك كثر تدوين العلم وتبويبه، فدونت كتب العربية واللغة"
+                    HPOS="153"
+                    VPOS="1164"
+                    WIDTH="1489"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4393345"
+                    
+                    BASELINE="157 1308 743 1314 1644 1301" 
+                    HPOS="155"
+                    VPOS="1248"
+                    WIDTH="1489"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="157 1308 157 1255 741 1261 1642 1248 1644 1301 1644 1323 743 1337 741 1337 155 1330"/></Shape>
+	    <String CONTENT="والتاريخ وأيام الناس، كما درس العرب علوم الفرس واليونان. وتبع هذا حركة"
+                    HPOS="155"
+                    VPOS="1248"
+                    WIDTH="1489"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05b4aba1"
+                    
+                    BASELINE="168 1410 284 1401 983 1401 1639 1385" 
+                    HPOS="164"
+                    VPOS="1334"
+                    WIDTH="1475"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="168 1410 164 1359 279 1350 284 1350 705 1350 980 1350 1637 1334 1639 1385 1639 1403 983 1419 983 1419 701 1419 284 1419 168 1428"/></Shape>
+	    <String CONTENT="النقل الذى ازدهر في هذه الحقبة، وترجمة وإنشاء اللغة العربية تلك اللغة التى"
+                    HPOS="164"
+                    VPOS="1334"
+                    WIDTH="1475"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eaa6c7c1"
+                    
+                    BASELINE="164 1505 532 1490 1646 1479" 
+                    HPOS="161"
+                    VPOS="1428"
+                    WIDTH="1485"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="164 1505 161 1454 530 1439 530 1439 1644 1428 1646 1479 1646 1499 532 1510 164 1525"/></Shape>
+	    <String CONTENT="استعملها العرب في الجاهلية أداة للشعر ثم عرفها النبى محمد  لغة الوحي"
+                    HPOS="161"
+                    VPOS="1428"
+                    WIDTH="1485"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd43ef13"
+                    
+                    BASELINE="161 1583 1648 1572" 
+                    HPOS="159"
+                    VPOS="1525"
+                    WIDTH="1489"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="161 1583 159 1536 1646 1525 1648 1572 1648 1585 161 1596"/></Shape>
+	    <String CONTENT="والدين. فأصبحت لغة حية قوية دقيقة البناء سهلة المنال تطاوع لغة الكتاب"
+                    HPOS="159"
+                    VPOS="1525"
+                    WIDTH="1489"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc959589"
+                    
+                    BASELINE="159 1676 1648 1658" 
+                    HPOS="157"
+                    VPOS="1609"
+                    WIDTH="1491"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="159 1676 157 1627 1646 1609 1648 1658 1648 1674 159 1691"/></Shape>
+	    <String CONTENT="والشعراء للتعبير عن الفكر العلمى والآراء الفلسفية العليا والتى أصبحت لغة"
+                    HPOS="157"
+                    VPOS="1609"
+                    WIDTH="1491"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c64f496a"
+                    
+                    BASELINE="159 1767 1648 1736" 
+                    HPOS="157"
+                    VPOS="1687"
+                    WIDTH="1491"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="159 1767 157 1718 1646 1687 1648 1736 1648 1754 159 1785"/></Shape>
+	    <String CONTENT="السياسة والتخاطب الأدبى في كافة أقطار العالم العربى. وكلمة حق تقال يعتبر"
+                    HPOS="157"
+                    VPOS="1687"
+                    WIDTH="1491"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64bffa71"
+                    
+                    BASELINE="161 1851 1648 1825" 
+                    HPOS="159"
+                    VPOS="1780"
+                    WIDTH="1489"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="161 1851 159 1807 1646 1780 1648 1825 1648 1844 161 1871"/></Shape>
+	    <String CONTENT="العصر العباسى العصر الذهبى للحياة الأدبية والسياسية عند العرب، فهو بمثابة"
+                    HPOS="159"
+                    VPOS="1780"
+                    WIDTH="1489"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_438272bb"
+                    
+                    BASELINE="173 1944 1309 1933 1646 1918" 
+                    HPOS="170"
+                    VPOS="1864"
+                    WIDTH="1476"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="173 1944 170 1891 1307 1880 1642 1864 1646 1918 1646 1938 1309 1953 1309 1953 173 1964"/></Shape>
+	    <String CONTENT="القرن السابع عشر في أوروبا، وسبب ذلك أن مدة الحكم العباسى كانت طويلة."
+                    HPOS="170"
+                    VPOS="1864"
+                    WIDTH="1476"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a22de44"
+                    
+                    BASELINE="164 2037 1650 2009" 
+                    HPOS="161"
+                    VPOS="1960"
+                    WIDTH="1489"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="164 2037 161 1989 1648 1960 1650 2009 1650 2024 164 2053"/></Shape>
+	    <String CONTENT="مما سمح لها أن تجنى ثمار ما غرست، كما ساعد انتشار العربية وتعطش القلوب"
+                    HPOS="161"
+                    VPOS="1960"
+                    WIDTH="1489"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7ce22df"
+                    
+                    BASELINE="508 2117 1650 2108" 
+                    HPOS="505"
+                    VPOS="2055"
+                    WIDTH="1145"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="508 2117 505 2064 1648 2055 1650 2108 1650 2122 508 2131"/></Shape>
+	    <String CONTENT="الى الرقي وانفتاح النفوس على المعارف في ازدهار هذا العصر."
+                    HPOS="505"
+                    VPOS="2055"
+                    WIDTH="1145"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="150"
+                   VPOS="2174"
+                   WIDTH="1519"
+                   HEIGHT="245"
+                   ID="eSc_textblock_152f9d34"
+                   TAGREFS="BT886">
+          <Shape><Polygon POINTS="1669 2174 1657 2288 1666 2348 1630 2368 1657 2401 1304 2419 1216 2374 1240 2348 150 2348 168 2270 1097 2178"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b4ea1003"
+                    
+                    BASELINE="166 2339 1320 2315 1624 2317" 
+                    HPOS="164"
+                    VPOS="2272"
+                    WIDTH="1460"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="166 2339 164 2297 1318 2272 1320 2272 1624 2275 1624 2317 1622 2337 1320 2335 166 2359"/></Shape>
+	    <String CONTENT="1) الاسطرلاب : آلة رصد قديمة لقياس مواقع الكواكب وساعات الليل والنهار وحل شتى القضايا"
+                    HPOS="164"
+                    VPOS="2272"
+                    WIDTH="1460"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ad5a4d0"
+                    
+                    BASELINE="1307 2394 1531 2388" 
+                    HPOS="1304"
+                    VPOS="2343"
+                    WIDTH="227"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1307 2394 1304 2350 1528 2343 1531 2388 1531 2403 1307 2410"/></Shape>
+	    <String CONTENT="الفلكية (يوناني)"
+                    HPOS="1304"
+                    VPOS="2343"
+                    WIDTH="227"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="897"
+                   VPOS="2478"
+                   WIDTH="62"
+                   HEIGHT="57"
+                   ID="eSc_textblock_e212d23b"
+                   TAGREFS="BT888">
+          <Shape><Polygon POINTS="959 2478 959 2535 897 2535 897 2478"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

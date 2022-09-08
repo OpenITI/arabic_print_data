@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>davidar_qumi_divan.pdf_page_21.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1099" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1100" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1101" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1812"
+          HEIGHT="2743"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1812"
+                  HEIGHT="2743">
+        
+        <TextBlock HPOS="668"
+                   VPOS="877"
+                   WIDTH="528"
+                   HEIGHT="126"
+                   ID="eSc_textblock_d3f1cde8"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="1187 877 1196 902 1150 994 741 1003 677 976 668 905 805 877"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_914d4355"
+                    
+                    BASELINE="690 950 1169 944" 
+                    HPOS="688"
+                    VPOS="884"
+                    WIDTH="481"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="690 950 688 891 1166 884 1169 944 1169 960 690 966"/></Shape>
+	    <String CONTENT="نعيين زمان ركن الدين"
+                    HPOS="688"
+                    VPOS="884"
+                    WIDTH="481"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="148"
+                   VPOS="1100"
+                   WIDTH="1583"
+                   HEIGHT="1217"
+                   ID="eSc_textblock_1a7cf2e7"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="148 1100 148 2317 1731 2317 1731 1100"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="181"
+                   VPOS="2365"
+                   WIDTH="1546"
+                   HEIGHT="133"
+                   ID="eSc_textblock_ca760290"
+                   TAGREFS="BT1100">
+          <Shape><Polygon POINTS="181 2365 181 2498 1727 2498 1727 2365"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="192"
+                   VPOS="2564"
+                   WIDTH="71"
+                   HEIGHT="34"
+                   ID="eSc_textblock_80e6abb3"
+                   TAGREFS="BT1101">
+          <Shape><Polygon POINTS="192 2564 192 2598 263 2598 263 2564"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
