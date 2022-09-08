@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_al_nafs_wa_l_ruh_wa_sharh_quwahuma_.pdf_page_121.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT780" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT781" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT782" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT783" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT784" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT785" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    <OtherTag ID="LT21" LABEL="Poetry" DESCRIPTION="line type Poetry"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="120"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="582"
+                   VPOS="464"
+                   WIDTH="1536"
+                   HEIGHT="434"
+                   ID="eSc_textblock_40ba7ff2"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2118 898 2118 464 582 464 582 898"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_843e5e3a"
+                    
+                    BASELINE="591 525 2065 525" 
+                    HPOS="591"
+                    VPOS="459"
+                    WIDTH="1474"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="591 525 591 459 2065 459 2065 525 2065 550 591 550"/></Shape>
+	    <String CONTENT="واما سكان وسط (7) المعمور لما حازوا المعارف الحقيقية والاخلاق"
+                    HPOS="591"
+                    VPOS="459"
+                    WIDTH="1474"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0dabc2b"
+                    
+                    BASELINE="596 627 2049 632" 
+                    HPOS="594"
+                    VPOS="572"
+                    WIDTH="1455"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="596 627 596 572 2049 577 2049 632 2046 660 594 654"/></Shape>
+	    <String CONTENT="الفاضلة لاجرم أقركل احد بانهم خير طوائف البثر (الورقة"
+                    HPOS="594"
+                    VPOS="572"
+                    WIDTH="1455"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_520a3367"
+                    
+                    BASELINE="602 731 2060 737" 
+                    HPOS="599"
+                    VPOS="673"
+                    WIDTH="1461"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="602 731 602 673 2060 679 2060 737 2057 759 599 753"/></Shape>
+	    <String CONTENT="27 ظ وافضلهم وذلك يدل على ان فضيلة الانسان وكماله لا يظهر"
+                    HPOS="599"
+                    VPOS="673"
+                    WIDTH="1461"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c9aea45"
+                    
+                    BASELINE="599 830 2057 847" 
+                    HPOS="596"
+                    VPOS="770"
+                    WIDTH="1461"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="599 830 599 770 2057 786 2057 847 2054 899 596 882"/></Shape>
+	    <String CONTENT="إلا بالعلوم والمعارف والاخلاق الفاضلة لا بالاكل والشرب والوقاع"
+                    HPOS="596"
+                    VPOS="770"
+                    WIDTH="1461"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1173"
+                   VPOS="359"
+                   WIDTH="320"
+                   HEIGHT="67"
+                   ID="eSc_textblock_d3fcde19"
+                   TAGREFS="BT784">
+          <Shape><Polygon POINTS="1493 359 1493 426 1173 426 1173 359"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a981998f"
+                    
+                    BASELINE="1196 404 1455 398" 
+                    HPOS="1193"
+                    VPOS="352"
+                    WIDTH="262"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1196 404 1193 357 1452 352 1455 398 1455 418 1196 423"/></Shape>
+	    <String CONTENT="15"
+                    HPOS="1193"
+                    VPOS="352"
+                    WIDTH="262"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_ibana_an_usul_al_diyanah.pdf_page_25.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT860" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT861" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT862" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT863" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT864" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT33" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1347"
+                   VPOS="359"
+                   WIDTH="738"
+                   HEIGHT="166"
+                   ID="eSc_textblock_858569b8"
+                   TAGREFS="BT864">
+          <Shape><Polygon POINTS="1347 359 1347 525 2085 525 2085 359"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5f562b25"
+                    
+                    BASELINE="1359 456 2022 450" 
+                    HPOS="1356"
+                    VPOS="333"
+                    WIDTH="666"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="1359 456 1356 339 2020 333 2022 450 2022 470 1359 476"/></Shape>
+	    <String CONTENT="الإبانة عن أصول الديانة: تحقيق ودراسة"
+                    HPOS="1356"
+                    VPOS="333"
+                    WIDTH="666"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="724"
+                   VPOS="958"
+                   WIDTH="1307"
+                   HEIGHT="430"
+                   ID="eSc_textblock_3fa103cf"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1868 1227 1835 1286 2031 1309 2031 1353 1704 1388 724 1365 771 1341 736 1286 806 1248 771 1201 806 1134 920 1110 935 1040 1029 982 1239 958 1458 970 1470 1107 1403 1134 1809 1157"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d2018912"
+                    TAGREFS="LT33"
+                    BASELINE="1031 1081 1447 1072" 
+                    HPOS="1029"
+                    VPOS="988"
+                    WIDTH="418"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1031 1081 1029 996 1444 988 1447 1072 1447 1099 1031 1107"/></Shape>
+	    <String CONTENT="الفصل الثانی"
+                    HPOS="1029"
+                    VPOS="988"
+                    WIDTH="418"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1338e727"
+                    TAGREFS="LT33"
+                    BASELINE="792 1248 1669 1248" 
+                    HPOS="792"
+                    VPOS="1175"
+                    WIDTH="877"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="792 1248 792 1175 1669 1175 1669 1248 1669 1277 792 1277"/></Shape>
+	    <String CONTENT="كتاب الإبانة عن أصول الدیانة"
+                    HPOS="792"
+                    VPOS="1175"
+                    WIDTH="877"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1286"
+                   VPOS="1391"
+                   WIDTH="780"
+                   HEIGHT="313"
+                   ID="eSc_textblock_559a9d92"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1996 1496 2066 1587 1961 1704 1286 1657 1321 1552 1286 1496 1414 1449 1575 1485 1566 1391 1996 1391 1973 1447 1824 1423 1645 1482"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7eff2b70"
+                    
+                    BASELINE="1593 1426 2020 1420" 
+                    HPOS="1590"
+                    VPOS="1379"
+                    WIDTH="430"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1593 1426 1590 1385 2017 1379 2020 1420 2020 1438 1593 1444"/></Shape>
+	    <String CONTENT="وفیه سبعة مباحث:"
+                    HPOS="1590"
+                    VPOS="1379"
+                    WIDTH="430"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d18300b"
+                    
+                    BASELINE="1447 1563 2017 1563" 
+                    HPOS="1447"
+                    VPOS="1508"
+                    WIDTH="570"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1447 1563 1447 1508 2017 1508 2017 1563 2017 1584 1447 1584"/></Shape>
+	    <String CONTENT="البحث الأول : عنوان الكتاب."
+                    HPOS="1447"
+                    VPOS="1508"
+                    WIDTH="570"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1333"
+                   VPOS="1718"
+                   WIDTH="757"
+                   HEIGHT="629"
+                   ID="eSc_textblock_cb00ab4c"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2031 1999 2066 2078 2008 2093 2008 2172 2078 2207 2011 2207 1973 2288 1751 2291 2008 2315 1961 2347 1391 2347 1333 2277 1368 2101 1333 1765 1718 1718 1961 1718 2090 1789 2031 1870 2090 1917"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_05c9c290"
+                    
+                    BASELINE="1414 1815 2017 1821" 
+                    HPOS="1411"
+                    VPOS="1759"
+                    WIDTH="606"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1414 1815 1414 1759 2017 1765 2017 1821 2014 1844 1411 1838"/></Shape>
+	    <String CONTENT="المبحث الثالث: تاریخ الییفه."
+                    HPOS="1411"
+                    VPOS="1759"
+                    WIDTH="606"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ad2efab"
+                    
+                    BASELINE="1341 1952 2017 1944" 
+                    HPOS="1338"
+                    VPOS="1894"
+                    WIDTH="679"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1341 1952 1338 1903 2014 1894 2017 1944 2017 1970 1341 1979"/></Shape>
+	    <String CONTENT="المبحث الرابع : مصادره في الكتاب."
+                    HPOS="1338"
+                    VPOS="1894"
+                    WIDTH="679"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c181122"
+                    
+                    BASELINE="1333 2084 2025 2075" 
+                    HPOS="1330"
+                    VPOS="2022"
+                    WIDTH="695"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1333 2084 1330 2031 2022 2022 2025 2075 2025 2098 1333 2107"/></Shape>
+	    <String CONTENT="المبحث الخامس : منهجه فی الكتاب."
+                    HPOS="1330"
+                    VPOS="2022"
+                    WIDTH="695"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e63a429f"
+                    
+                    BASELINE="1397 2212 2025 2204" 
+                    HPOS="1394"
+                    VPOS="2151"
+                    WIDTH="631"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1397 2212 1394 2160 2022 2151 2025 2204 2025 2227 1397 2236"/></Shape>
+	    <String CONTENT="المبحث السادس : منزلة الكتاب."
+                    HPOS="1394"
+                    VPOS="2151"
+                    WIDTH="631"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7ab2afb"
+                    
+                    BASELINE="1449 2344 2028 2332" 
+                    HPOS="1447"
+                    VPOS="2283"
+                    WIDTH="581"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1449 2344 1447 2294 2025 2283 2028 2332 2028 2359 1449 2370"/></Shape>
+	    <String CONTENT="المبحث السابع : نقد الكتاب."
+                    HPOS="1447"
+                    VPOS="2283"
+                    WIDTH="581"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="455"
+                   VPOS="371"
+                   WIDTH="191"
+                   HEIGHT="135"
+                   ID="eSc_textblock_f0ef22b8"
+                   TAGREFS="BT860">
+          <Shape><Polygon POINTS="646 371 646 506 455 506 455 371"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d2b8ab93"
+                    
+                    BASELINE="464 458 590 453" 
+                    HPOS="461"
+                    VPOS="391"
+                    WIDTH="132"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="464 458 461 397 587 391 590 453 593 514 467 520"/></Shape>
+	    <String CONTENT="(25"
+                    HPOS="461"
+                    VPOS="391"
+                    WIDTH="132"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1802"
+                   VPOS="3305"
+                   WIDTH="191"
+                   HEIGHT="123"
+                   ID="eSc_textblock_2bc22508"
+                   TAGREFS="BT861">
+          <Shape><Polygon POINTS="1993 3305 1993 3416 1802 3428 1827 3305"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1414"
+                   VPOS="1391"
+                   WIDTH="44"
+                   HEIGHT="32"
+                   ID="eSc_textblock_c0ad50cd"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1435 1391 1458 1423 1414 1423 1426 1391"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1321"
+                   VPOS="1064"
+                   WIDTH="359"
+                   HEIGHT="20"
+                   ID="eSc_textblock_d3a3bda1"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="1680 1075 1680 1084 1321 1084 1391 1064"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1391"
+                   VPOS="2397"
+                   WIDTH="9"
+                   HEIGHT="8"
+                   ID="eSc_textblock_f7a1b541"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1400 2397 1400 2405 1391 2405 1391 2397"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_17dd825f"
+                    
+                    BASELINE="1265 1692 2028 1692" 
+                    HPOS="1265"
+                    VPOS="1637"
+                    WIDTH="763"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1265 1692 1265 1637 2028 1637 2028 1692 2028 1718 1265 1718"/></Shape>
+	    <String CONTENT="المبحث الثاني : توشيق نسيته للمؤلف."
+                    HPOS="1265"
+                    VPOS="1637"
+                    WIDTH="763"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

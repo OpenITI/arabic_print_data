@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Jahangiri_Jahangirnamih.pdf_page_114.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT913" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT914" LABEL="Footnote" DESCRIPTION="block type Footnote"/><OtherTag ID="BT915" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="113"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1964"
+                   VPOS="432"
+                   WIDTH="161"
+                   HEIGHT="91"
+                   ID="eSc_textblock_2370db24"
+                   TAGREFS="BT913">
+          <Shape><Polygon POINTS="2101 432 2125 511 1964 523 1964 432"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e503c232"
+                    
+                    BASELINE="1964 488 2119 494" 
+                    HPOS="1961"
+                    VPOS="447"
+                    WIDTH="158"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1964 488 1964 447 2119 453 2119 494 2116 523 1961 517"/></Shape>
+	    <String CONTENT="دیباچه"
+                    HPOS="1961"
+                    VPOS="447"
+                    WIDTH="158"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="304"
+                   VPOS="572"
+                   WIDTH="1868"
+                   HEIGHT="2426"
+                   ID="eSc_textblock_131da648"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2172 596 2136 2998 304 2978 327 572"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e0066990"
+                    
+                    BASELINE="333 660 2128 648" 
+                    HPOS="330"
+                    VPOS="584"
+                    WIDTH="1798"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="333 660 330 596 2125 584 2128 648 2128 675 333 686"/></Shape>
+	    <String CONTENT="حرکت نموده بود در لاهور نزول اجلال داشت. به مجرد شنیدن این خبر بلاتوقف فوج"
+                    HPOS="330"
+                    VPOS="584"
+                    WIDTH="1798"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_183cb373"
+                    
+                    BASELINE="336 736 2113 730" 
+                    HPOS="333"
+                    VPOS="678"
+                    WIDTH="1780"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="336 736 333 684 2110 678 2113 730 2113 760 336 765"/></Shape>
+	    <String CONTENT="کلانی از امراء ومنصبداران به سرداری میرزاغازی فرستاده شد. پیش از آنکه میرزای مذکور"
+                    HPOS="333"
+                    VPOS="678"
+                    WIDTH="1780"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5aea1e14"
+                    
+                    BASELINE="333 830 2116 818" 
+                    HPOS="330"
+                    VPOS="757"
+                    WIDTH="1786"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="333 830 330 768 2113 757 2116 818 2116 841 333 853"/></Shape>
+	    <String CONTENT="به قندهار رسد، این خبر بهشاه میرسد که حاکم فراه با بعضی از جاگیرداران آن نواحی"
+                    HPOS="330"
+                    VPOS="757"
+                    WIDTH="1786"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_daf7daca"
+                    
+                    BASELINE="333 909 2119 909" 
+                    HPOS="333"
+                    VPOS="859"
+                    WIDTH="1786"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="333 909 333 859 2119 859 2119 909 2119 935 333 935"/></Shape>
+	    <String CONTENT=" قصد ولایت قندهار نمودهاند این معنیرا لایق نادانسته به قدغن حسین بیگ نامی را ازمردم"
+                    HPOS="333"
+                    VPOS="859"
+                    WIDTH="1786"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09aaac43"
+                    
+                    BASELINE="333 985 1780 999 2119 988" 
+                    HPOS="330"
+                    VPOS="926"
+                    WIDTH="1789"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="333 985 333 926 1777 941 2116 929 2119 988 2119 1017 1780 1029 1777 1029 330 1014"/></Shape>
+	    <String CONTENT="روشناس خودمی فرستد، وفرمانی به اسم آنها صادر میگردد که از کنار قلعه قندهار برخاسته"
+                    HPOS="330"
+                    VPOS="926"
+                    WIDTH="1789"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35e55455"
+                    
+                    BASELINE="339 1081 2116 1072" 
+                    HPOS="336"
+                    VPOS="1017"
+                    WIDTH="1780"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="339 1081 336 1026 2113 1017 2116 1072 2116 1105 339 1113"/></Shape>
+	    <String CONTENT="متوجه جا ومقام خود شوند که نسبت محبت وموالات آبای کرام ما وسلسله علیه جهانگیر"
+                    HPOS="336"
+                    VPOS="1017"
+                    WIDTH="1780"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_948e268a"
+                    
+                    BASELINE="333 1154 2110 1166" 
+                    HPOS="330"
+                    VPOS="1102"
+                    WIDTH="1780"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="333 1154 333 1102 2110 1113 2110 1166 2107 1192 330 1181"/></Shape>
+	    <String CONTENT="پادشاه قدیم است- آن جماعت پیش از آنکه حسین بیگ برسد وحکم شاه به ایشان برساند"
+                    HPOS="330"
+                    VPOS="1102"
+                    WIDTH="1780"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_926ef02a"
+                    
+                    BASELINE="327 1251 2113 1251" 
+                    HPOS="327"
+                    VPOS="1195"
+                    WIDTH="1786"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="327 1251 327 1195 2113 1195 2113 1251 2113 1274 327 1274"/></Shape>
+	    <String CONTENT=" تاب مقاومت عساکر منصوره نیاورده مراجعت را غنیمت میشمارند. حسین بیگ مذکور آن"
+                    HPOS="327"
+                    VPOS="1195"
+                    WIDTH="1786"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a96cb6e8"
+                    
+                    BASELINE="333 1335 2107 1330" 
+                    HPOS="330"
+                    VPOS="1277"
+                    WIDTH="1777"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="333 1335 330 1283 2104 1277 2107 1330 2107 1353 333 1359"/></Shape>
+	    <String CONTENT="مردم را ملامت نموده روانه ملازمت می شود درلاهور سعادت خدمت دریافت و این معنی را"
+                    HPOS="330"
+                    VPOS="1277"
+                    WIDTH="1777"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9aaf849a"
+                    
+                    BASELINE="327 1426 532 1414 2113 1414" 
+                    HPOS="321"
+                    VPOS="1356"
+                    WIDTH="1792"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="327 1426 321 1368 526 1356 532 1356 2113 1356 2113 1414 2113 1441 532 1441 327 1449"/></Shape>
+	    <String CONTENT="اظهار نمود که این جماعت بیعاقبت که برسر قندهار آمده بودند، بغیر فرموده شاه عباس این"
+                    HPOS="321"
+                    VPOS="1356"
+                    WIDTH="1792"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d091c401"
+                    
+                    BASELINE="327 1493 2110 1508" 
+                    HPOS="324"
+                    VPOS="1441"
+                    WIDTH="1786"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="327 1493 327 1441 2110 1455 2110 1508 2107 1534 324 1520"/></Shape>
+	    <String CONTENT="حرکت از آنها به وقوع آمده. مبادا که به خاطر ازین ممر گرانی راه یافته باشد. القصه بعد"
+                    HPOS="324"
+                    VPOS="1441"
+                    WIDTH="1786"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e7ecc68"
+                    
+                    BASELINE="327 1590 2113 1590" 
+                    HPOS="327"
+                    VPOS="1537"
+                    WIDTH="1786"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="327 1590 327 1537 2113 1537 2113 1590 2113 1619 327 1619"/></Shape>
+	    <String CONTENT="از رسیدن افواج قاهره به قندهار، حسب الحکم قلعهرا به سردارخان میسپارند وشاه بیگ خان"
+                    HPOS="327"
+                    VPOS="1537"
+                    WIDTH="1786"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_176de2f1"
+                    
+                    BASELINE="1409 1675 2110 1675" 
+                    HPOS="1409"
+                    VPOS="1622"
+                    WIDTH="701"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1409 1675 1409 1622 2110 1622 2110 1675 2110 1701 1409 1701"/></Shape>
+	    <String CONTENT="بالشکر کومك عازم درگاه میشود."
+                    HPOS="1409"
+                    VPOS="1622"
+                    WIDTH="701"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e571098"
+                    
+                    BASELINE="330 1754 1976 1765" 
+                    HPOS="327"
+                    VPOS="1695"
+                    WIDTH="1649"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="330 1754 330 1695 1976 1707 1976 1765 1973 1786 327 1774"/></Shape>
+	    <String CONTENT="در بیست وهفتم ذی قعده عبداللهخان، رامچند بندیله را دریند و زنجیر آورده به نظر"
+                    HPOS="327"
+                    VPOS="1695"
+                    WIDTH="1649"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_501d24f6"
+                    
+                    BASELINE="327 1835 2107 1841" 
+                    HPOS="324"
+                    VPOS="1783"
+                    WIDTH="1783"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="327 1835 327 1783 2107 1789 2107 1841 2104 1870 324 1865"/></Shape>
+	    <String CONTENT="گذرانید. فرمودم که زنجیر ازپای او برداشتند و خلعت درو پوشانیده به راجه باسو حواله"
+                    HPOS="324"
+                    VPOS="1783"
+                    WIDTH="1783"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79c5fe24"
+                    
+                    BASELINE="327 1929 2110 1929" 
+                    HPOS="327"
+                    VPOS="1876"
+                    WIDTH="1783"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="327 1929 327 1876 2110 1876 2110 1929 2110 1958 327 1958"/></Shape>
+	    <String CONTENT=" نمردم که ضامن گرفته اورا باجمعی دیگر از خویشان که به همراهی او کرفتار گشته بودند"
+                    HPOS="327"
+                    VPOS="1876"
+                    WIDTH="1783"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47303cc7"
+                    
+                    BASELINE="491 2005 2104 2017" 
+                    HPOS="488"
+                    VPOS="1955"
+                    WIDTH="1616"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="491 2005 491 1955 2104 1967 2104 2017 2101 2043 488 2031"/></Shape>
+	    <String CONTENT="بگذارند آنچه از کرم ومرحمت در حق او به ظهور آمد در خیال او نگذشته بود"
+                    HPOS="488"
+                    VPOS="1955"
+                    WIDTH="1616"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8405e85"
+                    
+                    BASELINE="327 2104 1970 2093" 
+                    HPOS="324"
+                    VPOS="2034"
+                    WIDTH="1646"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="327 2104 324 2046 1967 2034 1970 2093 1970 2119 327 2131"/></Shape>
+	    <String CONTENT="منصب یافتن سلطان خرم: در دوم ذی حجه به فرزند خرم تومان [د3 الف] وطوغ و"
+                    HPOS="324"
+                    VPOS="2034"
+                    WIDTH="1646"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e19eee1"
+                    
+                    BASELINE="327 2186 2104 2186" 
+                    HPOS="327"
+                    VPOS="2136"
+                    WIDTH="1777"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="327 2186 327 2136 2104 2136 2104 2186 2104 2215 327 2215"/></Shape>
+	    <String CONTENT=" علم ونقاره مرحمت فرموده به منصب هشت هزاری ذات و پنجهزاری سوار امتیاز بخشیده حکم"
+                    HPOS="327"
+                    VPOS="2136"
+                    WIDTH="1777"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec9081d1"
+                    
+                    BASELINE="1838 2274 2101 2280" 
+                    HPOS="1835"
+                    VPOS="2215"
+                    WIDTH="266"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1838 2274 1838 2215 2101 2221 2101 2280 2098 2309 1835 2303"/></Shape>
+	    <String CONTENT="جا گیر کردم"
+                    HPOS="1835"
+                    VPOS="2215"
+                    WIDTH="266"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d11917d3"
+                    
+                    BASELINE="315 2359 1964 2350" 
+                    HPOS="312"
+                    VPOS="2294"
+                    WIDTH="1652"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="315 2359 312 2303 1961 2294 1964 2350 1964 2373 315 2382"/></Shape>
+	    <String CONTENT="احوال پیرخان وند دونت خان و حمله کردن بابر برهندوستان: در همین روز پیرحان"
+                    HPOS="312"
+                    VPOS="2294"
+                    WIDTH="1652"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_442208a1"
+                    
+                    BASELINE="318 2449 2101 2440" 
+                    HPOS="315"
+                    VPOS="2382"
+                    WIDTH="1786"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="318 2449 315 2391 2098 2382 2101 2440 2101 2464 318 2473"/></Shape>
+	    <String CONTENT="ولددولتخان لودی را که همراه فرزندان دانیال از خاندیس آمده بود، به خطاب صلایت حانی"
+                    HPOS="315"
+                    VPOS="2382"
+                    WIDTH="1786"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ea80b26"
+                    
+                    BASELINE="315 2519 2101 2528" 
+                    HPOS="312"
+                    VPOS="2467"
+                    WIDTH="1789"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="315 2519 315 2467 2101 2476 2101 2528 2098 2554 312 2546"/></Shape>
+	    <String CONTENT="سرافراز ساخته منصب او سههزاری ذات و یکهزارو پانصد سوار مشخص شد و علم و نقاره داده"
+                    HPOS="312"
+                    VPOS="2467"
+                    WIDTH="1789"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3348e1d"
+                    
+                    BASELINE="315 2610 2101 2616" 
+                    HPOS="312"
+                    VPOS="2554"
+                    WIDTH="1789"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="315 2610 315 2554 2101 2560 2101 2616 2098 2642 312 2636"/></Shape>
+	    <String CONTENT="مرتبه اورا به خطاب والای فرزندی از امثال واقران در گذراندیم پدران و اعمام صلابت حان"
+                    HPOS="312"
+                    VPOS="2554"
+                    WIDTH="1789"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94fc4b88"
+                    
+                    BASELINE="315 2701 2101 2701" 
+                    HPOS="315"
+                    VPOS="2648"
+                    WIDTH="1786"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="315 2701 315 2648 2101 2648 2101 2701 2101 2727 315 2727"/></Shape>
+	    <String CONTENT="درمیان قوم لودی به غایت بزرگ ومعتبر بودهاند. چنانچه دولت خان سابق که عموی جد"
+                    HPOS="315"
+                    VPOS="2648"
+                    WIDTH="1786"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1116d65d"
+                    
+                    BASELINE="312 2780 1064 2794 2098 2783" 
+                    HPOS="309"
+                    VPOS="2715"
+                    WIDTH="1789"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="312 2780 312 2715 1064 2730 2096 2718 2098 2783 2098 2812 1064 2823 1061 2823 309 2809"/></Shape>
+	    <String CONTENT="صلایتخان بود، چون بعد از سکندر، ابراهیم پسرش با امرای پدر بدسلوکی آغاز نهاده به"
+                    HPOS="309"
+                    VPOS="2715"
+                    WIDTH="1789"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ab90b73"
+                    
+                    BASELINE="312 2876 2096 2864" 
+                    HPOS="309"
+                    VPOS="2809"
+                    WIDTH="1787"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="312 2876 309 2821 2093 2809 2096 2864 2096 2894 312 2905"/></Shape>
+	    <String CONTENT="اندك تقصیری جمعیرا به قتل درمی آورد، دولت خان ازو اندیشهمند شده پسرخود دلاورخان"
+                    HPOS="309"
+                    VPOS="2809"
+                    WIDTH="1787"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdc3b1a1"
+                    
+                    BASELINE="306 2958 2098 2958" 
+                    HPOS="306"
+                    VPOS="2908"
+                    WIDTH="1792"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="306 2958 306 2908 2098 2908 2098 2958 2098 3013 306 3013"/></Shape>
+	    <String CONTENT="را به ملازمت حضرت فردوس مکانی در کایل فرستاد و آن حضرت را دلالت به تخیرهندوستان"
+                    HPOS="306"
+                    VPOS="2908"
+                    WIDTH="1792"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="327"
+                   VPOS="456"
+                   WIDTH="114"
+                   HEIGHT="78"
+                   ID="eSc_textblock_ab9fc785"
+                   TAGREFS="BT915">
+          <Shape><Polygon POINTS="429 467 441 511 327 534 362 456"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3da9de74"
+                    
+                    BASELINE="344 491 415 496" 
+                    HPOS="342"
+                    VPOS="453"
+                    WIDTH="76"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="344 491 347 453 418 458 415 496 412 520 342 514"/></Shape>
+	    <String CONTENT="51"
+                    HPOS="342"
+                    VPOS="453"
+                    WIDTH="76"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

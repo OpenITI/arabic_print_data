@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_bab_al_hadi_ashar.pdf_page_54.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT850" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT851" LABEL="Caption" DESCRIPTION="block type Caption"/><OtherTag ID="BT852" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT853" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT854" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/>
+    <OtherTag ID="LT31" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="53"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="2117"
+                   VPOS="1687"
+                   WIDTH="80"
+                   HEIGHT="103"
+                   ID="eSc_textblock_64f09116"
+                   TAGREFS="BT854">
+          <Shape><Polygon POINTS="2175 1779 2117 1790 2117 1687 2197 1705"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_90e4caa4"
+                    
+                    BASELINE="420 580 1920 561" 
+                    HPOS="418"
+                    VPOS="497"
+                    WIDTH="1502"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="420 580 418 517 1917 497 1920 561 1920 583 420 602"/></Shape>
+	    <String CONTENT="اذا تقرر هذا فاعلم، ان الحسن و القبح يقالان على ثلثة معان : الأول ، كون"
+                    HPOS="418"
+                    VPOS="497"
+                    WIDTH="1502"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a639c7c2"
+                    
+                    BASELINE="423 682 2057 662" 
+                    HPOS="420"
+                    VPOS="596"
+                    WIDTH="1637"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="423 682 420 616 2054 596 2057 662 2057 682 423 701"/></Shape>
+	    <String CONTENT="الشىء صفة كمال ، كقولنا العلم حسن ، اوصفة نقص كقولنا الجهل قبيح . الثانى ، كون"
+                    HPOS="420"
+                    VPOS="596"
+                    WIDTH="1637"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_511da33b"
+                    
+                    BASELINE="426 789 2057 775" 
+                    HPOS="423"
+                    VPOS="712"
+                    WIDTH="1634"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="426 789 423 726 2054 712 2057 775 2057 794 426 808"/></Shape>
+	    <String CONTENT="الشتیء ملايما للطبع كالمستلذات او منافرا عنه كالآلام. الثالث ، كون الحسن ما"
+                    HPOS="423"
+                    VPOS="712"
+                    WIDTH="1634"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da3b9a61"
+                    
+                    BASELINE="434 891 2060 885" 
+                    HPOS="431"
+                    VPOS="825"
+                    WIDTH="1629"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="434 891 431 830 2057 825 2060 885 2060 904 434 910"/></Shape>
+	    <String CONTENT="يستحق على فعله المدح عاجلا والثواب آجلا والقبيح ما يستحق فاعله على فعله الذم"
+                    HPOS="431"
+                    VPOS="825"
+                    WIDTH="1629"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46020cab"
+                    
+                    BASELINE="426 1003 2063 981" 
+                    HPOS="423"
+                    VPOS="913"
+                    WIDTH="1640"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="426 1003 423 935 2060 913 2063 981 2063 995 426 1017"/></Shape>
+	    <String CONTENT="عاجلك والعقاب آجلا، ولاخلاف فی كونهما عقلين بالإعتبارين الأولين، وأما باعتبار"
+                    HPOS="423"
+                    VPOS="913"
+                    WIDTH="1640"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e5d72a3"
+                    
+                    BASELINE="431 1124 657 1111 2065 1091" 
+                    HPOS="426"
+                    VPOS="1023"
+                    WIDTH="1639"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="431 1124 426 1056 651 1042 654 1042 2063 1023 2065 1091 2065 1108 657 1127 431 1141"/></Shape>
+	    <String CONTENT="الثالث فاختلف المتكلمون فيه ، فقالت الأشاعرة ليس فی العقل ما يدل على الحسن"
+                    HPOS="426"
+                    VPOS="1023"
+                    WIDTH="1639"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2c01ff4"
+                    
+                    BASELINE="426 1215 2065 1204" 
+                    HPOS="423"
+                    VPOS="1144"
+                    WIDTH="1642"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="426 1215 423 1155 2063 1144 2065 1204 2065 1221 426 1232"/></Shape>
+	    <String CONTENT="والقبح بهذا المعنى ، بل الشرع، فماحنه فهوالحسن، وما قبحه فهوالقبيح. وقالت"
+                    HPOS="423"
+                    VPOS="1144"
+                    WIDTH="1642"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59305c52"
+                    
+                    BASELINE="431 1328 2074 1311" 
+                    HPOS="429"
+                    VPOS="1245"
+                    WIDTH="1645"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="431 1328 429 1262 2071 1245 2074 1311 2074 1331 431 1347"/></Shape>
+	    <String CONTENT="المعتزلة والإمامية فی العقل ما يدل على ذلكث، فالحسن حسن فی نفسه، والقبيح قبيح"
+                    HPOS="429"
+                    VPOS="1245"
+                    WIDTH="1645"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db331de4"
+                    
+                    BASELINE="426 1430 2071 1419" 
+                    HPOS="423"
+                    VPOS="1350"
+                    WIDTH="1648"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="426 1430 423 1361 2068 1350 2071 1419 2071 1435 426 1446"/></Shape>
+	    <String CONTENT="فی نفسه ، سوآء حكم الشارع بذلكث أولا. ونبهوا على ذلكث بوجوه : الأول ، انا"
+                    HPOS="423"
+                    VPOS="1350"
+                    WIDTH="1648"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a574d024"
+                    
+                    BASELINE="426 1540 2071 1526" 
+                    HPOS="423"
+                    VPOS="1465"
+                    WIDTH="1648"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="426 1540 423 1479 2068 1465 2071 1526 2071 1551 426 1564"/></Shape>
+	    <String CONTENT="انعلم ضرورة حسن بعض الأفعال كالصدق النافم والإنصاف والإحسان ورد الوديعة"
+                    HPOS="423"
+                    VPOS="1465"
+                    WIDTH="1648"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6e2f109"
+                    
+                    BASELINE="431 1644 2071 1633" 
+                    HPOS="429"
+                    VPOS="1564"
+                    WIDTH="1642"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="431 1644 429 1575 2068 1564 2071 1633 2071 1650 431 1661"/></Shape>
+	    <String CONTENT="و انقاذ الهلكىا وأمثال ذلكث، وقبح بعض كالكذب الضار والظلم و الإسائة الغير"
+                    HPOS="429"
+                    VPOS="1564"
+                    WIDTH="1642"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75226014"
+                    
+                    BASELINE="2126 1754 2186 1754" 
+                    HPOS="2126"
+                    VPOS="1691"
+                    WIDTH="60"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2126 1754 2126 1691 2186 1691 2186 1754 2186 1773 2126 1773"/></Shape>
+	    <String CONTENT="12"
+                    HPOS="2126"
+                    VPOS="1691"
+                    WIDTH="60"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c841546f"
+                    
+                    BASELINE="431 1762 2076 1743" 
+                    HPOS="429"
+                    VPOS="1672"
+                    WIDTH="1647"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="431 1762 429 1691 2074 1672 2076 1743 2076 1762 431 1782"/></Shape>
+	    <String CONTENT="المستحقدة وأمثال ذلكث من غير مخالجة شك فيه . ولذلكث كان هذا الحكم مركوزاً"
+                    HPOS="429"
+                    VPOS="1672"
+                    WIDTH="1647"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e37888f9"
+                    
+                    BASELINE="431 1861 2076 1850" 
+                    HPOS="429"
+                    VPOS="1776"
+                    WIDTH="1647"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="431 1861 429 1787 2074 1776 2076 1850 2076 1864 431 1875"/></Shape>
+	    <String CONTENT="اا في الجبلة الإنسان، فانا اذا قلنا لشخص: &quot;إن صدقت فلكث دينار وإن كذبت"
+                    HPOS="429"
+                    VPOS="1776"
+                    WIDTH="1647"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7e75e1b"
+                    
+                    BASELINE="437 1980 2076 1955" 
+                    HPOS="434"
+                    VPOS="1886"
+                    WIDTH="1642"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="437 1980 434 1911 2074 1886 2076 1955 2076 1969 437 1993"/></Shape>
+	    <String CONTENT="فلكث دينار&quot; ، واستوى الأمران بالنسبة اليه، فانه بمجرد عقله يميل الى الصدق."
+                    HPOS="434"
+                    VPOS="1886"
+                    WIDTH="1642"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4dd93457"
+                    
+                    BASELINE="2129 2070 2189 2065" 
+                    HPOS="2123"
+                    VPOS="2018"
+                    WIDTH="66"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2129 2070 2123 2024 2184 2018 2189 2065 2189 2087 2129 2092"/></Shape>
+	    <String CONTENT="15"
+                    HPOS="2123"
+                    VPOS="2018"
+                    WIDTH="66"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ebe5342e"
+                    
+                    BASELINE="437 2081 2082 2062" 
+                    HPOS="434"
+                    VPOS="1999"
+                    WIDTH="1648"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="437 2081 434 2018 2079 1999 2082 2062 2082 2084 437 2103"/></Shape>
+	    <String CONTENT="الثانى ، انته لوكان مدرك الحسن والقبيح هوالشرع لاغيره ، لزم ان لايتحققا بدونه ،"
+                    HPOS="434"
+                    VPOS="1999"
+                    WIDTH="1648"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35813741"
+                    
+                    BASELINE="434 2191 2076 2180" 
+                    HPOS="431"
+                    VPOS="2117"
+                    WIDTH="1645"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="434 2191 431 2128 2074 2117 2076 2180 2076 2200 434 2211"/></Shape>
+	    <String CONTENT="واللازم باطل ، فالملزوم مثله أما بيان اللزوم فلا متناع تحقق المشروط بدون شرطه"
+                    HPOS="431"
+                    VPOS="2117"
+                    WIDTH="1645"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d53b6e3d"
+                    
+                    BASELINE="434 2299 2074 2282" 
+                    HPOS="431"
+                    VPOS="2219"
+                    WIDTH="1643"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="434 2299 431 2235 2071 2219 2074 2282 2074 2301 434 2318"/></Shape>
+	    <String CONTENT="ضرورة. واما بيان بطلان اللازم ، فلان من لايعتقد الشرع، ولايحكم به كالملاحدة"
+                    HPOS="431"
+                    VPOS="2219"
+                    WIDTH="1643"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9a9759a"
+                    
+                    BASELINE="2115 2400 2203 2406" 
+                    HPOS="2112"
+                    VPOS="2345"
+                    WIDTH="94"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2115 2400 2118 2345 2206 2351 2203 2406 2200 2439 2112 2433"/></Shape>
+	    <String CONTENT="18"
+                    HPOS="2112"
+                    VPOS="2345"
+                    WIDTH="94"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9931d110"
+                    
+                    BASELINE="445 2414 1606 2398 2087 2403" 
+                    HPOS="442"
+                    VPOS="2329"
+                    WIDTH="1645"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="445 2414 442 2345 1603 2329 1606 2329 2087 2334 2087 2403 2085 2422 1606 2417 445 2433"/></Shape>
+	    <String CONTENT="وحكماء الهند يعتقدون حسن بعض الأفعال ، وقبح بعض من غير توقف فی ذلكث ."
+                    HPOS="442"
+                    VPOS="2329"
+                    WIDTH="1645"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35b184da"
+                    
+                    BASELINE="442 2513 2082 2491" 
+                    HPOS="440"
+                    VPOS="2428"
+                    WIDTH="1642"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="442 2513 440 2450 2079 2428 2082 2491 2082 2513 442 2535"/></Shape>
+	    <String CONTENT="فلوكان مما يعلم بالشرع لما حكم به هولاء. الثالث، انه لو انتفى الحسن والقبح العقليان،"
+                    HPOS="440"
+                    VPOS="2428"
+                    WIDTH="1642"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22843a36"
+                    
+                    BASELINE="440 2609 1917 2604 2076 2590" 
+                    HPOS="437"
+                    VPOS="2521"
+                    WIDTH="1639"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="440 2609 437 2541 1911 2535 2068 2521 2076 2590 2076 2615 1917 2629 1917 2629 440 2634"/></Shape>
+	    <String CONTENT="انتفى الحسن والقبح الشرعيان ، واللازم باطل اتفاقاً ، فكذا الملزوم وبيان الملازمة"
+                    HPOS="437"
+                    VPOS="2521"
+                    WIDTH="1639"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd7b59e1"
+                    
+                    BASELINE="2137 2706 2184 2711" 
+                    HPOS="2134"
+                    VPOS="2678"
+                    WIDTH="52"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="2137 2706 2140 2678 2186 2684 2184 2711 2181 2719 2134 2714"/></Shape>
+	    <String CONTENT=""
+                    HPOS="2134"
+                    VPOS="2678"
+                    WIDTH="52"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_119cf92e"
+                    
+                    BASELINE="440 2717 2085 2697" 
+                    HPOS="437"
+                    VPOS="2634"
+                    WIDTH="1648"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="440 2717 437 2653 2082 2634 2085 2697 2085 2719 440 2739"/></Shape>
+	    <String CONTENT="بانتفاء قبح الكذب حينثذ من الشارع ، اذالعقل لم يحكم بقبحه، وهو لم يحكم"
+                    HPOS="437"
+                    VPOS="2634"
+                    WIDTH="1648"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46e1b31e"
+                    
+                    BASELINE="442 2816 2079 2799" 
+                    HPOS="440"
+                    VPOS="2739"
+                    WIDTH="1639"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="442 2816 440 2755 2076 2739 2079 2799 2079 2832 442 2849"/></Shape>
+	    <String CONTENT="بقبح كذب نفسه ، وما اذا انتفى قبح الكذب منه انتفى الوثوق بحسن ما يخبرنا بحسنه وقبح"
+                    HPOS="440"
+                    VPOS="2739"
+                    WIDTH="1639"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2807a29d"
+                    
+                    BASELINE="1777 2904 2082 2893" 
+                    HPOS="1774"
+                    VPOS="2838"
+                    WIDTH="308"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1777 2904 1774 2849 2079 2838 2082 2893 2082 2920 1777 2931"/></Shape>
+	    <String CONTENT="ما يخبرنا بقبحه"
+                    HPOS="1774"
+                    VPOS="2838"
+                    WIDTH="308"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1056"
+                   VPOS="363"
+                   WIDTH="404"
+                   HEIGHT="63"
+                   ID="eSc_textblock_a55df9fc"
+                   TAGREFS="BT853">
+          <Shape><Polygon POINTS="1449 363 1460 415 1056 426 1067 363"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f789fb62"
+                    
+                    BASELINE="1059 412 1452 407" 
+                    HPOS="1056"
+                    VPOS="360"
+                    WIDTH="396"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1059 412 1056 365 1449 360 1452 407 1452 420 1059 426"/></Shape>
+	    <String CONTENT="شرح باب حادی عشر"
+                    HPOS="1056"
+                    VPOS="360"
+                    WIDTH="396"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2134"
+                   VPOS="715"
+                   WIDTH="52"
+                   HEIGHT="74"
+                   ID="eSc_textblock_0bfa23f8"
+                   TAGREFS="BT854">
+          <Shape><Polygon POINTS="2186 737 2164 789 2134 756 2145 715"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2156"
+                   VPOS="1056"
+                   WIDTH="19"
+                   HEIGHT="52"
+                   ID="eSc_textblock_ad943892"
+                   TAGREFS="BT854">
+          <Shape><Polygon POINTS="2156 1108 2156 1056 2175 1056 2175 1108"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2156"
+                   VPOS="1375"
+                   WIDTH="30"
+                   HEIGHT="52"
+                   ID="eSc_textblock_897ab17a"
+                   TAGREFS="BT854">
+          <Shape><Polygon POINTS="2156 1427 2156 1375 2186 1375 2175 1427"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2117"
+                   VPOS="1984"
+                   WIDTH="80"
+                   HEIGHT="121"
+                   ID="eSc_textblock_83219eaf"
+                   TAGREFS="BT854">
+          <Shape><Polygon POINTS="2197 2013 2197 2076 2117 2105 2117 1984"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2117"
+                   VPOS="2637"
+                   WIDTH="91"
+                   HEIGHT="89"
+                   ID="eSc_textblock_9db3e381"
+                   TAGREFS="BT854">
+          <Shape><Polygon POINTS="2186 2640 2208 2703 2117 2726 2117 2637"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="381"
+                   VPOS="486"
+                   WIDTH="1718"
+                   HEIGHT="2466"
+                   ID="eSc_textblock_f1a0dc54"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="381 486 381 2952 2099 2952 2099 486"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2113"
+                   VPOS="2326"
+                   WIDTH="138"
+                   HEIGHT="134"
+                   ID="eSc_textblock_331a9da3"
+                   TAGREFS="BT854">
+          <Shape><Polygon POINTS="2251 2326 2251 2460 2113 2460 2113 2326"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1980"
+                   VPOS="363"
+                   WIDTH="41"
+                   HEIGHT="41"
+                   ID="eSc_textblock_c2faf876"
+                   TAGREFS="BT852">
+          <Shape><Polygon POINTS="1980 385 2002 363 2021 393 1980 404"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

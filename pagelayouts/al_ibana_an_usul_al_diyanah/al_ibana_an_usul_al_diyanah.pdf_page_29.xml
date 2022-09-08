@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_ibana_an_usul_al_diyanah.pdf_page_29.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT860" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT861" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT862" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT863" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT864" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT33" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1356"
+                   VPOS="374"
+                   WIDTH="687"
+                   HEIGHT="114"
+                   ID="eSc_textblock_dd1eb8d4"
+                   TAGREFS="BT864">
+          <Shape><Polygon POINTS="1356 488 1379 385 1496 374 1984 385 2043 488"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5a249a2e"
+                    
+                    BASELINE="1373 456 2017 456" 
+                    HPOS="1373"
+                    VPOS="397"
+                    WIDTH="644"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1373 456 1373 397 2017 397 2017 456 2017 476 1373 476"/></Shape>
+	    <String CONTENT="الإبانة عن أصول الديانة: تحقيق ودراسة"
+                    HPOS="1373"
+                    VPOS="397"
+                    WIDTH="644"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="431"
+                   VPOS="580"
+                   WIDTH="1624"
+                   HEIGHT="2110"
+                   ID="eSc_textblock_1877a6c4"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2055 580 2055 2690 431 2690 431 580"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e47d28f1"
+                    TAGREFS="LT33"
+                    BASELINE="1084 692 1409 686" 
+                    HPOS="1081"
+                    VPOS="625"
+                    WIDTH="328"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1084 692 1081 631 1406 625 1409 686 1409 707 1084 713"/></Shape>
+	    <String CONTENT="المبحث الثاني"
+                    HPOS="1081"
+                    VPOS="625"
+                    WIDTH="328"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7defc3a5"
+                    TAGREFS="LT33"
+                    BASELINE="841 830 1625 824" 
+                    HPOS="839"
+                    VPOS="760"
+                    WIDTH="786"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="841 830 839 765 1622 760 1625 824 1625 844 841 850"/></Shape>
+	    <String CONTENT="توشیق نسیته لمؤلفه، رحمله الله"
+                    HPOS="839"
+                    VPOS="760"
+                    WIDTH="786"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83da7684"
+                    
+                    BASELINE="1379 976 2017 970" 
+                    HPOS="1376"
+                    VPOS="912"
+                    WIDTH="641"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1379 976 1376 917 2014 912 2017 970 2017 991 1379 996"/></Shape>
+	    <String CONTENT="المطلب الأول : من أثبتوا الكتاب."
+                    HPOS="1376"
+                    VPOS="912"
+                    WIDTH="641"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2896ae3f"
+                    
+                    BASELINE="456 1093 1917 1099" 
+                    HPOS="453"
+                    VPOS="1029"
+                    WIDTH="1464"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="456 1093 456 1029 1917 1034 1917 1099 1914 1113 453 1107"/></Shape>
+	    <String CONTENT="لم أجد كتابا تضافرت الأقوال على نسبته لمؤلفه كما تضافرت الأقوال"
+                    HPOS="453"
+                    VPOS="1029"
+                    WIDTH="1464"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb154aef"
+                    
+                    BASELINE="456 1213 2020 1207" 
+                    HPOS="453"
+                    VPOS="1151"
+                    WIDTH="1567"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="456 1213 453 1157 2017 1151 2020 1207 2020 1227 456 1233"/></Shape>
+	    <String CONTENT="على نسبة كتاب الإبانة، لمؤلفه الإمام الأشعرى - رحمه الله - فلقد شهد"
+                    HPOS="453"
+                    VPOS="1151"
+                    WIDTH="1567"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_522e6913"
+                    
+                    BASELINE="456 1330 2022 1321" 
+                    HPOS="453"
+                    VPOS="1259"
+                    WIDTH="1569"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="456 1330 453 1268 2020 1259 2022 1321 2022 1341 456 1350"/></Shape>
+	    <String CONTENT="العشرات من العلماء على أن الإمام الأشعرى قد ألف كتابه الإبانة، وإنما"
+                    HPOS="453"
+                    VPOS="1259"
+                    WIDTH="1569"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2339b449"
+                    
+                    BASELINE="458 1455 2020 1441" 
+                    HPOS="456"
+                    VPOS="1379"
+                    WIDTH="1564"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="458 1455 456 1394 2017 1379 2020 1441 2020 1455 458 1470"/></Shape>
+	    <String CONTENT="تساعل بعض الناس: لماذا خلت منه قائمة ابن فورك2! وسوف أجيب عن"
+                    HPOS="456"
+                    VPOS="1379"
+                    WIDTH="1564"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26eed6f3"
+                    
+                    BASELINE="458 1561 2025 1561" 
+                    HPOS="458"
+                    VPOS="1508"
+                    WIDTH="1567"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="458 1561 458 1508 2025 1508 2025 1561 2025 1584 458 1584"/></Shape>
+	    <String CONTENT=" هذا بإذن الله كما تساعل بعضهم: لماذا لم يذكره ابن عساكر. فيما استدركه"
+                    HPOS="458"
+                    VPOS="1508"
+                    WIDTH="1567"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afa2036c"
+                    
+                    BASELINE="458 1683 2022 1683" 
+                    HPOS="458"
+                    VPOS="1628"
+                    WIDTH="1564"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="458 1683 458 1628 2022 1628 2022 1683 2022 1704 458 1704"/></Shape>
+	    <String CONTENT=" على ابن فورك؟! قلت: هؤلاء إما جهلوا، وإما تناسوا، أن ابن عساكر ذكر"
+                    HPOS="458"
+                    VPOS="1628"
+                    WIDTH="1564"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_560889d4"
+                    
+                    BASELINE="456 1797 2022 1797" 
+                    HPOS="456"
+                    VPOS="1745"
+                    WIDTH="1566"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="456 1797 456 1745 2022 1745 2022 1797 2022 1821 456 1821"/></Shape>
+	    <String CONTENT=" في كتابه التبيين كتاب الإبانة ولم يستدركه على ابن فورك فقط، بل فعل ما"
+                    HPOS="456"
+                    VPOS="1745"
+                    WIDTH="1566"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a3478e4"
+                    
+                    BASELINE="456 1920 2025 1911" 
+                    HPOS="453"
+                    VPOS="1853"
+                    WIDTH="1572"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="456 1920 453 1862 2022 1853 2025 1911 2025 1929 456 1938"/></Shape>
+	    <String CONTENT="هو أعظم، وهو: أنه نقل صفحات منه، وهذا بلا شك أعظم من الذكر"
+                    HPOS="453"
+                    VPOS="1853"
+                    WIDTH="1572"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1244deb5"
+                    
+                    BASELINE="456 2034 2025 2028" 
+                    HPOS="453"
+                    VPOS="1973"
+                    WIDTH="1572"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="456 2034 453 1979 2022 1973 2025 2028 2025 2052 456 2058"/></Shape>
+	    <String CONTENT="المجرد والسرد المجمل، بل ولم يجد عندما أراد مدح الأشعري أفضل من كتابه"
+                    HPOS="453"
+                    VPOS="1973"
+                    WIDTH="1572"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2aeadf65"
+                    
+                    BASELINE="461 2154 2022 2145" 
+                    HPOS="458"
+                    VPOS="2084"
+                    WIDTH="1564"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="461 2154 458 2093 2020 2084 2022 2145 2022 2163 461 2172"/></Shape>
+	    <String CONTENT="الإبانة(1). وكذلك تواتر الأئمة الأعلام على نسبة كتاب الإبانة للأشعرى."
+                    HPOS="458"
+                    VPOS="2084"
+                    WIDTH="1564"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c618d7a6"
+                    
+                    BASELINE="453 2268 2025 2268" 
+                    HPOS="453"
+                    VPOS="2215"
+                    WIDTH="1572"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="453 2268 453 2215 2025 2215 2025 2268 2025 2288 453 2288"/></Shape>
+	    <String CONTENT="فنسبته إليه مشهورة، فضلا عن نسخه الخخطية الموجودة، وسوف أورد هنا"
+                    HPOS="453"
+                    VPOS="2215"
+                    WIDTH="1572"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5cce74e"
+                    
+                    BASELINE="710 2388 2025 2382" 
+                    HPOS="707"
+                    VPOS="2321"
+                    WIDTH="1318"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="710 2388 707 2326 2022 2321 2025 2382 2025 2405 710 2411"/></Shape>
+	    <String CONTENT="نماذج من أقوال العلماء الذين أثبتوا صحة نسبة الكتاب ومنهم:"
+                    HPOS="707"
+                    VPOS="2321"
+                    WIDTH="1318"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bda4fba"
+                    
+                    BASELINE="453 2502 1911 2496" 
+                    HPOS="450"
+                    VPOS="2440"
+                    WIDTH="1461"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="453 2502 450 2446 1908 2440 1911 2496 1911 2514 453 2519"/></Shape>
+	    <String CONTENT="1- الحافظ ابن عساكر: وابتدأت بذكره؛ لأنه لا يشك فی معرفته"
+                    HPOS="450"
+                    VPOS="2440"
+                    WIDTH="1461"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba1e44d7"
+                    
+                    BASELINE="453 2613 2022 2619" 
+                    HPOS="450"
+                    VPOS="2557"
+                    WIDTH="1572"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="453 2613 453 2557 2022 2563 2022 2619 2020 2642 450 2636"/></Shape>
+	    <String CONTENT=" الكاملة للأشعرى وانتمائه له، بل ألف كتابا فى بيان مناقبه والذب عنه،"
+                    HPOS="450"
+                    VPOS="2557"
+                    WIDTH="1572"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="498"
+                   VPOS="402"
+                   WIDTH="154"
+                   HEIGHT="98"
+                   ID="eSc_textblock_bca63aed"
+                   TAGREFS="BT860">
+          <Shape><Polygon POINTS="652 402 652 500 498 500 498 402"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b74d8358"
+                    
+                    BASELINE="496 456 599 453" 
+                    HPOS="482"
+                    VPOS="0"
+                    WIDTH="117"
+                    HEIGHT="520">
+            <Shape><Polygon POINTS="496 456 482 2 584 0 599 453 599 517 496 520"/></Shape>
+	    <String CONTENT=""
+                    HPOS="482"
+                    VPOS="0"
+                    WIDTH="117"
+                    HEIGHT="520"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1391"
+                   VPOS="2716"
+                   WIDTH="677"
+                   HEIGHT="192"
+                   ID="eSc_textblock_02d1eed3"
+                   TAGREFS="BT862">
+          <Shape><Polygon POINTS="2068 2722 2066 2885 1508 2908 1391 2873 1414 2716"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_461a2af4"
+                    
+                    BASELINE="1444 2841 2025 2841" 
+                    HPOS="1444"
+                    VPOS="2794"
+                    WIDTH="581"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1444 2841 1444 2794 2025 2794 2025 2841 2025 2859 1444 2859"/></Shape>
+	    <String CONTENT="(1) انظر: التبيين ص 152، 389."
+                    HPOS="1444"
+                    VPOS="2794"
+                    WIDTH="581"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1790"
+                   VPOS="3293"
+                   WIDTH="209"
+                   HEIGHT="117"
+                   ID="eSc_textblock_9f78c03a"
+                   TAGREFS="BT861">
+          <Shape><Polygon POINTS="1999 3293 1999 3410 1790 3410 1790 3293"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3a48f7cc"
+                    
+                    BASELINE="1832 3388 1882 3388" 
+                    HPOS="1832"
+                    VPOS="3361"
+                    WIDTH="50"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="1832 3388 1832 3361 1882 3361 1882 3388 1882 3405 1832 3405"/></Shape>
+	    <String CONTENT="143"
+                    HPOS="1832"
+                    VPOS="3361"
+                    WIDTH="50"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="549"
+                   VPOS="420"
+                   WIDTH="56"
+                   HEIGHT="9"
+                   ID="eSc_textblock_08fd2a88"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="549 429 549 420 605 420 605 429"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

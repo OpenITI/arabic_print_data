@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>hamadani_masharib-al-adhwaq.pdf_page_37.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT801" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT802" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT803" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT804" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT805" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT806" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    <OtherTag ID="LT24" LABEL="Poetry" DESCRIPTION="line type Poetry"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1780"
+          HEIGHT="2522"
+          PHYSICAL_IMG_NR="36"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1780"
+                  HEIGHT="2522">
+        
+        <TextBlock HPOS="240"
+                   VPOS="963"
+                   WIDTH="1285"
+                   HEIGHT="1029"
+                   ID="eSc_textblock_bfe81d73"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1525 1992 1525 963 240 963 240 1992"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_642f0280"
+                    
+                    BASELINE="252 1027 1306 1034" 
+                    HPOS="250"
+                    VPOS="981"
+                    WIDTH="1056"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="252 1027 252 981 1306 987 1306 1034 1304 1048 250 1042"/></Shape>
+	    <String CONTENT="ای عزیز بدانكه: نزد اين طايفه حقيفت محبت"
+                    HPOS="250"
+                    VPOS="981"
+                    WIDTH="1056"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0dda97c"
+                    
+                    BASELINE="256 1122 1487 1118" 
+                    HPOS="254"
+                    VPOS="1069"
+                    WIDTH="1233"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="256 1122 254 1073 1485 1069 1487 1118 1487 1134 256 1139"/></Shape>
+	    <String CONTENT="عبارتست از ميل جميل حقيفى بجمال مطلق جمعاً و تفصيلاً،"
+                    HPOS="254"
+                    VPOS="1069"
+                    WIDTH="1233"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b02bd5c"
+                    
+                    BASELINE="265 1218 1264 1208 1479 1218" 
+                    HPOS="263"
+                    VPOS="1153"
+                    WIDTH="1218"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="265 1218 263 1164 1262 1153 1266 1153 1481 1164 1479 1218 1477 1235 1262 1225 265 1235"/></Shape>
+	    <String CONTENT="زيرا چه انجذاب هر فصلی باصل خود، وآنس هرانسی با جنس"
+                    HPOS="263"
+                    VPOS="1153"
+                    WIDTH="1218"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52fbb38a"
+                    
+                    BASELINE="275 1305 1483 1296" 
+                    HPOS="273"
+                    VPOS="1248"
+                    WIDTH="1210"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="275 1305 273 1256 1481 1248 1483 1296 1483 1311 275 1319"/></Shape>
+	    <String CONTENT="خود تواند بود، و در اخبار نبوی وارد است که: ان اللة جمیل"
+                    HPOS="273"
+                    VPOS="1248"
+                    WIDTH="1210"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1baa6f28"
+                    
+                    BASELINE="254 1395 1483 1395" 
+                    HPOS="254"
+                    VPOS="1349"
+                    WIDTH="1229"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="254 1395 254 1349 1483 1349 1483 1395 1483 1410 254 1410"/></Shape>
+	    <String CONTENT="حب الجمال1، وچون جمال صفت ازلى جميل مطلق است، و"
+                    HPOS="254"
+                    VPOS="1349"
+                    WIDTH="1229"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab6d3e44"
+                    
+                    BASELINE="265 1479 1481 1479" 
+                    HPOS="265"
+                    VPOS="1437"
+                    WIDTH="1216"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="265 1479 265 1437 1481 1437 1481 1479 1481 1500 265 1500"/></Shape>
+	    <String CONTENT="اسم جميل مطلقا جز حضرت جليل را عز شانهٔ سزاوار نیست2"
+                    HPOS="265"
+                    VPOS="1437"
+                    WIDTH="1216"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d01dd919"
+                    
+                    BASELINE="256 1572 1178 1569 1472 1580" 
+                    HPOS="254"
+                    VPOS="1515"
+                    WIDTH="1218"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="256 1572 254 1517 1176 1515 1178 1515 1472 1525 1472 1580 1470 1595 1176 1584 256 1586"/></Shape>
+	    <String CONTENT="يس جميل بحقيقت3، يكی بيش نبوده، وخده لآشریک له2، و"
+                    HPOS="254"
+                    VPOS="1515"
+                    WIDTH="1218"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7394893e"
+                    
+                    BASELINE="260 1660 1479 1656" 
+                    HPOS="258"
+                    VPOS="1611"
+                    WIDTH="1221"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="260 1660 258 1616 1477 1611 1479 1656 1479 1672 260 1677"/></Shape>
+	    <String CONTENT="هرحسن و جمال که بر صفحات وجود افراد و اشخاص مراتب"
+                    HPOS="258"
+                    VPOS="1611"
+                    WIDTH="1221"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec55cefa"
+                    
+                    BASELINE="256 1748 1485 1744" 
+                    HPOS="254"
+                    VPOS="1693"
+                    WIDTH="1231"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="256 1748 254 1698 1483 1693 1485 1744 1485 1763 256 1767"/></Shape>
+	    <String CONTENT="اكوان و مجالى امكان ظهور می كند، همه عكوس انوار جمال آن"
+                    HPOS="254"
+                    VPOS="1693"
+                    WIDTH="1231"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34c3c031"
+                    
+                    BASELINE="254 1843 1489 1836" 
+                    HPOS="252"
+                    VPOS="1792"
+                    WIDTH="1237"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="254 1843 252 1799 1487 1792 1489 1836 1489 1851 254 1857"/></Shape>
+	    <String CONTENT="حضرت است که درمجالی و مظاهر استعدادات ظاهر میشود، و"
+                    HPOS="252"
+                    VPOS="1792"
+                    WIDTH="1237"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e89bf861"
+                    
+                    BASELINE="328 1927 1483 1933" 
+                    HPOS="326"
+                    VPOS="1880"
+                    WIDTH="1157"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="328 1927 328 1880 1483 1887 1483 1933 1481 1952 326 1946"/></Shape>
+	    <String CONTENT="در مرایای قابلیات و خصوصیات قوابل منعکس می کردد که:"
+                    HPOS="326"
+                    VPOS="1880"
+                    WIDTH="1157"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="752"
+                   VPOS="760"
+                   WIDTH="203"
+                   HEIGHT="113"
+                   ID="eSc_textblock_76e88625"
+                   TAGREFS="BT801">
+          <Shape><Polygon POINTS="752 760 752 873 955 873 955 760"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2565a108"
+                    
+                    BASELINE="757 825 929 819" 
+                    HPOS="755"
+                    VPOS="773"
+                    WIDTH="174"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="757 825 755 779 927 773 929 819 929 834 757 840"/></Shape>
+	    <String CONTENT="المقدهمة"
+                    HPOS="755"
+                    VPOS="773"
+                    WIDTH="174"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="682"
+                   VPOS="2005"
+                   WIDTH="823"
+                   HEIGHT="293"
+                   ID="eSc_textblock_8e57caf8"
+                   TAGREFS="BT804">
+          <Shape><Polygon POINTS="1488 2298 1505 2009 682 2005 682 2298"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ad61bcb"
+                    
+                    BASELINE="715 2078 1405 2074" 
+                    HPOS="713"
+                    VPOS="2040"
+                    WIDTH="692"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="715 2078 713 2044 1403 2040 1405 2074 1405 2086 715 2091"/></Shape>
+	    <String CONTENT="(1) خداوند خود ز یباست، وزیبائی را دوست میدارد."
+                    HPOS="713"
+                    VPOS="2040"
+                    WIDTH="692"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f32ec06b"
+                    
+                    BASELINE="702 2141 1403 2137" 
+                    HPOS="700"
+                    VPOS="2099"
+                    WIDTH="703"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="702 2141 700 2103 1401 2099 1403 2137 1403 2152 702 2156"/></Shape>
+	    <String CONTENT="(2) واسم جمیل را حضرت جلیل عزشأنه سزاوار است م"
+                    HPOS="700"
+                    VPOS="2099"
+                    WIDTH="703"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfe27b34"
+                    
+                    BASELINE="1018 2208 1399 2208" 
+                    HPOS="1018"
+                    VPOS="2173"
+                    WIDTH="381"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1018 2208 1018 2173 1399 2173 1399 2208 1399 2223 1018 2223"/></Shape>
+	    <String CONTENT="(3) جميل مطلق در حقيقت م"
+                    HPOS="1018"
+                    VPOS="2173"
+                    WIDTH="381"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9cd42fe"
+                    
+                    BASELINE="875 2269 1399 2265" 
+                    HPOS="873"
+                    VPOS="2229"
+                    WIDTH="526"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="875 2269 873 2234 1397 2229 1399 2265 1399 2280 875 2284"/></Shape>
+	    <String CONTENT="(4) اویکانه بوده، انبازی مرا و اورا نیست"
+                    HPOS="873"
+                    VPOS="2229"
+                    WIDTH="526"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

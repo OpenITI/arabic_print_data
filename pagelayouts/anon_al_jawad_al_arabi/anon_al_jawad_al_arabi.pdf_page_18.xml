@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>anon_al_jawad_al_arabi.pdf_page_18.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT941" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT942" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT943" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT944" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT45" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1823"
+          HEIGHT="2667"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1823"
+                  HEIGHT="2667">
+        
+        <TextBlock HPOS="168"
+                   VPOS="284"
+                   WIDTH="1501"
+                   HEIGHT="2042"
+                   ID="eSc_textblock_c00bf167"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1625 302 1669 515 1642 1377 1669 1909 1634 2309 1120 2326 177 2291 168 435 204 284"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_58ef1d1a"
+                    
+                    BASELINE="191 355 1513 355" 
+                    HPOS="191"
+                    VPOS="306"
+                    WIDTH="1322"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="191 355 191 306 1513 306 1513 355 1513 380 191 380"/></Shape>
+	    <String CONTENT="اج- صلب الموضوع: وعلى هذا فقد بقى من الكتاب ثلثان ؛ صرف"
+                    HPOS="191"
+                    VPOS="306"
+                    WIDTH="1322"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99c7c9dd"
+                    
+                    BASELINE="197 442 1614 446" 
+                    HPOS="195"
+                    VPOS="386"
+                    WIDTH="1419"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="197 442 197 386 1614 391 1614 446 1611 468 195 464"/></Shape>
+	    <String CONTENT="الثلث الثاني منه في الأمراض والعلل التى تعتري الجواد. وبين ظواهرها ،"
+                    HPOS="195"
+                    VPOS="386"
+                    WIDTH="1419"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0f5b801"
+                    
+                    BASELINE="193 535 1107 533 1616 544" 
+                    HPOS="191"
+                    VPOS="475"
+                    WIDTH="1425"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="193 535 191 477 1104 475 1107 475 1616 486 1616 544 1614 564 1104 553 193 555"/></Shape>
+	    <String CONTENT="وبواطنها، وعوارضها، والمسببات لها ؛ فقد تكون من علة جسدية، او"
+                    HPOS="191"
+                    VPOS="475"
+                    WIDTH="1425"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8dfa2b51"
+                    
+                    BASELINE="193 628 1280 622 1614 631" 
+                    HPOS="191"
+                    VPOS="562"
+                    WIDTH="1423"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="193 628 191 568 1278 562 1280 562 1614 571 1614 631 1611 651 1278 642 193 648"/></Shape>
+	    <String CONTENT="من خطأ يرتكبه صاحب الجواد، أو أن العلة طارئة خارجية أصيب بها"
+                    HPOS="191"
+                    VPOS="562"
+                    WIDTH="1423"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93d91826"
+                    
+                    BASELINE="197 715 1333 726 1614 713" 
+                    HPOS="195"
+                    VPOS="648"
+                    WIDTH="1419"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="197 715 197 651 1331 662 1609 648 1614 713 1614 735 1333 748 1331 748 195 737"/></Shape>
+	    <String CONTENT="الجواد من حرارة أو برودة أو حيوان مفترس أو حشرة أو ضربة حجر..."
+                    HPOS="195"
+                    VPOS="648"
+                    WIDTH="1419"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_745cacbb"
+                    
+                    BASELINE="204 804 1618 813" 
+                    HPOS="202"
+                    VPOS="744"
+                    WIDTH="1416"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="204 804 204 744 1618 753 1618 813 1616 831 202 822"/></Shape>
+	    <String CONTENT="وبين في الثلث الأخير العلاجات الواجب اتباعها لتلافي أمراض الخيل ،"
+                    HPOS="202"
+                    VPOS="744"
+                    WIDTH="1416"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fff9e78"
+                    
+                    BASELINE="195 904 440 895 1611 897" 
+                    HPOS="193"
+                    VPOS="837"
+                    WIDTH="1418"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="195 904 193 846 437 837 440 837 1611 840 1611 897 1609 915 440 913 195 922"/></Shape>
+	    <String CONTENT="وطرائق إعدادها، ومواصفات أدوائها، وطريقة العناية التى يحسن"
+                    HPOS="193"
+                    VPOS="837"
+                    WIDTH="1418"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35e2b637"
+                    
+                    BASELINE="197 982 1618 986" 
+                    HPOS="195"
+                    VPOS="933"
+                    WIDTH="1423"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="197 982 197 933 1618 937 1618 986 1616 1015 195 1011"/></Shape>
+	    <String CONTENT="مراعاتها . حتى نوع الطعام الذي يجب تقديمه للجواد مع كل داء ودواء."
+                    HPOS="195"
+                    VPOS="933"
+                    WIDTH="1423"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89464660"
+                    
+                    BASELINE="640 1073 1616 1080" 
+                    HPOS="638"
+                    VPOS="1017"
+                    WIDTH="978"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="640 1073 640 1017 1616 1024 1616 1080 1614 1104 638 1097"/></Shape>
+	    <String CONTENT="وهذا لعمري كمال في المنهج العلمى تأليفاً وعناية."
+                    HPOS="638"
+                    VPOS="1017"
+                    WIDTH="978"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f369b17"
+                    
+                    BASELINE="180 1160 1520 1169" 
+                    HPOS="177"
+                    VPOS="1111"
+                    WIDTH="1343"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="180 1160 180 1111 1520 1120 1520 1169 1518 1189 177 1180"/></Shape>
+	    <String CONTENT="وقد اعتمد في هذين الفصلين على تجربته الواسعة، ومشاهداته"
+                    HPOS="177"
+                    VPOS="1111"
+                    WIDTH="1343"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd0ad222"
+                    
+                    BASELINE="188 1257 1216 1262 1605 1251" 
+                    HPOS="186"
+                    VPOS="1193"
+                    WIDTH="1419"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="188 1257 188 1200 1213 1204 1602 1193 1605 1251 1605 1271 1216 1282 1213 1282 186 1277"/></Shape>
+	    <String CONTENT="الخاصة، ونتائجه التى حصل عليها من جراء تشريحه الدقيق ، وتطبيقه في"
+                    HPOS="186"
+                    VPOS="1193"
+                    WIDTH="1419"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f869091"
+                    
+                    BASELINE="180 1342 1605 1346" 
+                    HPOS="177"
+                    VPOS="1291"
+                    WIDTH="1428"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="180 1342 180 1291 1605 1295 1605 1346 1602 1369 177 1364"/></Shape>
+	    <String CONTENT="العمليات والمعالجات . وهذا يدل على أنه لم يؤلف كتابه هذا إلا بعد أن"
+                    HPOS="177"
+                    VPOS="1291"
+                    WIDTH="1428"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f0f5d8a"
+                    
+                    BASELINE="188 1440 1605 1435" 
+                    HPOS="186"
+                    VPOS="1380"
+                    WIDTH="1419"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="188 1440 186 1384 1602 1380 1605 1435 1605 1460 188 1464"/></Shape>
+	    <String CONTENT="أمضى زماناً في هذا الميدان. ولا شك أن مختبره التحليلي كان يعج بأنواع"
+                    HPOS="186"
+                    VPOS="1380"
+                    WIDTH="1419"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6117b277"
+                    
+                    BASELINE="182 1526 1594 1533" 
+                    HPOS="180"
+                    VPOS="1473"
+                    WIDTH="1414"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="182 1526 182 1473 1594 1480 1594 1533 1591 1553 180 1546"/></Shape>
+	    <String CONTENT="كثيرة من الأعشاب، والأدوية، ومناضد التشريح، والأواني ،"
+                    HPOS="180"
+                    VPOS="1473"
+                    WIDTH="1414"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f816e01"
+                    
+                    BASELINE="180 1615 1607 1624" 
+                    HPOS="177"
+                    VPOS="1560"
+                    WIDTH="1430"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="180 1615 180 1560 1607 1569 1607 1624 1605 1646 177 1637"/></Shape>
+	    <String CONTENT="والمكاييل ، والكتب، ناهيك عن بعض الجياد التى كانت تخضع"
+                    HPOS="177"
+                    VPOS="1560"
+                    WIDTH="1430"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03b7c178"
+                    
+                    BASELINE="177 1706 1382 1715 1598 1706" 
+                    HPOS="175"
+                    VPOS="1651"
+                    WIDTH="1423"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="177 1706 177 1651 1380 1660 1594 1651 1598 1706 1598 1726 1382 1735 1380 1735 175 1726"/></Shape>
+	    <String CONTENT="المعالجته أو لاجراء الفحوص التجريبية عليها . لهذا كنا كثيرا ما نراه يقول"
+                    HPOS="175"
+                    VPOS="1651"
+                    WIDTH="1423"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51489d5e"
+                    
+                    BASELINE="177 1795 1596 1806" 
+                    HPOS="175"
+                    VPOS="1742"
+                    WIDTH="1421"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="177 1795 177 1742 1596 1753 1596 1806 1594 1829 175 1818"/></Shape>
+	    <String CONTENT="في ختام كل دواء: &quot;بحرب&quot; . ولأمانته العلمية التى اتصف بها نراه يقول"
+                    HPOS="175"
+                    VPOS="1742"
+                    WIDTH="1421"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80040a18"
+                    
+                    BASELINE="602 1891 1594 1891" 
+                    HPOS="602"
+                    VPOS="1840"
+                    WIDTH="992"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="602 1891 602 1840 1594 1840 1594 1891 1594 1913 602 1913"/></Shape>
+	    <String CONTENT="أحيانا الم أجربه&quot; ، أو &quot;من وصفات أبي يوسف&quot;."
+                    HPOS="602"
+                    VPOS="1840"
+                    WIDTH="992"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0cf7696"
+                    
+                    BASELINE="177 1980 1513 1989" 
+                    HPOS="175"
+                    VPOS="1922"
+                    WIDTH="1338"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="177 1980 177 1922 1513 1931 1513 1989 1511 2009 175 2000"/></Shape>
+	    <String CONTENT="ويعتبر المؤلف الاهتمام بالجواد، وغيره من أنواع الحيوان ، واجبا."
+                    HPOS="175"
+                    VPOS="1922"
+                    WIDTH="1338"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d308a92e"
+                    
+                    BASELINE="175 2075 1598 2080" 
+                    HPOS="173"
+                    VPOS="2018"
+                    WIDTH="1425"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="175 2075 175 2018 1598 2022 1598 2080 1596 2095 173 2091"/></Shape>
+	    <String CONTENT="وعلى البيطري أن يحافظ على حياة الحيوان بين يديه . وكم يؤلمه أن يهمل"
+                    HPOS="173"
+                    VPOS="2018"
+                    WIDTH="1425"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_668007fe"
+                    
+                    BASELINE="175 2160 1198 2169 1589 2158" 
+                    HPOS="173"
+                    VPOS="2098"
+                    WIDTH="1416"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="175 2160 175 2100 1196 2109 1587 2098 1589 2158 1589 2182 1198 2193 1196 2195 173 2186"/></Shape>
+	    <String CONTENT="الناس معاقبة البيطري الذي يكون سببا في إيذاء الجواد أو هلاكه . انظر"
+                    HPOS="173"
+                    VPOS="2098"
+                    WIDTH="1416"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_797c17b9"
+                    
+                    BASELINE="1158 2260 1596 2260" 
+                    HPOS="1158"
+                    VPOS="2204"
+                    WIDTH="438"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1158 2260 1158 2204 1596 2204 1596 2260 1596 2282 1158 2282"/></Shape>
+	    <String CONTENT="إلى قول العالم الغيور:"
+                    HPOS="1158"
+                    VPOS="2204"
+                    WIDTH="438"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="907"
+                   VPOS="2400"
+                   WIDTH="24"
+                   HEIGHT="24"
+                   ID="eSc_textblock_7c600ea3"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="931 2400 931 2415 915 2424 907 2400"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="896"
+                   VPOS="2363"
+                   WIDTH="81"
+                   HEIGHT="113"
+                   ID="eSc_textblock_390e8741"
+                   TAGREFS="BT943">
+          <Shape><Polygon POINTS="977 2363 977 2476 896 2476 896 2363"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

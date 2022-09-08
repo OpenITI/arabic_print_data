@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_lutf_al_tadbir.pdf_page_19.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT902" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT903" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT904" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT905" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT906" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1971"
+          HEIGHT="2924"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1971"
+                  HEIGHT="2924">
+        
+        <TextBlock HPOS="400"
+                   VPOS="282"
+                   WIDTH="1412"
+                   HEIGHT="2288"
+                   ID="eSc_textblock_6a8b70ca"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1773 292 1802 448 1812 1771 1802 2404 1792 2531 1753 2570 409 2541 400 409 439 282"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ba1df31a"
+                    
+                    BASELINE="422 350 1727 336" 
+                    HPOS="419"
+                    VPOS="280"
+                    WIDTH="1308"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="422 350 419 294 1724 280 1727 336 1727 353 422 367"/></Shape>
+	    <String CONTENT="سماء (سلوك المالك فی تدبير المالك &quot; . أما الكتب الأخرى الشهيرة فی هذا"
+                    HPOS="419"
+                    VPOS="280"
+                    WIDTH="1308"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7de24eb6"
+                    
+                    BASELINE="424 450 1734 433" 
+                    HPOS="422"
+                    VPOS="377"
+                    WIDTH="1312"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="424 450 422 394 1731 377 1734 433 1734 458 424 475"/></Shape>
+	    <String CONTENT="الموضوع، فقد وضعت بعد الإسكافى. وقد وضع ابن أبى الربيع كتابه على أساس"
+                    HPOS="422"
+                    VPOS="377"
+                    WIDTH="1312"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_abda5396"
+                    
+                    BASELINE="419 545 1317 545 1734 531" 
+                    HPOS="419"
+                    VPOS="475"
+                    WIDTH="1315"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="419 545 419 489 1314 489 1731 475 1734 531 1734 555 1317 570 1317 570 419 570"/></Shape>
+	    <String CONTENT="طريقة التشجير التى تقوم على عرض خلاصة البحث بنقاط أساسية تتفرع منها"
+                    HPOS="419"
+                    VPOS="475"
+                    WIDTH="1315"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f897a34c"
+                    
+                    BASELINE="424 648 1734 631" 
+                    HPOS="422"
+                    VPOS="575"
+                    WIDTH="1312"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="424 648 422 592 1731 575 1734 631 1734 650 424 667"/></Shape>
+	    <String CONTENT="نقاط ثانوية ، توضع بشكل متسلسل متشعب. وقد احتوى الكتاب على"
+                    HPOS="422"
+                    VPOS="575"
+                    WIDTH="1312"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41bb1724"
+                    
+                    BASELINE="422 743 1736 728" 
+                    HPOS="419"
+                    VPOS="674"
+                    WIDTH="1317"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="422 743 419 689 1734 674 1736 728 1736 750 422 765"/></Shape>
+	    <String CONTENT="فصول أربعة، كتبت بشكل فلسفی مجرد خال من الحوادث الناريخية ، وهى تدل"
+                    HPOS="419"
+                    VPOS="674"
+                    WIDTH="1317"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_937725fb"
+                    
+                    BASELINE="424 843 1163 828 1731 835" 
+                    HPOS="422"
+                    VPOS="774"
+                    WIDTH="1309"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="424 843 422 789 1161 774 1163 774 1731 782 1731 835 1729 860 1163 852 424 867"/></Shape>
+	    <String CONTENT="على غزارة علم المؤلف وسعة اطلاعه على معارف عصره ، وعلى قدرته فی تحليل"
+                    HPOS="422"
+                    VPOS="774"
+                    WIDTH="1309"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e0b9611"
+                    
+                    BASELINE="422 942 1429 935 1736 921" 
+                    HPOS="419"
+                    VPOS="857"
+                    WIDTH="1317"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="422 942 419 879 1427 872 1731 857 1736 921 1736 945 1429 960 1429 960 422 967"/></Shape>
+	    <String CONTENT="المواضيع وتعليلها وبيان نتائجها . ولم نجد فی كتاب الخطيب الإسكافی مايدل على"
+                    HPOS="419"
+                    VPOS="857"
+                    WIDTH="1317"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_145ea1e7"
+                    
+                    BASELINE="422 1030 1741 1020" 
+                    HPOS="419"
+                    VPOS="967"
+                    WIDTH="1322"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="422 1030 419 977 1739 967 1741 1020 1741 1042 422 1052"/></Shape>
+	    <String CONTENT="أنه قد اقتبس شيئاً مما احتواه كتاب ابن أبی الربيع، إذ أن بحوث هذا"
+                    HPOS="419"
+                    VPOS="967"
+                    WIDTH="1322"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07868aad"
+                    
+                    BASELINE="422 1137 1736 1115" 
+                    HPOS="419"
+                    VPOS="1055"
+                    WIDTH="1317"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="422 1137 419 1077 1734 1055 1736 1115 1736 1133 422 1154"/></Shape>
+	    <String CONTENT="الكتاب&quot; كما قلنا ، فلسفية مجردة ، بينما يقوم كتاب الخطيب الإسكافى على"
+                    HPOS="419"
+                    VPOS="1055"
+                    WIDTH="1317"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bbc1d4f"
+                    
+                    BASELINE="422 1228 1734 1223" 
+                    HPOS="419"
+                    VPOS="1172"
+                    WIDTH="1315"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="422 1228 419 1176 1731 1172 1734 1223 1734 1242 422 1247"/></Shape>
+	    <String CONTENT="عرض صور مختلفة مسنمدة من الحوادث التاربخية . وذلك مما يجعل لكتاب"
+                    HPOS="419"
+                    VPOS="1172"
+                    WIDTH="1315"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b2fba83"
+                    
+                    BASELINE="634 1325 1561 1325 1729 1313" 
+                    HPOS="634"
+                    VPOS="1254"
+                    WIDTH="1095"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="634 1325 634 1267 1558 1267 1724 1254 1729 1313 1729 1342 1561 1354 1561 1354 634 1354"/></Shape>
+	    <String CONTENT="الإسكافى قيمة كبيرة باعتباره من أوائل ما ألف فى هذا الموضوع ."
+                    HPOS="634"
+                    VPOS="1254"
+                    WIDTH="1095"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c359fe58"
+                    
+                    BASELINE="431 1476 1644 1459" 
+                    HPOS="429"
+                    VPOS="1398"
+                    WIDTH="1215"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="431 1476 429 1415 1641 1398 1644 1459 1644 1474 431 1491"/></Shape>
+	    <String CONTENT="على أن أهمية كتاب الإسكافى لاتقتصر على أسبقيته وحسب، بل تظهر"
+                    HPOS="429"
+                    VPOS="1398"
+                    WIDTH="1215"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_919b057b"
+                    
+                    BASELINE="424 1569 1739 1557" 
+                    HPOS="422"
+                    VPOS="1503"
+                    WIDTH="1317"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="424 1569 422 1515 1736 1503 1739 1557 1739 1576 424 1588"/></Shape>
+	    <String CONTENT="فيما انطوى عليه من حقائق تاريخية ، تكشف عن كثير من جوانب الحياة"
+                    HPOS="422"
+                    VPOS="1503"
+                    WIDTH="1317"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4105b58"
+                    
+                    BASELINE="426 1676 1734 1649" 
+                    HPOS="424"
+                    VPOS="1591"
+                    WIDTH="1310"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="426 1676 424 1617 1731 1591 1734 1649 1734 1669 426 1695"/></Shape>
+	    <String CONTENT="السياسية للمجتمع الإسلامى فى عصر المؤلف ، وخلال القرون الاربعة الاولى من"
+                    HPOS="424"
+                    VPOS="1591"
+                    WIDTH="1310"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11136448"
+                    
+                    BASELINE="448 1766 1736 1749" 
+                    HPOS="446"
+                    VPOS="1693"
+                    WIDTH="1290"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="448 1766 446 1710 1734 1693 1736 1749 1736 1776 448 1793"/></Shape>
+	    <String CONTENT="التاريخ الإسلامى ، وهى ولاشك منبع غزير قد ينفع دارسى التاريخ المذكور ."
+                    HPOS="446"
+                    VPOS="1693"
+                    WIDTH="1290"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d69978b"
+                    
+                    BASELINE="431 1910 617 1920 1673 1898" 
+                    HPOS="429"
+                    VPOS="1834"
+                    WIDTH="1244"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="431 1910 434 1846 617 1854 1670 1834 1673 1898 1673 1922 617 1944 614 1944 429 1934"/></Shape>
+	    <String CONTENT="غير أنه مما يدعو إلى الاستغراب ، أننا لا نجد فی كتب التراجم التى أشرنا"
+                    HPOS="429"
+                    VPOS="1834"
+                    WIDTH="1244"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a3d5b48"
+                    
+                    BASELINE="429 2015 1736 2002" 
+                    HPOS="426"
+                    VPOS="1944"
+                    WIDTH="1310"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="429 2015 426 1956 1734 1944 1736 2002 1736 2017 429 2029"/></Shape>
+	    <String CONTENT="الها شيئاً عن المؤلف ، عدا ماجاء عنه فى معجم الأدباء. إن ترجمته التی وردت"
+                    HPOS="426"
+                    VPOS="1944"
+                    WIDTH="1310"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8008dc84"
+                    
+                    BASELINE="429 2105 1739 2095" 
+                    HPOS="426"
+                    VPOS="2041"
+                    WIDTH="1313"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="429 2105 426 2051 1736 2041 1739 2095 1739 2115 429 2124"/></Shape>
+	    <String CONTENT="فى هذا الكتاب، جاءت مقتضبة جداً لاتشفیى غليل الباحث ، ولا تتفق ومنزلة"
+                    HPOS="426"
+                    VPOS="2041"
+                    WIDTH="1313"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d379b95"
+                    
+                    BASELINE="434 2212 1741 2188" 
+                    HPOS="431"
+                    VPOS="2136"
+                    WIDTH="1310"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="434 2212 431 2161 1739 2136 1741 2188 1741 2205 434 2229"/></Shape>
+	    <String CONTENT="المؤلف العلامة الاسكافی. وهى لا تتعدى اسمه وكنيته وعمله وشهرته التی"
+                    HPOS="431"
+                    VPOS="2136"
+                    WIDTH="1310"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b11eb54"
+                    
+                    BASELINE="429 2300 1736 2290" 
+                    HPOS="426"
+                    VPOS="2236"
+                    WIDTH="1310"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="429 2300 426 2246 1734 2236 1736 2290 1736 2307 429 2317"/></Shape>
+	    <String CONTENT="عرف مها ، وتسمية بعض الكتب التى صنفها . ولا نعرف لماذا أغفلت تلك"
+                    HPOS="426"
+                    VPOS="2236"
+                    WIDTH="1310"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b68710f2"
+                    
+                    BASELINE="431 2404 1419 2397 1744 2383" 
+                    HPOS="429"
+                    VPOS="2322"
+                    WIDTH="1315"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="431 2404 429 2344 1417 2336 1739 2322 1744 2383 1744 2402 1419 2417 1419 2417 431 2424"/></Shape>
+	    <String CONTENT="المصادر ذ كره فلم تترجم له ، وهل كان ذلك مقصوداً لعوامل نجهلها ؛ آم آن"
+                    HPOS="429"
+                    VPOS="2322"
+                    WIDTH="1315"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83c5df05"
+                    
+                    BASELINE="429 2495 1422 2495 1736 2482" 
+                    HPOS="429"
+                    VPOS="2424"
+                    WIDTH="1307"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="429 2495 429 2436 1419 2436 1734 2424 1736 2482 1736 2512 1422 2524 1422 2524 429 2524"/></Shape>
+	    <String CONTENT="الخطيب الإسكافی لم يكن بتلك الدرجة من الشهرة والمنزلة فی عالم الأدب"
+                    HPOS="429"
+                    VPOS="2424"
+                    WIDTH="1307"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1054"
+                   VPOS="2590"
+                   WIDTH="73"
+                   HEIGHT="59"
+                   ID="eSc_textblock_27490f1a"
+                   TAGREFS="BT903">
+          <Shape><Polygon POINTS="1127 2590 1127 2649 1089 2649 1054 2649 1054 2590"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3b72974b"
+                    
+                    BASELINE="1065 2626 1107 2624" 
+                    HPOS="1063"
+                    VPOS="2587"
+                    WIDTH="44"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1065 2626 1063 2590 1105 2587 1107 2624 1107 2646 1065 2648"/></Shape>
+	    <String CONTENT="13"
+                    HPOS="1063"
+                    VPOS="2587"
+                    WIDTH="44"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

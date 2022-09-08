@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>samak_i_ayyan_vol_1.pdf_page_139.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT768" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT769" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT770" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT771" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT772" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT773" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    <OtherTag ID="LT19" LABEL="Poetry" DESCRIPTION="line type Poetry"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2216"
+          HEIGHT="3186"
+          PHYSICAL_IMG_NR="138"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2216"
+                  HEIGHT="3186">
+        
+        <TextBlock HPOS="1875"
+                   VPOS="147"
+                   WIDTH="120"
+                   HEIGHT="72"
+                   ID="eSc_textblock_b6f1fe5d"
+                   TAGREFS="BT773">
+          <Shape><Polygon POINTS="1875 147 1875 219 1995 219 1995 147"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bcfdab72"
+                    
+                    BASELINE="1894 199 1968 199" 
+                    HPOS="1894"
+                    VPOS="153"
+                    WIDTH="74"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1894 199 1894 153 1968 153 1968 199 1968 223 1894 223"/></Shape>
+	    <String CONTENT="12"
+                    HPOS="1894"
+                    VPOS="153"
+                    WIDTH="74"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="300"
+                   VPOS="261"
+                   WIDTH="1689"
+                   HEIGHT="2497"
+                   ID="eSc_textblock_c92f5ac4"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="300 2758 300 261 1989 261 1989 2758"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2dd50bc4"
+                    
+                    BASELINE="316 310 1974 305" 
+                    HPOS="313"
+                    VPOS="260"
+                    WIDTH="1661"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="316 310 313 265 1971 260 1974 305 1974 326 316 331"/></Shape>
+	    <String CONTENT="جداگانه پیش عیاران بودی: پس چون روز روشن شد خورشیدشاه به تخت بر آمد"
+                    HPOS="313"
+                    VPOS="260"
+                    WIDTH="1661"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7991a8d3"
+                    
+                    BASELINE="316 384 1976 379" 
+                    HPOS="313"
+                    VPOS="334"
+                    WIDTH="1663"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="316 384 313 339 1974 334 1976 379 1976 395 316 400"/></Shape>
+	    <String CONTENT="و آن خلعت در پوشید، پهلوانان به خدمت آمدند و امرای دولت به شراب خوردن"
+                    HPOS="313"
+                    VPOS="334"
+                    WIDTH="1663"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2abc8ddc"
+                    
+                    BASELINE="316 464 1971 454" 
+                    HPOS="313"
+                    VPOS="403"
+                    WIDTH="1658"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="316 464 313 414 1968 403 1971 454 1971 472 316 483"/></Shape>
+	    <String CONTENT="بشفول گشتند، سمك احوال خویش بازگفت و آنچه با آشك گفته بود از بهر مهمانی"
+                    HPOS="313"
+                    VPOS="403"
+                    WIDTH="1658"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1fa5209c"
+                    
+                    BASELINE="425 523 1968 531" 
+                    HPOS="422"
+                    VPOS="475"
+                    WIDTH="1546"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="425 523 425 475 1968 483 1968 531 1966 552 422 544"/></Shape>
+	    <String CONTENT="مقوقر که او را میفرستاد و میگفت که نه کار منست. پهلوانان خنده میکردند:"
+                    HPOS="422"
+                    VPOS="475"
+                    WIDTH="1546"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd9e5545"
+                    
+                    BASELINE="321 607 1846 594" 
+                    HPOS="318"
+                    VPOS="546"
+                    WIDTH="1528"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="321 607 318 560 1844 546 1846 594 1846 613 321 626"/></Shape>
+	    <String CONTENT="ناگاه غلبه و آشوب در لشگرگاه افتاد، پنداشتی که صدهزار کوس حربی فرز"
+                    HPOS="318"
+                    VPOS="546"
+                    WIDTH="1528"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f54e722"
+                    
+                    BASELINE="326 666 1958 671" 
+                    HPOS="324"
+                    VPOS="623"
+                    WIDTH="1634"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="326 666 326 623 1958 629 1958 671 1955 695 324 690"/></Shape>
+	    <String CONTENT="کوفتند. خورشید شاه گفت چه پوده است2 گفتند ای شاه. دشمن [را] مدد آمده است"
+                    HPOS="324"
+                    VPOS="623"
+                    WIDTH="1634"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed2f99ae"
+                    
+                    BASELINE="329 743 1952 751" 
+                    HPOS="326"
+                    VPOS="695"
+                    WIDTH="1626"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="329 743 329 695 1952 703 1952 751 1950 769 326 761"/></Shape>
+	    <String CONTENT="پس شاه گفت که ایشان [را از] این چنگ ناکردن مقصود آن بود که مدد ایشان برسد."
+                    HPOS="326"
+                    VPOS="695"
+                    WIDTH="1626"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0662b87d"
+                    
+                    BASELINE="326 815 1955 820" 
+                    HPOS="324"
+                    VPOS="769"
+                    WIDTH="1631"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="326 815 326 769 1955 775 1955 820 1952 841 324 836"/></Shape>
+	    <String CONTENT="مارا ازین اندیشه نیست، چون جنگشیخواهند کردن دانم که با ایشان چنگ میباید کردن."
+                    HPOS="324"
+                    VPOS="769"
+                    WIDTH="1631"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24d1ee00"
+                    
+                    BASELINE="318 886 1833 894" 
+                    HPOS="316"
+                    VPOS="844"
+                    WIDTH="1517"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="318 886 318 844 1833 852 1833 894 1830 913 316 905"/></Shape>
+	    <String CONTENT="این سخن می گفتند و می بودند که ناگاه مردی از در درآمد که از جملهٔ"
+                    HPOS="316"
+                    VPOS="844"
+                    WIDTH="1517"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bcecc15"
+                    
+                    BASELINE="318 966 1944 961" 
+                    HPOS="316"
+                    VPOS="918"
+                    WIDTH="1628"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="318 966 316 923 1942 918 1944 961 1944 979 318 985"/></Shape>
+	    <String CONTENT="خدمتگاران خورشیدشاه بود که با وی از حلب آمده بوده نام وی سورهٔ حلبی بود و"
+                    HPOS="316"
+                    VPOS="918"
+                    WIDTH="1628"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87d12910"
+                    
+                    BASELINE="316 1040 1947 1040" 
+                    HPOS="316"
+                    VPOS="995"
+                    WIDTH="1631"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="316 1040 316 995 1947 995 1947 1040 1947 1059 316 1059"/></Shape>
+	    <String CONTENT="در آن شب که ایشان در کوچهٔ سنگین بودند با ایشان بود و در عیاری و راهروی"
+                    HPOS="316"
+                    VPOS="995"
+                    WIDTH="1631"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfcdd778"
+                    
+                    BASELINE="318 1112 1939 1107" 
+                    HPOS="316"
+                    VPOS="1062"
+                    WIDTH="1623"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="318 1112 316 1067 1937 1062 1939 1107 1939 1128 318 1133"/></Shape>
+	    <String CONTENT="سخت چالاك بود و بسیاری در جهان گردیده، و رسوم هر شمهری دانسته. و خود را به"
+                    HPOS="316"
+                    VPOS="1062"
+                    WIDTH="1623"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d53280d"
+                    
+                    BASELINE="318 1184 1939 1184" 
+                    HPOS="318"
+                    VPOS="1138"
+                    WIDTH="1621"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="318 1184 318 1138 1939 1138 1939 1184 1939 1205 318 1205"/></Shape>
+	    <String CONTENT="مرگونه برآوردی و زبانیها بدانستی، و جاسوسی کردی، و شبان روزی پنجاه فرسنگ"
+                    HPOS="318"
+                    VPOS="1138"
+                    WIDTH="1621"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0abdfe5"
+                    
+                    BASELINE="316 1250 1934 1261" 
+                    HPOS="313"
+                    VPOS="1202"
+                    WIDTH="1621"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="316 1250 316 1202 1934 1213 1934 1261 1931 1279 313 1269"/></Shape>
+	    <String CONTENT="برفتی، و کارهای پنهانی به دست آوردی که پنداشتند که خود او گفته است و تا"
+                    HPOS="313"
+                    VPOS="1202"
+                    WIDTH="1621"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33f08e4a"
+                    
+                    BASELINE="324 1330 1939 1330" 
+                    HPOS="324"
+                    VPOS="1285"
+                    WIDTH="1615"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="324 1330 324 1285 1939 1285 1939 1330 1939 1351 324 1351"/></Shape>
+	    <String CONTENT="این کار افتاده بود سوره پیوسته در لشکرگاه قزلملك بودی، پس در حال که لشکر"
+                    HPOS="324"
+                    VPOS="1285"
+                    WIDTH="1615"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0232e24a"
+                    
+                    BASELINE="637 1399 1937 1404" 
+                    HPOS="635"
+                    VPOS="1356"
+                    WIDTH="1302"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="637 1399 637 1356 1937 1362 1937 1404 1934 1423 635 1417"/></Shape>
+	    <String CONTENT="ماچین پرسیدند موره آنجا بوده جاسوسی کرد و احوال به دست آورد."
+                    HPOS="635"
+                    VPOS="1356"
+                    WIDTH="1302"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74666b2e"
+                    
+                    BASELINE="321 1481 1817 1473" 
+                    HPOS="318"
+                    VPOS="1428"
+                    WIDTH="1499"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="321 1481 318 1436 1814 1428 1817 1473 1817 1492 321 1500"/></Shape>
+	    <String CONTENT="خورشیدشاه نشسته بود که سورهٔ حلبی از در درآمد خدمت کرد و زمین را"
+                    HPOS="318"
+                    VPOS="1428"
+                    WIDTH="1499"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46b09bde"
+                    
+                    BASELINE="316 1550 1937 1550" 
+                    HPOS="316"
+                    VPOS="1505"
+                    WIDTH="1621"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="316 1550 316 1505 1937 1505 1937 1550 1937 1571 316 1571"/></Shape>
+	    <String CONTENT="نماز برد وگفت ای شاهزاده، سیلم برادر قطران و گیلسوار و شمران هر سه با بیست"
+                    HPOS="316"
+                    VPOS="1505"
+                    WIDTH="1621"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c333436"
+                    
+                    BASELINE="316 1624 1934 1619" 
+                    HPOS="313"
+                    VPOS="1574"
+                    WIDTH="1621"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="316 1624 313 1579 1931 1574 1934 1619 1934 1635 316 1640"/></Shape>
+	    <String CONTENT="هزار سوار به مدد قزل ملك آمدند، پس س در گوش خورشیدشاه کرد و گفت دو مرد"
+                    HPOS="313"
+                    VPOS="1574"
+                    WIDTH="1621"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5c1d1ff"
+                    
+                    BASELINE="321 1701 1490 1699 1944 1683" 
+                    HPOS="318"
+                    VPOS="1630"
+                    WIDTH="1626"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="321 1701 318 1648 1487 1646 1942 1630 1944 1683 1944 1704 1490 1720 1490 1720 321 1723"/></Shape>
+	    <String CONTENT="آمدهاند با این سپاه، یکی را نام کانون است که اسفهسلار شهر ماچین [است]،"
+                    HPOS="318"
+                    VPOS="1630"
+                    WIDTH="1626"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9574b4d"
+                    
+                    BASELINE="318 1776 1942 1760" 
+                    HPOS="316"
+                    VPOS="1715"
+                    WIDTH="1626"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="318 1776 316 1731 1939 1715 1942 1760 1942 1778 318 1794"/></Shape>
+	    <String CONTENT="چانکه شغال در چین اسفهسلار است کانون در ماچین همچنان، و شاگردی دارد نام او"
+                    HPOS="316"
+                    VPOS="1715"
+                    WIDTH="1626"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ace7ce5"
+                    
+                    BASELINE="318 1847 1950 1834" 
+                    HPOS="316"
+                    VPOS="1786"
+                    WIDTH="1634"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="318 1847 316 1800 1947 1786 1950 1834 1950 1853 318 1866"/></Shape>
+	    <String CONTENT="کافور، و در پیش ارمنشاه پر خود گرفته است که سر شغال پیلزور و سر سمك عیار"
+                    HPOS="316"
+                    VPOS="1786"
+                    WIDTH="1634"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e86e90cc"
+                    
+                    BASELINE="316 1922 1955 1908" 
+                    HPOS="313"
+                    VPOS="1863"
+                    WIDTH="1642"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="316 1922 313 1877 1952 1863 1955 1908 1955 1927 316 1940"/></Shape>
+	    <String CONTENT="به نزدیك شاه برند، و دعوی کردهاند که تو که شاهی زنده پبرند و بدین کار پنهان"
+                    HPOS="313"
+                    VPOS="1863"
+                    WIDTH="1642"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52728180"
+                    
+                    BASELINE="544 1996 1958 1980" 
+                    HPOS="542"
+                    VPOS="1932"
+                    WIDTH="1416"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="544 1996 542 1948 1955 1932 1958 1980 1958 2001 544 2017"/></Shape>
+	    <String CONTENT="آمدهاند چنانکه میچکس نداند، من این احوال معلوم کردم و با تو گفتم."
+                    HPOS="542"
+                    VPOS="1932"
+                    WIDTH="1416"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09eebbf8"
+                    
+                    BASELINE="316 2070 1846 2057" 
+                    HPOS="313"
+                    VPOS="2009"
+                    WIDTH="1533"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="316 2070 313 2023 1844 2009 1846 2057 1846 2078 316 2092"/></Shape>
+	    <String CONTENT="خورشیدشاه سر در پیش افکند، ساعتی بود، سر پرآورد. تا شب در آمد، پهلوانان"
+                    HPOS="313"
+                    VPOS="2009"
+                    WIDTH="1533"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36cd10ec"
+                    
+                    BASELINE="316 2145 1963 2131" 
+                    HPOS="313"
+                    VPOS="2084"
+                    WIDTH="1650"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="316 2145 313 2097 1960 2084 1963 2131 1963 2150 316 2163"/></Shape>
+	    <String CONTENT="هر کسی به جای خود رفتند. خورشیدشاه ماند با فرخ روز1، سمك و آتشك نزدیك"
+                    HPOS="313"
+                    VPOS="2084"
+                    WIDTH="1650"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc3a51a4"
+                    
+                    BASELINE="316 2222 1963 2200" 
+                    HPOS="313"
+                    VPOS="2153"
+                    WIDTH="1650"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="316 2222 313 2174 1960 2153 1963 2200 1963 2222 316 2243"/></Shape>
+	    <String CONTENT="تعت شاه ایستاده بودند، سمك خدمت کرد و گفت ای شاه، آنچه سورهٔ حلبی در گوش"
+                    HPOS="313"
+                    VPOS="2153"
+                    WIDTH="1650"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4701332"
+                    
+                    BASELINE="1200 2285 1968 2277" 
+                    HPOS="1198"
+                    VPOS="2230"
+                    WIDTH="770"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1200 2285 1198 2238 1966 2230 1968 2277 1968 2299 1200 2307"/></Shape>
+	    <String CONTENT="تو گفت اگر نه رازی بود با پنده بکوید."
+                    HPOS="1198"
+                    VPOS="2230"
+                    WIDTH="770"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d68ab47d"
+                    
+                    BASELINE="318 2370 1851 2354" 
+                    HPOS="316"
+                    VPOS="2304"
+                    WIDTH="1535"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="318 2370 316 2320 1849 2304 1851 2354 1851 2373 318 2389"/></Shape>
+	    <String CONTENT="خورشیدشاه گفت ای سمك، ما را از تو هیچ رازی پنهان نیست، تو از مائی"
+                    HPOS="316"
+                    VPOS="2304"
+                    WIDTH="1535"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_505cdb68"
+                    
+                    BASELINE="318 2439 1974 2426" 
+                    HPOS="316"
+                    VPOS="2381"
+                    WIDTH="1658"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="318 2439 316 2394 1971 2381 1974 2426 1974 2445 318 2458"/></Shape>
+	    <String CONTENT="و ما از توه سمك خدمت کرده شاه گفت ای برادر، سوره گفت که دو مرد آمده اند:"
+                    HPOS="316"
+                    VPOS="2381"
+                    WIDTH="1658"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_102cb528"
+                    
+                    BASELINE="324 2516 1971 2506" 
+                    HPOS="321"
+                    VPOS="2455"
+                    WIDTH="1650"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="324 2516 321 2466 1968 2455 1971 2506 1971 2524 324 2535"/></Shape>
+	    <String CONTENT="یکی اسفهسلار شهر ماچین است نام وی کانون، و شاگردی با وی است نام وی کافور."
+                    HPOS="321"
+                    VPOS="2455"
+                    WIDTH="1650"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7cbb812"
+                    
+                    BASELINE="318 2593 1971 2578" 
+                    HPOS="316"
+                    VPOS="2530"
+                    WIDTH="1655"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="318 2593 316 2546 1968 2530 1971 2578 1971 2596 318 2612"/></Shape>
+	    <String CONTENT="و پیش ارمنشاه بر خود گرفته اند و دعوی کرده که مرا زنده ببرند و مس تو که سمکی"
+                    HPOS="316"
+                    VPOS="2530"
+                    WIDTH="1655"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eacebcfd"
+                    
+                    BASELINE="935 2655 1453 2665 1968 2652" 
+                    HPOS="932"
+                    VPOS="2599"
+                    WIDTH="1036"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="935 2655 935 2601 1450 2612 1966 2599 1968 2652 1968 2678 1453 2692 1450 2692 932 2681"/></Shape>
+	    <String CONTENT="و سر شغال پیلزور ببرند. و برین کار پنهان آمدهاند."
+                    HPOS="932"
+                    VPOS="2599"
+                    WIDTH="1036"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8850c8d"
+                    
+                    BASELINE="321 2745 1859 2726" 
+                    HPOS="318"
+                    VPOS="2676"
+                    WIDTH="1541"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="321 2745 318 2694 1857 2676 1859 2726 1859 2761 321 2779"/></Shape>
+	    <String CONTENT="سمك چون بشنید گفت ای دریغا، من ایشان را نمیشناسم و دیگر کاری دارم."
+                    HPOS="318"
+                    VPOS="2676"
+                    WIDTH="1541"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="275"
+                   VPOS="147"
+                   WIDTH="450"
+                   HEIGHT="83"
+                   ID="eSc_textblock_6a69f053"
+                   TAGREFS="BT770">
+          <Shape><Polygon POINTS="725 147 725 230 275 230 275 147"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a83fb309"
+                    
+                    BASELINE="300 209 685 204" 
+                    HPOS="297"
+                    VPOS="159"
+                    WIDTH="388"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="300 209 297 164 682 159 685 204 685 225 300 230"/></Shape>
+	    <String CONTENT="سمك عيار جلد اول"
+                    HPOS="297"
+                    VPOS="159"
+                    WIDTH="388"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1145"
+                   VPOS="2763"
+                   WIDTH="865"
+                   HEIGHT="83"
+                   ID="eSc_textblock_b8a53a67"
+                   TAGREFS="BT769">
+          <Shape><Polygon POINTS="2010 2846 2010 2763 1145 2763 1145 2846"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ce17eab7"
+                    
+                    BASELINE="1565 2838 1878 2832" 
+                    HPOS="1562"
+                    VPOS="2787"
+                    WIDTH="316"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1565 2838 1562 2793 1875 2787 1878 2832 1878 2859 1565 2864"/></Shape>
+	    <String CONTENT="1- اصل: با سمك"
+                    HPOS="1562"
+                    VPOS="2787"
+                    WIDTH="316"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

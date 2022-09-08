@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>MasumShirazi_-_TaraiqAlHaqayiq.pdf_page_108.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT926" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT927" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="107"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="2280"
+                   VPOS="515"
+                   WIDTH="12"
+                   HEIGHT="8"
+                   ID="eSc_textblock_2e52362e"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2280 515 2280 523 2292 523 2292 515"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="561"
+                   VPOS="547"
+                   WIDTH="1803"
+                   HEIGHT="2610"
+                   ID="eSc_textblock_62f8e998"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2364 547 2364 3157 561 3157 561 547"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="589"
+                   VPOS="467"
+                   WIDTH="123"
+                   HEIGHT="64"
+                   ID="eSc_textblock_11461fd2"
+                   TAGREFS="BT927">
+          <Shape><Polygon POINTS="712 467 712 531 589 531 589 467"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2053"
+                   VPOS="451"
+                   WIDTH="283"
+                   HEIGHT="84"
+                   ID="eSc_textblock_bd6e016c"
+                   TAGREFS="BT926">
+          <Shape><Polygon POINTS="2336 451 2336 535 2053 535 2053 451"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d2870bd9"
+                    
+                    BASELINE="1979 529 2286 529" 
+                    HPOS="1979"
+                    VPOS="505"
+                    WIDTH="307"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1979 529 1979 505 2286 505 2286 529 2286 561 1979 561"/></Shape>
+	    <String CONTENT=" ا"
+                    HPOS="1979"
+                    VPOS="505"
+                    WIDTH="307"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9c0ae91"
+                    
+                    BASELINE="605 610 2174 610" 
+                    HPOS="605"
+                    VPOS="552"
+                    WIDTH="1569"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="605 610 605 552 2174 552 2174 610 2174 634 605 634"/></Shape>
+	    <String CONTENT="احمد بن العباس النجاشى الاسدى مصنف هذاالكتاب له كتاب اعمال الجمعه و كتاب"
+                    HPOS="605"
+                    VPOS="552"
+                    WIDTH="1569"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14ba1a90"
+                    
+                    BASELINE="1072 692 2291 686" 
+                    HPOS="1069"
+                    VPOS="631"
+                    WIDTH="1222"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1072 692 1069 637 2288 631 2291 686 2291 710 1072 716"/></Shape>
+	    <String CONTENT="فضل الكوفة وكتاب انساب نصربن قعين وكتاب مختصر الانواء."
+                    HPOS="1069"
+                    VPOS="631"
+                    WIDTH="1222"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5773a10e"
+                    
+                    BASELINE="599 783 915 768 2166 777" 
+                    HPOS="596"
+                    VPOS="710"
+                    WIDTH="1570"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="599 783 596 724 912 710 915 710 2166 719 2166 777 2163 800 915 792 599 806"/></Shape>
+	    <String CONTENT="و رفع این اشتباه میشود از کلام خود نجاشی در ترجمهٔ وی صدوق را قال فی"
+                    HPOS="596"
+                    VPOS="710"
+                    WIDTH="1570"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd60cf27"
+                    
+                    BASELINE="608 856 2291 856" 
+                    HPOS="608"
+                    VPOS="803"
+                    WIDTH="1683"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="608 856 608 803 2291 803 2291 856 2291 879 608 879"/></Shape>
+	    <String CONTENT=" ترجمة الصدوق ابن بابويه بعد ذكر كتبه قرأت بعضها على والدى على بن احمدبن العباس."
+                    HPOS="608"
+                    VPOS="803"
+                    WIDTH="1683"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc00c06a"
+                    
+                    BASELINE="596 947 1356 935 2166 941" 
+                    HPOS="593"
+                    VPOS="879"
+                    WIDTH="1573"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="596 947 593 891 1353 879 1356 879 2166 885 2166 941 2163 964 1356 958 596 970"/></Shape>
+	    <String CONTENT="وهمچنین درترجمهٔ محمد بن ابی القاسم ماجیلویه و عثمان بن عیسی العامری تصریح"
+                    HPOS="593"
+                    VPOS="879"
+                    WIDTH="1573"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b7ee079"
+                    
+                    BASELINE="599 1020 2291 1011" 
+                    HPOS="596"
+                    VPOS="958"
+                    WIDTH="1695"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="599 1020 596 967 2288 958 2291 1011 2291 1034 599 1043"/></Shape>
+	    <String CONTENT="باسم پدرخود چنانچه مذ کورشد نموده است و باین دوشاهد صادق رفع هردوشبهه میشود"
+                    HPOS="596"
+                    VPOS="958"
+                    WIDTH="1695"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1219c246"
+                    
+                    BASELINE="1122 1099 2294 1093" 
+                    HPOS="1119"
+                    VPOS="1040"
+                    WIDTH="1175"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1122 1099 1119 1046 2291 1040 2294 1093 2294 1119 1122 1125"/></Shape>
+	    <String CONTENT="ولازم بتکلفات دیگر نیست چنانچه درمنتهی المقال نقل نموده."
+                    HPOS="1119"
+                    VPOS="1040"
+                    WIDTH="1175"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d743548f"
+                    
+                    BASELINE="593 1181 1011 1169 2163 1172" 
+                    HPOS="590"
+                    VPOS="1107"
+                    WIDTH="1573"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="593 1181 590 1119 1008 1107 1011 1107 2163 1110 2163 1172 2160 1207 1011 1204 593 1216"/></Shape>
+	    <String CONTENT="ومؤید آنچه گفته شد کلام شیخ عبداللطیف است که مذکورشد سابقا وهمچنین کلام"
+                    HPOS="590"
+                    VPOS="1107"
+                    WIDTH="1573"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0cf7bf8d"
+                    
+                    BASELINE="1069 1259 2291 1254" 
+                    HPOS="1067"
+                    VPOS="1204"
+                    WIDTH="1224"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1069 1259 1067 1210 2288 1204 2291 1254 2291 1286 1069 1292"/></Shape>
+	    <String CONTENT="شیخ عبدالنبی جزائری در کتاب حاوی الاقوال فی معرفة الرجال."
+                    HPOS="1067"
+                    VPOS="1204"
+                    WIDTH="1224"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d72aeeb9"
+                    
+                    BASELINE="587 1341 2166 1347" 
+                    HPOS="584"
+                    VPOS="1289"
+                    WIDTH="1582"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="587 1341 587 1289 2166 1295 2166 1347 2163 1376 584 1371"/></Shape>
+	    <String CONTENT="قال فی الحاوى قدكررالنجاشى اسمه فذكره مع نسبه اولاواعاده مع كتبه تانيا فلا"
+                    HPOS="584"
+                    VPOS="1289"
+                    WIDTH="1582"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c250b246"
+                    
+                    BASELINE="593 1423 2288 1438" 
+                    HPOS="590"
+                    VPOS="1371"
+                    WIDTH="1698"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="593 1423 593 1371 2288 1385 2288 1438 2286 1461 590 1447"/></Shape>
+	    <String CONTENT="يتوهم التعدد بسبب التكرار وتر كه لابيه وجده لانه لما اوضح نسبه اولا اقتصر على نسبته"
+                    HPOS="590"
+                    VPOS="1371"
+                    WIDTH="1698"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_245b360a"
+                    
+                    BASELINE="593 1514 2291 1505" 
+                    HPOS="590"
+                    VPOS="1452"
+                    WIDTH="1701"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="593 1514 590 1461 2288 1452 2291 1505 2291 1531 593 1540"/></Shape>
+	    <String CONTENT="الى جد ابيه ثانيا اذالمقصود ايضا حينئذ كونه مصنف الكتاب وصاحب الكتب المتعددة ومثل"
+                    HPOS="590"
+                    VPOS="1452"
+                    WIDTH="1701"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61336fa3"
+                    
+                    BASELINE="1350 1601 2294 1590" 
+                    HPOS="1347"
+                    VPOS="1531"
+                    WIDTH="947"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1350 1601 1347 1543 2291 1531 2294 1590 2294 1616 1350 1628"/></Shape>
+	    <String CONTENT="هذا كثيرفی العبارات وواقع فی المحاورات انتهی."
+                    HPOS="1347"
+                    VPOS="1531"
+                    WIDTH="947"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8242fc2"
+                    
+                    BASELINE="593 1675 2163 1669" 
+                    HPOS="590"
+                    VPOS="1616"
+                    WIDTH="1573"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="593 1675 590 1622 2160 1616 2163 1669 2163 1701 593 1707"/></Shape>
+	    <String CONTENT="وقال السيد الجليل السيد المصطفى التفرشى و هو معاصر للميرزا صاحب الرجال الكبير"
+                    HPOS="590"
+                    VPOS="1616"
+                    WIDTH="1573"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9575726"
+                    
+                    BASELINE="587 1765 2294 1759" 
+                    HPOS="584"
+                    VPOS="1704"
+                    WIDTH="1710"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="587 1765 584 1710 2291 1704 2294 1759 2294 1780 587 1786"/></Shape>
+	    <String CONTENT="فی نقدالرجال و توهم بعض الفضلاء ان احمد بن العباس النجاشى غير احمد بن على بن"
+                    HPOS="584"
+                    VPOS="1704"
+                    WIDTH="1710"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfcdc54c"
+                    
+                    BASELINE="593 1850 2297 1835" 
+                    HPOS="590"
+                    VPOS="1774"
+                    WIDTH="1707"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="593 1850 590 1789 2294 1774 2297 1835 2297 1862 593 1876"/></Shape>
+	    <String CONTENT="احمد بن العباس النجاشی المصنف لكتاب الرجال بل هوجده وليس له كتاب الرجال وهذا ليس"
+                    HPOS="590"
+                    VPOS="1774"
+                    WIDTH="1707"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3048246"
+                    
+                    BASELINE="596 1929 2280 1911" 
+                    HPOS="593"
+                    VPOS="1856"
+                    WIDTH="1687"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="596 1929 593 1873 2277 1856 2280 1911 2280 1935 596 1952"/></Shape>
+	    <String CONTENT="كلام المصنف بل هو ملحق وكان النسخة التی كانت عنده من النجاشی احمد بن العباس النجاشی"
+                    HPOS="593"
+                    VPOS="1856"
+                    WIDTH="1687"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59f12256"
+                    
+                    BASELINE="1616 2014 2286 2002" 
+                    HPOS="1613"
+                    VPOS="1949"
+                    WIDTH="673"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1616 2014 1613 1961 2283 1949 2286 2002 2286 2028 1616 2040"/></Shape>
+	    <String CONTENT="كان بالحمرة فوقع ما وقع انتهى."
+                    HPOS="1613"
+                    VPOS="1949"
+                    WIDTH="673"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a26bf6b"
+                    
+                    BASELINE="912 2101 1140 2090 2172 2093" 
+                    HPOS="906"
+                    VPOS="2028"
+                    WIDTH="1266"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="912 2101 906 2040 1134 2028 1140 2028 2172 2031 2172 2093 2169 2122 1140 2119 912 2131"/></Shape>
+	    <String CONTENT="و از کتاب امل الامل نیز مستفاد میشود که متعدد دانسته فلیر اجع"
+                    HPOS="906"
+                    VPOS="2028"
+                    WIDTH="1266"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_365fcb84"
+                    
+                    BASELINE="590 2183 2166 2183" 
+                    HPOS="590"
+                    VPOS="2128"
+                    WIDTH="1576"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="590 2183 590 2128 2166 2128 2166 2183 2166 2204 590 2204"/></Shape>
+	    <String CONTENT="هرچند از مطلب خارج مینمود آنچه ترجمه نمود ولی مقصود عمده در این بود که"
+                    HPOS="590"
+                    VPOS="2128"
+                    WIDTH="1576"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5754dbd0"
+                    
+                    BASELINE="587 2262 2291 2256" 
+                    HPOS="584"
+                    VPOS="2201"
+                    WIDTH="1707"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="587 2262 584 2207 2288 2201 2291 2256 2291 2280 587 2286"/></Shape>
+	    <String CONTENT="ارباب نظر و بصیرت هرگاه بیابند اشتباهی یا سهو و خطائی در این اوراق بنظر رضا"
+                    HPOS="584"
+                    VPOS="2201"
+                    WIDTH="1707"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3502e4d"
+                    
+                    BASELINE="587 2350 2291 2344" 
+                    HPOS="584"
+                    VPOS="2283"
+                    WIDTH="1707"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="587 2350 584 2288 2288 2283 2291 2344 2291 2362 587 2367"/></Shape>
+	    <String CONTENT="عیبش را غیب نمایند و جائیکه بزرگان در مطالب سهل و آسان در اعیان رجال بشبهه"
+                    HPOS="584"
+                    VPOS="2283"
+                    WIDTH="1707"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a2a6e86"
+                    
+                    BASELINE="593 2432 2005 2432 2291 2417" 
+                    HPOS="593"
+                    VPOS="2353"
+                    WIDTH="1698"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="593 2432 593 2367 2002 2367 2286 2353 2291 2417 2291 2440 2005 2455 2005 2455 593 2455"/></Shape>
+	    <String CONTENT="افتاده اند قاصرین را نمی رسد که نکوهش نمایند بمحض تقلید اشخاصی را که حالشان بر"
+                    HPOS="593"
+                    VPOS="2353"
+                    WIDTH="1698"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d69675b9"
+                    
+                    BASELINE="1137 2511 2286 2508" 
+                    HPOS="1134"
+                    VPOS="2449"
+                    WIDTH="1152"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1137 2511 1134 2452 2283 2449 2286 2508 2286 2531 1137 2534"/></Shape>
+	    <String CONTENT="بیشتر خلق مستور و نامشان در اکثر کتب غیرمذ کور است:"
+                    HPOS="1134"
+                    VPOS="2449"
+                    WIDTH="1152"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a42d591"
+                    
+                    BASELINE="587 2595 2221 2590" 
+                    HPOS="584"
+                    VPOS="2528"
+                    WIDTH="1637"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="587 2595 584 2534 2218 2528 2221 2590 2221 2616 587 2622"/></Shape>
+	    <String CONTENT="ولاتقف مالیس لك به علم ان السمع و البصرو الفؤاد کل اولثك کان عنه مسنولا"
+                    HPOS="584"
+                    VPOS="2528"
+                    WIDTH="1637"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1fa6d7c"
+                    
+                    BASELINE="587 2680 2174 2671" 
+                    HPOS="584"
+                    VPOS="2619"
+                    WIDTH="1590"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="587 2680 584 2628 2172 2619 2174 2671 2174 2701 587 2709"/></Shape>
+	    <String CONTENT="وختم می نمايد اين اصلرا بذكر كلام اصل الاصول و زوج البتول و خليفة الرسول"
+                    HPOS="584"
+                    VPOS="2619"
+                    WIDTH="1590"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d86e6af"
+                    
+                    BASELINE="2022 2759 2286 2759" 
+                    HPOS="2022"
+                    VPOS="2704"
+                    WIDTH="264"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2022 2759 2022 2704 2286 2704 2286 2759 2286 2788 2022 2788"/></Shape>
+	    <String CONTENT="عليهم السلام:"
+                    HPOS="2022"
+                    VPOS="2704"
+                    WIDTH="264"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_460885cf"
+                    
+                    BASELINE="581 2838 2166 2847" 
+                    HPOS="578"
+                    VPOS="2777"
+                    WIDTH="1588"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="581 2838 581 2777 2166 2785 2166 2847 2163 2870 578 2861"/></Shape>
+	    <String CONTENT="فی نهج البلاغة ومن كلام له عليه السلام فی النهى عن عيب الناس وانماينبغى لاهل العصمة"
+                    HPOS="578"
+                    VPOS="2777"
+                    WIDTH="1588"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0d254d8"
+                    
+                    BASELINE="584 2929 2291 2920" 
+                    HPOS="581"
+                    VPOS="2864"
+                    WIDTH="1710"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="584 2929 581 2873 2288 2864 2291 2920 2291 2946 584 2955"/></Shape>
+	    <String CONTENT="والمصنوع اليهم فی السلامة ان يرحموا اهل الذنوب والمعصية ويكون الشكر هوالغالب عليهم"
+                    HPOS="581"
+                    VPOS="2864"
+                    WIDTH="1710"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2cea1879"
+                    
+                    BASELINE="584 2999 2288 3008" 
+                    HPOS="581"
+                    VPOS="2949"
+                    WIDTH="1707"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="584 2999 584 2949 2288 2958 2288 3008 2286 3040 581 3031"/></Shape>
+	    <String CONTENT="والحاجزلهم عنهم فكيف بالعايب الذى عاب اخاه وعيره ببلواه اما ذكرموضع سترالله عليه"
+                    HPOS="581"
+                    VPOS="2949"
+                    WIDTH="1707"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1a3854d"
+                    
+                    BASELINE="581 3095 2291 3089" 
+                    HPOS="578"
+                    VPOS="3031"
+                    WIDTH="1713"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="581 3095 578 3037 2288 3031 2291 3089 2291 3136 581 3142"/></Shape>
+	    <String CONTENT="منذنوبه ماهواعظم من الذنب الذی عابه به وكيف يذمه بذنبه قد ركب مثله فان لم يكن"
+                    HPOS="578"
+                    VPOS="3031"
+                    WIDTH="1713"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88997bee"
+                    
+                    BASELINE="634 520 651 520" 
+                    HPOS="634"
+                    VPOS="458"
+                    WIDTH="17"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="634 520 634 458 651 458 651 520 651 540 634 540"/></Shape>
+	    <String CONTENT=""
+                    HPOS="634"
+                    VPOS="458"
+                    WIDTH="17"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

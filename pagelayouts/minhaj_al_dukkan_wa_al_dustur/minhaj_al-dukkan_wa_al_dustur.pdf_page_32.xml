@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>minhaj_al-dukkan_wa_al_dustur.pdf_page_32.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT945" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT946" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT947" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT948" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT949" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    <OtherTag ID="LT46" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1719"
+          HEIGHT="2591"
+          PHYSICAL_IMG_NR="31"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1719"
+                  HEIGHT="2591">
+        
+        <TextBlock HPOS="69"
+                   VPOS="250"
+                   WIDTH="1388"
+                   HEIGHT="2079"
+                   ID="eSc_textblock_340870b6"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1431 250 1457 276 1457 2303 1431 2329 69 2312 95 250"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_528dfafd"
+                    
+                    BASELINE="112 306 1401 297" 
+                    HPOS="110"
+                    VPOS="246"
+                    WIDTH="1291"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="112 306 110 254 1399 246 1401 297 1401 319 112 328"/></Shape>
+	    <String CONTENT="الجیع مرضوضا فی رطل ونصف خل خمرونصف رطل ماءقراح بوماولیلة و یغلی بنار"
+                    HPOS="110"
+                    VPOS="246"
+                    WIDTH="1291"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3158e6c"
+                    
+                    BASELINE="97 386 1401 377" 
+                    HPOS="95"
+                    VPOS="321"
+                    WIDTH="1306"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="97 386 95 330 1399 321 1401 377 1401 395 97 403"/></Shape>
+	    <String CONTENT="حتی بذهب قدرالماءویلقی علیه خمسة أرطال سکر محلول منزوع الرغوة ویقوم ویرة"
+                    HPOS="95"
+                    VPOS="321"
+                    WIDTH="1306"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94f7530e"
+                    
+                    BASELINE="86 455 1408 462" 
+                    HPOS="84"
+                    VPOS="403"
+                    WIDTH="1324"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="86 455 86 403 1408 410 1408 462 1405 479 84 472"/></Shape>
+	    <String CONTENT="ویستعمل (سکنحبین رمای یسکن الصفراء ویقوی المعدة * یؤخذ من السک"
+                    HPOS="84"
+                    VPOS="403"
+                    WIDTH="1324"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1310bc9"
+                    
+                    BASELINE="86 537 1412 533" 
+                    HPOS="84"
+                    VPOS="481"
+                    WIDTH="1328"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="86 537 84 485 1410 481 1412 533 1412 557 86 561"/></Shape>
+	    <String CONTENT="النق عشرة أرطال تحل وتیزع رغوته کماتقدم ویؤخذله قوام المشاش وینزل علیه مر"
+                    HPOS="84"
+                    VPOS="481"
+                    WIDTH="1328"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_408844cf"
+                    
+                    BASELINE="82 623 1399 611" 
+                    HPOS="79"
+                    VPOS="557"
+                    WIDTH="1320"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="82 623 79 570 1397 557 1399 611 1399 632 82 645"/></Shape>
+	    <String CONTENT="ل الخرالطيب الطعم السالم من العفن والبحركما تقدم ومن ماء الرمان المزمنك"
+                    HPOS="79"
+                    VPOS="557"
+                    WIDTH="1320"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d954bdf"
+                    
+                    BASELINE="79 703 1410 697" 
+                    HPOS="77"
+                    VPOS="641"
+                    WIDTH="1333"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="79 703 77 647 1408 641 1410 697 1410 714 79 721"/></Shape>
+	    <String CONTENT="واحدرطلان مرؤقان ویؤخذ لهقوام ویرفع وبلغنی من بعض الاطباءان القاضى"
+                    HPOS="77"
+                    VPOS="641"
+                    WIDTH="1333"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc420c0e"
+                    
+                    BASELINE="75 783 1410 772" 
+                    HPOS="73"
+                    VPOS="716"
+                    WIDTH="1337"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="75 783 73 727 1408 716 1410 772 1410 792 75 803"/></Shape>
+	    <String CONTENT="فتح الدین أمرأن یکون عوض ماء الرمان المزماء رمان جلووماسألته هنه وماء الرمان"
+                    HPOS="73"
+                    VPOS="716"
+                    WIDTH="1337"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f3b8c5e"
+                    
+                    BASELINE="75 865 583 870 814 857 1414 852" 
+                    HPOS="73"
+                    VPOS="792"
+                    WIDTH="1341"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="75 865 75 805 580 809 779 798 809 796 811 796 1412 792 1414 852 1414 880 814 885 781 887 583 898 580 898 73 893"/></Shape>
+	    <String CONTENT="المرأصلم (سكنجبين زبدی) عمله القاضی فتح الدین برسم رجل رئيس * يؤحدزبيب"
+                    HPOS="73"
+                    VPOS="792"
+                    WIDTH="1341"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e4a1f19"
+                    
+                    BASELINE="77 950 198 941 1408 937" 
+                    HPOS="73"
+                    VPOS="883"
+                    WIDTH="1335"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="77 950 73 896 194 887 196 887 1405 883 1408 937 1408 958 198 962 77 971"/></Shape>
+	    <String CONTENT="جوزانی ثلاث أواق ینقع فی رطل خل خمرطیب الطعم والریح بوما ولیلتین ویصق"
+                    HPOS="73"
+                    VPOS="883"
+                    WIDTH="1335"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d9dda88"
+                    
+                    BASELINE="71 1025 1408 1012" 
+                    HPOS="69"
+                    VPOS="954"
+                    WIDTH="1339"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="71 1025 69 967 1405 954 1408 1012 1408 1029 71 1042"/></Shape>
+	    <String CONTENT="ویعقدبه السكركما تقدم ويؤخد له قوام المشاش وينزل علیه من ذلك الخل لكل"
+                    HPOS="69"
+                    VPOS="954"
+                    WIDTH="1339"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25c2d403"
+                    
+                    BASELINE="71 1107 382 1096 1408 1092" 
+                    HPOS="69"
+                    VPOS="1038"
+                    WIDTH="1339"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="71 1107 69 1053 380 1042 380 1042 1405 1038 1408 1092 1408 1114 382 1118 71 1129"/></Shape>
+	    <String CONTENT="وطل سکرأربع أواق وقدعملته وجاء ملی اغایة وأماوالدی فانه کان یعمل عوض"
+                    HPOS="69"
+                    VPOS="1038"
+                    WIDTH="1339"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c56b0bba"
+                    
+                    BASELINE="73 1181 1408 1174" 
+                    HPOS="71"
+                    VPOS="1120"
+                    WIDTH="1337"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="73 1181 71 1127 1405 1120 1408 1174 1408 1194 73 1200"/></Shape>
+	    <String CONTENT="الجوزانی صعيديا وذلك انما يكون بحسب غرض المستعمل الذی فی الوقت الحاضر"
+                    HPOS="71"
+                    VPOS="1120"
+                    WIDTH="1337"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24cc822b"
+                    
+                    BASELINE="73 1265 1408 1252" 
+                    HPOS="71"
+                    VPOS="1194"
+                    WIDTH="1337"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="73 1265 71 1206 1405 1194 1408 1252 1408 1273 73 1286"/></Shape>
+	    <String CONTENT="أعنی الجوزانی بل الصعیدی أصلم (سكنحبین عسلی) وهوأن بجعل مکان السكرعسل"
+                    HPOS="71"
+                    VPOS="1194"
+                    WIDTH="1337"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d2d41f5"
+                    
+                    BASELINE="69 1347 1408 1330" 
+                    HPOS="66"
+                    VPOS="1269"
+                    WIDTH="1342"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="69 1347 66 1286 1405 1269 1408 1330 1408 1349 69 1366"/></Shape>
+	    <String CONTENT="حللقی طيب الطعملكل عشرة أرطال من العسل رطلان ونصف من الخل أوأقلأو"
+                    HPOS="66"
+                    VPOS="1269"
+                    WIDTH="1342"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfde9da5"
+                    
+                    BASELINE="75 1414 436 1422 1412 1405" 
+                    HPOS="73"
+                    VPOS="1353"
+                    WIDTH="1339"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="75 1414 75 1362 436 1371 1410 1353 1412 1405 1412 1433 436 1450 434 1450 73 1442"/></Shape>
+	    <String CONTENT="کثرعلی قدرحوضته وما براد من زیادته ونقصانه (سکنجبین دیناری) من لفظ"
+                    HPOS="73"
+                    VPOS="1353"
+                    WIDTH="1339"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39a192c5"
+                    
+                    BASELINE="75 1500 1410 1487" 
+                    HPOS="73"
+                    VPOS="1435"
+                    WIDTH="1337"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="75 1500 73 1448 1408 1435 1410 1487 1410 1509 75 1522"/></Shape>
+	    <String CONTENT="الشیخ السدید این بیان وهو أن یضاف الی کل عشرة أرطال من السكرالمحلول کما تقدم"
+                    HPOS="73"
+                    VPOS="1435"
+                    WIDTH="1337"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e979a01"
+                    
+                    BASELINE="69 1578 328 1589 755 1571 1412 1574" 
+                    HPOS="66"
+                    VPOS="1513"
+                    WIDTH="1346"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="69 1578 71 1520 328 1530 637 1517 751 1513 755 1513 1412 1515 1412 1574 1410 1597 755 1595 641 1599 328 1612 326 1612 66 1602"/></Shape>
+	    <String CONTENT="رطلان ونصف خل خمر عال ورطلان ونصف ماء هندبامروقا ویقوم و یرفع [سکنحین"
+                    HPOS="66"
+                    VPOS="1513"
+                    WIDTH="1346"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7910b6a1"
+                    
+                    BASELINE="69 1666 278 1658 1408 1651" 
+                    HPOS="64"
+                    VPOS="1593"
+                    WIDTH="1344"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="69 1666 64 1610 274 1602 276 1599 1405 1593 1408 1651 1408 1675 278 1681 69 1690"/></Shape>
+	    <String CONTENT="سفرجلی بخل) قدعمل من ماء السفرجل نقلته من طبیب کان قدوردالبلاد یسمی بأیی"
+                    HPOS="64"
+                    VPOS="1593"
+                    WIDTH="1344"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80dd1583"
+                    
+                    BASELINE="69 1735 1144 1735 1416 1725" 
+                    HPOS="69"
+                    VPOS="1666"
+                    WIDTH="1347"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="69 1735 69 1677 1142 1677 1412 1666 1416 1725 1416 1746 1144 1757 1144 1757 69 1757"/></Shape>
+	    <String CONTENT="اسحق الاندلسی کان مقما فی دارالحدیث الکاملیة * یؤخدمن ماء السفرجل ماأردت"
+                    HPOS="69"
+                    VPOS="1666"
+                    WIDTH="1347"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9e3255d"
+                    
+                    BASELINE="79 1813 1420 1822" 
+                    HPOS="77"
+                    VPOS="1759"
+                    WIDTH="1343"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="79 1813 79 1759 1420 1768 1420 1822 1418 1843 77 1835"/></Shape>
+	    <String CONTENT="بروق ویرش علیه یسیرمن خل خمر فیکون أسرع لتخلیله وبوضع فی اناء مکشوف"
+                    HPOS="77"
+                    VPOS="1759"
+                    WIDTH="1343"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba22ff7a"
+                    
+                    BASELINE="77 1902 1414 1887" 
+                    HPOS="75"
+                    VPOS="1835"
+                    WIDTH="1339"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="77 1902 75 1850 1412 1835 1414 1887 1414 1910 77 1925"/></Shape>
+	    <String CONTENT="یغطی بخرقة رفیعة فی الشمس عشرة أیام ثم ینزل من الشمس و یوضع فی الظل عشرة أیام"
+                    HPOS="75"
+                    VPOS="1835"
+                    WIDTH="1339"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_459eb80f"
+                    
+                    BASELINE="73 1973 701 1977 1416 1964" 
+                    HPOS="71"
+                    VPOS="1910"
+                    WIDTH="1345"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="73 1973 73 1919 699 1923 1414 1910 1416 1964 1416 1988 701 2001 699 2001 71 1997"/></Shape>
+	    <String CONTENT="فانه جیء خلاحاذقا یعمل منسه لکل عشرة أرطال من السكرثٔلاثة أرطال وثلث وأنا"
+                    HPOS="71"
+                    VPOS="1910"
+                    WIDTH="1345"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a483823"
+                    
+                    BASELINE="82 2057 1012 2055 1418 2042" 
+                    HPOS="79"
+                    VPOS="1986"
+                    WIDTH="1339"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="82 2057 79 2001 1010 1999 1416 1986 1418 2042 1418 2068 1012 2081 1012 2081 82 2083"/></Shape>
+	    <String CONTENT="عملته فاء ملیحا جيداوذ کرأنه یقوی المعدة أکثرمن الذی بالخل (سکنحبین عقید"
+                    HPOS="79"
+                    VPOS="1986"
+                    WIDTH="1339"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e89c044"
+                    
+                    BASELINE="77 2137 639 2141 1425 2124" 
+                    HPOS="75"
+                    VPOS="2068"
+                    WIDTH="1350"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="77 2137 77 2079 637 2083 1423 2068 1425 2124 1425 2146 639 2163 637 2163 75 2159"/></Shape>
+	    <String CONTENT="أماالكنجبين العقيد فان الذی يعمل فی السوق لكل رطل سكرأوقية خل ولمونة"
+                    HPOS="75"
+                    VPOS="2068"
+                    WIDTH="1350"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b142eb38"
+                    
+                    BASELINE="79 2221 1420 2206" 
+                    HPOS="77"
+                    VPOS="2148"
+                    WIDTH="1343"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="79 2221 77 2163 1418 2148 1420 2206 1420 2226 79 2241"/></Shape>
+	    <String CONTENT="وما یقدرون أن یعملواأ کثرمن ذلك لثلایتغیرلونه وربماأحرق وأماأبافقد عملته علی"
+                    HPOS="77"
+                    VPOS="2148"
+                    WIDTH="1343"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4f06d48"
+                    
+                    BASELINE="77 2297 1019 2297 1420 2282" 
+                    HPOS="77"
+                    VPOS="2226"
+                    WIDTH="1343"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="77 2297 77 2241 1017 2241 1418 2226 1420 2282 1420 2318 1019 2334 1019 2334 77 2334"/></Shape>
+	    <String CONTENT="عیرهذه الصفة واعمری یکون القدرالیسیرلمن یطلبه غنیة وهوأنی أدق من السکررطلا"
+                    HPOS="77"
+                    VPOS="2226"
+                    WIDTH="1343"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="141"
+                   VPOS="2339"
+                   WIDTH="162"
+                   HEIGHT="94"
+                   ID="eSc_textblock_ac57f8db"
+                   TAGREFS="BT948">
+          <Shape><Polygon POINTS="303 2433 303 2339 141 2339 141 2433"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_64161bec"
+                    
+                    BASELINE="149 2375 267 2375" 
+                    HPOS="149"
+                    VPOS="2327"
+                    WIDTH="118"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="149 2375 149 2327 267 2327 267 2375 267 2394 149 2394"/></Shape>
+	    <String CONTENT="واحدا"
+                    HPOS="149"
+                    VPOS="2327"
+                    WIDTH="118"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="653"
+                   VPOS="129"
+                   WIDTH="200"
+                   HEIGHT="81"
+                   ID="eSc_textblock_1987ea8d"
+                   TAGREFS="BT948">
+          <Shape><Polygon POINTS="653 129 653 210 853 210 853 129"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

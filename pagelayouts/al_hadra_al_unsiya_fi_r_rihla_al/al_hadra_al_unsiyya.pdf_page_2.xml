@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_hadra_al_unsiyya.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT491" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT492" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT493" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT494" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT495" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT496" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1603"
+                   VPOS="150"
+                   WIDTH="564"
+                   HEIGHT="3356"
+                   ID="eSc_textblock_7cd05ca2"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="1615 150 1603 3473 2147 3506 2167 150"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_84911e79"
+                    
+                    BASELINE="938 1970 1093 1961" 
+                    HPOS="926"
+                    VPOS="1897"
+                    WIDTH="167"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="938 1970 926 1929 991 1897 991 1897 991 1897 993 1897 993 1897 996 1897 996 1897 996 1897 1087 1920 1093 1961 1093 1984 938 1987"/></Shape>
+	    <String CONTENT=""
+                    HPOS="926"
+                    VPOS="1897"
+                    WIDTH="167"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51ba6e36"
+                    
+                    BASELINE="406 2841 587 2856 777 2850 841 2861" 
+                    HPOS="400"
+                    VPOS="2791"
+                    WIDTH="441"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="406 2841 406 2803 584 2806 619 2797 634 2791 637 2791 637 2791 637 2791 640 2791 640 2791 675 2794 774 2806 839 2791 841 2861 836 2964 400 2970"/></Shape>
+	    <String CONTENT="الخقالالنشتي"
+                    HPOS="400"
+                    VPOS="2791"
+                    WIDTH="441"
+                    HEIGHT="179"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_326f4196"
+                    
+                    BASELINE="374 2917 412 2911" 
+                    HPOS="365"
+                    VPOS="2870"
+                    WIDTH="50"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="374 2917 365 2879 400 2870 412 2911 415 2967 377 2961"/></Shape>
+	    <String CONTENT=""
+                    HPOS="365"
+                    VPOS="2870"
+                    WIDTH="50"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1defc9cd"
+                    
+                    BASELINE="593 3022 663 3022" 
+                    HPOS="587"
+                    VPOS="2967"
+                    WIDTH="79"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="593 3022 587 2984 622 2967 622 2967 622 2967 625 2967 625 2967 628 2967 628 2967 631 2967 631 2967 631 2967 666 2984 663 3022 660 3046 590 3043"/></Shape>
+	    <String CONTENT=""
+                    HPOS="587"
+                    VPOS="2967"
+                    WIDTH="79"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f8f9daa"
+                    
+                    BASELINE="616 3168 839 3168" 
+                    HPOS="613"
+                    VPOS="3051"
+                    WIDTH="226"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="616 3168 613 3060 836 3051 839 3168 839 3195 616 3198"/></Shape>
+	    <String CONTENT="الشلاق"
+                    HPOS="613"
+                    VPOS="3051"
+                    WIDTH="226"
+                    HEIGHT="147"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

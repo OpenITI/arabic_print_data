@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Nazmi_Dor.pdf_page_114.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT807" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT808" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT809" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT810" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT811" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT812" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    <OtherTag ID="LT25" LABEL="Poetry" DESCRIPTION="line type Poetry"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="113"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="881"
+                   VPOS="2960"
+                   WIDTH="742"
+                   HEIGHT="148"
+                   ID="eSc_textblock_91cb8dfa"
+                   TAGREFS="BT807">
+          <Shape><Polygon POINTS="881 2960 881 3108 1623 3108 1623 2960"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_73b370b4"
+                    
+                    BASELINE="926 3043 1511 3037" 
+                    HPOS="923"
+                    VPOS="2990"
+                    WIDTH="588"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="926 3043 923 2996 1508 2990 1511 3037 1511 3095 926 3101"/></Shape>
+	    <String CONTENT="فحه اول از خه ام"
+                    HPOS="923"
+                    VPOS="2990"
+                    WIDTH="588"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="464"
+                   VPOS="447"
+                   WIDTH="1558"
+                   HEIGHT="2457"
+                   ID="eSc_textblock_bb5abdf1"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="2022 2904 2022 447 464 447 464 2904"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

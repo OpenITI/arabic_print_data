@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>samak_i_ayyan_vol_1.pdf_page_135.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT768" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT769" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT770" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT771" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT772" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT773" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    <OtherTag ID="LT19" LABEL="Poetry" DESCRIPTION="line type Poetry"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2270"
+          HEIGHT="3240"
+          PHYSICAL_IMG_NR="134"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2270"
+                  HEIGHT="3240">
+        
+        <TextBlock HPOS="1794"
+                   VPOS="203"
+                   WIDTH="138"
+                   HEIGHT="64"
+                   ID="eSc_textblock_b4a933ff"
+                   TAGREFS="BT773">
+          <Shape><Polygon POINTS="1932 203 1932 267 1794 267 1794 203"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8ec4ec0d"
+                    
+                    BASELINE="1805 251 1897 251" 
+                    HPOS="1805"
+                    VPOS="205"
+                    WIDTH="92"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1805 251 1805 205 1897 205 1897 251 1897 267 1805 267"/></Shape>
+	    <String CONTENT="118"
+                    HPOS="1805"
+                    VPOS="205"
+                    WIDTH="92"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="180"
+                   VPOS="299"
+                   WIDTH="1794"
+                   HEIGHT="2669"
+                   ID="eSc_textblock_dc0269ea"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1974 2968 1974 299 180 299 180 2968"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3920b7f4"
+                    
+                    BASELINE="213 369 1902 378" 
+                    HPOS="210"
+                    VPOS="324"
+                    WIDTH="1692"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="213 369 213 324 1902 332 1902 378 1899 405 210 396"/></Shape>
+	    <String CONTENT="ناك پهلوان بیامد پیش سمك، و خدمت کرد و گفت پهلوان مقوقر ترا میخواند تا"
+                    HPOS="210"
+                    VPOS="324"
+                    WIDTH="1692"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f35e614"
+                    
+                    BASELINE="213 442 1910 453" 
+                    HPOS="210"
+                    VPOS="399"
+                    WIDTH="1700"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="213 442 213 399 1910 410 1910 453 1907 477 210 467"/></Shape>
+	    <String CONTENT="احوال دختر باز داند و ترتیب قلعه بسازد سمك گفت فرمانبردارم، تو به سعادت"
+                    HPOS="210"
+                    VPOS="399"
+                    WIDTH="1700"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a11dd22a"
+                    
+                    BASELINE="318 515 1907 531" 
+                    HPOS="316"
+                    VPOS="469"
+                    WIDTH="1591"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="318 515 318 469 1907 486 1907 531 1905 556 316 540"/></Shape>
+	    <String CONTENT="بازگرد کهپاره ای رنجورم تا جلابی خورم و به خدمت آیم، پجلوان ناك باز گشت."
+                    HPOS="316"
+                    VPOS="469"
+                    WIDTH="1591"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e0cc8b4"
+                    
+                    BASELINE="216 602 1778 596" 
+                    HPOS="213"
+                    VPOS="548"
+                    WIDTH="1565"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="216 602 213 553 1775 548 1778 596 1778 621 216 626"/></Shape>
+	    <String CONTENT="سمك عیار با آتشك گفت برخیز تا پیش مقوقر رویم که مهمانیست و ساعتی"
+                    HPOS="213"
+                    VPOS="548"
+                    WIDTH="1565"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84c9cb1e"
+                    
+                    BASELINE="227 661 1910 680" 
+                    HPOS="224"
+                    VPOS="615"
+                    WIDTH="1686"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="227 661 227 615 1910 634 1910 680 1907 704 224 685"/></Shape>
+	    <String CONTENT="شراب خوریم آتشك بهراسید. گفت ای سمك، من هرگز این کار نکنم. نیکومهمانیست."
+                    HPOS="224"
+                    VPOS="615"
+                    WIDTH="1686"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8775b51"
+                    
+                    BASELINE="213 739 1907 750" 
+                    HPOS="210"
+                    VPOS="691"
+                    WIDTH="1697"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="213 739 213 691 1907 702 1907 750 1905 774 210 764"/></Shape>
+	    <String CONTENT="دیوانهام که خویشتن را پیش مقوقر میافکنم تا مرا بکشد2 خاصه که تو او را آموخته ای"
+                    HPOS="210"
+                    VPOS="691"
+                    WIDTH="1697"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00da829f"
+                    
+                    BASELINE="213 815 1910 823" 
+                    HPOS="210"
+                    VPOS="766"
+                    WIDTH="1700"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="213 815 213 766 1910 774 1910 823 1907 847 210 839"/></Shape>
+	    <String CONTENT="که چون میباید کشت. اگر تو میروی برو، سمك گفت ای آتشك، بدین زهره که داری"
+                    HPOS="210"
+                    VPOS="766"
+                    WIDTH="1700"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2be2de21"
+                    
+                    BASELINE="218 885 1899 901" 
+                    HPOS="216"
+                    VPOS="839"
+                    WIDTH="1683"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="218 885 218 839 1899 855 1899 901 1897 926 216 909"/></Shape>
+	    <String CONTENT="عیاری میکنیا دل فارغ دار که به یزدان که من کار چنان ساختهام که مقوقر با هرکه"
+                    HPOS="216"
+                    VPOS="839"
+                    WIDTH="1683"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa30cc05"
+                    
+                    BASELINE="218 969 708 961 970 972 1907 972" 
+                    HPOS="216"
+                    VPOS="909"
+                    WIDTH="1691"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="218 969 216 918 705 909 708 909 932 918 970 920 1907 920 1907 972 1907 999 970 999 967 996 929 996 705 988 218 996"/></Shape>
+	    <String CONTENT="در قلعه باشد چنان بکشیم که جهانیان عبرت گیرند. آتشك گفت ای سمك، تو خواهی"
+                    HPOS="216"
+                    VPOS="909"
+                    WIDTH="1691"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db8fe8b7"
+                    
+                    BASELINE="218 1039 1899 1044" 
+                    HPOS="216"
+                    VPOS="993"
+                    WIDTH="1683"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="218 1039 218 993 1899 999 1899 1044 1897 1066 216 1061"/></Shape>
+	    <String CONTENT="رفت من نغواهم رفت. اکنون پرخیز و برو تا ایشان را یکشی، آنگاه من بیایم و هرچه"
+                    HPOS="216"
+                    VPOS="993"
+                    WIDTH="1683"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a126283"
+                    
+                    BASELINE="216 1112 1899 1120" 
+                    HPOS="213"
+                    VPOS="1066"
+                    WIDTH="1686"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="216 1112 216 1066 1899 1074 1899 1120 1897 1142 213 1134"/></Shape>
+	    <String CONTENT="فرمائی بکنم، سمك عیار گفت ای آتشك، شادپاش که بسیار رنج برده ای تا این عیاری"
+                    HPOS="213"
+                    VPOS="1066"
+                    WIDTH="1686"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ae6d948"
+                    
+                    BASELINE="227 1182 1894 1198" 
+                    HPOS="224"
+                    VPOS="1136"
+                    WIDTH="1670"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="227 1182 227 1136 1894 1152 1894 1198 1891 1223 224 1206"/></Shape>
+	    <String CONTENT="آموخته ای برخیز تا برویم، آتشك گفت نمیآیم که ما را شراب دهند و مست کنند و"
+                    HPOS="224"
+                    VPOS="1136"
+                    WIDTH="1670"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b762857"
+                    
+                    BASELINE="778 1269 1883 1269" 
+                    HPOS="778"
+                    VPOS="1225"
+                    WIDTH="1105"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="778 1269 778 1225 1883 1225 1883 1269 1883 1290 778 1290"/></Shape>
+	    <String CONTENT="ملاك کنند، مكن ای سمك ب هلاك من و آن خود مكوش"
+                    HPOS="778"
+                    VPOS="1225"
+                    WIDTH="1105"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a37147f"
+                    
+                    BASELINE="213 1333 1761 1339" 
+                    HPOS="210"
+                    VPOS="1290"
+                    WIDTH="1551"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="213 1333 213 1290 1761 1296 1761 1339 1759 1360 210 1355"/></Shape>
+	    <String CONTENT="مك عیار بخندید و گفت اکنون کار از دست رفت، اگر شرویم ما را هلاك"
+                    HPOS="210"
+                    VPOS="1290"
+                    WIDTH="1551"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee3df33b"
+                    
+                    BASELINE="216 1422 1880 1412" 
+                    HPOS="213"
+                    VPOS="1358"
+                    WIDTH="1667"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="216 1422 213 1368 1878 1358 1880 1412 1880 1431 216 1441"/></Shape>
+	    <String CONTENT="کنند. کسی هست که به فریاد ما رسد؟ ناچار ما را پباید رفتن و اگر از آن میترسی"
+                    HPOS="213"
+                    VPOS="1358"
+                    WIDTH="1667"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_912c5b5d"
+                    
+                    BASELINE="213 1490 1878 1485" 
+                    HPOS="210"
+                    VPOS="1439"
+                    WIDTH="1668"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="213 1490 210 1444 1875 1439 1878 1485 1878 1509 213 1514"/></Shape>
+	    <String CONTENT="که ترا شراب دهند من رها نکنم. هرچه نصیب تو باشد من بازخورم و مست نگردم"
+                    HPOS="210"
+                    VPOS="1439"
+                    WIDTH="1668"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d815758"
+                    
+                    BASELINE="224 1555 1878 1566" 
+                    HPOS="221"
+                    VPOS="1506"
+                    WIDTH="1657"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="224 1555 224 1506 1878 1517 1878 1566 1875 1590 221 1579"/></Shape>
+	    <String CONTENT="که من هزار بار با عیاران گرو بستهام و همه را مست کرده ام و من مست نگشته ام."
+                    HPOS="221"
+                    VPOS="1506"
+                    WIDTH="1657"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d8b67ea"
+                    
+                    BASELINE="794 1638 1880 1638" 
+                    HPOS="794"
+                    VPOS="1593"
+                    WIDTH="1086"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="794 1638 794 1593 1880 1593 1880 1638 1880 1663 794 1663"/></Shape>
+	    <String CONTENT="آشك عجب داشت. گفت مگر ای سمك در گریبان ریزی؟"
+                    HPOS="794"
+                    VPOS="1593"
+                    WIDTH="1086"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41451992"
+                    
+                    BASELINE="210 1717 1764 1706" 
+                    HPOS="208"
+                    VPOS="1655"
+                    WIDTH="1556"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="210 1717 208 1665 1761 1655 1764 1706 1764 1730 210 1741"/></Shape>
+	    <String CONTENT="سمك عیار گفت ای آتشك من شیرخواره بودم و سهلان بن فیروز ابن رامین"
+                    HPOS="208"
+                    VPOS="1655"
+                    WIDTH="1556"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33e2f531"
+                    
+                    BASELINE="213 1787 1888 1792" 
+                    HPOS="210"
+                    VPOS="1738"
+                    WIDTH="1678"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="213 1787 213 1738 1888 1744 1888 1792 1886 1811 210 1806"/></Shape>
+	    <String CONTENT="شراب میخورد و پدر من شرابدار وی بوده یك روز در کنار وی بودم و پدر من"
+                    HPOS="210"
+                    VPOS="1738"
+                    WIDTH="1678"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8178a378"
+                    
+                    BASELINE="221 1865 1894 1865" 
+                    HPOS="221"
+                    VPOS="1817"
+                    WIDTH="1673"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="221 1865 221 1817 1894 1817 1894 1865 1894 1890 221 1890"/></Shape>
+	    <String CONTENT="شراب از حوض برمیگرفت و در خنب میگرد، پدر من [را] با مادر خصومتی بود."
+                    HPOS="221"
+                    VPOS="1817"
+                    WIDTH="1673"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6067c46c"
+                    
+                    BASELINE="213 1944 1894 1944" 
+                    HPOS="213"
+                    VPOS="1892"
+                    WIDTH="1681"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="213 1944 213 1892 1894 1892 1894 1944 1894 1960 213 1960"/></Shape>
+	    <String CONTENT="بدرم مادرم را بزده من از کنار مادر در حوض افتادم، چون مادر و پدر مرا از حوض"
+                    HPOS="213"
+                    VPOS="1892"
+                    WIDTH="1681"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96a2a99a"
+                    
+                    BASELINE="216 2008 1894 2014" 
+                    HPOS="213"
+                    VPOS="1960"
+                    WIDTH="1681"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="216 2008 216 1960 1894 1965 1894 2014 1891 2038 213 2033"/></Shape>
+	    <String CONTENT="بدر آوردند مبلغی شراب در شکم من رفته بود، پس مرا سر زیر بیاویختند تا شراب"
+                    HPOS="213"
+                    VPOS="1960"
+                    WIDTH="1681"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7fe549b5"
+                    
+                    BASELINE="210 2081 1372 2095 1899 2081" 
+                    HPOS="208"
+                    VPOS="2027"
+                    WIDTH="1691"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="210 2081 210 2027 1370 2041 1897 2027 1899 2081 1899 2111 1372 2124 1370 2124 208 2111"/></Shape>
+	    <String CONTENT="از شکم من بیرون آمد. پس علتی در من پیدا شد و رنجور شدم و طبیبان گفتند تا"
+                    HPOS="208"
+                    VPOS="2027"
+                    WIDTH="1691"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff88c433"
+                    
+                    BASELINE="221 2157 1218 2168 1899 2154" 
+                    HPOS="218"
+                    VPOS="2106"
+                    WIDTH="1681"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="221 2157 221 2108 1216 2119 1897 2106 1899 2154 1899 2181 1218 2195 1216 2195 218 2184"/></Shape>
+	    <String CONTENT="به حد بلوغ رسد اگر خواهید بهتر شود هرچه به خورد وی دهند شراب در آن کنند."
+                    HPOS="218"
+                    VPOS="2106"
+                    WIDTH="1681"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_000f113b"
+                    
+                    BASELINE="213 2235 1902 2246" 
+                    HPOS="210"
+                    VPOS="2181"
+                    WIDTH="1692"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="213 2235 213 2181 1902 2192 1902 2246 1899 2265 210 2254"/></Shape>
+	    <String CONTENT="پس مادر هرچه بهخورد من دادی شراب در آن میکردی، تا هفت ساله شدم که پدرم"
+                    HPOS="210"
+                    VPOS="2181"
+                    WIDTH="1692"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b909f400"
+                    
+                    BASELINE="213 2322 429 2311 1337 2319 1905 2305" 
+                    HPOS="210"
+                    VPOS="2251"
+                    WIDTH="1695"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="213 2322 210 2268 426 2257 429 2257 902 2262 1334 2265 1902 2251 1905 2305 1905 2330 1337 2343 1334 2343 899 2340 429 2335 213 2346"/></Shape>
+	    <String CONTENT="از دنیا برفت. مادر مرا تیمار میداشت. بعد از دو سال مادرم فرمان یافت. مرا کسی"
+                    HPOS="210"
+                    VPOS="2251"
+                    WIDTH="1695"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aad4b2ea"
+                    
+                    BASELINE="218 2389 1426 2397 1902 2386" 
+                    HPOS="216"
+                    VPOS="2332"
+                    WIDTH="1686"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="218 2389 218 2335 1424 2343 1899 2332 1902 2386 1902 2411 1426 2421 1424 2421 216 2413"/></Shape>
+	    <String CONTENT="نبود که تیمارداشتی کند. هرچه میدیدم میخوردم. پس خود را به خدمت شغال پیل زور"
+                    HPOS="216"
+                    VPOS="2332"
+                    WIDTH="1686"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce7b25b2"
+                    
+                    BASELINE="213 2470 1489 2470 1910 2457" 
+                    HPOS="213"
+                    VPOS="2403"
+                    WIDTH="1697"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="213 2470 213 2416 1486 2416 1907 2403 1910 2457 1910 2484 1489 2497 1489 2497 213 2497"/></Shape>
+	    <String CONTENT="افکندم شغال مرا به فرزندی قبول کرد که سخت چالاك بودم. پس از آن علتی بر من"
+                    HPOS="213"
+                    VPOS="2403"
+                    WIDTH="1697"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78e89622"
+                    
+                    BASELINE="216 2538 1907 2546" 
+                    HPOS="213"
+                    VPOS="2489"
+                    WIDTH="1694"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="216 2538 216 2489 1907 2497 1907 2546 1905 2565 213 2556"/></Shape>
+	    <String CONTENT="پیدا شده بهریك چندی مرا درد شکم بگیرد چنانکه یك هفته بیطاقت شوم، و فریاد"
+                    HPOS="213"
+                    VPOS="2489"
+                    WIDTH="1694"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_924a6302"
+                    
+                    BASELINE="216 2610 1910 2621" 
+                    HPOS="213"
+                    VPOS="2559"
+                    WIDTH="1697"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="216 2610 216 2559 1910 2570 1910 2621 1907 2646 213 2635"/></Shape>
+	    <String CONTENT="میکنم تا آن وقت که یزدان سهل کند، این همه احوال از بهر آن گفتم تا دانی که"
+                    HPOS="213"
+                    VPOS="2559"
+                    WIDTH="1697"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4673d98e"
+                    
+                    BASELINE="626 2689 1913 2694" 
+                    HPOS="624"
+                    VPOS="2643"
+                    WIDTH="1289"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="626 2689 626 2643 1913 2648 1913 2694 1910 2718 624 2713"/></Shape>
+	    <String CONTENT="شراب توانم خوردن و مست نشوم که شراب فذای من گشته است،"
+                    HPOS="624"
+                    VPOS="2643"
+                    WIDTH="1289"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4d2b167"
+                    
+                    BASELINE="213 2762 1797 2772" 
+                    HPOS="210"
+                    VPOS="2716"
+                    WIDTH="1587"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="213 2762 213 2716 1797 2727 1797 2772 1794 2797 210 2786"/></Shape>
+	    <String CONTENT="پس دست در میان کرد و مقدار بیست درم داروی بیهوشانه برآورد، اگر یك"
+                    HPOS="210"
+                    VPOS="2716"
+                    WIDTH="1587"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3611e7ec"
+                    
+                    BASELINE="213 2835 489 2848 1918 2848" 
+                    HPOS="210"
+                    VPOS="2786"
+                    WIDTH="1708"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="213 2835 213 2786 489 2799 1918 2799 1918 2848 1918 2870 489 2870 486 2870 210 2856"/></Shape>
+	    <String CONTENT="درم سنگ در شراب افکندی و به خورد صد مرد دادی همه بیفتادندی. پنج درم سنگ"
+                    HPOS="210"
+                    VPOS="2786"
+                    WIDTH="1708"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f571110a"
+                    
+                    BASELINE="218 2913 1226 2929 1918 2918" 
+                    HPOS="216"
+                    VPOS="2856"
+                    WIDTH="1702"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="218 2913 218 2856 1226 2872 1915 2862 1918 2918 1918 2967 1226 2978 1224 2978 216 2961"/></Shape>
+	    <String CONTENT="با آتشك داد [و گفت] چون توانی وقت آنکه من اشارت کنم در میان شراباند ازی،"
+                    HPOS="216"
+                    VPOS="2856"
+                    WIDTH="1702"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="175"
+                   VPOS="198"
+                   WIDTH="451"
+                   HEIGHT="80"
+                   ID="eSc_textblock_03a4814e"
+                   TAGREFS="BT770">
+          <Shape><Polygon POINTS="626 198 626 278 175 278 175 198"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c9cde685"
+                    
+                    BASELINE="202 243 589 234" 
+                    HPOS="199"
+                    VPOS="186"
+                    WIDTH="390"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="202 243 199 194 586 186 589 234 589 253 202 261"/></Shape>
+	    <String CONTENT="سمك عيار جلد اول"
+                    HPOS="199"
+                    VPOS="186"
+                    WIDTH="390"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

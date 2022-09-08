@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_al_tamhid.pdf_page_62.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT820" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT821" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT822" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT823" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT824" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/>
+    <OtherTag ID="LT27" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="61"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="814"
+                   VPOS="666"
+                   WIDTH="701"
+                   HEIGHT="379"
+                   ID="eSc_textblock_be4d4e6b"
+                   TAGREFS="BT821">
+          <Shape><Polygon POINTS="1515 666 1515 1045 814 1045 814 666"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_846f0bea"
+                    
+                    BASELINE="938 771 1386 771" 
+                    HPOS="938"
+                    VPOS="684"
+                    WIDTH="448"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="938 771 938 684 1386 684 1386 771 1386 789 938 789"/></Shape>
+	    <String CONTENT="البا الاول"
+                    HPOS="938"
+                    VPOS="684"
+                    WIDTH="448"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d022a44"
+                    
+                    BASELINE="851 982 1491 985" 
+                    HPOS="848"
+                    VPOS="891"
+                    WIDTH="643"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="851 982 851 891 1491 894 1491 985 1488 1011 848 1008"/></Shape>
+	    <String CONTENT="في العلم وافسامه وطرقه]"
+                    HPOS="848"
+                    VPOS="891"
+                    WIDTH="643"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="339"
+                   VPOS="1270"
+                   WIDTH="1728"
+                   HEIGHT="1428"
+                   ID="eSc_textblock_974b4474"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2044 1271 1997 1274 2067 1508 2044 2663 386 2698 339 2651 339 1270 2044 1270"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8ab87572"
+                    
+                    BASELINE="359 1435 1903 1417" 
+                    HPOS="356"
+                    VPOS="1356"
+                    WIDTH="1547"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="359 1435 356 1373 1900 1356 1903 1417 1903 1444 359 1461"/></Shape>
+	    <String CONTENT="5 فان قال فانل : ما جد العلم عندكم ؟ قلنا : حده أنه معرفة المعلوم على ما"
+                    HPOS="356"
+                    VPOS="1356"
+                    WIDTH="1547"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ccd15b4"
+                    
+                    BASELINE="362 1552 2108 1534" 
+                    HPOS="359"
+                    VPOS="1479"
+                    WIDTH="1749"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="362 1552 359 1496 2105 1479 2108 1534 2108 1558 362 1575"/></Shape>
+	    <String CONTENT="هو به ، والدليل على ذلك(1) أن هذا الحد بحصره على معناه ولا يدخل (ص3و)"
+                    HPOS="359"
+                    VPOS="1479"
+                    WIDTH="1749"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9764316"
+                    
+                    BASELINE="447 1660 684 1648 1997 1642" 
+                    HPOS="441"
+                    VPOS="1581"
+                    WIDTH="1556"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="447 1660 441 1599 678 1587 681 1587 1994 1581 1997 1642 1997 1666 684 1672 447 1683"/></Shape>
+	    <String CONTENT="فيه ما ليس منه ولا تيخرج منه شيئا هو منه . والحد، إذا أحاط بالمحدود على"
+                    HPOS="441"
+                    VPOS="1581"
+                    WIDTH="1556"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d2a13c6"
+                    
+                    BASELINE="365 1754 1693 1754 2015 1739" 
+                    HPOS="365"
+                    VPOS="1672"
+                    WIDTH="1650"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="365 1754 365 1686 1690 1686 2009 1672 2015 1739 2015 1756 1693 1771 1693 1771 365 1771"/></Shape>
+	    <String CONTENT="هذه(2) السبيل كوجب أن يكون جدا ثابتا صحيحاً، وكل () ما يحد به العلم وغيره&quot;"
+                    HPOS="365"
+                    VPOS="1672"
+                    WIDTH="1650"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4643a84c"
+                    
+                    BASELINE="368 1856 2015 1844" 
+                    HPOS="365"
+                    VPOS="1792"
+                    WIDTH="1650"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="368 1856 365 1803 2012 1792 2015 1844 2015 1865 368 1876"/></Shape>
+	    <String CONTENT="وكانت حاله فی خصر المحدود وتمیزه من غبره وإحاطته به حال (ف3 و) ما"
+                    HPOS="365"
+                    VPOS="1792"
+                    WIDTH="1650"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8fb4cc6"
+                    
+                    BASELINE="368 1949 813 1961 2015 1944" 
+                    HPOS="365"
+                    VPOS="1879"
+                    WIDTH="1650"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="368 1949 368 1885 813 1897 2012 1879 2015 1944 2015 1973 813 1990 810 1990 365 1979"/></Shape>
+	    <String CONTENT="حددنا به العلم، وجب الاعتراف بصحته . وقد ثبت أن كل علم تعلق بمعلوم &quot;"
+                    HPOS="365"
+                    VPOS="1879"
+                    WIDTH="1650"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_462115a6"
+                    
+                    BASELINE="742 2058 2015 2040" 
+                    HPOS="739"
+                    VPOS="1979"
+                    WIDTH="1276"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="742 2058 739 1996 2012 1979 2015 2040 2015 2066 742 2084"/></Shape>
+	    <String CONTENT="فإنه معرفة له على ما هو به(2) &quot; وكل معرفة لمعلوم(7)، فإنها"
+                    HPOS="739"
+                    VPOS="1979"
+                    WIDTH="1276"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_982d037d"
+                    
+                    BASELINE="371 2066 678 2058" 
+                    HPOS="368"
+                    VPOS="2002"
+                    WIDTH="310"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="371 2066 368 2011 675 2002 678 2058 678 2084 371 2093"/></Shape>
+	    <String CONTENT="علم به ، فوجب"
+                    HPOS="368"
+                    VPOS="2002"
+                    WIDTH="310"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3508d849"
+                    
+                    BASELINE="467 2160 2102 2145" 
+                    HPOS="465"
+                    VPOS="2090"
+                    WIDTH="1637"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="467 2160 465 2104 2099 2090 2102 2145 2102 2172 467 2186"/></Shape>
+	    <String CONTENT="1 توثيق(1) الحد الذي حددنا به العلم وجعلناه تفسيرا لمعنى وصفه بأنه علم ."
+                    HPOS="465"
+                    VPOS="2090"
+                    WIDTH="1637"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b213cb83"
+                    
+                    BASELINE="371 2318 1207 2312 1371 2297 1924 2286" 
+                    HPOS="368"
+                    VPOS="2210"
+                    WIDTH="1556"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="371 2318 368 2242 1201 2236 1362 2221 1368 2221 1921 2210 1924 2286 1924 2318 1371 2329 1210 2344 1207 2344 371 2350"/></Shape>
+	    <String CONTENT="6 فاره قال قأل : ولم(1) رغبتع عن القول بأنه معرفة الشيء على ما هو"
+                    HPOS="368"
+                    VPOS="2210"
+                    WIDTH="1556"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7effea57"
+                    
+                    BASELINE="775 2408 1909 2408 2126 2397" 
+                    HPOS="775"
+                    VPOS="2338"
+                    WIDTH="1351"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="775 2408 775 2350 1906 2350 2120 2338 2126 2397 2126 2438 1909 2449 1909 2452 775 2452"/></Shape>
+	    <String CONTENT="11 به إلى القول بأنه معرفة المعاوم على ما هو به ؟ قيل له"
+                    HPOS="775"
+                    VPOS="2338"
+                    WIDTH="1351"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9a7d9f0"
+                    
+                    BASELINE="380 2429 672 2414" 
+                    HPOS="374"
+                    VPOS="2347"
+                    WIDTH="298"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="380 2429 374 2362 666 2347 672 2414 672 2426 380 2440"/></Shape>
+	    <String CONTENT="لما قام من"
+                    HPOS="374"
+                    VPOS="2347"
+                    WIDTH="298"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_392b642f"
+                    
+                    BASELINE="368 2543 687 2525 2020 2519" 
+                    HPOS="362"
+                    VPOS="2449"
+                    WIDTH="1658"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="368 2543 362 2473 681 2455 684 2455 2017 2449 2020 2519 2020 2546 687 2552 368 2569"/></Shape>
+	    <String CONTENT="الدليل على أن المعلوم يكون شيئاً وما ليس بشء - لأن(2) المعدوم معلوم وليس"
+                    HPOS="362"
+                    VPOS="2449"
+                    WIDTH="1658"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a44f7b72"
+                    
+                    BASELINE="368 2616 579 2631 2023 2622" 
+                    HPOS="365"
+                    VPOS="2557"
+                    WIDTH="1658"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="368 2616 371 2557 579 2572 2020 2563 2023 2622 2023 2645 579 2654 576 2654 365 2639"/></Shape>
+	    <String CONTENT="بشیء ولا موجود . فلو قلنا : حده(2) أنه معرفة الشیء على ما هو به (5)"
+                    HPOS="365"
+                    VPOS="2557"
+                    WIDTH="1658"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="669"
+                   VPOS="1121"
+                   WIDTH="1015"
+                   HEIGHT="153"
+                   ID="eSc_textblock_f28c4633"
+                   TAGREFS="BT821">
+          <Shape><Polygon POINTS="1684 1121 1684 1274 669 1274 669 1121"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_71c9826f"
+                    
+                    BASELINE="707 1227 1646 1227" 
+                    HPOS="707"
+                    VPOS="1157"
+                    WIDTH="939"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="707 1227 707 1157 1646 1157 1646 1227 1646 1254 707 1254"/></Shape>
+	    <String CONTENT="باب الكلام في حقيقة العلم ومعناه"
+                    HPOS="707"
+                    VPOS="1157"
+                    WIDTH="939"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="339"
+                   VPOS="2701"
+                   WIDTH="1822"
+                   HEIGHT="429"
+                   ID="eSc_textblock_d7972f9b"
+                   TAGREFS="BT820">
+          <Shape><Polygon POINTS="2161 2724 2114 3084 1962 3130 620 3130 362 3119 339 3084 350 2712 1918 2701"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_893fe9e3"
+                    
+                    BASELINE="383 2762 1950 2747" 
+                    HPOS="380"
+                    VPOS="2695"
+                    WIDTH="1570"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="383 2762 380 2709 1947 2695 1950 2747 1950 2762 383 2777"/></Shape>
+	    <String CONTENT="5(1) ص : هذا . (2) ف : يكرر &quot;على . (3) ص ف : هذا . (4) ب:"
+                    HPOS="380"
+                    VPOS="2695"
+                    WIDTH="1570"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e48175b0"
+                    
+                    BASELINE="383 2838 2126 2826" 
+                    HPOS="380"
+                    VPOS="2777"
+                    WIDTH="1746"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="383 2838 380 2788 2123 2777 2126 2826 2126 2844 383 2856"/></Shape>
+	    <String CONTENT="1 فكل . (5) ص : حصره . (6) ب و - على ما هو به . (7) ص : بمعلوم ؛ ف :"
+                    HPOS="380"
+                    VPOS="2777"
+                    WIDTH="1746"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_471d62bc"
+                    
+                    BASELINE="514 2914 2023 2908" 
+                    HPOS="511"
+                    VPOS="2856"
+                    WIDTH="1512"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="514 2914 511 2861 2020 2856 2023 2908 2023 2926 514 2932"/></Shape>
+	    <String CONTENT="معلوم . (8) ص : فإنه. (9) ص : هنا لوثة ، والأرجح أن القراءة &quot; توثيق &quot; ."
+                    HPOS="511"
+                    VPOS="2856"
+                    WIDTH="1512"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_409e1027"
+                    
+                    BASELINE="368 2993 1953 2987" 
+                    HPOS="365"
+                    VPOS="2937"
+                    WIDTH="1588"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="368 2993 365 2943 1950 2937 1953 2987 1953 3008 368 3013"/></Shape>
+	    <String CONTENT="6(1) ب : فلم. (2) ب :- له . (3) ب : ولأن . (4) أي : حد العلم ."
+                    HPOS="365"
+                    VPOS="2937"
+                    WIDTH="1588"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0cd2dafc"
+                    
+                    BASELINE="1500 3072 2012 3072" 
+                    HPOS="1500"
+                    VPOS="3022"
+                    WIDTH="512"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1500 3072 1500 3022 2012 3022 2012 3072 2012 3089 1500 3089"/></Shape>
+	    <String CONTENT="(5) ص :- على ما هو به ."
+                    HPOS="1500"
+                    VPOS="3022"
+                    WIDTH="512"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2105"
+                   VPOS="2268"
+                   WIDTH="21"
+                   HEIGHT="9"
+                   ID="eSc_textblock_77533685"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2126 2268 2126 2277 2105 2277 2105 2268"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1496"
+                   VPOS="1064"
+                   WIDTH="36"
+                   HEIGHT="1"
+                   ID="eSc_textblock_93c190fd"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1520 1064 1532 1065 1496 1065"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

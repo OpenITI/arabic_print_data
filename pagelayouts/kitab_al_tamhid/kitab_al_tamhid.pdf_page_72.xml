@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_al_tamhid.pdf_page_72.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT820" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT821" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT822" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT823" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT824" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/>
+    <OtherTag ID="LT27" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="71"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1902"
+                   VPOS="400"
+                   WIDTH="153"
+                   HEIGHT="2732"
+                   ID="eSc_textblock_7be28ba7"
+                   TAGREFS="BT824">
+          <Shape><Polygon POINTS="2055 400 2055 3132 1902 3132 1902 400"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a5b3ab73"
+                    
+                    BASELINE="1944 1689 1968 1689" 
+                    HPOS="1944"
+                    VPOS="1648"
+                    WIDTH="24"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1944 1689 1944 1648 1968 1648 1968 1689 1968 1707 1944 1707"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="1944"
+                    VPOS="1648"
+                    WIDTH="24"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1754"
+                   VPOS="222"
+                   WIDTH="126"
+                   HEIGHT="114"
+                   ID="eSc_textblock_c14e157f"
+                   TAGREFS="BT822">
+          <Shape><Polygon POINTS="1868 245 1880 336 1754 324 1754 222"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f4594078"
+                    
+                    BASELINE="1769 292 1801 292" 
+                    HPOS="1769"
+                    VPOS="254"
+                    WIDTH="32"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1769 292 1769 254 1801 254 1801 292 1801 309 1769 309"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1769"
+                    VPOS="254"
+                    WIDTH="32"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="198"
+                   VPOS="339"
+                   WIDTH="1717"
+                   HEIGHT="2218"
+                   ID="eSc_textblock_57a7763e"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1915 350 1903 2464 1193 2464 968 2546 605 2557 245 2511 210 2464 198 1917 222 374 257 339"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7978317e"
+                    
+                    BASELINE="251 403 1889 441" 
+                    HPOS="248"
+                    VPOS="342"
+                    WIDTH="1641"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="251 403 251 342 1889 380 1889 441 1886 464 248 426"/></Shape>
+	    <String CONTENT="يوجد قط ولا يوجد أبدا ، وهو مما(1) يصح ويمكن أن يوجد ، نحو ما علم الله"
+                    HPOS="248"
+                    VPOS="342"
+                    WIDTH="1641"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1ee7ae9"
+                    
+                    BASELINE="307 520 1886 532" 
+                    HPOS="304"
+                    VPOS="461"
+                    WIDTH="1582"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="307 520 307 461 1886 473 1886 532 1883 552 304 540"/></Shape>
+	    <String CONTENT="أنه لا يكون من مقدوراته (ص 9 و) وأخبر آنه لا يكون - من نحورده"
+                    HPOS="304"
+                    VPOS="461"
+                    WIDTH="1582"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7fd90a9"
+                    
+                    BASELINE="254 610 1898 640" 
+                    HPOS="251"
+                    VPOS="549"
+                    WIDTH="1647"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="254 610 254 549 1898 578 1898 640 1895 660 251 631"/></Shape>
+	    <String CONTENT="أهل المعاد إلى الدنيا ، وخلق مثل العالم، وأمثال ذلك مما علم وأخبر أنه لا"
+                    HPOS="251"
+                    VPOS="549"
+                    WIDTH="1647"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6088bf87"
+                    
+                    BASELINE="248 716 1889 742" 
+                    HPOS="245"
+                    VPOS="660"
+                    WIDTH="1644"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="248 716 248 660 1889 686 1889 742 1886 762 245 736"/></Shape>
+	    <String CONTENT="بيفعله، وإن كان مما يصح فعله تعالى له ، ومنه3) معلوم معدوم في وقتنا"
+                    HPOS="245"
+                    VPOS="660"
+                    WIDTH="1644"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbf80187"
+                    
+                    BASELINE="239 827 1898 850" 
+                    HPOS="236"
+                    VPOS="771"
+                    WIDTH="1662"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="239 827 239 771 1898 795 1898 850 1895 874 236 850"/></Shape>
+	    <String CONTENT="هذا وسبوجد فيما بعد نهو الحشر والنشر والجزاء والثواب والعقاب، وقيام"
+                    HPOS="236"
+                    VPOS="771"
+                    WIDTH="1662"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_891f19cc"
+                    
+                    BASELINE="248 929 1892 950" 
+                    HPOS="245"
+                    VPOS="868"
+                    WIDTH="1647"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="248 929 248 868 1892 888 1892 950 1889 973 245 953"/></Shape>
+	    <String CONTENT="الساعة ، وأمثال ذلك مما أخبر الله(10) تعالى أنه سيفعله وعلم أنه سيوجد ."
+                    HPOS="245"
+                    VPOS="868"
+                    WIDTH="1647"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbd800f6"
+                    
+                    BASELINE="248 1026 1895 1055" 
+                    HPOS="245"
+                    VPOS="970"
+                    WIDTH="1650"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="248 1026 248 970 1895 999 1895 1055 1892 1084 245 1055"/></Shape>
+	    <String CONTENT="ومعلوم آخر هو(11) معدوم في وقتنا هذا(12)) وقد كان موجودا قبل ذلك -"
+                    HPOS="245"
+                    VPOS="970"
+                    WIDTH="1650"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a02ae8f2"
+                    
+                    BASELINE="921 1154 1892 1166" 
+                    HPOS="918"
+                    VPOS="1093"
+                    WIDTH="974"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="921 1154 921 1093 1892 1105 1892 1166 1889 1189 918 1178"/></Shape>
+	    <String CONTENT="نحو ما كان وتقضى من أحوالنا وتصرفيا ، من"
+                    HPOS="918"
+                    VPOS="1093"
+                    WIDTH="974"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09684c70"
+                    
+                    BASELINE="242 1145 848 1151" 
+                    HPOS="239"
+                    VPOS="1087"
+                    WIDTH="609"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="242 1145 242 1087 848 1093 848 1151 845 1172 239 1166"/></Shape>
+	    <String CONTENT="كلامنا وقيامنا وقعودنا، الذي"
+                    HPOS="239"
+                    VPOS="1087"
+                    WIDTH="609"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e1165e2"
+                    
+                    BASELINE="602 1251 1877 1268" 
+                    HPOS="599"
+                    VPOS="1192"
+                    WIDTH="1278"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="602 1251 602 1192 1877 1210 1877 1268 1874 1297 599 1280"/></Shape>
+	    <String CONTENT="كان في أمس يومنا وتقضى ومضى . (ف 8ظ) ومعلوم آخر"
+                    HPOS="599"
+                    VPOS="1192"
+                    WIDTH="1278"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0d193a8"
+                    
+                    BASELINE="321 1254 511 1248" 
+                    HPOS="318"
+                    VPOS="1204"
+                    WIDTH="193"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="321 1254 318 1210 508 1204 511 1248 511 1262 321 1268"/></Shape>
+	    <String CONTENT="معدوم"
+                    HPOS="318"
+                    VPOS="1204"
+                    WIDTH="193"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dac14373"
+                    
+                    BASELINE="704 1365 1883 1382" 
+                    HPOS="701"
+                    VPOS="1297"
+                    WIDTH="1182"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="704 1365 704 1297 1883 1315 1883 1382 1880 1403 701 1385"/></Shape>
+	    <String CONTENT="يمكن عندنا(16) أن يكون ويمكن أن(17) لا يكون&quot;ولا"
+                    HPOS="701"
+                    VPOS="1297"
+                    WIDTH="1182"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29c3101b"
+                    
+                    BASELINE="315 1356 617 1368" 
+                    HPOS="312"
+                    VPOS="1280"
+                    WIDTH="305"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="315 1356 315 1280 617 1292 617 1368 614 1388 312 1376"/></Shape>
+	    <String CONTENT="یدری أیکون"
+                    HPOS="312"
+                    VPOS="1280"
+                    WIDTH="305"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f845c40"
+                    
+                    BASELINE="614 1467 1903 1485" 
+                    HPOS="611"
+                    VPOS="1406"
+                    WIDTH="1292"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="614 1467 614 1406 1903 1423 1903 1485 1900 1505 611 1487"/></Shape>
+	    <String CONTENT="أم لا يكون ،نحو ما يقدر الله تعالى(10) عليه مما لا نعلم نحن"
+                    HPOS="611"
+                    VPOS="1406"
+                    WIDTH="1292"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f77126bc"
+                    
+                    BASELINE="353 1455 500 1461" 
+                    HPOS="350"
+                    VPOS="1388"
+                    WIDTH="150"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="353 1455 353 1388 500 1394 500 1461 497 1482 350 1476"/></Shape>
+	    <String CONTENT="رفعله)"
+                    HPOS="350"
+                    VPOS="1388"
+                    WIDTH="150"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd537fef"
+                    
+                    BASELINE="1476 1578 1874 1581" 
+                    HPOS="1473"
+                    VPOS="1523"
+                    WIDTH="401"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1476 1578 1476 1523 1874 1525 1874 1581 1871 1604 1473 1601"/></Shape>
+	    <String CONTENT="لا يفعله - نحوا"
+                    HPOS="1473"
+                    VPOS="1523"
+                    WIDTH="401"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5d8a613"
+                    
+                    BASELINE="245 1555 1026 1581 1424 1575" 
+                    HPOS="242"
+                    VPOS="1485"
+                    WIDTH="1182"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="245 1555 245 1485 1026 1511 1421 1505 1424 1575 1424 1604 1026 1610 1023 1610 242 1584"/></Shape>
+	    <String CONTENT="تحريك الساكن من الأجسام، وتسكين المتحرك منها &quot;"
+                    HPOS="242"
+                    VPOS="1485"
+                    WIDTH="1182"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1292306b"
+                    
+                    BASELINE="1567 1680 1892 1686" 
+                    HPOS="1564"
+                    VPOS="1616"
+                    WIDTH="328"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1567 1680 1567 1616 1892 1622 1892 1686 1889 1704 1564 1698"/></Shape>
+	    <String CONTENT="وأمثال ذلك ."
+                    HPOS="1564"
+                    VPOS="1616"
+                    WIDTH="328"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd870c87"
+                    TAGREFS="LT27"
+                    BASELINE="728 1827 1438 1835" 
+                    HPOS="725"
+                    VPOS="1754"
+                    WIDTH="713"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="728 1827 728 1754 1438 1762 1438 1835 1435 1859 725 1850"/></Shape>
+	    <String CONTENT="باب الكلام في الموجودات"
+                    HPOS="725"
+                    VPOS="1754"
+                    WIDTH="713"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ac343f5"
+                    
+                    BASELINE="233 1996 1754 1996" 
+                    HPOS="233"
+                    VPOS="1941"
+                    WIDTH="1521"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="233 1996 233 1941 1754 1941 1754 1996 1754 2022 233 2022"/></Shape>
+	    <String CONTENT="2 والموهودات كلها على ضربين - قديم لم يزل ، ومحدث لوجوده"
+                    HPOS="233"
+                    VPOS="1941"
+                    WIDTH="1521"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_567487bb"
+                    
+                    BASELINE="233 2090 1871 2113" 
+                    HPOS="231"
+                    VPOS="2028"
+                    WIDTH="1640"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="233 2090 233 2028 1871 2052 1871 2113 1868 2136 231 2113"/></Shape>
+	    <String CONTENT="أول. فالقديم هو المتقدم (صرهظ) في الوجود على غيره . وقد يكون لم يزل،"
+                    HPOS="231"
+                    VPOS="2028"
+                    WIDTH="1640"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0bdae3e"
+                    
+                    BASELINE="231 2210 1880 2224" 
+                    HPOS="228"
+                    VPOS="2151"
+                    WIDTH="1652"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="231 2210 231 2151 1880 2166 1880 2224 1877 2248 228 2233"/></Shape>
+	    <String CONTENT="وقد يكون مستفتح الوجود(1). دليل ذلك قولهم &quot;بناء قديم&quot; - يعنون آنه الموجود"
+                    HPOS="228"
+                    VPOS="2151"
+                    WIDTH="1652"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8bffcd5f"
+                    
+                    BASELINE="239 2303 1868 2326" 
+                    HPOS="236"
+                    VPOS="2250"
+                    WIDTH="1632"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="239 2303 239 2250 1868 2274 1868 2326 1865 2347 236 2324"/></Shape>
+	    <String CONTENT="قبل الحادث بعده . وقد يكون المتقدم فی11) وجوده على ما حدث بعده متقدما"
+                    HPOS="236"
+                    VPOS="2250"
+                    WIDTH="1632"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c416df7"
+                    
+                    BASELINE="233 2405 1871 2432" 
+                    HPOS="231"
+                    VPOS="2344"
+                    WIDTH="1640"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="233 2405 233 2344 1871 2370 1871 2432 1868 2452 231 2426"/></Shape>
+	    <String CONTENT="إلى غاية، وهو المحدث الموقت الوجود(2) . وقد يكون متقدماً إلى غير غاية ،"
+                    HPOS="231"
+                    VPOS="2344"
+                    WIDTH="1640"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="935"
+                   VPOS="210"
+                   WIDTH="290"
+                   HEIGHT="91"
+                   ID="eSc_textblock_a19cd0ae"
+                   TAGREFS="BT821">
+          <Shape><Polygon POINTS="1201 210 1225 289 935 301 959 210"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d4fc1d90"
+                    
+                    BASELINE="953 283 1199 277" 
+                    HPOS="950"
+                    VPOS="228"
+                    WIDTH="249"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="953 283 950 233 1196 228 1199 277 1199 295 953 301"/></Shape>
+	    <String CONTENT="كتاب التمهيد"
+                    HPOS="950"
+                    VPOS="228"
+                    WIDTH="249"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="210"
+                   VPOS="2478"
+                   WIDTH="1752"
+                   HEIGHT="617"
+                   ID="eSc_textblock_08776df0"
+                   TAGREFS="BT820">
+          <Shape><Polygon POINTS="1857 2478 1927 2514 1962 2584 1927 3084 222 3095 210 2607 257 2490 374 2537 897 2549 947 2502 1298 2478"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1765aef5"
+                    
+                    BASELINE="269 2514 1131 2511 1860 2528" 
+                    HPOS="266"
+                    VPOS="2464"
+                    WIDTH="1594"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="269 2514 266 2467 1128 2464 1131 2464 1860 2481 1860 2528 1857 2549 1128 2531 269 2534"/></Shape>
+	    <String CONTENT="6) ص: ما . (7) ف : رد . (8) ب:- تعالی . (9) بص :- منه. (10) ب"
+                    HPOS="266"
+                    VPOS="2464"
+                    WIDTH="1594"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c606762"
+                    
+                    BASELINE="239 2578 1862 2592" 
+                    HPOS="236"
+                    VPOS="2531"
+                    WIDTH="1626"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="239 2578 239 2531 1862 2546 1862 2592 1860 2604 236 2590"/></Shape>
+	    <String CONTENT="ف :-الله. (11) ص: وهو؟ ف:-هو. (12) ف:- هذا . (13) ف: و."
+                    HPOS="236"
+                    VPOS="2531"
+                    WIDTH="1626"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef67a22a"
+                    
+                    BASELINE="257 2645 1860 2663" 
+                    HPOS="254"
+                    VPOS="2595"
+                    WIDTH="1606"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="257 2645 257 2595 1860 2613 1860 2663 1857 2674 254 2657"/></Shape>
+	    <String CONTENT="(14) ص : وهو معدوم مقدور ممكن الخ. (15) ب:  هو مقدور و. (16) ب ص"
+                    HPOS="254"
+                    VPOS="2595"
+                    WIDTH="1606"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8d99f7b"
+                    
+                    BASELINE="231 2704 1854 2724" 
+                    HPOS="228"
+                    VPOS="2657"
+                    WIDTH="1626"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="231 2704 231 2657 1854 2677 1854 2724 1851 2739 228 2718"/></Shape>
+	    <String CONTENT="- عندنا . (17) &quot;أن لا&quot; : هكذا كثبت فی المخطوطات الثلاثة. وتكتب على هذا النحو دائماً"
+                    HPOS="228"
+                    VPOS="2657"
+                    WIDTH="1626"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0678a31f"
+                    
+                    BASELINE="245 2783 1857 2797" 
+                    HPOS="242"
+                    VPOS="2727"
+                    WIDTH="1615"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="245 2783 245 2727 1857 2742 1857 2797 1854 2809 242 2794"/></Shape>
+	    <String CONTENT="في ص وف ؛ أما ب ، فلد يتبع وجهاً واحداً . (18) ص : - ولا يدري أيكون أم لا يكون."
+                    HPOS="242"
+                    VPOS="2727"
+                    WIDTH="1615"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_488a7394"
+                    
+                    BASELINE="231 2847 1857 2861" 
+                    HPOS="228"
+                    VPOS="2800"
+                    WIDTH="1629"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="231 2847 231 2800 1857 2815 1857 2861 1854 2876 228 2861"/></Shape>
+	    <String CONTENT="(19) ب : هل يكون. (20) ص:- تعالى؛ ف : عز وجل. (21) ب ص : - نحن ."
+                    HPOS="228"
+                    VPOS="2800"
+                    WIDTH="1629"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9f20f0f"
+                    
+                    BASELINE="1131 2926 1854 2926" 
+                    HPOS="1131"
+                    VPOS="2879"
+                    WIDTH="723"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1131 2926 1131 2879 1854 2879 1854 2926 1854 2943 1131 2943"/></Shape>
+	    <String CONTENT="(22) ف : آو . (23) ص : * جواز"
+                    HPOS="1131"
+                    VPOS="2879"
+                    WIDTH="723"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5a187f8"
+                    
+                    BASELINE="965 2987 1775 2993" 
+                    HPOS="962"
+                    VPOS="2937"
+                    WIDTH="813"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="965 2987 965 2937 1775 2943 1775 2993 1772 3013 962 3008"/></Shape>
+	    <String CONTENT="العنوان) (1) ص ف : - الكلام في الموجودات ."
+                    HPOS="962"
+                    VPOS="2937"
+                    WIDTH="813"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36e2c322"
+                    
+                    BASELINE="353 3057 1672 3066" 
+                    HPOS="350"
+                    VPOS="3008"
+                    WIDTH="1322"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="353 3057 353 3008 1672 3016 1672 3066 1669 3081 350 3072"/></Shape>
+	    <String CONTENT=") ص ف : - الوجود . (2) ب ف : بوجوده . (3) ب ص : الموجود ."
+                    HPOS="350"
+                    VPOS="3008"
+                    WIDTH="1322"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1965"
+                   VPOS="2467"
+                   WIDTH="55"
+                   HEIGHT="9"
+                   ID="eSc_textblock_f4d5b7b0"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2020 2467 2020 2476 1965 2476 1965 2467"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_lutf_al_tadbir.pdf_page_42.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT902" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT903" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT904" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT905" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT906" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1947"
+          HEIGHT="2920"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1947"
+                  HEIGHT="2920">
+        
+        <TextBlock HPOS="533"
+                   VPOS="387"
+                   WIDTH="691"
+                   HEIGHT="283"
+                   ID="eSc_textblock_09b7a6b0"
+                   TAGREFS="BT904">
+          <Shape><Polygon POINTS="1224 387 1224 670 944 670 533 670 533 387"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c2895775"
+                    
+                    BASELINE="688 474 1065 469" 
+                    HPOS="686"
+                    VPOS="394"
+                    WIDTH="379"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="688 474 686 399 1063 394 1065 469 1065 486 688 491"/></Shape>
+	    <String CONTENT="الات الشا"
+                    HPOS="686"
+                    VPOS="394"
+                    WIDTH="379"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28ec2249"
+                    
+                    BASELINE="520 610 1216 622" 
+                    HPOS="518"
+                    VPOS="501"
+                    WIDTH="698"
+                    HEIGHT="151">
+            <Shape><Polygon POINTS="520 610 520 501 1216 513 1216 622 1214 652 518 639"/></Shape>
+	    <String CONTENT="فاطف الد بيري الحوب"
+                    HPOS="518"
+                    VPOS="501"
+                    WIDTH="698"
+                    HEIGHT="151"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="223"
+                   VPOS="681"
+                   WIDTH="1380"
+                   HEIGHT="1545"
+                   ID="eSc_textblock_7146e22e"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="223 720 1389 710 1431 681 1574 759 1603 924 1603 2022 1574 2197 1496 2226 223 2207"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0fe89e4b"
+                    
+                    BASELINE="228 817 1450 817" 
+                    HPOS="228"
+                    VPOS="761"
+                    WIDTH="1222"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="228 817 228 761 1450 761 1450 817 1450 841 228 841"/></Shape>
+	    <String CONTENT=" حكى إن الإسكندر لما فرغ من مدن() فارس وأراد الشخوص عنها،"
+                    HPOS="228"
+                    VPOS="761"
+                    WIDTH="1222"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce30386e"
+                    
+                    BASELINE="226 927 1516 919" 
+                    HPOS="223"
+                    VPOS="861"
+                    WIDTH="1293"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="226 927 223 868 1513 861 1516 919 1516 941 226 948"/></Shape>
+	    <String CONTENT="كتب إلى أرشطاطاليس يعلمه أنه ليمافتح بلاد فارس ، رأى رجالاً لم ير مثلهم"
+                    HPOS="223"
+                    VPOS="861"
+                    WIDTH="1293"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b16025af"
+                    
+                    BASELINE="231 1029 1538 1029" 
+                    HPOS="231"
+                    VPOS="970"
+                    WIDTH="1307"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="231 1029 231 970 1538 970 1538 1029 1538 1053 231 1053"/></Shape>
+	    <String CONTENT=" جمالاً وكمالاً وشجاعة ، وإنه لا يأمن إن ظعن عنهم أن يتبوا بمن يخلف،"
+                    HPOS="231"
+                    VPOS="970"
+                    WIDTH="1307"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63bcc498"
+                    
+                    BASELINE="228 1143 1550 1148" 
+                    HPOS="226"
+                    VPOS="1080"
+                    WIDTH="1324"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="228 1143 228 1080 1550 1085 1550 1148 1547 1165 226 1160"/></Shape>
+	    <String CONTENT=" ويرجعوا إلى معصيته . وأنه رأى قتل أمثالهم فساداً فی الأرض ، ولم يأمنهم"
+                    HPOS="226"
+                    VPOS="1080"
+                    WIDTH="1324"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17aea92a"
+                    
+                    BASELINE="228 1243 1547 1250" 
+                    HPOS="226"
+                    VPOS="1187"
+                    WIDTH="1321"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="228 1243 228 1187 1547 1194 1547 1250 1545 1267 226 1260"/></Shape>
+	    <String CONTENT="ان يخرجوا فی عسكره على فساد العسكر. فكتب إليه أرشطاطاليس : فهمت"
+                    HPOS="226"
+                    VPOS="1187"
+                    WIDTH="1321"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e309c56"
+                    
+                    BASELINE="228 1362 1528 1348" 
+                    HPOS="226"
+                    VPOS="1292"
+                    WIDTH="1302"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="228 1362 226 1306 1525 1292 1528 1348 1528 1367 228 1382"/></Shape>
+	    <String CONTENT="كتابك فی رجال فارس، فإما قتلهم فهو من الفساد فی الارض ، ولو قتلتهم"
+                    HPOS="226"
+                    VPOS="1292"
+                    WIDTH="1302"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9cc54215"
+                    
+                    BASELINE="233 1459 1545 1452" 
+                    HPOS="231"
+                    VPOS="1396"
+                    WIDTH="1314"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="233 1459 231 1404 1542 1396 1545 1452 1545 1474 233 1481"/></Shape>
+	    <String CONTENT="جميعاً لأيدت(2) البلد مثلهم ، وكانوا أعداءك وأعداء عقبك وبلدك بالطبع ."
+                    HPOS="231"
+                    VPOS="1396"
+                    WIDTH="1314"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a1cdc82"
+                    
+                    BASELINE="231 1564 1547 1571" 
+                    HPOS="228"
+                    VPOS="1506"
+                    WIDTH="1319"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="231 1564 231 1506 1547 1513 1547 1571 1545 1591 228 1584"/></Shape>
+	    <String CONTENT=" وإخراجهم فى عسكرك مخاطرة بنفسك وأصحابك لا يؤمن ميلهم عليك ، لان"
+                    HPOS="228"
+                    VPOS="1506"
+                    WIDTH="1319"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57b01110"
+                    
+                    BASELINE="231 1683 1545 1676" 
+                    HPOS="228"
+                    VPOS="1623"
+                    WIDTH="1317"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="231 1683 228 1630 1542 1623 1545 1676 1545 1698 231 1705"/></Shape>
+	    <String CONTENT="عدوك صديق عدؤك، ولكن فرق كلمتهم بأن تجعل لكل طائفة منهم"
+                    HPOS="228"
+                    VPOS="1623"
+                    WIDTH="1317"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af5da037"
+                    
+                    BASELINE="233 1790 1547 1783" 
+                    HPOS="231"
+                    VPOS="1730"
+                    WIDTH="1316"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="233 1790 231 1737 1545 1730 1547 1783 1547 1807 233 1815"/></Shape>
+	    <String CONTENT="ملكا، فلايؤدى بعضهم إلى بعض طاعة ، ويلجأ كل فريق منهم إليك."
+                    HPOS="231"
+                    VPOS="1730"
+                    WIDTH="1316"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_710b7111"
+                    
+                    BASELINE="289 1893 1545 1888" 
+                    HPOS="287"
+                    VPOS="1837"
+                    WIDTH="1258"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="289 1893 287 1842 1542 1837 1545 1888 1545 1915 289 1919"/></Shape>
+	    <String CONTENT="فملك الإسكندر ملوك الطوائف ، فمكثوا على ذلك حتى جمع كلتهم"
+                    HPOS="287"
+                    VPOS="1837"
+                    WIDTH="1258"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3258020"
+                    
+                    BASELINE="1216 2005 1545 1997" 
+                    HPOS="1214"
+                    VPOS="1941"
+                    WIDTH="331"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1216 2005 1214 1949 1542 1941 1545 1997 1545 2026 1216 2034"/></Shape>
+	    <String CONTENT="أردشير بن بابك."
+                    HPOS="1214"
+                    VPOS="1941"
+                    WIDTH="331"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fce4caf"
+                    
+                    BASELINE="231 2148 494 2160 1457 2151" 
+                    HPOS="228"
+                    VPOS="2082"
+                    WIDTH="1229"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="231 2148 233 2082 494 2092 1455 2085 1457 2151 1457 2182 494 2192 491 2192 228 2180"/></Shape>
+	    <String CONTENT="وحكى أن الإسكندر لما شخص عن أرض فارس إلى أرض الهند"
+                    HPOS="228"
+                    VPOS="2082"
+                    WIDTH="1229"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="846"
+                   VPOS="2223"
+                   WIDTH="721"
+                   HEIGHT="383"
+                   ID="eSc_textblock_929e353f"
+                   TAGREFS="BT902">
+          <Shape><Polygon POINTS="1567 2223 1516 2570 915 2606 846 2530 895 2336 1106 2225"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_497c0fac"
+                    
+                    BASELINE="983 2350 1469 2355" 
+                    HPOS="980"
+                    VPOS="2301"
+                    WIDTH="489"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="983 2350 983 2301 1469 2306 1469 2355 1467 2372 980 2367"/></Shape>
+	    <String CONTENT="(1) فی ب : ((من ملك)."
+                    HPOS="980"
+                    VPOS="2301"
+                    WIDTH="489"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f65fefae"
+                    
+                    BASELINE="1012 2443 1467 2443" 
+                    HPOS="1012"
+                    VPOS="2394"
+                    WIDTH="455"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1012 2443 1012 2394 1467 2394 1467 2443 1467 2460 1012 2460"/></Shape>
+	    <String CONTENT="(2) فی ب: &quot;لأبنت*."
+                    HPOS="1012"
+                    VPOS="2394"
+                    WIDTH="455"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1fbf127"
+                    
+                    BASELINE="919 2533 1465 2528" 
+                    HPOS="917"
+                    VPOS="2479"
+                    WIDTH="548"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="919 2533 917 2484 1462 2479 1465 2528 1465 2557 919 2562"/></Shape>
+	    <String CONTENT="(3) فی ب : &quot;جمع ملكهم&quot;."
+                    HPOS="917"
+                    VPOS="2479"
+                    WIDTH="548"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

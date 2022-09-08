@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_nasaih_al_muhimma_lil_muluk_wa_al-imma.pdf_page_20.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT873" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT874" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT875" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT876" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT877" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    <OtherTag ID="LT35" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3507"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3507">
+        
+        <TextBlock HPOS="1754"
+                   VPOS="309"
+                   WIDTH="372"
+                   HEIGHT="128"
+                   ID="eSc_textblock_a2148e15"
+                   TAGREFS="BT874">
+          <Shape><Polygon POINTS="2114 327 2126 394 1838 437 1754 359 1818 309"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1d4f61bb"
+                    
+                    BASELINE="1789 379 2108 385" 
+                    HPOS="1786"
+                    VPOS="341"
+                    WIDTH="322"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1789 379 1789 341 2108 347 2108 385 2105 444 1786 438"/></Shape>
+	    <String CONTENT="المالة الدقتصارية"
+                    HPOS="1786"
+                    VPOS="341"
+                    WIDTH="322"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="280"
+                   VPOS="467"
+                   WIDTH="1869"
+                   HEIGHT="1632"
+                   ID="eSc_textblock_4cc4ecc4"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2149 479 2131 2099 304 2031 280 1250 292 502 327 467"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1f7d8b03"
+                    
+                    BASELINE="315 537 2105 537" 
+                    HPOS="315"
+                    VPOS="488"
+                    WIDTH="1790"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="315 537 315 488 2105 488 2105 537 2105 561 315 561"/></Shape>
+	    <String CONTENT="وكان الكتان من أهم المزروعات مما جعل الدولة تصدر مقاديركبيرة من المنسوجات الكتانية"
+                    HPOS="315"
+                    VPOS="488"
+                    WIDTH="1790"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b87c26ae"
+                    
+                    BASELINE="318 645 2108 645" 
+                    HPOS="318"
+                    VPOS="590"
+                    WIDTH="1790"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="318 645 318 590 2108 590 2108 645 2108 663 318 663"/></Shape>
+	    <String CONTENT="الى البلاد المجاورة (1)، كما اشتهرت مصربزراعة قصب السكر، والمحصولات الزراعية"
+                    HPOS="318"
+                    VPOS="590"
+                    WIDTH="1790"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bf9f5f8"
+                    
+                    BASELINE="315 745 2108 736" 
+                    HPOS="312"
+                    VPOS="686"
+                    WIDTH="1796"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="315 745 312 695 2105 686 2108 736 2108 759 315 768"/></Shape>
+	    <String CONTENT="لاتخرج عما يخرج من الأرض هذه الأيام ، وكانت حيوانات الرعى تجد من الأرض بعد"
+                    HPOS="312"
+                    VPOS="686"
+                    WIDTH="1796"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf401aa6"
+                    
+                    BASELINE="315 850 2111 841" 
+                    HPOS="312"
+                    VPOS="786"
+                    WIDTH="1799"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="315 850 312 794 2108 786 2111 841 2111 859 315 867"/></Shape>
+	    <String CONTENT="زراعتها مجالا فسيحا تعيش عليه ، مما زاد من نموالثروة الحيوانية (2) ولكن ظلت دون"
+                    HPOS="312"
+                    VPOS="786"
+                    WIDTH="1799"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50a353e8"
+                    
+                    BASELINE="622 938 2114 943" 
+                    HPOS="620"
+                    VPOS="888"
+                    WIDTH="1494"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="622 938 622 888 2114 894 2114 943 2111 970 620 964"/></Shape>
+	    <String CONTENT="الكفاية ، فاقتضى ذلك استيراد الأغنام من البلاد الشامية أوبلاد النوبة (3) ."
+                    HPOS="620"
+                    VPOS="888"
+                    WIDTH="1494"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46acaa1d"
+                    
+                    BASELINE="1819 1040 2096 1034" 
+                    HPOS="1816"
+                    VPOS="981"
+                    WIDTH="280"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1819 1040 1816 987 2093 981 2096 1034 2096 1049 1819 1055"/></Shape>
+	    <String CONTENT="3- المناعة."
+                    HPOS="1816"
+                    VPOS="981"
+                    WIDTH="280"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6859794"
+                    
+                    BASELINE="315 1160 2041 1148" 
+                    HPOS="312"
+                    VPOS="1090"
+                    WIDTH="1729"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="315 1160 312 1101 2038 1090 2041 1148 2041 1166 315 1177"/></Shape>
+	    <String CONTENT="الصناعة ارتقت رقيا کبیرا حتی أصبحت مصنوعات ذلك العصرتکون فی مجموعها"
+                    HPOS="312"
+                    VPOS="1090"
+                    WIDTH="1729"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7b067f2"
+                    
+                    BASELINE="1190 1262 2105 1256" 
+                    HPOS="1187"
+                    VPOS="1201"
+                    WIDTH="918"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1190 1262 1187 1206 2102 1201 2105 1256 2105 1274 1190 1280"/></Shape>
+	    <String CONTENT="إنتاجا فنيا رائعا تتزين به متاحف العالم اليوم ."
+                    HPOS="1187"
+                    VPOS="1201"
+                    WIDTH="918"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e86d6c81"
+                    
+                    BASELINE="315 1364 2102 1356" 
+                    HPOS="312"
+                    VPOS="1300"
+                    WIDTH="1790"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="315 1364 312 1309 2099 1300 2102 1356 2102 1373 315 1382"/></Shape>
+	    <String CONTENT="وحسبنا الأقمشة الفاخرة المصنوعة من الحريروالصوف والكتان والقطن التى صنعت منها"
+                    HPOS="312"
+                    VPOS="1300"
+                    WIDTH="1790"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79ad7064"
+                    
+                    BASELINE="315 1464 1672 1470 2105 1455" 
+                    HPOS="312"
+                    VPOS="1391"
+                    WIDTH="1793"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="315 1464 315 1399 1669 1405 2102 1391 2105 1455 2105 1481 1672 1496 1669 1496 312 1490"/></Shape>
+	    <String CONTENT="الخلع السلطانية والفرش والستوروالخيام . هذا عدا المصنوعات المعدنية التي تتمثل في عدد"
+                    HPOS="312"
+                    VPOS="1391"
+                    WIDTH="1793"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a45c257d"
+                    
+                    BASELINE="315 1563 2102 1575" 
+                    HPOS="312"
+                    VPOS="1505"
+                    WIDTH="1790"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="315 1563 315 1505 2102 1516 2102 1575 2099 1592 312 1581"/></Shape>
+	    <String CONTENT="كبيرمن الأوانى النحاسية والطلسات الدقيقة الصنع ذات النقوش والكتابات"
+                    HPOS="312"
+                    VPOS="1505"
+                    WIDTH="1790"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb78ea32"
+                    
+                    BASELINE="1860 1659 2114 1659" 
+                    HPOS="1860"
+                    VPOS="1613"
+                    WIDTH="254"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1860 1659 1860 1613 2114 1613 2114 1659 2114 1686 1860 1686"/></Shape>
+	    <String CONTENT="الجميلة (4)."
+                    HPOS="1860"
+                    VPOS="1613"
+                    WIDTH="254"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78de8b7a"
+                    
+                    BASELINE="315 1776 2105 1771" 
+                    HPOS="312"
+                    VPOS="1715"
+                    WIDTH="1793"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="315 1776 312 1721 2102 1715 2105 1771 2105 1791 315 1797"/></Shape>
+	    <String CONTENT="كل هذه الأمور تعد دلائل على مدى الرقى الذي وصلت إليه صناعة النسيج ، فضلا عن"
+                    HPOS="312"
+                    VPOS="1715"
+                    WIDTH="1793"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ce1f65e"
+                    
+                    BASELINE="315 1870 1131 1882 2099 1867" 
+                    HPOS="312"
+                    VPOS="1811"
+                    WIDTH="1787"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="315 1870 315 1814 1128 1826 2096 1811 2099 1867 2099 1890 1131 1905 1128 1905 312 1893"/></Shape>
+	    <String CONTENT="صناعة التكفيت بالذهب والفضة، وتطعيم أواني الشراب والطسوت بالذهب"
+                    HPOS="312"
+                    VPOS="1811"
+                    WIDTH="1787"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18030f4a"
+                    
+                    BASELINE="824 1972 1111 1987 2114 1975" 
+                    HPOS="821"
+                    VPOS="1914"
+                    WIDTH="1293"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="824 1972 827 1914 1111 1925 2111 1914 2114 1975 2114 1996 1111 2007 1108 2007 821 1993"/></Shape>
+	    <String CONTENT="والفضة(5)، وكان لهؤلاء المكفتين سوق يسمى سوق المكفتين (6) ."
+                    HPOS="821"
+                    VPOS="1914"
+                    WIDTH="1293"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="315"
+                   VPOS="2104"
+                   WIDTH="1834"
+                   HEIGHT="1224"
+                   ID="eSc_textblock_d44f5eb7"
+                   TAGREFS="BT873">
+          <Shape><Polygon POINTS="2149 2104 2149 3293 2020 3328 315 3317 315 2104"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9da70752"
+                    
+                    BASELINE="307 2142 2120 2136" 
+                    HPOS="304"
+                    VPOS="2092"
+                    WIDTH="1816"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="307 2142 304 2098 2117 2092 2120 2136 2120 2159 307 2165"/></Shape>
+	    <String CONTENT="(1) العصرالمماليكى فی مصروالشام ، تأليف الدكتور سعيد عبدالفتاح عاشورص276ط 1 1965م ، دار"
+                    HPOS="304"
+                    VPOS="2092"
+                    WIDTH="1816"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38e92ba3"
+                    
+                    BASELINE="1649 2244 2120 2238" 
+                    HPOS="1646"
+                    VPOS="2191"
+                    WIDTH="474"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1649 2244 1646 2197 2117 2191 2120 2238 2120 2256 1649 2262"/></Shape>
+	    <String CONTENT="النهضة العربية - القاهرة."
+                    HPOS="1646"
+                    VPOS="2191"
+                    WIDTH="474"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_516e9336"
+                    
+                    BASELINE="307 2349 2120 2349" 
+                    HPOS="307"
+                    VPOS="2300"
+                    WIDTH="1813"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="307 2349 307 2300 2120 2300 2120 2349 2120 2373 307 2373"/></Shape>
+	    <String CONTENT="(2) عني السلطان &quot; الناصربن محمد بن قلاوون&quot; بإنشاء بيوت للدواجن والأغنام والمواشي . انظر: دولة"
+                    HPOS="307"
+                    VPOS="2300"
+                    WIDTH="1813"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38810e3a"
+                    
+                    BASELINE="1123 2454 2117 2460" 
+                    HPOS="1120"
+                    VPOS="2405"
+                    WIDTH="997"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1123 2454 1123 2405 2117 2411 2117 2460 2114 2475 1120 2469"/></Shape>
+	    <String CONTENT="بنى قلاوون فی مصر، محمد جمال الدين سرورص294"
+                    HPOS="1120"
+                    VPOS="2405"
+                    WIDTH="997"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36b9df5f"
+                    
+                    BASELINE="321 2554 628 2554" 
+                    HPOS="321"
+                    VPOS="2504"
+                    WIDTH="307"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="321 2554 321 2504 628 2504 628 2554 628 2565 321 2565"/></Shape>
+	    <String CONTENT="8ه229/2ط"
+                    HPOS="321"
+                    VPOS="2504"
+                    WIDTH="307"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae557d40"
+                    
+                    BASELINE="672 2557 2111 2557" 
+                    HPOS="672"
+                    VPOS="2507"
+                    WIDTH="1439"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="672 2557 672 2507 2111 2507 2111 2557 2111 2577 672 2577"/></Shape>
+	    <String CONTENT="(3) المواعظ والاعتباربذكرالحتطط والآثار ، تقى الدين أحمد بن على المقريزي ، ت:"
+                    HPOS="672"
+                    VPOS="2507"
+                    WIDTH="1439"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_169b3b70"
+                    
+                    BASELINE="1778 2656 2114 2662" 
+                    HPOS="1775"
+                    VPOS="2606"
+                    WIDTH="339"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1778 2656 1778 2606 2114 2612 2114 2662 2111 2677 1775 2671"/></Shape>
+	    <String CONTENT="بولاق 1270ه."
+                    HPOS="1775"
+                    VPOS="2606"
+                    WIDTH="339"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9dc8b28"
+                    
+                    BASELINE="564 2761 2120 2761" 
+                    HPOS="564"
+                    VPOS="2715"
+                    WIDTH="1556"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="564 2761 564 2715 2120 2715 2120 2761 2120 2782 564 2782"/></Shape>
+	    <String CONTENT="(4) مصروالشام فی عصرالأيوبيين والمماليك ص284، 285 ، سعيد عبدالفتاح عاشور."
+                    HPOS="564"
+                    VPOS="2715"
+                    WIDTH="1556"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db89686d"
+                    
+                    BASELINE="315 2864 2120 2864" 
+                    HPOS="315"
+                    VPOS="2814"
+                    WIDTH="1805"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="315 2864 315 2814 2120 2814 2120 2864 2120 2884 315 2884"/></Shape>
+	    <String CONTENT="(5) يحرم اتخاذ الآنية من الذهب والفضة، واستصناعها ، أما الضبة من الفضة فتباح بثلاثة شروط ؛"
+                    HPOS="315"
+                    VPOS="2814"
+                    WIDTH="1805"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b115812"
+                    
+                    BASELINE="327 2969 2117 2969" 
+                    HPOS="327"
+                    VPOS="2919"
+                    WIDTH="1790"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="327 2969 327 2919 2117 2919 2117 2969 2117 2989 327 2989"/></Shape>
+	    <String CONTENT=" أحدها ، أن تكون يسيرة . الثانى ، أن تكون من الفضة ، أما الذهب فلايباح، وقليله وكثيره حرام."
+                    HPOS="327"
+                    VPOS="2919"
+                    WIDTH="1790"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0bbccaa1"
+                    
+                    BASELINE="851 3068 2117 3068" 
+                    HPOS="851"
+                    VPOS="3018"
+                    WIDTH="1266"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="851 3068 851 3018 2117 3018 2117 3068 2117 3086 851 3086"/></Shape>
+	    <String CONTENT=" الثالث، أن يكون لحاجة . (انظر المغنى لابن قدامة 12/ 520 ومايعدها)"
+                    HPOS="851"
+                    VPOS="3018"
+                    WIDTH="1266"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b781dcc5"
+                    
+                    BASELINE="321 3188 2111 3176" 
+                    HPOS="318"
+                    VPOS="3112"
+                    WIDTH="1793"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="321 3188 318 3124 2108 3112 2111 3176 2111 3188 321 3200"/></Shape>
+	    <String CONTENT="(6) المواعظ والاعتبار بذكر الخطط والآثار: 2/ 105 تقى الدين أحمد بن على"
+                    HPOS="318"
+                    VPOS="3112"
+                    WIDTH="1793"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dde8c4ce"
+                    
+                    BASELINE="1278 3281 2111 3281" 
+                    HPOS="1278"
+                    VPOS="3232"
+                    WIDTH="833"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1278 3281 1278 3232 2111 3232 2111 3281 2111 3305 1278 3305"/></Shape>
+	    <String CONTENT="المقريزي845ه، دار صادر - بيروت."
+                    HPOS="1278"
+                    VPOS="3232"
+                    WIDTH="833"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="640"
+                   VPOS="377"
+                   WIDTH="160"
+                   HEIGHT="86"
+                   ID="eSc_textblock_8e8e021a"
+                   TAGREFS="BT876">
+          <Shape><Polygon POINTS="800 377 800 463 640 463 640 377"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

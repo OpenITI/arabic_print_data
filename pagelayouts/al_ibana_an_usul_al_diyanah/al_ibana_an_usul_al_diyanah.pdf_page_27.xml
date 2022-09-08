@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_ibana_an_usul_al_diyanah.pdf_page_27.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT860" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT861" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT862" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT863" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT864" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT33" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1356"
+                   VPOS="374"
+                   WIDTH="687"
+                   HEIGHT="102"
+                   ID="eSc_textblock_d0b48171"
+                   TAGREFS="BT864">
+          <Shape><Polygon POINTS="1356 476 1379 385 1461 374 1996 385 2043 476"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_57522623"
+                    
+                    BASELINE="1371 456 2017 450" 
+                    HPOS="1368"
+                    VPOS="403"
+                    WIDTH="649"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1371 456 1368 409 2014 403 2017 450 2017 470 1371 476"/></Shape>
+	    <String CONTENT="الإبانة عن أصول الديانة: تحقيق ودراسة"
+                    HPOS="1368"
+                    VPOS="403"
+                    WIDTH="649"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="414"
+                   VPOS="623"
+                   WIDTH="1722"
+                   HEIGHT="2285"
+                   ID="eSc_textblock_4ade1dcb"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2101 2359 2136 2674 2055 2908 444 2873 414 1202 437 623 2052 629"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_732aace2"
+                    TAGREFS="LT33"
+                    BASELINE="1110 695 1394 686" 
+                    HPOS="1087"
+                    VPOS="-2"
+                    WIDTH="307"
+                    HEIGHT="715">
+            <Shape><Polygon POINTS="1110 695 1087 2 1371 -2 1394 686 1394 704 1110 713"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1087"
+                    VPOS="-2"
+                    WIDTH="307"
+                    HEIGHT="715"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ebad13d4"
+                    TAGREFS="LT33"
+                    BASELINE="1026 830 1432 830" 
+                    HPOS="1026"
+                    VPOS="768"
+                    WIDTH="406"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1026 830 1026 768 1432 768 1432 830 1432 847 1026 847"/></Shape>
+	    <String CONTENT="عنوان الكةاب"
+                    HPOS="1026"
+                    VPOS="768"
+                    WIDTH="406"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5641d30"
+                    
+                    BASELINE="882 935 1917 941" 
+                    HPOS="879"
+                    VPOS="877"
+                    WIDTH="1038"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="882 935 882 877 1917 882 1917 941 1914 958 879 953"/></Shape>
+	    <String CONTENT="وجدت أن لهذا الكتاب - الإبانة - ثلاثة عناوين :"
+                    HPOS="879"
+                    VPOS="877"
+                    WIDTH="1038"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e26659c0"
+                    
+                    BASELINE="456 1064 1926 1064" 
+                    HPOS="456"
+                    VPOS="1005"
+                    WIDTH="1470"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="456 1064 456 1005 1926 1005 1926 1064 1926 1084 456 1084"/></Shape>
+	    <String CONTENT=" الأول: التوحيد، حيث وضع على بعض النسخ الخخطية عنوان"
+                    HPOS="456"
+                    VPOS="1005"
+                    WIDTH="1470"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_327ba211"
+                    
+                    BASELINE="456 1181 2022 1175" 
+                    HPOS="453"
+                    VPOS="1119"
+                    WIDTH="1569"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="456 1181 453 1125 2020 1119 2022 1175 2022 1195 456 1201"/></Shape>
+	    <String CONTENT="التوحيد، وهذا موجود فی خطوطة فی بلدية الأسكندرية ونفس المخطوطة"
+                    HPOS="453"
+                    VPOS="1119"
+                    WIDTH="1569"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7404a74e"
+                    
+                    BASELINE="461 1300 2020 1295" 
+                    HPOS="458"
+                    VPOS="1239"
+                    WIDTH="1562"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="461 1300 458 1245 2017 1239 2020 1295 2020 1315 461 1321"/></Shape>
+	    <String CONTENT="موجودة فی الجامعة الأمريكية فی بيروت. وفي جامعة الدول العربية بمصر."
+                    HPOS="458"
+                    VPOS="1239"
+                    WIDTH="1562"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74a77749"
+                    
+                    BASELINE="1224 1435 1929 1435" 
+                    HPOS="1224"
+                    VPOS="1376"
+                    WIDTH="705"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1224 1435 1224 1376 1929 1376 1929 1435 1929 1458 1224 1458"/></Shape>
+	    <String CONTENT=" الثانى: الإبانة في أصول الديانة."
+                    HPOS="1224"
+                    VPOS="1376"
+                    WIDTH="705"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbf37609"
+                    
+                    BASELINE="1183 1572 1929 1578" 
+                    HPOS="1181"
+                    VPOS="1514"
+                    WIDTH="748"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1183 1572 1183 1514 1929 1520 1929 1578 1926 1596 1181 1590"/></Shape>
+	    <String CONTENT="الثالث: الإبانة عن أصول الديانة."
+                    HPOS="1181"
+                    VPOS="1514"
+                    WIDTH="748"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e925393"
+                    
+                    BASELINE="461 1727 1932 1713" 
+                    HPOS="458"
+                    VPOS="1642"
+                    WIDTH="1474"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="461 1727 458 1657 1929 1642 1932 1713 1932 1727 461 1742"/></Shape>
+	    <String CONTENT="والعنوانان الثانى والثالث متشابهان. ولا يوجد بينهما تغاير إلا من"
+                    HPOS="458"
+                    VPOS="1642"
+                    WIDTH="1474"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_611fe166"
+                    
+                    BASELINE="458 1841 2025 1832" 
+                    HPOS="456"
+                    VPOS="1768"
+                    WIDTH="1569"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="458 1841 456 1777 2022 1768 2025 1832 2025 1844 458 1853"/></Shape>
+	    <String CONTENT="جهة حرف الجر. وهذا لا يقتضى أن يكون هناك خلاف في مسمى"
+                    HPOS="456"
+                    VPOS="1768"
+                    WIDTH="1569"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09ed8304"
+                    
+                    BASELINE="458 1946 2020 1938" 
+                    HPOS="456"
+                    VPOS="1882"
+                    WIDTH="1564"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="458 1946 456 1891 2017 1882 2020 1938 2020 1964 458 1973"/></Shape>
+	    <String CONTENT="الكتاب، وعنوانه واضح على المخطوطات بأنه الإبانة عن أصول الديانة."
+                    HPOS="456"
+                    VPOS="1882"
+                    WIDTH="1564"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c60f0cd6"
+                    
+                    BASELINE="622 2069 2022 2063" 
+                    HPOS="619"
+                    VPOS="2008"
+                    WIDTH="1403"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="622 2069 619 2014 2020 2008 2022 2063 2022 2081 622 2087"/></Shape>
+	    <String CONTENT="لكن يظل هناك خلاف فی العنوان، والخخلاف محصور بين عنوانين:"
+                    HPOS="619"
+                    VPOS="2008"
+                    WIDTH="1403"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a83ca68"
+                    
+                    BASELINE="456 2186 1935 2186" 
+                    HPOS="456"
+                    VPOS="2128"
+                    WIDTH="1479"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="456 2186 456 2128 1935 2128 1935 2186 1935 2212 456 2212"/></Shape>
+	    <String CONTENT=" الأول: كتاب التوحيد. فهذا العنوان كأنه من وضع أحد النساخ"
+                    HPOS="456"
+                    VPOS="2128"
+                    WIDTH="1479"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfd2d7db"
+                    
+                    BASELINE="456 2303 2022 2303" 
+                    HPOS="456"
+                    VPOS="2253"
+                    WIDTH="1566"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="456 2303 456 2253 2022 2253 2022 2303 2022 2326 456 2326"/></Shape>
+	    <String CONTENT=" بعد الشيخ - رحمه الله - وكأنه أراد اختصار عبارة: لعن أصول الديانة)"
+                    HPOS="456"
+                    VPOS="2253"
+                    WIDTH="1566"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5bb1d6c"
+                    
+                    BASELINE="456 2435 2017 2426" 
+                    HPOS="453"
+                    VPOS="2364"
+                    WIDTH="1564"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="456 2435 453 2373 2014 2364 2017 2426 2017 2440 456 2449"/></Shape>
+	    <String CONTENT="فی أصلها الأصيل، وهو: &quot;التوحيدا وبذلك يكون قد اختصر العنوان من"
+                    HPOS="453"
+                    VPOS="2364"
+                    WIDTH="1564"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02525cbd"
+                    
+                    BASELINE="903 2549 2022 2549" 
+                    HPOS="903"
+                    VPOS="2490"
+                    WIDTH="1119"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="903 2549 903 2490 2022 2490 2022 2549 2022 2563 903 2563"/></Shape>
+	    <String CONTENT="جهة، وجعله مباشرا أو أكثر تحديدا من جهة أخرى."
+                    HPOS="903"
+                    VPOS="2490"
+                    WIDTH="1119"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90c381f7"
+                    
+                    BASELINE="456 2677 1935 2671" 
+                    HPOS="453"
+                    VPOS="2613"
+                    WIDTH="1482"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="456 2677 453 2619 1932 2613 1935 2671 1935 2698 456 2704"/></Shape>
+	    <String CONTENT="الثانى: كتاب الإبانة عن أصول الديانة: فليس من شك عندي أنه"
+                    HPOS="453"
+                    VPOS="2613"
+                    WIDTH="1482"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af066d81"
+                    
+                    BASELINE="456 2812 1204 2800 2020 2806" 
+                    HPOS="453"
+                    VPOS="2736"
+                    WIDTH="1567"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="456 2812 453 2747 1201 2736 1204 2736 2020 2742 2020 2806 2017 2832 1204 2826 456 2838"/></Shape>
+	    <String CONTENT="من وضع الشيخ - رحمه الله - فبصمة الشيخ وطريقته في اختيار العناوين"
+                    HPOS="453"
+                    VPOS="2736"
+                    WIDTH="1567"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="504"
+                   VPOS="365"
+                   WIDTH="123"
+                   HEIGHT="129"
+                   ID="eSc_textblock_e6e3d067"
+                   TAGREFS="BT860">
+          <Shape><Polygon POINTS="504 365 504 494 627 494 627 365"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9d47e2da"
+                    
+                    BASELINE="491 456 608 450" 
+                    HPOS="485"
+                    VPOS="385"
+                    WIDTH="125"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="491 456 485 391 602 385 608 450 610 514 494 520"/></Shape>
+	    <String CONTENT="(27"
+                    HPOS="485"
+                    VPOS="385"
+                    WIDTH="125"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1790"
+                   VPOS="3373"
+                   WIDTH="203"
+                   HEIGHT="43"
+                   ID="eSc_textblock_1a6ebac0"
+                   TAGREFS="BT861">
+          <Shape><Polygon POINTS="1993 3373 1993 3416 1790 3416 1790 3373"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

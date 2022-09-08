@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_nasaih_al_muhimma_lil_muluk_wa_al-imma.pdf_page_31.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT873" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT874" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT875" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT876" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT877" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    <OtherTag ID="LT35" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3507"
+          PHYSICAL_IMG_NR="30"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3507">
+        
+        <TextBlock HPOS="1754"
+                   VPOS="315"
+                   WIDTH="372"
+                   HEIGHT="91"
+                   ID="eSc_textblock_0c138358"
+                   TAGREFS="BT874">
+          <Shape><Polygon POINTS="2126 327 2126 406 1778 406 1754 339 1836 315"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d77a6e8f"
+                    
+                    BASELINE="1789 379 2099 385" 
+                    HPOS="1786"
+                    VPOS="339"
+                    WIDTH="313"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1789 379 1789 339 2099 344 2099 385 2096 447 1786 441"/></Shape>
+	    <String CONTENT="الفباة الدهناعية"
+                    HPOS="1786"
+                    VPOS="339"
+                    WIDTH="313"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="332"
+                   VPOS="463"
+                   WIDTH="1816"
+                   HEIGHT="1810"
+                   ID="eSc_textblock_cc16ba68"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2148 463 2148 2273 332 2273 332 463"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="646"
+                   VPOS="402"
+                   WIDTH="166"
+                   HEIGHT="61"
+                   ID="eSc_textblock_92725621"
+                   TAGREFS="BT876">
+          <Shape><Polygon POINTS="812 402 812 463 646 463 646 402"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="320"
+                   VPOS="2297"
+                   WIDTH="1828"
+                   HEIGHT="1126"
+                   ID="eSc_textblock_10ea20e5"
+                   TAGREFS="BT873">
+          <Shape><Polygon POINTS="2148 2297 2148 3423 320 3423 320 2297"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_f749d9ed"
+                    
+                    BASELINE="339 511 2111 502" 
+                    HPOS="336"
+                    VPOS="452"
+                    WIDTH="1775"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="339 511 336 461 2108 452 2111 502 2111 520 339 528"/></Shape>
+	    <String CONTENT="والمعدمين (1) منهم في المناسبات والاحتفالات المختلفة والادارة كالقضاء والافتاء"
+                    HPOS="336"
+                    VPOS="452"
+                    WIDTH="1775"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_acdeae68"
+                    
+                    BASELINE="693 619 2120 607" 
+                    HPOS="690"
+                    VPOS="549"
+                    WIDTH="1430"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="693 619 690 561 2117 549 2120 607 2120 622 693 634"/></Shape>
+	    <String CONTENT="والحسبة والوزارة (2) وغيرها فضلا عما يحصلون عليه من رواتب."
+                    HPOS="690"
+                    VPOS="549"
+                    WIDTH="1430"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b08d3c12"
+                    
+                    BASELINE="350 718 2126 698" 
+                    HPOS="348"
+                    VPOS="645"
+                    WIDTH="1778"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="350 718 348 666 2123 645 2126 698 2126 721 350 742"/></Shape>
+	    <String CONTENT="أما فحثة المحممين من أرباب الوظائف، ومنهم الفقهاء والعلماء والأدباء والكتاب ،"
+                    HPOS="348"
+                    VPOS="645"
+                    WIDTH="1778"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5623272b"
+                    
+                    BASELINE="339 827 2123 815" 
+                    HPOS="336"
+                    VPOS="754"
+                    WIDTH="1787"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="339 827 336 765 2120 754 2123 815 2123 829 339 841"/></Shape>
+	    <String CONTENT="ويطلق عليهم أرباب الأقلام، فكانت تحظى باحترام السلاطين وإجلالهم ، ونالوا"
+                    HPOS="336"
+                    VPOS="754"
+                    WIDTH="1787"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0729260c"
+                    
+                    BASELINE="336 923 2123 917" 
+                    HPOS="333"
+                    VPOS="862"
+                    WIDTH="1790"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="336 923 333 867 2120 862 2123 917 2123 935 336 941"/></Shape>
+	    <String CONTENT="الرواتب الكبيرة ، مما جعلهم في سعة من العيش وبسطة في الحياة ، وتقلدواالوظائف"
+                    HPOS="333"
+                    VPOS="862"
+                    WIDTH="1790"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df75a7c2"
+                    
+                    BASELINE="336 1022 2123 1014" 
+                    HPOS="333"
+                    VPOS="961"
+                    WIDTH="1790"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="336 1022 333 970 2120 961 2123 1014 2123 1034 336 1043"/></Shape>
+	    <String CONTENT="وأخذوا الأموال مقابل نظارتهم للأوقاف والأحباس التى وقفت على المؤسسات العلمية"
+                    HPOS="333"
+                    VPOS="961"
+                    WIDTH="1790"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5df08c32"
+                    
+                    BASELINE="336 1133 707 1122 2126 1122" 
+                    HPOS="333"
+                    VPOS="1060"
+                    WIDTH="1793"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="336 1133 333 1072 704 1060 707 1060 2126 1060 2126 1122 2126 1145 707 1145 336 1154"/></Shape>
+	    <String CONTENT="والدينية كالمدارس والمساجد والخوانق(2) التى شغف بها أكابرالأمراء ، وقد مكنتهم الثروة"
+                    HPOS="333"
+                    VPOS="1060"
+                    WIDTH="1793"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98dab81d"
+                    
+                    BASELINE="339 1236 2117 1224" 
+                    HPOS="336"
+                    VPOS="1166"
+                    WIDTH="1781"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="339 1236 336 1177 2114 1166 2117 1224 2117 1242 339 1253"/></Shape>
+	    <String CONTENT="التى حصلوا عليها من بناء القصور، واتخاذ الجوارى والمماليك والخدم ، ولكنهم ظلوا"
+                    HPOS="336"
+                    VPOS="1166"
+                    WIDTH="1781"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5e8ec92"
+                    
+                    BASELINE="342 1329 2120 1329" 
+                    HPOS="342"
+                    VPOS="1280"
+                    WIDTH="1778"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="342 1329 342 1280 2120 1280 2120 1329 2120 1353 342 1353"/></Shape>
+	    <String CONTENT="بعيدين عن الوصول إلى المراتب العليا التى كانت لأرباب السيوف من المماليك."
+                    HPOS="342"
+                    VPOS="1280"
+                    WIDTH="1778"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_daaf49a8"
+                    
+                    BASELINE="339 1443 2061 1423" 
+                    HPOS="336"
+                    VPOS="1364"
+                    WIDTH="1725"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="339 1443 336 1385 2058 1364 2061 1423 2061 1446 339 1467"/></Shape>
+	    <String CONTENT="هذه إشارة سريعة إلى أقسام المعيشة وانقسام الناس فيها ، والوضع الاجتماعي لكل"
+                    HPOS="336"
+                    VPOS="1364"
+                    WIDTH="1725"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ebfa2764"
+                    
+                    BASELINE="336 1540 2120 1528" 
+                    HPOS="333"
+                    VPOS="1475"
+                    WIDTH="1787"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="336 1540 333 1487 2117 1475 2120 1528 2120 1551 336 1563"/></Shape>
+	    <String CONTENT="طبقة وكل فئة ، ويمكن إيجاز بعض الآثارالاجتماعية التى نتجت عن ظروف معيشية"
+                    HPOS="333"
+                    VPOS="1475"
+                    WIDTH="1787"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f90ad6bb"
+                    
+                    BASELINE="1435 1639 2123 1633" 
+                    HPOS="1433"
+                    VPOS="1575"
+                    WIDTH="690"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1435 1639 1433 1581 2120 1575 2123 1633 2123 1654 1435 1659"/></Shape>
+	    <String CONTENT="محددة كالترف أو الفقر فيما يلى :"
+                    HPOS="1433"
+                    VPOS="1575"
+                    WIDTH="690"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_535d73ba"
+                    
+                    BASELINE="342 1738 2117 1733" 
+                    HPOS="339"
+                    VPOS="1683"
+                    WIDTH="1778"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="342 1738 339 1689 2114 1683 2117 1733 2117 1759 342 1765"/></Shape>
+	    <String CONTENT="أولا : مظاهر البذخ والاسراف فی حياة الخخاصة وإهمال أموال العامة ."
+                    HPOS="339"
+                    VPOS="1683"
+                    WIDTH="1778"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5f62127"
+                    
+                    BASELINE="1468 1844 2129 1832" 
+                    HPOS="1465"
+                    VPOS="1779"
+                    WIDTH="664"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1468 1844 1465 1791 2126 1779 2129 1832 2129 1849 1468 1861"/></Shape>
+	    <String CONTENT="ثانها : انتشار المجاعات والأوبثة."
+                    HPOS="1465"
+                    VPOS="1779"
+                    WIDTH="664"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c11250c"
+                    
+                    BASELINE="345 1952 2123 1934" 
+                    HPOS="342"
+                    VPOS="1882"
+                    WIDTH="1781"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="345 1952 342 1899 2120 1882 2123 1934 2123 1952 345 1969"/></Shape>
+	    <String CONTENT="ثالثا . كثسرة الأعباد الدينية والقومية والاحتفالات والمناسبات ."
+                    HPOS="342"
+                    VPOS="1882"
+                    WIDTH="1781"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8be813c4"
+                    
+                    BASELINE="336 2051 2131 2042" 
+                    HPOS="333"
+                    VPOS="1990"
+                    WIDTH="1798"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="336 2051 333 1998 2129 1990 2131 2042 2131 2063 336 2072"/></Shape>
+	    <String CONTENT="وابها : إنشاء كثيرمن المنشات الاجتماعية المتنوعة مثل الفنادق والخخانات(4) والوكالات"
+                    HPOS="333"
+                    VPOS="1990"
+                    WIDTH="1798"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1baf118"
+                    
+                    BASELINE="336 2150 2123 2150" 
+                    HPOS="336"
+                    VPOS="2101"
+                    WIDTH="1787"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="336 2150 336 2101 2123 2101 2123 2150 2123 2174 336 2174"/></Shape>
+	    <String CONTENT="والأسبلة والحمامات والبيمارستانات ، وامتلأت المدن بالأسواق العديدة المليئة بأصناف"
+                    HPOS="336"
+                    VPOS="2101"
+                    WIDTH="1787"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b7f6ffb"
+                    
+                    BASELINE="1324 2256 2123 2250" 
+                    HPOS="1321"
+                    VPOS="2200"
+                    WIDTH="802"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1324 2256 1321 2206 2120 2200 2123 2250 2123 2276 1324 2282"/></Shape>
+	    <String CONTENT="البضائع التى خضعت لرقابة المحتسب ."
+                    HPOS="1321"
+                    VPOS="2200"
+                    WIDTH="802"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_587e3432"
+                    
+                    BASELINE="1263 2478 2137 2478" 
+                    HPOS="1263"
+                    VPOS="2431"
+                    WIDTH="874"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1263 2478 1263 2431 2137 2431 2137 2478 2137 2501 1263 2501"/></Shape>
+	    <String CONTENT="(2) صبح الأعشى في صناعة الإنشا: 39-28/4"
+                    HPOS="1263"
+                    VPOS="2431"
+                    WIDTH="874"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9abd09f8"
+                    
+                    BASELINE="348 2592 2137 2580" 
+                    HPOS="345"
+                    VPOS="2527"
+                    WIDTH="1792"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="348 2592 345 2539 2134 2527 2137 2580 2137 2595 348 2606"/></Shape>
+	    <String CONTENT="(3) الخوانق : مفردها خانقاه : كلمة فارسية وتعنى محلاً للتعبد والتزهد والبعد عن الناس ، ويمعنى بيت"
+                    HPOS="345"
+                    VPOS="2527"
+                    WIDTH="1792"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_161bcfb3"
+                    
+                    BASELINE="345 2688 2134 2688" 
+                    HPOS="345"
+                    VPOS="2639"
+                    WIDTH="1789"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="345 2688 345 2639 2134 2639 2134 2688 2134 2709 345 2709"/></Shape>
+	    <String CONTENT="ينقطع فيه الصوفية للعبادة والذكر، (انظر معجم الألفاظ التاريخية في العصر المملوكي ص66 ، محمد"
+                    HPOS="345"
+                    VPOS="2639"
+                    WIDTH="1789"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa13d648"
+                    
+                    BASELINE="353 2785 2140 2779" 
+                    HPOS="350"
+                    VPOS="2735"
+                    WIDTH="1790"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="353 2785 350 2741 2137 2735 2140 2779 2140 2796 353 2802"/></Shape>
+	    <String CONTENT="أحمد دهمان، دار الفكر، دمشق ط1 1410ه، حاشية السلوك لمعرفة دول الملوك 1/ 182، العصر"
+                    HPOS="350"
+                    VPOS="2735"
+                    WIDTH="1790"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2c5e8c2"
+                    
+                    BASELINE="348 2893 2140 2881" 
+                    HPOS="345"
+                    VPOS="2831"
+                    WIDTH="1795"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="348 2893 345 2843 2137 2831 2140 2881 2140 2904 348 2916"/></Shape>
+	    <String CONTENT="المماليكى 433 (وليس لهذه المسميات والأماكن أساس في الإسلام إنما هي من اختراعات الصوفية"
+                    HPOS="345"
+                    VPOS="2831"
+                    WIDTH="1795"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6fb0673"
+                    
+                    BASELINE="345 2995 2140 2995" 
+                    HPOS="345"
+                    VPOS="2945"
+                    WIDTH="1795"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="345 2995 345 2945 2140 2945 2140 2995 2140 3016 345 3016"/></Shape>
+	    <String CONTENT="وابتداعها ، وفيما ورد من أماكن العبادة كفاية وغنية لمن أراد أن يتعبد ، فالمساجد فضلها عظيم ومنتشرة"
+                    HPOS="345"
+                    VPOS="2945"
+                    WIDTH="1795"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_355fd6f9"
+                    
+                    BASELINE="801 3097 2134 3097" 
+                    HPOS="801"
+                    VPOS="3048"
+                    WIDTH="1333"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="801 3097 801 3048 2134 3048 2134 3097 2134 3115 801 3115"/></Shape>
+	    <String CONTENT="فى بلاد الإسلام، فلاحاجة للمسلمين أماكن للعبادة ومسميات جديدة لها &quot;."
+                    HPOS="801"
+                    VPOS="3048"
+                    WIDTH="1333"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6aafba2"
+                    
+                    BASELINE="465 3205 2140 3197" 
+                    HPOS="462"
+                    VPOS="3144"
+                    WIDTH="1678"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="465 3205 462 3153 2137 3144 2140 3197 2140 3217 465 3226"/></Shape>
+	    <String CONTENT="(4) الخان: الحانوت أوصاحب الحانوت ، فارسى معرب ، وقيل الخان : الذي للتجار(انظر لسان"
+                    HPOS="462"
+                    VPOS="3144"
+                    WIDTH="1678"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d541a6f7"
+                    
+                    BASELINE="1204 3311 2134 3302" 
+                    HPOS="1201"
+                    VPOS="3249"
+                    WIDTH="933"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1204 3311 1201 3258 2131 3249 2134 3302 2134 3319 1204 3328"/></Shape>
+	    <String CONTENT="العرب : 13/ 146 لابن منظور، دارصادرحبيروت)"
+                    HPOS="1201"
+                    VPOS="3249"
+                    WIDTH="933"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8db57028"
+                    
+                    BASELINE="1193 2375 2129 2373" 
+                    HPOS="1190"
+                    VPOS="2340"
+                    WIDTH="939"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1193 2375 1190 2343 2126 2340 2129 2373 2129 2396 1193 2399"/></Shape>
+	    <String CONTENT="(1) النجوم الزاهرة في ملوك مصر والقاهرة:6/ 625"
+                    HPOS="1190"
+                    VPOS="2340"
+                    WIDTH="939"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitab_lutf_al_tadbir.pdf_page_37.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT902" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT903" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT904" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT905" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT906" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1953"
+          HEIGHT="2924"
+          PHYSICAL_IMG_NR="36"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1953"
+                  HEIGHT="2924">
+        
+        <TextBlock HPOS="1021"
+                   VPOS="263"
+                   WIDTH="108"
+                   HEIGHT="46"
+                   ID="eSc_textblock_c241f791"
+                   TAGREFS="BT903">
+          <Shape><Polygon POINTS="1116 272 1129 303 1021 309 1047 263"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="356"
+                   VPOS="370"
+                   WIDTH="1411"
+                   HEIGHT="840"
+                   ID="eSc_textblock_ad50bf46"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="370 399 1653 370 1767 419 1767 1157 1750 1200 356 1210"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="368"
+                   VPOS="1217"
+                   WIDTH="1352"
+                   HEIGHT="1408"
+                   ID="eSc_textblock_47ec7f1c"
+                   TAGREFS="BT902">
+          <Shape><Polygon POINTS="1720 1217 1703 2625 371 2625 371 2199 368 1227"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_c6c160f0"
+                    
+                    BASELINE="394 458 1704 445" 
+                    HPOS="392"
+                    VPOS="382"
+                    WIDTH="1312"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="394 458 392 394 1701 382 1704 445 1704 462 394 475"/></Shape>
+	    <String CONTENT="فير إحدى امرأتيه(1) بين اللباس والحلية . فنظرت المرأة إلى الوزير كالمستشيرة"
+                    HPOS="392"
+                    VPOS="382"
+                    WIDTH="1312"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dcc83e79"
+                    
+                    BASELINE="399 548 1704 540" 
+                    HPOS="397"
+                    VPOS="487"
+                    WIDTH="1307"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="399 548 397 494 1701 487 1704 540 1704 557 399 565"/></Shape>
+	    <String CONTENT="له، فغمرزها باحدى عينيه على أخذ الكسوة، ولحظه الملك . فعدلت عما أشار"
+                    HPOS="397"
+                    VPOS="487"
+                    WIDTH="1307"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6ea95f2"
+                    
+                    BASELINE="399 655 651 643 1699 638" 
+                    HPOS="394"
+                    VPOS="579"
+                    WIDTH="1305"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="399 655 394 596 646 584 648 584 1696 579 1699 638 1699 660 651 665 399 677"/></Shape>
+	    <String CONTENT="به من الكسوة واختارت الحلية لثلا يفطن الملك للغمزة . ومكث الوزير"
+                    HPOS="394"
+                    VPOS="579"
+                    WIDTH="1305"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_585681a4"
+                    
+                    BASELINE="668 735 1704 740" 
+                    HPOS="665"
+                    VPOS="679"
+                    WIDTH="1039"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="668 735 668 679 1704 684 1704 740 1701 765 665 760"/></Shape>
+	    <String CONTENT="أربعين سنة كاسراً عينه ليظن الملك أنها عادة له وخلقة فيه(2)"
+                    HPOS="665"
+                    VPOS="679"
+                    WIDTH="1039"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55ae9670"
+                    
+                    BASELINE="394 855 1092 865 1618 852" 
+                    HPOS="392"
+                    VPOS="787"
+                    WIDTH="1226"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="394 855 394 789 1089 799 1616 787 1618 852 1618 877 1092 889 1089 889 392 879"/></Shape>
+	    <String CONTENT="واستعار بعض الملوك من أنوشروان رأياً فی سياسة الرعية فوقع فی كتابه :"
+                    HPOS="392"
+                    VPOS="787"
+                    WIDTH="1226"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aef6c736"
+                    
+                    BASELINE="399 964 580 955 1699 950" 
+                    HPOS="394"
+                    VPOS="891"
+                    WIDTH="1305"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="399 964 394 906 575 896 577 896 1696 891 1699 950 1699 981 580 986 399 996"/></Shape>
+	    <String CONTENT="احسم عنهم الأسباب التى تبعث قلوبهم على معصيتك تكن قادة(3) أبدانهم"
+                    HPOS="394"
+                    VPOS="891"
+                    WIDTH="1305"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c68f96d7"
+                    
+                    BASELINE="1443 1052 1694 1047" 
+                    HPOS="1440"
+                    VPOS="994"
+                    WIDTH="254"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1443 1052 1440 999 1692 994 1694 1047 1694 1067 1443 1072"/></Shape>
+	    <String CONTENT="الى طاعنك."
+                    HPOS="1440"
+                    VPOS="994"
+                    WIDTH="254"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0d56158"
+                    
+                    BASELINE="390 1172 1616 1164" 
+                    HPOS="387"
+                    VPOS="1101"
+                    WIDTH="1229"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="390 1172 387 1108 1614 1101 1616 1164 1616 1189 390 1196"/></Shape>
+	    <String CONTENT="وكان الحجاج يستبطىء المهلب فی حرب الأزارقة(4) وهو مجتهد ، فكتب"
+                    HPOS="387"
+                    VPOS="1101"
+                    WIDTH="1229"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34dd8548"
+                    
+                    BASELINE="658 1306 1638 1303" 
+                    HPOS="655"
+                    VPOS="1254"
+                    WIDTH="983"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="658 1306 655 1257 1636 1254 1638 1303 1638 1320 658 1323"/></Shape>
+	    <String CONTENT="(1) فی عيون الاخبار 22:1 : (( وخير أحظاهما عنده&quot; ."
+                    HPOS="655"
+                    VPOS="1254"
+                    WIDTH="983"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0bb9beec"
+                    
+                    BASELINE="399 1393 1645 1393" 
+                    HPOS="399"
+                    VPOS="1345"
+                    WIDTH="1246"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="399 1393 399 1345 1645 1345 1645 1393 1645 1413 399 1413"/></Shape>
+	    <String CONTENT="(2) فی النص الوارد فی ((عيون الأخبار 22:1) إختلاف فى بعض الألفاظ"
+                    HPOS="399"
+                    VPOS="1345"
+                    WIDTH="1246"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a147c517"
+                    
+                    BASELINE="394 1474 1699 1469" 
+                    HPOS="392"
+                    VPOS="1423"
+                    WIDTH="1307"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="394 1474 392 1427 1696 1423 1699 1469 1699 1488 394 1493"/></Shape>
+	    <String CONTENT="ولكن المعنى واحد : كما أن فيه إضافة على هذا النص هى : (فلما حضرت الملك الوفاة"
+                    HPOS="392"
+                    VPOS="1423"
+                    WIDTH="1307"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c5d30bf"
+                    
+                    BASELINE="397 1559 1699 1547" 
+                    HPOS="394"
+                    VPOS="1500"
+                    WIDTH="1305"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="397 1559 394 1513 1696 1500 1699 1547 1699 1564 397 1576"/></Shape>
+	    <String CONTENT="قال لولده : توص بالوزير خيراً فإنه اعتدر من شیٔ يسير أربعين سنةٔ) كما ورد"
+                    HPOS="394"
+                    VPOS="1500"
+                    WIDTH="1305"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_598b4f9a"
+                    
+                    BASELINE="399 1635 1704 1625" 
+                    HPOS="397"
+                    VPOS="1576"
+                    WIDTH="1307"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="399 1635 397 1586 1701 1576 1704 1625 1704 1644 399 1654"/></Shape>
+	    <String CONTENT="هذا النص فی كتاب الوزراء والكتاب ص 11. بتغيير طفيف فى بعض الألفاظ ."
+                    HPOS="397"
+                    VPOS="1576"
+                    WIDTH="1307"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f05a244"
+                    
+                    BASELINE="1219 1722 1631 1722" 
+                    HPOS="1219"
+                    VPOS="1678"
+                    WIDTH="412"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1219 1722 1219 1678 1631 1678 1631 1722 1631 1739 1219 1739"/></Shape>
+	    <String CONTENT="(3) فی ب: ((مادة)"
+                    HPOS="1219"
+                    VPOS="1678"
+                    WIDTH="412"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_397b381c"
+                    
+                    BASELINE="399 1825 580 1812 1633 1808" 
+                    HPOS="394"
+                    VPOS="1749"
+                    WIDTH="1239"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="399 1825 394 1766 575 1754 577 1754 1631 1749 1633 1808 1633 1829 580 1834 399 1846"/></Shape>
+	    <String CONTENT="(4) الأزارقة : إحدى فرق الخوارج وكانت أشدهم وأشجعهم . وتنتسب إلى نافع"
+                    HPOS="394"
+                    VPOS="1749"
+                    WIDTH="1239"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c74c803"
+                    
+                    BASELINE="397 1890 1706 1890" 
+                    HPOS="397"
+                    VPOS="1844"
+                    WIDTH="1309"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="397 1890 397 1844 1706 1844 1706 1890 1706 1912 397 1912"/></Shape>
+	    <String CONTENT="ابن الأزرق وهو من غلاة الخوارج. كان من الموالين للامام على ثم انقلب عليه"
+                    HPOS="397"
+                    VPOS="1844"
+                    WIDTH="1309"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c48a351"
+                    
+                    BASELINE="402 1968 1699 1968" 
+                    HPOS="402"
+                    VPOS="1924"
+                    WIDTH="1297"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="402 1968 402 1924 1699 1924 1699 1968 1699 1993 402 1993"/></Shape>
+	    <String CONTENT=" عد التحكم وانضم مع أتباعه إلى جيش عبد الله بن الزبير فى مكه وفاتل إلى جانبهضد"
+                    HPOS="402"
+                    VPOS="1924"
+                    WIDTH="1297"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c01ef6b2"
+                    
+                    BASELINE="404 2051 1145 2056 1701 2041" 
+                    HPOS="402"
+                    VPOS="1990"
+                    WIDTH="1299"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="404 2051 404 2000 1143 2005 1699 1990 1701 2041 1701 2066 1145 2080 1143 2080 402 2076"/></Shape>
+	    <String CONTENT="الأمويين. ثم مالبث أن اختلف مع ابن الزبير فانفض وأتباعه عنه وعادوا إلى البصرة ."
+                    HPOS="402"
+                    VPOS="1990"
+                    WIDTH="1299"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3313a71c"
+                    
+                    BASELINE="399 2139 1701 2122" 
+                    HPOS="397"
+                    VPOS="2071"
+                    WIDTH="1304"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="399 2139 397 2088 1699 2071 1701 2122 1701 2144 399 2161"/></Shape>
+	    <String CONTENT="وكان نافع شجاعاً فتاكاً ، وقتل قرب الأهواز فی إحدى المعارك التى خاضها ضد جيش"
+                    HPOS="397"
+                    VPOS="2071"
+                    WIDTH="1304"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_167330b0"
+                    
+                    BASELINE="1506 2200 1701 2200" 
+                    HPOS="1506"
+                    VPOS="2180"
+                    WIDTH="195"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="1506 2200 1506 2180 1701 2180 1701 2200 1701 2219 1506 2219"/></Shape>
+	    <String CONTENT="  "
+                    HPOS="1506"
+                    VPOS="2180"
+                    WIDTH="195"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_729320d4"
+                    
+                    BASELINE="404 2305 748 2290 1667 2290" 
+                    HPOS="399"
+                    VPOS="2210"
+                    WIDTH="1268"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="404 2305 399 2227 743 2212 748 2210 1667 2210 1667 2290 1667 2312 748 2312 404 2324"/></Shape>
+	    <String CONTENT="وقد نقم الأزارقة على كل من خالفهم ن المسلمين ، وصاروا يقتالون كل من يقع"
+                    HPOS="399"
+                    VPOS="2210"
+                    WIDTH="1268"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efeddeff"
+                    
+                    BASELINE="399 2373 1701 2368" 
+                    HPOS="397"
+                    VPOS="2288"
+                    WIDTH="1304"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="399 2373 397 2292 1699 2288 1701 2368 1701 2387 399 2392"/></Shape>
+	    <String CONTENT="بأيديهم منم استولوا على الأهوار وهاجموا جنوب العراق ، خاربهم أهل البصرة"
+                    HPOS="397"
+                    VPOS="2288"
+                    WIDTH="1304"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01b71b18"
+                    
+                    BASELINE="399 2453 1696 2446" 
+                    HPOS="397"
+                    VPOS="2397"
+                    WIDTH="1299"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="399 2453 397 2404 1694 2397 1696 2446 1696 2468 399 2475"/></Shape>
+	    <String CONTENT="بقيادة المهلب بن أبى صفرة ، وقد ساعده الحجاج وأمده فی حربهم ، فتغلب علهم بعد"
+                    HPOS="397"
+                    VPOS="2397"
+                    WIDTH="1299"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cd5f083"
+                    
+                    BASELINE="397 2534 1701 2526" 
+                    HPOS="394"
+                    VPOS="2480"
+                    WIDTH="1307"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="397 2534 394 2487 1699 2480 1701 2526 1701 2551 397 2558"/></Shape>
+	    <String CONTENT="أن قضى ما يقرب من عشرين سنة فی مناجزتهم ، وعرف المهلب بالشجاعة والكفاءة"
+                    HPOS="394"
+                    VPOS="2480"
+                    WIDTH="1307"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84b24e9d"
+                    
+                    BASELINE="1409 2604 1694 2597" 
+                    HPOS="1406"
+                    VPOS="2565"
+                    WIDTH="288"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1409 2604 1406 2573 1692 2565 1694 2597 1694 2631 1409 2638"/></Shape>
+	    <String CONTENT="بشؤون الحرب."
+                    HPOS="1406"
+                    VPOS="2565"
+                    WIDTH="288"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
