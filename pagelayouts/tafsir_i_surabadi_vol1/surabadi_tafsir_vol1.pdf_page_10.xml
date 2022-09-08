@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>surabadi_tafsir_vol1.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1458" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1459" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1460" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1461" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1462" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2079"
+          HEIGHT="2954"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2079"
+                  HEIGHT="2954">
+        
+        <TextBlock HPOS="359"
+                   VPOS="727"
+                   WIDTH="1447"
+                   HEIGHT="1694"
+                   ID="eSc_textblock_b82bd8a7"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1806 2421 1806 727 359 727 359 2421"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="372"
+                   VPOS="2460"
+                   WIDTH="1395"
+                   HEIGHT="125"
+                   ID="eSc_textblock_77eaed05"
+                   TAGREFS="BT1461">
+          <Shape><Polygon POINTS="1767 2585 1767 2460 372 2460 372 2585"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="950"
+                   VPOS="576"
+                   WIDTH="242"
+                   HEIGHT="95"
+                   ID="eSc_textblock_1c642d70"
+                   TAGREFS="BT1458">
+          <Shape><Polygon POINTS="950 576 950 671 1192 671 1192 576"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_9369309d"
+                    
+                    BASELINE="381 790 1766 790" 
+                    HPOS="381"
+                    VPOS="743"
+                    WIDTH="1385"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="381 790 381 743 1766 743 1766 790 1766 807 381 807"/></Shape>
+	    <String CONTENT=" ت فسیر معروف به &quot;تفسیر سورآبادی، تالیف ابوبکر عتیق نیشابوری متوفی به سال"
+                    HPOS="381"
+                    VPOS="743"
+                    WIDTH="1385"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_996be9fb"
+                    
+                    BASELINE="384 876 1758 859" 
+                    HPOS="381"
+                    VPOS="812"
+                    WIDTH="1377"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="384 876 381 829 1756 812 1758 859 1758 871 384 888"/></Shape>
+	    <String CONTENT="494 هجری (1101 ميلادی) پس از &quot;تفسير طبری، و &quot;تفسير اسفراینی)، كهن ترين"
+                    HPOS="381"
+                    VPOS="812"
+                    WIDTH="1377"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2e8529b"
+                    
+                    BASELINE="386 937 1763 945" 
+                    HPOS="384"
+                    VPOS="891"
+                    WIDTH="1379"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="386 937 386 891 1763 898 1763 945 1761 960 384 952"/></Shape>
+	    <String CONTENT="تفسیر قران به زبان فارسی است. مؤلف خود آن را &quot;&quot;تفسیر التفاسیر&quot; نامیده است."
+                    HPOS="384"
+                    VPOS="891"
+                    WIDTH="1379"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92c84192"
+                    
+                    BASELINE="384 1026 1763 1019" 
+                    HPOS="381"
+                    VPOS="967"
+                    WIDTH="1382"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="384 1026 381 974 1761 967 1763 1019 1763 1031 384 1038"/></Shape>
+	    <String CONTENT="تفسیری است بسیار مفصل شامل ترجمهٔ همهٔ سورههای قرآن، شان نزول و محل"
+                    HPOS="381"
+                    VPOS="967"
+                    WIDTH="1382"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_739d57d0"
+                    
+                    BASELINE="381 1102 1766 1097" 
+                    HPOS="379"
+                    VPOS="1046"
+                    WIDTH="1387"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="381 1102 379 1051 1763 1046 1766 1097 1766 1110 381 1115"/></Shape>
+	    <String CONTENT="نزول آات، عدد آیات و حروف شور و فضیلت آیات و تفسیر آنها، بیشتر بر اساس"
+                    HPOS="379"
+                    VPOS="1046"
+                    WIDTH="1387"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43ab2b0e"
+                    
+                    BASELINE="386 1171 1768 1179" 
+                    HPOS="384"
+                    VPOS="1127"
+                    WIDTH="1384"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="386 1171 386 1127 1768 1134 1768 1179 1766 1193 384 1186"/></Shape>
+	    <String CONTENT="روایاتی که از عبدالله بن عباس، پسر عم پیغمبر (ص)، به او رسیده بوده، ولی با توجه"
+                    HPOS="384"
+                    VPOS="1127"
+                    WIDTH="1384"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbbb5efe"
+                    
+                    BASELINE="381 1248 1766 1252" 
+                    HPOS="379"
+                    VPOS="1201"
+                    WIDTH="1387"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="381 1248 381 1201 1766 1206 1766 1252 1763 1267 379 1262"/></Shape>
+	    <String CONTENT="به راویان و مفسران دیگر. همچنین تفسیر شامل داستانها و کراماتی است که با"
+                    HPOS="379"
+                    VPOS="1201"
+                    WIDTH="1387"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1337801"
+                    
+                    BASELINE="1290 1326 1766 1324" 
+                    HPOS="1288"
+                    VPOS="1277"
+                    WIDTH="478"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1290 1326 1288 1280 1763 1277 1766 1324 1766 1341 1290 1344"/></Shape>
+	    <String CONTENT="مطالب قرآن سر و کار دارند."
+                    HPOS="1288"
+                    VPOS="1277"
+                    WIDTH="478"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b3ac13e"
+                    
+                    BASELINE="381 1408 1711 1400" 
+                    HPOS="379"
+                    VPOS="1348"
+                    WIDTH="1332"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="381 1408 379 1356 1709 1348 1711 1400 1711 1412 381 1420"/></Shape>
+	    <String CONTENT="اهمیت تفسیر برای ما در درجهٔ اول از لحاظ نثر روان و لطیف آن است و از"
+                    HPOS="379"
+                    VPOS="1348"
+                    WIDTH="1332"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_192dc9d8"
+                    
+                    BASELINE="384 1484 1768 1484" 
+                    HPOS="384"
+                    VPOS="1440"
+                    WIDTH="1384"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="384 1484 384 1440 1768 1440 1768 1484 1768 1499 384 1499"/></Shape>
+	    <String CONTENT="بهترین نمونههای نثر ساده و روشن و شیوایی است که از قرن پنجم هجری (یازدهم"
+                    HPOS="384"
+                    VPOS="1440"
+                    WIDTH="1384"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2724cc5c"
+                    
+                    BASELINE="384 1555 1766 1563" 
+                    HPOS="381"
+                    VPOS="1506"
+                    WIDTH="1385"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="384 1555 384 1506 1766 1513 1766 1563 1763 1575 381 1568"/></Shape>
+	    <String CONTENT="میلادی) بازمانده است. از این گذشته &quot;&quot;تفسیر سورآبادی&quot; مشتمل است بر لغات و"
+                    HPOS="381"
+                    VPOS="1506"
+                    WIDTH="1385"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ae8b181"
+                    
+                    BASELINE="384 1644 731 1634 1768 1634" 
+                    HPOS="381"
+                    VPOS="1577"
+                    WIDTH="1387"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="384 1644 381 1587 729 1577 731 1577 1768 1577 1768 1634 1768 1654 731 1654 384 1661"/></Shape>
+	    <String CONTENT="اصطلاحات و صورتهای خاصی از کلمات که دامنهٔ اطلاع ما را از زبان فارسی رایج"
+                    HPOS="381"
+                    VPOS="1577"
+                    WIDTH="1387"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_443f00e9"
+                    
+                    BASELINE="1381 1715 1766 1713" 
+                    HPOS="1379"
+                    VPOS="1669"
+                    WIDTH="387"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1381 1715 1379 1671 1763 1669 1766 1713 1766 1730 1381 1733"/></Shape>
+	    <String CONTENT="در قرن پنجم میافزاید."
+                    HPOS="1379"
+                    VPOS="1669"
+                    WIDTH="387"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_367ee92c"
+                    
+                    BASELINE="384 1858 1709 1865" 
+                    HPOS="381"
+                    VPOS="1809"
+                    WIDTH="1328"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="384 1858 384 1809 1709 1816 1709 1865 1707 1883 381 1875"/></Shape>
+	    <String CONTENT="نفسیر سورآبادی&quot; را ظاهرآ مؤلف در هفت بخش (شبع) تنظیم نموده بوده است."
+                    HPOS="381"
+                    VPOS="1809"
+                    WIDTH="1328"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ea1a8f4"
+                    
+                    BASELINE="384 1934 889 1947 1773 1937" 
+                    HPOS="381"
+                    VPOS="1883"
+                    WIDTH="1392"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="384 1934 384 1883 889 1895 1771 1885 1773 1937 1773 1954 889 1964 886 1964 381 1952"/></Shape>
+	    <String CONTENT="نسخههای متعددی که از آن باقی مانده گواه رواج و شهرت آنست. ولی این نسخهها"
+                    HPOS="381"
+                    VPOS="1883"
+                    WIDTH="1392"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9aeef995"
+                    
+                    BASELINE="381 2018 1766 2018" 
+                    HPOS="381"
+                    VPOS="1974"
+                    WIDTH="1385"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="381 2018 381 1974 1766 1974 1766 2018 1766 2035 381 2035"/></Shape>
+	    <String CONTENT="کامل نیستند و عموما قسمتی از تفسیر را در بر دارند. نسخههای معتبر تفسیر را بکمن"
+                    HPOS="381"
+                    VPOS="1974"
+                    WIDTH="1385"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fad0282e"
+                    
+                    BASELINE="386 2089 1766 2094" 
+                    HPOS="384"
+                    VPOS="2045"
+                    WIDTH="1382"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="386 2089 386 2045 1766 2050 1766 2094 1763 2112 384 2107"/></Shape>
+	    <String CONTENT="125 در جلد سوم اثر گرانمایه اش* به دست داده است. کهن ترین نسخ آن نسخهٔ"
+                    HPOS="384"
+                    VPOS="2045"
+                    WIDTH="1382"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8731a45a"
+                    
+                    BASELINE="396 2168 1763 2166" 
+                    HPOS="394"
+                    VPOS="2124"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="396 2168 394 2126 1761 2124 1763 2166 1763 2183 396 2185"/></Shape>
+	    <String CONTENT="23 ن دبوان هند و نسخهٔ 535 کتابخانهٔ بریتانیا و نسخهٔ 74اك بورسه در ترکیه است."
+                    HPOS="394"
+                    VPOS="2124"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f688133c"
+                    
+                    BASELINE="386 2254 1711 2247" 
+                    HPOS="384"
+                    VPOS="2200"
+                    WIDTH="1327"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="386 2254 384 2208 1709 2200 1711 2247 1711 2259 386 2267"/></Shape>
+	    <String CONTENT="نسخهٔ دبوان هند را که تنها شامل بخش پنجم و ششم و ان هم با برخی"
+                    HPOS="384"
+                    VPOS="2200"
+                    WIDTH="1327"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a64e0711"
+                    
+                    BASELINE="384 2333 650 2323 1771 2323" 
+                    HPOS="381"
+                    VPOS="2272"
+                    WIDTH="1390"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="384 2333 381 2281 647 2272 650 2272 1771 2272 1771 2323 1771 2341 650 2341 384 2348"/></Shape>
+	    <String CONTENT="افتادگیهاست بنیاد فرهنگ ایران به مباشرت همسر ارجمندم زندهنام علی اکبر"
+                    HPOS="381"
+                    VPOS="2272"
+                    WIDTH="1390"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e31d18c4"
+                    
+                    BASELINE="381 2402 1771 2402" 
+                    HPOS="381"
+                    VPOS="2360"
+                    WIDTH="1390"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="381 2402 381 2360 1771 2360 1771 2402 1771 2422 381 2422"/></Shape>
+	    <String CONTENT=" سعیدی سیرجانی و با مقدمهٔ کوتاهی به امضای زنده یاد مجتبی مینوی در سال"
+                    HPOS="381"
+                    VPOS="2360"
+                    WIDTH="1390"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5029b105"
+                    
+                    BASELINE="960 640 1179 635" 
+                    HPOS="958"
+                    VPOS="585"
+                    WIDTH="221"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="960 640 958 590 1177 585 1179 635 1179 652 960 657"/></Shape>
+	    <String CONTENT="پیشفتار"
+                    HPOS="958"
+                    VPOS="585"
+                    WIDTH="221"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

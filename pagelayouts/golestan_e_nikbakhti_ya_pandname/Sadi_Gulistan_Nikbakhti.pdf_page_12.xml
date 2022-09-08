@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Sadi_Gulistan_Nikbakhti.pdf_page_12.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1123" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1124" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1125" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="274"
+                   VPOS="814"
+                   WIDTH="1952"
+                   HEIGHT="2568"
+                   ID="eSc_textblock_0db22d14"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="349 827 274 3382 2218 3382 2226 814"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1044"
+                   VPOS="461"
+                   WIDTH="585"
+                   HEIGHT="328"
+                   ID="eSc_textblock_e91e94ed"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="1044 503 1044 789 1629 789 1629 461 1396 478"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1174"
+                   VPOS="356"
+                   WIDTH="261"
+                   HEIGHT="105"
+                   ID="eSc_textblock_c3767640"
+                   TAGREFS="BT1125">
+          <Shape><Polygon POINTS="1174 356 1174 461 1435 461 1435 356"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

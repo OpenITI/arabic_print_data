@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Hosseini_Badayi_Al_Sanayi.pdf_page_26.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1173" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1175" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1176" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1177" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1178" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    <OtherTag ID="LT71" LABEL="Poetry" DESCRIPTION="line type Poetry"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2054"
+          HEIGHT="2743"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2054"
+                  HEIGHT="2743">
+        
+        <TextBlock HPOS="292"
+                   VPOS="2156"
+                   WIDTH="1575"
+                   HEIGHT="388"
+                   ID="eSc_textblock_0b9d2317"
+                   TAGREFS="BT1176">
+          <Shape><Polygon POINTS="1867 2544 1867 2156 292 2156 292 2544"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="315"
+                   VPOS="293"
+                   WIDTH="1564"
+                   HEIGHT="1829"
+                   ID="eSc_textblock_d9ca8dcd"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1879 2122 1879 293 315 293 315 2122"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1575"
+                   VPOS="201"
+                   WIDTH="261"
+                   HEIGHT="81"
+                   ID="eSc_textblock_7f054d4b"
+                   TAGREFS="BT1173">
+          <Shape><Polygon POINTS="1575 201 1575 282 1836 282 1836 201"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="319"
+                   VPOS="197"
+                   WIDTH="69"
+                   HEIGHT="42"
+                   ID="eSc_textblock_01227bef"
+                   TAGREFS="BT1177">
+          <Shape><Polygon POINTS="319 197 319 239 388 239 388 197"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_34243e55"
+                    
+                    BASELINE="1598 235 1827 235" 
+                    HPOS="1598"
+                    VPOS="203"
+                    WIDTH="229"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1598 235 1598 203 1827 203 1827 235 1827 283 1598 283"/></Shape>
+	    <String CONTENT="مقدمه مصحح"
+                    HPOS="1598"
+                    VPOS="203"
+                    WIDTH="229"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b78567b1"
+                    
+                    BASELINE="338 342 1777 354" 
+                    HPOS="336"
+                    VPOS="299"
+                    WIDTH="1441"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="338 342 338 299 1777 310 1777 354 1774 377 336 365"/></Shape>
+	    <String CONTENT="درست ایست این رباعی تاریخ ندارد؟ از سوی دیگر از رقم &quot;چل سال&quot; روشن نیست"
+                    HPOS="336"
+                    VPOS="299"
+                    WIDTH="1441"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a99ccfce"
+                    
+                    BASELINE="340 422 1832 427" 
+                    HPOS="338"
+                    VPOS="377"
+                    WIDTH="1494"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="340 422 340 377 1832 381 1832 427 1829 450 338 445"/></Shape>
+	    <String CONTENT="که وی چهل ساله باشد. ولی به هر حال میتوان تخمین کرد با نظر داشت اینکه رباعی"
+                    HPOS="338"
+                    VPOS="377"
+                    WIDTH="1494"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d72c6f5"
+                    
+                    BASELINE="336 493 1832 502" 
+                    HPOS="333"
+                    VPOS="448"
+                    WIDTH="1499"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="336 493 336 448 1832 457 1832 502 1829 528 333 518"/></Shape>
+	    <String CONTENT="مذكور هنگام تأليف كتاب بدايع الصنايع (يعنى: 898ه)، یا کمی پیشتر از آن سروده"
+                    HPOS="333"
+                    VPOS="448"
+                    WIDTH="1499"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87df543d"
+                    
+                    BASELINE="768 566 1834 573" 
+                    HPOS="766"
+                    VPOS="528"
+                    WIDTH="1068"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="768 566 768 528 1834 534 1834 573 1832 598 766 592"/></Shape>
+	    <String CONTENT="شده است، عطاءالله در حدود سالهای 840 به دنیا آمده باشد:"
+                    HPOS="766"
+                    VPOS="528"
+                    WIDTH="1068"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c9f0ad6"
+                    
+                    BASELINE="336 644 1770 653" 
+                    HPOS="333"
+                    VPOS="596"
+                    WIDTH="1437"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="336 644 336 596 1770 605 1770 653 1768 674 333 665"/></Shape>
+	    <String CONTENT="مناسبات بسیار مؤدبانه و خیلی محترمانهٔ امیر علیشیر نوایی (ت 844ه.) که از"
+                    HPOS="333"
+                    VPOS="596"
+                    WIDTH="1437"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2a70f80"
+                    
+                    BASELINE="336 713 1834 729" 
+                    HPOS="333"
+                    VPOS="672"
+                    WIDTH="1501"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="336 713 336 672 1834 688 1834 729 1832 754 333 738"/></Shape>
+	    <String CONTENT="تذکرهٔ وی هویداست، بی گمان به خاطر فضل و کمال عطاءالله و حق استادی اوست، اما"
+                    HPOS="333"
+                    VPOS="672"
+                    WIDTH="1501"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81309e61"
+                    
+                    BASELINE="990 797 1832 804" 
+                    HPOS="988"
+                    VPOS="752"
+                    WIDTH="844"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="990 797 990 752 1832 758 1832 804 1829 825 988 818"/></Shape>
+	    <String CONTENT="امکان دارد جهت مقداری بزرگسالی او نیز باشد."
+                    HPOS="988"
+                    VPOS="752"
+                    WIDTH="844"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db13e440"
+                    
+                    BASELINE="336 868 1774 877" 
+                    HPOS="333"
+                    VPOS="825"
+                    WIDTH="1441"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="336 868 336 825 1774 834 1774 877 1772 900 333 891"/></Shape>
+	    <String CONTENT=" حصيل = عطاءالله در آغاز جوانی با امید تحصيل به هرات می آید این شهر در آن"
+                    HPOS="333"
+                    VPOS="825"
+                    WIDTH="1441"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29427ade"
+                    
+                    BASELINE="336 944 1834 957" 
+                    HPOS="333"
+                    VPOS="896"
+                    WIDTH="1501"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="336 944 336 896 1834 909 1834 957 1832 976 333 962"/></Shape>
+	    <String CONTENT="روزگار نه تنها در خراسان بلکه در سراسر منطقه از مهم ترین مراکز علمی و فرهنگی به"
+                    HPOS="333"
+                    VPOS="896"
+                    WIDTH="1501"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d40fa6fa"
+                    
+                    BASELINE="336 1017 1550 1033 1825 1026" 
+                    HPOS="333"
+                    VPOS="969"
+                    WIDTH="1492"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="336 1017 336 969 1548 985 1822 978 1825 1026 1825 1049 1550 1056 1548 1056 333 1040"/></Shape>
+	    <String CONTENT="شمار میآمد. وی با تمام جد و اجتهاد به آموزش مشغول شد و به اندازهای موفق گردید"
+                    HPOS="333"
+                    VPOS="969"
+                    WIDTH="1492"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fde41cf7"
+                    
+                    BASELINE="331 1094 1825 1106" 
+                    HPOS="329"
+                    VPOS="1051"
+                    WIDTH="1496"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="331 1094 331 1051 1825 1062 1825 1106 1822 1126 329 1115"/></Shape>
+	    <String CONTENT="که به نوشتهٔ نوایی &quot;ازیاده از این ممکن نیست&quot;1. خواند میر از تحصیلات وی بدین ترتیب"
+                    HPOS="329"
+                    VPOS="1051"
+                    WIDTH="1496"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d22cca9"
+                    
+                    BASELINE="333 1168 1832 1177" 
+                    HPOS="331"
+                    VPOS="1126"
+                    WIDTH="1501"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="333 1168 333 1126 1832 1136 1832 1177 1829 1204 331 1195"/></Shape>
+	    <String CONTENT="ستوده است: &quot;ابه اندک زمانی تکمیل اکثر فنون کرده، قصبالسبق از امثال و اقران در"
+                    HPOS="331"
+                    VPOS="1126"
+                    WIDTH="1501"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b5c12f0"
+                    
+                    BASELINE="532 1241 1829 1264" 
+                    HPOS="530"
+                    VPOS="1200"
+                    WIDTH="1299"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="532 1241 532 1200 1829 1222 1829 1264 1827 1289 530 1266"/></Shape>
+	    <String CONTENT="ربود و در علم عروض و صنایع بدایع شعری مهارت کامل حاصل داشت)."
+                    HPOS="530"
+                    VPOS="1200"
+                    WIDTH="1299"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6d33f02"
+                    
+                    BASELINE="329 1330 1765 1330" 
+                    HPOS="329"
+                    VPOS="1284"
+                    WIDTH="1436"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="329 1330 329 1284 1765 1284 1765 1330 1765 1353 329 1353"/></Shape>
+	    <String CONTENT=" عطاء الله از انواع علوم روزگار بویژه زبان و ادبیات فارسی و عربی به طور کامل"
+                    HPOS="329"
+                    VPOS="1284"
+                    WIDTH="1436"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d09ca0fe"
+                    
+                    BASELINE="331 1401 1063 1398 1829 1417" 
+                    HPOS="329"
+                    VPOS="1348"
+                    WIDTH="1500"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="331 1401 329 1350 1061 1348 1063 1348 1829 1366 1829 1417 1827 1440 1061 1421 331 1424"/></Shape>
+	    <String CONTENT="برخوردار شد. بابر این نکته را جداگانه تأکید کرده است که وی &quot;علم عربی را نیکو"
+                    HPOS="329"
+                    VPOS="1348"
+                    WIDTH="1500"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16be39eb"
+                    
+                    BASELINE="329 1472 1827 1488" 
+                    HPOS="327"
+                    VPOS="1428"
+                    WIDTH="1500"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="329 1472 329 1428 1827 1444 1827 1488 1825 1506 327 1490"/></Shape>
+	    <String CONTENT="می دانست&quot;2. در واقع از عربی دانی عطاءالله گواه بسیاری در دست است، چنانچه شعر"
+                    HPOS="327"
+                    VPOS="1428"
+                    WIDTH="1500"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_358a7b02"
+                    
+                    BASELINE="329 1540 1820 1565" 
+                    HPOS="327"
+                    VPOS="1497"
+                    WIDTH="1493"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="329 1540 329 1497 1820 1522 1820 1565 1818 1586 327 1561"/></Shape>
+	    <String CONTENT="عربی سروده است، به عربی تفسیر نوشته است، آثار جاحظ سکاکی، ابن الاثیر، علامهٔ"
+                    HPOS="327"
+                    VPOS="1497"
+                    WIDTH="1493"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59739f14"
+                    
+                    BASELINE="329 1622 1827 1634" 
+                    HPOS="327"
+                    VPOS="1579"
+                    WIDTH="1500"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="329 1622 329 1579 1827 1590 1827 1634 1825 1657 327 1645"/></Shape>
+	    <String CONTENT=" فتازانی، علامه قطب الدین شیرازی و... را با کمال دقت بررسی کرده و نظرات آنان را در"
+                    HPOS="327"
+                    VPOS="1579"
+                    WIDTH="1500"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35dd4fa4"
+                    
+                    BASELINE="329 1698 1822 1707" 
+                    HPOS="327"
+                    VPOS="1657"
+                    WIDTH="1495"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="329 1698 329 1657 1822 1666 1822 1707 1820 1730 327 1721"/></Shape>
+	    <String CONTENT="کتاب خود مورد استفاده قرار داده است3. میتوان گفت که در ارزیابی های صاحب روز"
+                    HPOS="327"
+                    VPOS="1657"
+                    WIDTH="1495"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e86ae62"
+                    
+                    BASELINE="324 1771 1161 1789 1829 1789" 
+                    HPOS="322"
+                    VPOS="1721"
+                    WIDTH="1507"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="324 1771 324 1721 1161 1739 1829 1739 1829 1789 1829 1814 1161 1814 1159 1812 322 1794"/></Shape>
+	    <String CONTENT="روشن عطاءالله بویژه &quot;در معانی و بیان و بدیع کمال مهارت داشت)5 و نویسندهٔ"
+                    HPOS="322"
+                    VPOS="1721"
+                    WIDTH="1507"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_611a694d"
+                    
+                    BASELINE="333 1846 1246 1865 1822 1860" 
+                    HPOS="331"
+                    VPOS="1798"
+                    WIDTH="1491"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="333 1846 333 1798 1246 1817 1820 1812 1822 1860 1822 1888 1246 1892 1244 1892 331 1874"/></Shape>
+	    <String CONTENT="تذكرة التواریخ، &quot;در جميع علوم مهارت تمام&quot; کسب کرده بود2، هیچ مبالغه جای ندارد."
+                    HPOS="331"
+                    VPOS="1798"
+                    WIDTH="1491"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcea4555"
+                    
+                    BASELINE="329 1926 1768 1940" 
+                    HPOS="327"
+                    VPOS="1881"
+                    WIDTH="1441"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="329 1926 329 1881 1768 1894 1768 1940 1765 1963 327 1949"/></Shape>
+	    <String CONTENT="تدریس = عطاءالله پس از تحصیل در هرات و کسب شایستهٔ کمالات، به تدریس"
+                    HPOS="327"
+                    VPOS="1881"
+                    WIDTH="1441"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b942188e"
+                    
+                    BASELINE="327 2000 1825 2020" 
+                    HPOS="324"
+                    VPOS="1954"
+                    WIDTH="1501"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="327 2000 327 1954 1825 1974 1825 2020 1822 2043 324 2022"/></Shape>
+	    <String CONTENT="میپردازد. به طوری که خودش گفته، و معاصرانش مانند خواند میر ونوایی و دیگران تآیید"
+                    HPOS="324"
+                    VPOS="1954"
+                    WIDTH="1501"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cd0a681"
+                    
+                    BASELINE="329 2075 1308 2093 1820 2089" 
+                    HPOS="327"
+                    VPOS="2025"
+                    WIDTH="1493"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="329 2075 329 2025 1308 2043 1818 2038 1820 2089 1820 2116 1308 2121 1306 2121 327 2102"/></Shape>
+	    <String CONTENT="کردهاند، وی درمدارس مشهور آن زمان، &quot;اخلاصیه&quot; و &quot;سلطانیه&quot; تدریس میکرده است."
+                    HPOS="327"
+                    VPOS="2025"
+                    WIDTH="1493"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17175cac"
+                    
+                    BASELINE="1429 2224 1822 2224" 
+                    HPOS="1429"
+                    VPOS="2185"
+                    WIDTH="393"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1429 2224 1429 2185 1822 2185 1822 2224 1822 2244 1429 2244"/></Shape>
+	    <String CONTENT="1- محالس النفایس، ص 94."
+                    HPOS="1429"
+                    VPOS="2185"
+                    WIDTH="393"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12688191"
+                    
+                    BASELINE="800 2214 1125 2219" 
+                    HPOS="798"
+                    VPOS="2169"
+                    WIDTH="327"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="800 2214 800 2169 1125 2173 1125 2219 1123 2233 798 2228"/></Shape>
+	    <String CONTENT="-حیب السیر ص 345"
+                    HPOS="798"
+                    VPOS="2169"
+                    WIDTH="327"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34c343ac"
+                    
+                    BASELINE="336 2265 375 2265" 
+                    HPOS="336"
+                    VPOS="2203"
+                    WIDTH="39"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="336 2265 336 2203 375 2203 375 2265 375 2297 336 2297"/></Shape>
+	    <String CONTENT=""
+                    HPOS="336"
+                    VPOS="2203"
+                    WIDTH="39"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32285f74"
+                    
+                    BASELINE="1386 2516 1818 2512" 
+                    HPOS="1383"
+                    VPOS="2468"
+                    WIDTH="435"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1386 2516 1383 2473 1816 2468 1818 2512 1818 2546 1386 2550"/></Shape>
+	    <String CONTENT="5- تذکرۀ روز روش، ص 556."
+                    HPOS="1383"
+                    VPOS="2468"
+                    WIDTH="435"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ba8dccf"
+                    
+                    BASELINE="670 2502 1107 2509" 
+                    HPOS="667"
+                    VPOS="2461"
+                    WIDTH="440"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="670 2502 670 2461 1107 2468 1107 2509 1104 2546 667 2539"/></Shape>
+	    <String CONTENT="تذكرة التواريخ، برگ 176 الف."
+                    HPOS="667"
+                    VPOS="2461"
+                    WIDTH="440"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

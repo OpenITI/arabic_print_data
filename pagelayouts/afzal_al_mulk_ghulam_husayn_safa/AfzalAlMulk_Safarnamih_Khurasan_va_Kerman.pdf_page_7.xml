@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>AfzalAlMulk_Safarnamih_Khurasan_va_Kerman.pdf_page_7.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1135" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1136" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1137" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="175"
+                   VPOS="526"
+                   WIDTH="593"
+                   HEIGHT="114"
+                   ID="eSc_textblock_433b1801"
+                   TAGREFS="BT1136">
+          <Shape><Polygon POINTS="733 537 768 605 268 640 175 616 210 526"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2fb10f14"
+                    
+                    BASELINE="181 590 716 596" 
+                    HPOS="178"
+                    VPOS="546"
+                    WIDTH="538"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="181 590 181 546 716 552 716 596 713 610 178 605"/></Shape>
+	    <String CONTENT="گناب بسفرناههٔ خرایسان و گرهان"
+                    HPOS="178"
+                    VPOS="546"
+                    WIDTH="538"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="163"
+                   VPOS="2642"
+                   WIDTH="1553"
+                   HEIGHT="196"
+                   ID="eSc_textblock_50c48055"
+                   TAGREFS="BT1135">
+          <Shape><Polygon POINTS="1680 2654 1716 2733 1657 2815 1426 2838 1344 2803 1341 2756 198 2745 163 2686 175 2654 1216 2642"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_27efe9d3"
+                    
+                    BASELINE="154 2692 1563 2707" 
+                    HPOS="152"
+                    VPOS="2651"
+                    WIDTH="1411"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="154 2692 154 2651 1563 2666 1563 2707 1561 2747 152 2733"/></Shape>
+	    <String CONTENT="1- به نهرست میکرو فیلمهای دانشکاه ص 15-120-157 و ذریعه . ص 289-17"
+                    HPOS="152"
+                    VPOS="2651"
+                    WIDTH="1411"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1cc34e2f"
+                    
+                    BASELINE="1414 2797 1678 2788" 
+                    HPOS="1411"
+                    VPOS="2742"
+                    WIDTH="267"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1414 2797 1411 2750 1675 2742 1678 2788 1678 2832 1414 2841"/></Shape>
+	    <String CONTENT="مراجعه شود"
+                    HPOS="1411"
+                    VPOS="2742"
+                    WIDTH="267"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1613"
+                   VPOS="537"
+                   WIDTH="91"
+                   HEIGHT="79"
+                   ID="eSc_textblock_9c063a7b"
+                   TAGREFS="BT1137">
+          <Shape><Polygon POINTS="1704 561 1692 616 1613 616 1660 537"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="163"
+                   VPOS="668"
+                   WIDTH="1547"
+                   HEIGHT="1892"
+                   ID="eSc_textblock_c571c7d7"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="163 668 163 2560 1710 2560 1710 668"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

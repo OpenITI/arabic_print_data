@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ibn_sina_risalah_judiyah.pdf_page_11.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1390" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1391" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1392" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1393" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1394" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1712"
+          HEIGHT="2433"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1712"
+                  HEIGHT="2433">
+        
+        <TextBlock HPOS="1122"
+                   VPOS="735"
+                   WIDTH="164"
+                   HEIGHT="86"
+                   ID="eSc_textblock_1020c3fd"
+                   TAGREFS="BT1390">
+          <Shape><Polygon POINTS="1122 735 1122 821 1286 821 1286 735"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="591"
+                   VPOS="140"
+                   WIDTH="244"
+                   HEIGHT="80"
+                   ID="eSc_textblock_31609066"
+                   TAGREFS="BT1390">
+          <Shape><Polygon POINTS="591 140 591 220 835 220 835 140"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="33"
+                   VPOS="233"
+                   WIDTH="1333"
+                   HEIGHT="1894"
+                   ID="eSc_textblock_a3046bf9"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1366 2127 1366 875 1085 875 1088 701 1363 668 1365 358 1366 233 33 237 33 2127"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="644"
+                   VPOS="2174"
+                   WIDTH="124"
+                   HEIGHT="53"
+                   ID="eSc_textblock_6bdfeab9"
+                   TAGREFS="BT1392">
+          <Shape><Polygon POINTS="644 2174 644 2227 768 2227 768 2174"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_671b7b07"
+                    
+                    BASELINE="48 287 539 304 754 291 1322 285" 
+                    HPOS="46"
+                    VPOS="225"
+                    WIDTH="1276"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="48 287 48 227 537 243 750 231 752 231 1320 225 1322 285 1322 308 754 314 539 326 537 326 46 310"/></Shape>
+	    <String CONTENT="ارتباط ایران با سرزمین هند در طب ایرانی بی دخالت نبوده است که"
+                    HPOS="46"
+                    VPOS="225"
+                    WIDTH="1276"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88c6235c"
+                    
+                    BASELINE="50 389 1324 377" 
+                    HPOS="48"
+                    VPOS="326"
+                    WIDTH="1276"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="50 389 48 338 1322 326 1324 377 1324 393 50 405"/></Shape>
+	    <String CONTENT="وقتی طب یونان وهند را با طب مخصوص ایران ممزوج نمائیم طب دوران"
+                    HPOS="48"
+                    VPOS="326"
+                    WIDTH="1276"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98eb24bc"
+                    
+                    BASELINE="50 476 1085 480 1326 468" 
+                    HPOS="48"
+                    VPOS="419"
+                    WIDTH="1278"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="50 476 50 427 1083 431 1322 419 1326 468 1326 486 1085 498 1083 500 48 496"/></Shape>
+	    <String CONTENT="هخامنشی وسپس طب دوران ساسانیان و قبل از اسلام میباشد . منتهی باید"
+                    HPOS="48"
+                    VPOS="419"
+                    WIDTH="1278"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a3df856"
+                    
+                    BASELINE="50 563 464 571 1306 555" 
+                    HPOS="48"
+                    VPOS="502"
+                    WIDTH="1258"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="50 563 50 510 464 519 1304 502 1306 555 1306 581 464 598 462 598 48 590"/></Shape>
+	    <String CONTENT="گفت قسمت اعظم آن مقتبس ازطب یونان است بااین توجه که طب هند"
+                    HPOS="48"
+                    VPOS="502"
+                    WIDTH="1258"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6572d9a3"
+                    
+                    BASELINE="314 652 1028 656 1328 646" 
+                    HPOS="312"
+                    VPOS="600"
+                    WIDTH="1016"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="314 652 314 606 1026 610 1326 600 1328 646 1328 667 1028 677 1026 677 312 673"/></Shape>
+	    <String CONTENT="وطت مخصوص سر زمین ما در ذیل طب یونان بوده است ."
+                    HPOS="312"
+                    VPOS="600"
+                    WIDTH="1016"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44c33900"
+                    
+                    BASELINE="1142 760 1239 762" 
+                    HPOS="1139"
+                    VPOS="717"
+                    WIDTH="100"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1142 760 1142 717 1239 719 1239 762 1237 772 1139 770"/></Shape>
+	    <String CONTENT="پس از"
+                    HPOS="1139"
+                    VPOS="717"
+                    WIDTH="100"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c81af4b"
+                    
+                    BASELINE="1139 808 1259 804" 
+                    HPOS="1137"
+                    VPOS="770"
+                    WIDTH="122"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1139 808 1137 774 1257 770 1259 804 1259 819 1139 823"/></Shape>
+	    <String CONTENT="حمله عر"
+                    HPOS="1137"
+                    VPOS="770"
+                    WIDTH="122"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed889337"
+                    
+                    BASELINE="46 758 1083 762" 
+                    HPOS="44"
+                    VPOS="707"
+                    WIDTH="1039"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="46 758 46 707 1083 711 1083 762 1081 780 44 776"/></Shape>
+	    <String CONTENT=" یس از حمله عرب بایران لطمه فوق العادهای باین مکتب"
+                    HPOS="44"
+                    VPOS="707"
+                    WIDTH="1039"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd1cdc90"
+                    
+                    BASELINE="48 849 1068 841" 
+                    HPOS="46"
+                    VPOS="788"
+                    WIDTH="1022"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="48 849 46 796 1066 788 1068 841 1068 859 48 867"/></Shape>
+	    <String CONTENT="واردآمد وکم کم اهمیت آن بواسطه نفوذ فوق العاده اعراب"
+                    HPOS="46"
+                    VPOS="788"
+                    WIDTH="1022"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2807588c"
+                    
+                    BASELINE="48 942 367 934 1026 938 1324 928" 
+                    HPOS="46"
+                    VPOS="875"
+                    WIDTH="1278"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="48 942 46 890 365 881 367 881 630 881 1024 886 1322 875 1324 928 1324 946 1026 956 1024 956 630 954 367 952 48 961"/></Shape>
+	    <String CONTENT="یعنی فاتحین ایران کاسته و روبزوال رفت چنانکه در سال 148 هجری"
+                    HPOS="46"
+                    VPOS="875"
+                    WIDTH="1278"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_516128d1"
+                    
+                    BASELINE="50 1029 1324 1013" 
+                    HPOS="48"
+                    VPOS="963"
+                    WIDTH="1276"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="50 1029 48 979 1322 963 1324 1013 1324 1029 50 1046"/></Shape>
+	    <String CONTENT="قمری (765 میلادی) منصور خلیفهٔ دوم عباسی را کسالت سخت عارض"
+                    HPOS="48"
+                    VPOS="963"
+                    WIDTH="1276"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9c2d24d"
+                    
+                    BASELINE="50 1117 1308 1100" 
+                    HPOS="48"
+                    VPOS="1054"
+                    WIDTH="1260"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="50 1117 48 1070 1306 1054 1308 1100 1308 1119 50 1135"/></Shape>
+	    <String CONTENT="گردید که اطباء بغداد در معالجت آن عاجز ماندند، منصور جورجیس-"
+                    HPOS="48"
+                    VPOS="1054"
+                    WIDTH="1260"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7df2891"
+                    
+                    BASELINE="50 1206 237 1216 981 1216 1332 1204" 
+                    HPOS="48"
+                    VPOS="1147"
+                    WIDTH="1284"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="50 1206 52 1149 237 1159 979 1159 1330 1147 1332 1204 1332 1222 981 1234 981 1234 237 1234 235 1234 48 1224"/></Shape>
+	    <String CONTENT="بن بختیشوع بزرکترین طبیب جندی شایور را احضار کرد واو ببغداد"
+                    HPOS="48"
+                    VPOS="1147"
+                    WIDTH="1284"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18a9c42a"
+                    
+                    BASELINE="50 1313 758 1313 1044 1297 1326 1293" 
+                    HPOS="50"
+                    VPOS="1232"
+                    WIDTH="1276"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="50 1313 50 1252 756 1252 1030 1236 1040 1236 1042 1236 1324 1232 1326 1293 1326 1319 1044 1323 1034 1325 758 1340 758 1340 50 1340"/></Shape>
+	    <String CONTENT="آمده خلیفه را معالجه کرد و از آن پس کم کم بواسطه تشویق خلفای عباسی"
+                    HPOS="50"
+                    VPOS="1232"
+                    WIDTH="1276"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b67f594"
+                    
+                    BASELINE="50 1396 1338 1392" 
+                    HPOS="48"
+                    VPOS="1344"
+                    WIDTH="1290"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="50 1396 48 1348 1336 1344 1338 1392 1338 1411 50 1415"/></Shape>
+	    <String CONTENT="و بر تری و تفوق دولت غالب بیمارستان جندی شایور و مدرسهٔ طب"
+                    HPOS="48"
+                    VPOS="1344"
+                    WIDTH="1290"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f844cb9"
+                    
+                    BASELINE="192 1484 1330 1473" 
+                    HPOS="190"
+                    VPOS="1423"
+                    WIDTH="1140"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="192 1484 190 1433 1328 1423 1330 1473 1330 1494 192 1504"/></Shape>
+	    <String CONTENT=" آن از اهمتت خود کاسته و بجای آن بغداد مر کز علم گردید ."
+                    HPOS="190"
+                    VPOS="1423"
+                    WIDTH="1140"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbc594cf"
+                    
+                    BASELINE="52 1589 340 1581 1204 1583" 
+                    HPOS="50"
+                    VPOS="1528"
+                    WIDTH="1154"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="52 1589 50 1536 338 1528 340 1528 1204 1530 1204 1583 1202 1597 340 1595 52 1603"/></Shape>
+	    <String CONTENT="پس از منصور هارون الرشید و مأمون و متو گل و مقتدر و سایر"
+                    HPOS="50"
+                    VPOS="1528"
+                    WIDTH="1154"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc4efa32"
+                    
+                    BASELINE="54 1670 468 1674 1332 1654" 
+                    HPOS="52"
+                    VPOS="1597"
+                    WIDTH="1280"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="54 1670 54 1613 466 1617 1330 1597 1332 1654 1332 1674 468 1694 466 1694 52 1690"/></Shape>
+	    <String CONTENT="خلفای عباسی بتقلید انوشیروان شاهنشاه بزرگ ایران بیمارستانها بریا"
+                    HPOS="52"
+                    VPOS="1597"
+                    WIDTH="1280"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1adb05b5"
+                    
+                    BASELINE="54 1767 1332 1741" 
+                    HPOS="52"
+                    VPOS="1644"
+                    WIDTH="1280"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="54 1767 52 1670 1330 1644 1332 1741 1332 1759 54 1786"/></Shape>
+	    <String CONTENT="ساخته و اطباءٔ بیمارستان تجندی شایور را ببغدادجلب نمودند و ما این"
+                    HPOS="52"
+                    VPOS="1644"
+                    WIDTH="1280"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9901ce18"
+                    
+                    BASELINE="409 1840 1010 1840 1334 1828" 
+                    HPOS="409"
+                    VPOS="1780"
+                    WIDTH="925"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="409 1840 409 1792 1008 1792 1332 1780 1334 1828 1334 1853 1010 1865 1010 1865 409 1865"/></Shape>
+	    <String CONTENT="مطالب را بعدا در موقع خود متذگر خواهیم شد."
+                    HPOS="409"
+                    VPOS="1780"
+                    WIDTH="925"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4506277"
+                    
+                    BASELINE="54 1956 397 1952 653 1938 1204 1938" 
+                    HPOS="52"
+                    VPOS="1885"
+                    WIDTH="1152"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="54 1956 52 1903 395 1899 430 1897 649 1885 653 1885 1204 1885 1204 1938 1204 1960 653 1960 432 1972 397 1972 397 1972 54 1976"/></Shape>
+	    <String CONTENT="چنانکه بیان گردید قسمت اعظم طب از یونان و روم بایران"
+                    HPOS="52"
+                    VPOS="1885"
+                    WIDTH="1152"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe9e5ab1"
+                    
+                    BASELINE="604 188 803 188" 
+                    HPOS="604"
+                    VPOS="150"
+                    WIDTH="199"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="604 188 604 150 803 150 803 188 803 206 604 206"/></Shape>
+	    <String CONTENT="رسالهٔ جودیه"
+                    HPOS="604"
+                    VPOS="150"
+                    WIDTH="199"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e1b018a"
+                    
+                    BASELINE="54 2037 1334 2025" 
+                    HPOS="52"
+                    VPOS="1974"
+                    WIDTH="1282"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="54 2037 52 1986 1332 1974 1334 2025 1334 2041 54 2053"/></Shape>
+	    <String CONTENT="واردشده و یزشکانیکه بر اثر عدم قبول کیش مسیحی نتوانستند در روم"
+                    HPOS="52"
+                    VPOS="1974"
+                    WIDTH="1282"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cb21dcdc"
+                    
+                    BASELINE="56 2126 979 2122 1324 2110" 
+                    HPOS="54"
+                    VPOS="2055"
+                    WIDTH="1270"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="56 2126 54 2072 977 2068 1322 2055 1324 2110 1324 2132 979 2145 979 2145 56 2149"/></Shape>
+	    <String CONTENT="شرقی بمانند به ایران و بین النهرین و آسیای صغیرمها جرت نموده در"
+                    HPOS="54"
+                    VPOS="2055"
+                    WIDTH="1270"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98bd6b75"
+                    
+                    BASELINE="649 2203 740 2197" 
+                    HPOS="647"
+                    VPOS="2173"
+                    WIDTH="93"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="649 2203 647 2179 738 2173 740 2197 740 2212 649 2218"/></Shape>
+	    <String CONTENT="هفت"
+                    HPOS="647"
+                    VPOS="2173"
+                    WIDTH="93"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

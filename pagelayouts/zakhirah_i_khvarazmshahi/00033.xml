@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00033.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1537" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1538" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1539" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1540" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1541" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1889"
+          HEIGHT="2610"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1889"
+                  HEIGHT="2610">
+        
+        <TextBlock HPOS="343"
+                   VPOS="406"
+                   WIDTH="1383"
+                   HEIGHT="1862"
+                   ID="eSc_textblock_99111588"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1666 2268 1726 456 414 406 343 2261"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="454"
+                   VPOS="320"
+                   WIDTH="399"
+                   HEIGHT="65"
+                   ID="eSc_textblock_a05c1b46"
+                   TAGREFS="BT1537">
+          <Shape><Polygon POINTS="853 385 853 320 454 320 454 385"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1645"
+                   VPOS="370"
+                   WIDTH="61"
+                   HEIGHT="56"
+                   ID="eSc_textblock_0bdb6911"
+                   TAGREFS="BT1541">
+          <Shape><Polygon POINTS="1645 370 1645 426 1706 426 1706 370"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_8b044578"
+                    
+                    BASELINE="1651 402 1701 402" 
+                    HPOS="1651"
+                    VPOS="369"
+                    WIDTH="50"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1651 402 1651 369 1701 369 1701 402 1701 417 1651 417"/></Shape>
+	    <String CONTENT="19"
+                    HPOS="1651"
+                    VPOS="369"
+                    WIDTH="50"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c6fce60"
+                    
+                    BASELINE="450 452 863 458 1031 474 1717 495" 
+                    HPOS="448"
+                    VPOS="408"
+                    WIDTH="1269"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="450 452 450 408 863 415 866 417 1001 428 1033 432 1717 452 1717 495 1714 515 1029 493 1029 493 996 491 861 478 448 471"/></Shape>
+	    <String CONTENT="ازين چهار مايه دو سبك است و دو گران . سبك آتش است و هوا ، و"
+                    HPOS="448"
+                    VPOS="408"
+                    WIDTH="1269"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4602411"
+                    
+                    BASELINE="446 532 848 539 1331 565 1690 567" 
+                    HPOS="443"
+                    VPOS="482"
+                    WIDTH="1247"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="446 532 446 482 848 489 850 489 1031 498 1331 515 1690 517 1690 567 1688 587 1329 585 1329 585 1027 567 846 558 443 552"/></Shape>
+	    <String CONTENT="گران آب است و زمين . اما زمين جسمی است يکسان ، جایگاه او فرود"
+                    HPOS="443"
+                    VPOS="482"
+                    WIDTH="1247"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_294de98b"
+                    
+                    BASELINE="435 615 1701 641" 
+                    HPOS="433"
+                    VPOS="567"
+                    WIDTH="1268"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="435 615 435 567 1701 593 1701 641 1699 656 433 630"/></Shape>
+	    <String CONTENT="همه است و آنجا بطبع آرام دارد و اگر بارهٔ از وی از جای خویش"
+                    HPOS="433"
+                    VPOS="567"
+                    WIDTH="1268"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_981b08be"
+                    
+                    BASELINE="437 693 1055 704 1706 730" 
+                    HPOS="435"
+                    VPOS="648"
+                    WIDTH="1271"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="437 693 437 648 1055 659 1055 659 1706 685 1706 730 1704 748 1053 722 435 711"/></Shape>
+	    <String CONTENT="بزور بيرون آرند بطبع بجای باز شود ، معنی گرانی او اینست ، و بدین"
+                    HPOS="435"
+                    VPOS="648"
+                    WIDTH="1271"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a055b5f"
+                    
+                    BASELINE="367 772 531 765 1701 800" 
+                    HPOS="365"
+                    VPOS="719"
+                    WIDTH="1336"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="367 772 365 726 528 719 531 719 1701 754 1701 800 1699 817 531 782 367 789"/></Shape>
+	    <String CONTENT="سبب گران تر از همه و فرود از همه اوست ، و طبع او سرد و خشك5"
+                    HPOS="365"
+                    VPOS="719"
+                    WIDTH="1336"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e573c0d"
+                    
+                    BASELINE="430 830 1704 869" 
+                    HPOS="428"
+                    VPOS="789"
+                    WIDTH="1276"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="430 830 430 789 1704 828 1704 869 1701 887 428 848"/></Shape>
+	    <String CONTENT="است ، و منفعت او اندر هرتنی آنست که تن را از هستی او پایداری باشد"
+                    HPOS="428"
+                    VPOS="789"
+                    WIDTH="1276"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f706e56"
+                    
+                    BASELINE="428 906 1697 948" 
+                    HPOS="426"
+                    VPOS="859"
+                    WIDTH="1271"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="428 906 428 859 1697 900 1697 948 1695 959 426 917"/></Shape>
+	    <String CONTENT="و بر آن نهاد که بنهد بماند. و آب چسمی است یکسان جایکاه او آنست"
+                    HPOS="426"
+                    VPOS="859"
+                    WIDTH="1271"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65c5f4fb"
+                    
+                    BASELINE="426 976 1046 991 1314 1009 1682 1004" 
+                    HPOS="424"
+                    VPOS="928"
+                    WIDTH="1258"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="426 976 426 928 1046 943 1048 946 1314 961 1680 956 1682 1004 1682 1024 1314 1028 1312 1028 1044 1011 424 996"/></Shape>
+	    <String CONTENT="که گردا گرد همه روی زمین اندر آمده باشد ، و روی آنرا پوشانیده"
+                    HPOS="424"
+                    VPOS="928"
+                    WIDTH="1258"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52130a1c"
+                    
+                    BASELINE="420 1057 994 1061 1688 1087" 
+                    HPOS="417"
+                    VPOS="1009"
+                    WIDTH="1271"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="420 1057 420 1009 994 1013 994 1013 1688 1039 1688 1087 1686 1104 992 1078 417 1074"/></Shape>
+	    <String CONTENT="از بهر آن را که او سبك تر از زمين است ، و معنی سبکتری او جزین"
+                    HPOS="417"
+                    VPOS="1009"
+                    WIDTH="1271"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d43289b"
+                    
+                    BASELINE="413 1139 715 1135 1347 1163 1688 1165" 
+                    HPOS="411"
+                    VPOS="1083"
+                    WIDTH="1277"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="413 1139 411 1087 713 1083 718 1083 1151 1102 1347 1111 1688 1113 1688 1165 1686 1181 1344 1178 1344 1178 1146 1170 713 1150 413 1154"/></Shape>
+	    <String CONTENT="نيست که بربالای زمين است ، و گردا گرد او اندر آمده ، لکن سببی"
+                    HPOS="411"
+                    VPOS="1083"
+                    WIDTH="1277"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20fdecea"
+                    
+                    BASELINE="413 1204 848 1209 1336 1235 1684 1231" 
+                    HPOS="411"
+                    VPOS="1152"
+                    WIDTH="1273"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="413 1204 413 1152 848 1157 850 1157 988 1163 1336 1183 1682 1178 1684 1231 1684 1248 1336 1252 1334 1252 985 1233 846 1226 411 1222"/></Shape>
+	    <String CONTENT="است که پارهٔ را از زمین از آب برهنه کرده است ، و شناختن آن سبب"
+                    HPOS="411"
+                    VPOS="1152"
+                    WIDTH="1273"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ee90a2b"
+                    
+                    BASELINE="406 1276 1682 1315" 
+                    HPOS="404"
+                    VPOS="1235"
+                    WIDTH="1278"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="406 1276 406 1235 1682 1274 1682 1315 1680 1331 404 1291"/></Shape>
+	    <String CONTENT="در علم طب نيست ، اگر اندرین کتاب بدان اشارتی کرده شود تا"
+                    HPOS="404"
+                    VPOS="1235"
+                    WIDTH="1278"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e6e7ec5"
+                    
+                    BASELINE="409 1355 1688 1392" 
+                    HPOS="406"
+                    VPOS="1313"
+                    WIDTH="1282"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="409 1355 409 1313 1688 1350 1688 1392 1686 1409 406 1372"/></Shape>
+	    <String CONTENT="سخن تمامتر و آراسته تر باشد بیاید دانست که آن سبب عنایت ایزداست"
+                    HPOS="406"
+                    VPOS="1313"
+                    WIDTH="1282"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_167d973a"
+                    
+                    BASELINE="400 1426 776 1437 1083 1459 1682 1468" 
+                    HPOS="398"
+                    VPOS="1374"
+                    WIDTH="1284"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="400 1426 400 1374 776 1385 779 1385 811 1387 1083 1407 1682 1415 1682 1468 1680 1487 1081 1478 1081 1478 807 1459 774 1457 398 1446"/></Shape>
+	    <String CONTENT="سبحانه و تعالی که پارۀ از روی زمین از آب برهنه کرد تا آرامگاه"
+                    HPOS="398"
+                    VPOS="1374"
+                    WIDTH="1284"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2a774c6"
+                    
+                    BASELINE="393 1511 803 1513 1301 1539 1671 1546" 
+                    HPOS="391"
+                    VPOS="1459"
+                    WIDTH="1280"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="393 1511 393 1459 803 1461 805 1461 1162 1481 1301 1487 1671 1494 1671 1546 1669 1565 1299 1559 1299 1559 1157 1550 800 1533 391 1531"/></Shape>
+	    <String CONTENT="آدمیان و دیگر جانوران باشد . و عنایت دوم آنست که این جای که از"
+                    HPOS="391"
+                    VPOS="1459"
+                    WIDTH="1280"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7303a1a1"
+                    
+                    BASELINE="398 1581 892 1594 1214 1616 1667 1620" 
+                    HPOS="396"
+                    VPOS="1526"
+                    WIDTH="1271"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="398 1581 398 1526 892 1539 894 1539 953 1544 1214 1561 1667 1565 1667 1620 1664 1639 1212 1635 1212 1635 948 1618 890 1613 396 1600"/></Shape>
+	    <String CONTENT="آب برهنه کرد بیشتری از وی از سوای شمال است تا این آرامگاه خوشتر"
+                    HPOS="396"
+                    VPOS="1526"
+                    WIDTH="1271"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f42dd919"
+                    
+                    BASELINE="396 1666 900 1670 1307 1694 1671 1696" 
+                    HPOS="393"
+                    VPOS="1616"
+                    WIDTH="1278"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="396 1666 396 1616 900 1620 903 1620 1122 1633 1307 1644 1671 1646 1671 1696 1669 1716 1305 1713 1305 1713 1118 1703 898 1689 393 1685"/></Shape>
+	    <String CONTENT="باشد و هوای اوصافی تر و درست تر باشد ، و باشندگان او قویتر و"
+                    HPOS="393"
+                    VPOS="1616"
+                    WIDTH="1278"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78e48b01"
+                    
+                    BASELINE="424 1739 1669 1779" 
+                    HPOS="422"
+                    VPOS="1694"
+                    WIDTH="1247"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="424 1739 424 1694 1669 1733 1669 1779 1667 1794 422 1755"/></Shape>
+	    <String CONTENT="تن درست تر باشند . او عنایت سدیگر آنست که چون این جای از آب برهن"
+                    HPOS="422"
+                    VPOS="1694"
+                    WIDTH="1247"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5fe272b3"
+                    
+                    BASELINE="383 1813 1388 1853 1653 1850" 
+                    HPOS="380"
+                    VPOS="1766"
+                    WIDTH="1273"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="383 1813 383 1766 1388 1805 1651 1803 1653 1850 1653 1872 1388 1874 1386 1874 380 1835"/></Shape>
+	    <String CONTENT="کرد علم ازل پیش رفته بود که باشندگان زمین را از آب چاره نباشد ،"
+                    HPOS="380"
+                    VPOS="1766"
+                    WIDTH="1273"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3535bda"
+                    
+                    BASELINE="389 1903 676 1905 870 1920 1667 1942" 
+                    HPOS="387"
+                    VPOS="1848"
+                    WIDTH="1280"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="389 1903 389 1848 676 1850 678 1850 816 1861 872 1866 1667 1887 1667 1942 1664 1959 868 1937 868 1937 813 1933 674 1922 387 1920"/></Shape>
+	    <String CONTENT="درین پارهٔ زمین جایگاه آب و جایگاه زمین یکی کرد ، و آب را در"
+                    HPOS="387"
+                    VPOS="1848"
+                    WIDTH="1280"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c06c9e74"
+                    
+                    BASELINE="376 1974 678 1974 1667 2018" 
+                    HPOS="376"
+                    VPOS="1927"
+                    WIDTH="1291"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="376 1974 376 1927 678 1927 678 1927 1667 1970 1667 2018 1664 2035 676 1992 376 1992"/></Shape>
+	    <String CONTENT="وی پرا کنده کرد تا به همۀ جایها باندازه می رسد، و همه باشند گان زمین"
+                    HPOS="376"
+                    VPOS="1927"
+                    WIDTH="1291"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e4da4a3"
+                    
+                    BASELINE="378 2046 781 2053 1366 2085 1651 2088" 
+                    HPOS="376"
+                    VPOS="1994"
+                    WIDTH="1275"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="378 2046 378 1994 781 2000 783 2000 1064 2018 1366 2033 1651 2035 1651 2088 1649 2105 1364 2103 1364 2103 1059 2085 779 2070 376 2064"/></Shape>
+	    <String CONTENT="را از آب بهره می باشد . پس از آنجا که طبیعت آبست آب سبکتر از"
+                    HPOS="376"
+                    VPOS="1994"
+                    WIDTH="1275"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7254a7ae"
+                    
+                    BASELINE="363 2118 1658 2168" 
+                    HPOS="361"
+                    VPOS="2072"
+                    WIDTH="1297"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="363 2118 363 2072 1658 2122 1658 2168 1656 2181 361 2131"/></Shape>
+	    <String CONTENT="زمين است و جای او بالای زمين است ، و از آنجا که عنایت ايزدی است"
+                    HPOS="361"
+                    VPOS="2072"
+                    WIDTH="1297"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_307e031a"
+                    
+                    BASELINE="354 2196 1408 2242 1658 2242" 
+                    HPOS="352"
+                    VPOS="2146"
+                    WIDTH="1306"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="354 2196 354 2146 1408 2192 1658 2192 1658 2242 1658 2262 1408 2262 1405 2259 352 2214"/></Shape>
+	    <String CONTENT="درین مقام پارۀ زمین که آرامگاه جانوران است سیکی از آب شده باشد."
+                    HPOS="352"
+                    VPOS="2146"
+                    WIDTH="1306"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2807d18"
+                    
+                    BASELINE="448 365 837 365" 
+                    HPOS="448"
+                    VPOS="328"
+                    WIDTH="389"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="448 365 448 328 837 328 837 365 837 378 448 378"/></Shape>
+	    <String CONTENT="گفتار نخستین ، باب سوم"
+                    HPOS="448"
+                    VPOS="328"
+                    WIDTH="389"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7a7c30d"
+                    
+                    BASELINE="324 1137 372 1133" 
+                    HPOS="319"
+                    VPOS="1094"
+                    WIDTH="53"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="324 1137 319 1098 367 1094 372 1133 372 1150 324 1154"/></Shape>
+	    <String CONTENT="10"
+                    HPOS="319"
+                    VPOS="1094"
+                    WIDTH="53"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fad5db2e"
+                    
+                    BASELINE="300 1515 374 1511" 
+                    HPOS="298"
+                    VPOS="1481"
+                    WIDTH="76"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="300 1515 298 1485 372 1481 374 1511 374 1526 300 1531"/></Shape>
+	    <String CONTENT="15"
+                    HPOS="298"
+                    VPOS="1481"
+                    WIDTH="76"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22205aaa"
+                    
+                    BASELINE="272 1761 324 1761" 
+                    HPOS="272"
+                    VPOS="1711"
+                    WIDTH="52"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="272 1761 272 1711 324 1711 324 1761 324 1774 272 1774"/></Shape>
+	    <String CONTENT=""
+                    HPOS="272"
+                    VPOS="1711"
+                    WIDTH="52"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Sami_Tazkirat_Al_Muluk.pdf_page_23.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1481" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1482" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1483" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1484" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1485" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="331"
+                   VPOS="1367"
+                   WIDTH="1378"
+                   HEIGHT="179"
+                   ID="eSc_textblock_606ed63e"
+                   TAGREFS="BT1481">
+          <Shape><Polygon POINTS="331 1367 331 1546 1709 1546 1709 1367"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1073"
+                   VPOS="3049"
+                   WIDTH="914"
+                   HEIGHT="146"
+                   ID="eSc_textblock_6db81dce"
+                   TAGREFS="BT1483">
+          <Shape><Polygon POINTS="1987 3195 1987 3049 1073 3049 1073 3195"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="79"
+                   VPOS="1565"
+                   WIDTH="1961"
+                   HEIGHT="1458"
+                   ID="eSc_textblock_8b12c904"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="79 1566 79 3023 2027 3023 2040 1565"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="53"
+                   VPOS="439"
+                   WIDTH="2014"
+                   HEIGHT="901"
+                   ID="eSc_textblock_fe0e21e4"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2067 1340 2067 439 53 439 53 1340"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="941"
+                   VPOS="267"
+                   WIDTH="205"
+                   HEIGHT="106"
+                   ID="eSc_textblock_1a254631"
+                   TAGREFS="BT1485">
+          <Shape><Polygon POINTS="941 267 941 373 1146 373 1146 267"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_da6c2de4"
+                    
+                    BASELINE="116 482 584 502 1976 496" 
+                    HPOS="114"
+                    VPOS="409"
+                    WIDTH="1862"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="116 482 119 409 584 429 1973 423 1976 496 1976 526 584 532 581 532 114 511"/></Shape>
+	    <String CONTENT="و طعام خاصه وخادمان رسیده [که] تحویلداران (ب) اجناس زبون بخرج ندهند"
+                    HPOS="114"
+                    VPOS="409"
+                    WIDTH="1862"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13e77516"
+                    
+                    BASELINE="108 596 584 616 1976 610" 
+                    HPOS="105"
+                    VPOS="523"
+                    WIDTH="1871"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="108 596 111 523 584 543 1973 537 1976 610 1976 646 584 651 581 651 105 631"/></Shape>
+	    <String CONTENT="و ناظر قدغن نماید که تحویلداران و عملهٔ بیوتات مال رعیت و فقیران را نکشند و نبرند"
+                    HPOS="105"
+                    VPOS="523"
+                    WIDTH="1871"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ca4bfed"
+                    
+                    BASELINE="96 713 1982 724" 
+                    HPOS="93"
+                    VPOS="648"
+                    WIDTH="1889"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="96 713 96 648 1982 660 1982 724 1979 748 93 736"/></Shape>
+	    <String CONTENT="وچیزیرا بیرضای صاحب خریداری نکنند که &quot;بددعائی حاصل پشود، وقیمت موافق"
+                    HPOS="93"
+                    VPOS="648"
+                    WIDTH="1889"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6082a3c"
+                    
+                    BASELINE="99 824 1964 818" 
+                    HPOS="96"
+                    VPOS="757"
+                    WIDTH="1868"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="99 824 96 762 1961 757 1964 818 1964 850 99 856"/></Shape>
+	    <String CONTENT="آنچه مشخص شده بدهند، وهر قسم اخراجاتی که در بیوتات واقع شود بدون اطلاع"
+                    HPOS="96"
+                    VPOS="757"
+                    WIDTH="1868"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae5a5877"
+                    
+                    BASELINE="93 932 1970 947" 
+                    HPOS="90"
+                    VPOS="871"
+                    WIDTH="1880"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="93 932 93 871 1970 885 1970 947 1967 973 90 958"/></Shape>
+	    <String CONTENT="ناظر نباشد. و احدی از غلایان و ملازمان پادشاه بدون تعلیفۀ ناظر از کارخانه جات"
+                    HPOS="90"
+                    VPOS="871"
+                    WIDTH="1880"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2df8fa43"
+                    
+                    BASELINE="93 1037 1970 1061" 
+                    HPOS="90"
+                    VPOS="976"
+                    WIDTH="1880"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="93 1037 93 976 1970 999 1970 1061 1967 1087 90 1064"/></Shape>
+	    <String CONTENT="چیزی نبرند. و عالیجاه ناظر بیوتات ریش سفید و صاحب اختیار کل سی وسه کارخانهٔ"
+                    HPOS="90"
+                    VPOS="976"
+                    WIDTH="1880"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef320ce3"
+                    
+                    BASELINE="93 1154 1958 1166" 
+                    HPOS="90"
+                    VPOS="1090"
+                    WIDTH="1868"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="93 1154 93 1090 1958 1102 1958 1166 1955 1192 90 1181"/></Shape>
+	    <String CONTENT="بيوتات معموره و ریش سفید صاحبجمعان است، حتی (20 الف) امیر اخور باشی و"
+                    HPOS="90"
+                    VPOS="1090"
+                    WIDTH="1868"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_050ca3be"
+                    
+                    BASELINE="119 1262 1955 1277" 
+                    HPOS="116"
+                    VPOS="1204"
+                    WIDTH="1839"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="119 1262 119 1204 1955 1219 1955 1277 1952 1315 116 1300"/></Shape>
+	    <String CONTENT="جبادارباشی، وعرض مطالب مستدعیات اکثر صاحبجمعان بناظر بیوتات تعلق دارد"
+                    HPOS="116"
+                    VPOS="1204"
+                    WIDTH="1839"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08849a3a"
+                    
+                    BASELINE="716 1411 1318 1411" 
+                    HPOS="716"
+                    VPOS="1341"
+                    WIDTH="602"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="716 1411 716 1341 1318 1341 1318 1411 1318 1438 716 1438"/></Shape>
+	    <String CONTENT="ل عفتم از باب دوم"
+                    HPOS="716"
+                    VPOS="1341"
+                    WIDTH="602"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_029aec82"
+                    
+                    BASELINE="330 1520 1657 1528" 
+                    HPOS="327"
+                    VPOS="1444"
+                    WIDTH="1330"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="330 1520 330 1444 1657 1452 1657 1528 1654 1549 327 1540"/></Shape>
+	    <String CONTENT="در بیان شغل عالیجاه مقرب الخاقان دیوان بیکی است"
+                    HPOS="327"
+                    VPOS="1444"
+                    WIDTH="1330"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c08029d6"
+                    
+                    BASELINE="81 1639 689 1660 1792 1654" 
+                    HPOS="78"
+                    VPOS="1552"
+                    WIDTH="1714"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="81 1639 84 1552 689 1572 1789 1566 1792 1654 1792 1680 689 1686 686 1686 78 1666"/></Shape>
+	    <String CONTENT="مشاراليه از جملهٔ امراء اعظام، وضابطه در منصب مزبور آنست که هر هفته"
+                    HPOS="78"
+                    VPOS="1552"
+                    WIDTH="1714"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3be3605"
+                    
+                    BASELINE="78 1751 1946 1774" 
+                    HPOS="76"
+                    VPOS="1669"
+                    WIDTH="1870"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="78 1751 78 1669 1946 1692 1946 1774 1944 1794 76 1771"/></Shape>
+	    <String CONTENT="چهار روز باتفاق صدور بکشیك خانه که مختص دیوان بیکان بوده است آمده"
+                    HPOS="76"
+                    VPOS="1669"
+                    WIDTH="1870"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e34296dc"
+                    
+                    BASELINE="70 1870 1952 1870" 
+                    HPOS="70"
+                    VPOS="1803"
+                    WIDTH="1882"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="70 1870 70 1803 1952 1803 1952 1870 1952 1900 70 1900"/></Shape>
+	    <String CONTENT="احداث اربعه را که عبارت از: قتل وازالهٔ بکارت و کور کردن چشم و شکستن دندان"
+                    HPOS="70"
+                    VPOS="1803"
+                    WIDTH="1882"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_588c8774"
+                    
+                    BASELINE="73 1990 1952 1982" 
+                    HPOS="70"
+                    VPOS="1906"
+                    WIDTH="1882"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="73 1990 70 1914 1949 1906 1952 1982 1952 2002 73 2011"/></Shape>
+	    <String CONTENT="است، از گناهکاران بحکم صدور بازخواست نموده، بسایر دیوان های ارباب رجوع"
+                    HPOS="70"
+                    VPOS="1906"
+                    WIDTH="1882"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67ce27e6"
+                    
+                    BASELINE="78 2078 736 2093 1941 2087" 
+                    HPOS="76"
+                    VPOS="2005"
+                    WIDTH="1865"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="78 2078 78 2005 736 2020 1938 2014 1941 2087 1941 2122 736 2128 733 2128 76 2113"/></Shape>
+	    <String CONTENT="كل ممالك محروسه، (ب) و بر ظلم و زیادتی که واقع ميشده، وطلب تنخواهی که"
+                    HPOS="76"
+                    VPOS="2005"
+                    WIDTH="1865"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f67e364b"
+                    
+                    BASELINE="70 2195 1944 2207" 
+                    HPOS="67"
+                    VPOS="2131"
+                    WIDTH="1877"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="70 2195 70 2131 1944 2142 1944 2207 1941 2236 67 2224"/></Shape>
+	    <String CONTENT="اهل شهرودهات زیاده برچهار ینج تومان بایکدیگرداشتهاند میرسیده اند.1 و اجرای"
+                    HPOS="67"
+                    VPOS="2131"
+                    WIDTH="1877"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a22d21e"
+                    
+                    BASELINE="73 2315 1944 2315" 
+                    HPOS="73"
+                    VPOS="2250"
+                    WIDTH="1871"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="73 2315 73 2250 1944 2250 1944 2315 1944 2350 73 2350"/></Shape>
+	    <String CONTENT="احكام شرعيه1 وضبط ونسق شهرکه ازاقویا بر ضعفا ستم وزیادتی واقع نشود، نیز"
+                    HPOS="73"
+                    VPOS="2250"
+                    WIDTH="1871"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a747f56"
+                    
+                    BASELINE="61 2414 1941 2429" 
+                    HPOS="58"
+                    VPOS="2347"
+                    WIDTH="1883"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="61 2414 61 2347 1941 2362 1941 2429 1938 2458 58 2443"/></Shape>
+	    <String CONTENT="بدیوان بیکیان متعلق است. و جمعی که از ظلم و تعدی یا احدات اربعه وغیره بدیوان"
+                    HPOS="58"
+                    VPOS="2347"
+                    WIDTH="1883"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3628073f"
+                    
+                    BASELINE="70 2528 1055 2549 1309 2537 1938 2543" 
+                    HPOS="67"
+                    VPOS="2449"
+                    WIDTH="1871"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="70 2528 70 2449 1052 2470 1289 2461 1303 2458 1309 2458 1938 2464 1938 2543 1935 2578 1309 2572 1292 2572 1055 2584 1052 2584 67 2563"/></Shape>
+	    <String CONTENT="بیکی شکایت میکردند، اگر ظلم مزبور در حوالی شهر که مسافت آن بیش از ده"
+                    HPOS="67"
+                    VPOS="2449"
+                    WIDTH="1871"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc64de35"
+                    
+                    BASELINE="67 2642 394 2663 1938 2657" 
+                    HPOS="64"
+                    VPOS="2566"
+                    WIDTH="1874"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="67 2642 70 2566 394 2587 1935 2581 1938 2657 1938 2686 394 2692 391 2692 64 2671"/></Shape>
+	    <String CONTENT="دوازده فرسخ نبوده واقع میشده دیوان بیکی تعلیفهٔ بیاضی برطبق عرض عارض بعهدهٔ"
+                    HPOS="64"
+                    VPOS="2566"
+                    WIDTH="1874"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3bd21e30"
+                    
+                    BASELINE="64 2756 1941 2780" 
+                    HPOS="61"
+                    VPOS="2686"
+                    WIDTH="1880"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="64 2756 64 2686 1941 2709 1941 2780 1938 2809 61 2785"/></Shape>
+	    <String CONTENT="قورچی اجرلو وغیره (21الف) تابینان نوشته، غورسی مینمود، واگر عارض از محال"
+                    HPOS="61"
+                    VPOS="2686"
+                    WIDTH="1880"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a093b07"
+                    
+                    BASELINE="61 2876 1914 2891" 
+                    HPOS="58"
+                    VPOS="2809"
+                    WIDTH="1856"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="61 2876 61 2809 1914 2823 1914 2891 1911 2923 58 2908"/></Shape>
+	    <String CONTENT="بعیده عرض شکایتی مینموده ، دستور چنان بود که در مقدمهٔ قتل مبلغ پنجتومان"
+                    HPOS="58"
+                    VPOS="2809"
+                    WIDTH="1856"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12fdbb23"
+                    
+                    BASELINE="70 2993 1908 3008" 
+                    HPOS="67"
+                    VPOS="2923"
+                    WIDTH="1841"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="70 2993 70 2923 1908 2937 1908 3008 1906 3043 67 3028"/></Shape>
+	    <String CONTENT="التزام عارض، ودیوان بیکی تعلیقه قلمی، ومنشی دیوان هم تعلیفه قلمی وبعداز آن"
+                    HPOS="67"
+                    VPOS="2923"
+                    WIDTH="1841"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_046a69c9"
+                    
+                    BASELINE="982 327 1107 327" 
+                    HPOS="982"
+                    VPOS="260"
+                    WIDTH="125"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="982 327 982 260 1107 260 1107 327 1107 347 982 347"/></Shape>
+	    <String CONTENT="12"
+                    HPOS="982"
+                    VPOS="260"
+                    WIDTH="125"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4df61336"
+                    
+                    BASELINE="1099 3119 1765 3125" 
+                    HPOS="1096"
+                    VPOS="3072"
+                    WIDTH="669"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1099 3119 1099 3072 1765 3078 1765 3125 1762 3171 1096 3165"/></Shape>
+	    <String CONTENT="لله بین دو شاره تکرار شده است"
+                    HPOS="1096"
+                    VPOS="3072"
+                    WIDTH="669"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

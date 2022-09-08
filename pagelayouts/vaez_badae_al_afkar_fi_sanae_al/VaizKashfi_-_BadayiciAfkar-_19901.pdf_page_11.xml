@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>VaizKashfi_-_BadayiciAfkar-_19901.pdf_page_11.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1507" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1508" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1509" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1510" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1511" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1950"
+          HEIGHT="2829"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1950"
+                  HEIGHT="2829">
+        
+        <TextBlock HPOS="214"
+                   VPOS="257"
+                   WIDTH="1509"
+                   HEIGHT="1974"
+                   ID="eSc_textblock_85d2acd1"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="214 2231 214 257 1723 257 1723 2231"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1263"
+                   VPOS="2349"
+                   WIDTH="456"
+                   HEIGHT="219"
+                   ID="eSc_textblock_d1530d41"
+                   TAGREFS="BT1511">
+          <Shape><Polygon POINTS="1719 2568 1719 2349 1263 2349 1263 2568"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1185"
+                   VPOS="134"
+                   WIDTH="420"
+                   HEIGHT="82"
+                   ID="eSc_textblock_387adbd8"
+                   TAGREFS="BT1507">
+          <Shape><Polygon POINTS="1185 134 1185 216 1605 216 1605 134"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1632"
+                   VPOS="157"
+                   WIDTH="68"
+                   HEIGHT="68"
+                   ID="eSc_textblock_112b19d1"
+                   TAGREFS="BT1509">
+          <Shape><Polygon POINTS="1700 225 1700 157 1632 157 1632 225"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_2e08e862"
+                    
+                    BASELINE="1195 193 1702 186" 
+                    HPOS="1193"
+                    VPOS="143"
+                    WIDTH="509"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1195 193 1193 150 1700 143 1702 186 1702 205 1195 212"/></Shape>
+	    <String CONTENT="76 بدايع الافكارفى صنايع الاشعار"
+                    HPOS="1193"
+                    VPOS="143"
+                    WIDTH="509"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a045924"
+                    
+                    BASELINE="254 311 1702 311" 
+                    HPOS="254"
+                    VPOS="266"
+                    WIDTH="1448"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="254 311 254 266 1702 266 1702 311 1702 332 254 332"/></Shape>
+	    <String CONTENT="است؛ و این کلمه منع میکند قافیهٔ اول را، یا آن کلمه را که پیش از اوست، از رسیدن به"
+                    HPOS="254"
+                    VPOS="266"
+                    WIDTH="1448"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11c1346d"
+                    
+                    BASELINE="641 384 1700 396" 
+                    HPOS="638"
+                    VPOS="344"
+                    WIDTH="1062"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="641 384 641 344 1700 355 1700 396 1697 414 638 403"/></Shape>
+	    <String CONTENT="قافيهٔ ثانی؛ ودر این باب، رباعی امیر معزی زیبا افتاده است:21"
+                    HPOS="638"
+                    VPOS="344"
+                    WIDTH="1062"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1aca68f2"
+                    
+                    BASELINE="1044 506 1702 516" 
+                    HPOS="1042"
+                    VPOS="462"
+                    WIDTH="660"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1044 506 1044 462 1702 471 1702 516 1700 530 1042 521"/></Shape>
+	    <String CONTENT="ای شاه زمین ! بر آسمان داری تخت*"
+                    HPOS="1042"
+                    VPOS="462"
+                    WIDTH="660"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cd0b7d7"
+                    
+                    BASELINE="261 511 938 506" 
+                    HPOS="259"
+                    VPOS="464"
+                    WIDTH="679"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="261 511 259 469 936 464 938 506 938 518 261 523"/></Shape>
+	    <String CONTENT="سست است عدو تا تو کمان داری سخت."
+                    HPOS="259"
+                    VPOS="464"
+                    WIDTH="679"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d21b2737"
+                    
+                    BASELINE="1063 591 1697 591" 
+                    HPOS="1063"
+                    VPOS="544"
+                    WIDTH="634"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1063 591 1063 544 1697 544 1697 591 1697 605 1063 605"/></Shape>
+	    <String CONTENT=" حمله سبک آری وکران داری [لخت]،**"
+                    HPOS="1063"
+                    VPOS="544"
+                    WIDTH="634"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cccea169"
+                    
+                    BASELINE="268 582 936 596" 
+                    HPOS="266"
+                    VPOS="542"
+                    WIDTH="670"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="268 582 268 542 936 556 936 596 933 612 266 598"/></Shape>
+	    <String CONTENT="بیری تو به دانش و جوان داری بخت 22"
+                    HPOS="266"
+                    VPOS="542"
+                    WIDTH="670"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_093ab409"
+                    
+                    BASELINE="865 700 1065 714 1704 702" 
+                    HPOS="862"
+                    VPOS="653"
+                    WIDTH="842"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="865 700 867 653 1065 667 1702 655 1704 702 1704 723 1065 735 1063 735 862 721"/></Shape>
+	    <String CONTENT="لفظ داری حاجب است؛ واین رباعی محجوب 23"
+                    HPOS="862"
+                    VPOS="653"
+                    WIDTH="842"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_011cb755"
+                    
+                    BASELINE="257 796 580 787 1608 787" 
+                    HPOS="254"
+                    VPOS="735"
+                    WIDTH="1354"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="257 796 254 744 577 735 580 735 1608 735 1608 787 1608 806 580 806 257 813"/></Shape>
+	    <String CONTENT="ذات مطالع شعری باشد که در وی چند مطلع ایراد کرده باشند؛ و خاقانی در این"
+                    HPOS="254"
+                    VPOS="735"
+                    WIDTH="1354"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_672abb60"
+                    
+                    BASELINE="257 867 1707 867" 
+                    HPOS="257"
+                    VPOS="822"
+                    WIDTH="1450"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="257 867 257 822 1707 822 1707 867 1707 886 257 886"/></Shape>
+	    <String CONTENT=" شیوه نیک مولع22 بوده است؛ و اصل در این باب آن است که مطلع او نسیب و تشبیب"
+                    HPOS="257"
+                    VPOS="822"
+                    WIDTH="1450"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d39d54aa"
+                    
+                    BASELINE="249 950 1695 945" 
+                    HPOS="247"
+                    VPOS="898"
+                    WIDTH="1448"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="249 950 247 902 1692 898 1695 945 1695 961 249 966"/></Shape>
+	    <String CONTENT="باشد؛ وثانى يا ثالت مدح؛ وباشد كه قصيده اى را ابتدا به مدح كنند؛ ومطلع ثانى [او"
+                    HPOS="247"
+                    VPOS="898"
+                    WIDTH="1448"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e45b0ed"
+                    
+                    BASELINE="1242 1030 1697 1025" 
+                    HPOS="1240"
+                    VPOS="983"
+                    WIDTH="457"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1242 1030 1240 987 1695 983 1697 1025 1697 1039 1242 1044"/></Shape>
+	    <String CONTENT="را]56 به نسيب وتشبيب."
+                    HPOS="1240"
+                    VPOS="983"
+                    WIDTH="457"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3a5eb82"
+                    
+                    BASELINE="252 1103 1608 1103" 
+                    HPOS="252"
+                    VPOS="1063"
+                    WIDTH="1356"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="252 1103 252 1063 1608 1063 1608 1103 1608 1122 252 1122"/></Shape>
+	    <String CONTENT=" محدود، در لغت، ممنوع باشد؛ ودر اصطلاح، قصیده ای را کویند که از صنعت"
+                    HPOS="252"
+                    VPOS="1063"
+                    WIDTH="1356"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6da1f4fb"
+                    
+                    BASELINE="440 1185 1702 1185" 
+                    HPOS="440"
+                    VPOS="1141"
+                    WIDTH="1262"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="440 1185 440 1141 1702 1141 1702 1185 1702 1202 440 1202"/></Shape>
+	    <String CONTENT=" نسیب بینصیب باشد؛25 و ابتدای سخن به مدح کنند؛ چنانکه انوری کوید:"
+                    HPOS="440"
+                    VPOS="1141"
+                    WIDTH="1262"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be690781"
+                    
+                    BASELINE="992 1303 1641 1303" 
+                    HPOS="992"
+                    VPOS="1263"
+                    WIDTH="649"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="992 1303 992 1263 1641 1263 1641 1303 1641 1320 992 1320"/></Shape>
+	    <String CONTENT="ای كاينات را به وجود تو افتخار؛"
+                    HPOS="992"
+                    VPOS="1263"
+                    WIDTH="649"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bca5013b"
+                    
+                    BASELINE="252 1303 954 1308" 
+                    HPOS="249"
+                    VPOS="1251"
+                    WIDTH="705"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="252 1303 252 1251 954 1256 954 1308 952 1320 249 1315"/></Shape>
+	    <String CONTENT=" ای بیش از آفرینش و کم ز آفریدکار؛"
+                    HPOS="249"
+                    VPOS="1251"
+                    WIDTH="705"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a851dcc"
+                    
+                    BASELINE="254 1423 1697 1419" 
+                    HPOS="252"
+                    VPOS="1369"
+                    WIDTH="1445"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="254 1423 252 1374 1695 1369 1697 1419 1697 1433 254 1438"/></Shape>
+	    <String CONTENT="و به جهت آنش محدود گویند که گوییا او را از مقدمات که آن نسیب و تشبیب تواند بود"
+                    HPOS="252"
+                    VPOS="1369"
+                    WIDTH="1445"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_677dbf1a"
+                    
+                    BASELINE="912 1499 1702 1499" 
+                    HPOS="912"
+                    VPOS="1456"
+                    WIDTH="790"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="912 1499 912 1456 1702 1456 1702 1499 1702 1520 912 1520"/></Shape>
+	    <String CONTENT=" منع كرده اند؛ وعامهٔ شعرا این را مکابره کویند."
+                    HPOS="912"
+                    VPOS="1456"
+                    WIDTH="790"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9881717e"
+                    
+                    BASELINE="252 1574 1598 1579" 
+                    HPOS="249"
+                    VPOS="1527"
+                    WIDTH="1349"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="252 1574 252 1527 1598 1532 1598 1579 1596 1598 249 1593"/></Shape>
+	    <String CONTENT="مطبوع از اشعار آن است که بر وزنی دلیذیر کفته شود؛ چنانکه طباع سلیمه آن را،"
+                    HPOS="249"
+                    VPOS="1527"
+                    WIDTH="1349"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00576ecc"
+                    
+                    BASELINE="254 1662 1697 1654" 
+                    HPOS="252"
+                    VPOS="1607"
+                    WIDTH="1445"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="254 1662 252 1614 1695 1607 1697 1654 1697 1673 254 1680"/></Shape>
+	    <String CONTENT="به قبول، تلقى نمايند؛ و آنچه بروزنى مستثقل و بحرى غيرملایم کویند، آن را نامطبوع"
+                    HPOS="252"
+                    VPOS="1607"
+                    WIDTH="1445"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0f28286"
+                    
+                    BASELINE="1539 1737 1695 1730" 
+                    HPOS="1537"
+                    VPOS="1695"
+                    WIDTH="158"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1539 1737 1537 1702 1692 1695 1695 1730 1695 1749 1539 1756"/></Shape>
+	    <String CONTENT="خوانند."
+                    HPOS="1537"
+                    VPOS="1695"
+                    WIDTH="158"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcc3a65d"
+                    
+                    BASELINE="245 1819 1605 1815" 
+                    HPOS="242"
+                    VPOS="1768"
+                    WIDTH="1363"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="245 1819 242 1772 1603 1768 1605 1815 1605 1829 245 1834"/></Shape>
+	    <String CONTENT="ملايم شعرى را كويند كه الفاظ آن مشهور و مستعمل و عذب باشد؛ واز تنافر و"
+                    HPOS="242"
+                    VPOS="1768"
+                    WIDTH="1363"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50bdda66"
+                    
+                    BASELINE="252 1900 1692 1890" 
+                    HPOS="249"
+                    VPOS="1845"
+                    WIDTH="1443"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="252 1900 249 1855 1690 1845 1692 1890 1692 1904 252 1914"/></Shape>
+	    <String CONTENT="غرابت کلمات خالی بود؛ و اشتفاق وی از ملایمت است؛ یعنی: میان دو جیز فراهم"
+                    HPOS="249"
+                    VPOS="1845"
+                    WIDTH="1443"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_130f1f53"
+                    
+                    BASELINE="252 1977 745 1970 1690 1977" 
+                    HPOS="249"
+                    VPOS="1921"
+                    WIDTH="1441"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="252 1977 249 1928 742 1921 745 1921 1690 1928 1690 1977 1688 1999 745 1992 252 1999"/></Shape>
+	    <String CONTENT="اوردن؛ و چون در این شعر الفاظی جمع کرده میشود که طبع سلیم زود آن را قبول"
+                    HPOS="249"
+                    VPOS="1921"
+                    WIDTH="1441"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2d3b7a3"
+                    
+                    BASELINE="247 2051 1690 2055" 
+                    HPOS="245"
+                    VPOS="2008"
+                    WIDTH="1445"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="247 2051 247 2008 1690 2013 1690 2055 1688 2072 245 2067"/></Shape>
+	    <String CONTENT="میكند وبدان مى ييوندد، اين را ملايم كفتند26 وضدش را متنافر خوانند؛ يعنى: رميده"
+                    HPOS="245"
+                    VPOS="2008"
+                    WIDTH="1445"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9739d676"
+                    
+                    BASELINE="1421 2124 1690 2131" 
+                    HPOS="1419"
+                    VPOS="2084"
+                    WIDTH="271"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1421 2124 1421 2084 1690 2091 1690 2131 1688 2157 1419 2150"/></Shape>
+	    <String CONTENT="شده از طباع 27"
+                    HPOS="1419"
+                    VPOS="2084"
+                    WIDTH="271"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ea9b2b9"
+                    
+                    BASELINE="242 2213 1605 2213" 
+                    HPOS="242"
+                    VPOS="2168"
+                    WIDTH="1363"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="242 2213 242 2168 1605 2168 1605 2213 1605 2232 242 2232"/></Shape>
+	    <String CONTENT=" سليس شعر روان را كويند؛ وسلاست، در لغت، نرم ومنقاد شدن است؟21 ودر"
+                    HPOS="242"
+                    VPOS="2168"
+                    WIDTH="1363"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b833d4b"
+                    
+                    BASELINE="1296 2381 1695 2388" 
+                    HPOS="1294"
+                    VPOS="2348"
+                    WIDTH="401"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1296 2381 1296 2348 1695 2355 1695 2388 1692 2404 1294 2397"/></Shape>
+	    <String CONTENT="* ازت، ک؛ در متن، بخت."
+                    HPOS="1294"
+                    VPOS="2348"
+                    WIDTH="401"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92ff34c5"
+                    
+                    BASELINE="1426 2449 1685 2454" 
+                    HPOS="1424"
+                    VPOS="2421"
+                    WIDTH="261"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1426 2449 1426 2421 1685 2425 1685 2454 1683 2468 1424 2463"/></Shape>
+	    <String CONTENT="** در متن، رخت."
+                    HPOS="1424"
+                    VPOS="2421"
+                    WIDTH="261"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_559196b4"
+                    
+                    BASELINE="1329 2527 1683 2520" 
+                    HPOS="1327"
+                    VPOS="2482"
+                    WIDTH="356"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1329 2527 1327 2489 1681 2482 1683 2520 1683 2531 1329 2539"/></Shape>
+	    <String CONTENT="*** ازت، ک. ن. ش."
+                    HPOS="1327"
+                    VPOS="2482"
+                    WIDTH="356"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

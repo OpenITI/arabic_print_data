@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Davani_Arz_Sipah.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1155" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1156" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1157" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="806"
+                   VPOS="3005"
+                   WIDTH="1541"
+                   HEIGHT="207"
+                   ID="eSc_textblock_050d492b"
+                   TAGREFS="BT1155">
+          <Shape><Polygon POINTS="2207 3005 2347 3049 2312 3189 2242 3212 841 3201 806 3051 853 3005"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ada00844"
+                    
+                    BASELINE="859 3037 1166 3046" 
+                    HPOS="856"
+                    VPOS="2996"
+                    WIDTH="310"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="859 3037 859 2996 1166 3005 1166 3046 1163 3095 856 3087"/></Shape>
+	    <String CONTENT="ج: هویدا"
+                    HPOS="856"
+                    VPOS="2996"
+                    WIDTH="310"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70ccfcc7"
+                    
+                    BASELINE="1847 3075 2259 3075" 
+                    HPOS="1847"
+                    VPOS="3022"
+                    WIDTH="412"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1847 3075 1847 3022 2259 3022 2259 3075 2259 3101 1847 3101"/></Shape>
+	    <String CONTENT="ا-ج : بزم و رزم"
+                    HPOS="1847"
+                    VPOS="3022"
+                    WIDTH="412"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_126d9ebc"
+                    
+                    BASELINE="1362 3054 1654 3063" 
+                    HPOS="1359"
+                    VPOS="3002"
+                    WIDTH="295"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1362 3054 1362 3002 1654 3011 1654 3063 1651 3089 1359 3081"/></Shape>
+	    <String CONTENT="2-ج: بوجه"
+                    HPOS="1359"
+                    VPOS="3002"
+                    WIDTH="295"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c025d67"
+                    
+                    BASELINE="1914 3154 2253 3163" 
+                    HPOS="1911"
+                    VPOS="3098"
+                    WIDTH="342"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="1914 3154 1914 3098 2253 3107 2253 3163 2250 3239 1911 3230"/></Shape>
+	    <String CONTENT="- الف : كنان"
+                    HPOS="1911"
+                    VPOS="3098"
+                    WIDTH="342"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18738129"
+                    
+                    BASELINE="1338 3142 1660 3157" 
+                    HPOS="1333"
+                    VPOS="3087"
+                    WIDTH="327"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="1338 3142 1338 3087 1660 3101 1660 3157 1654 3221 1333 3206"/></Shape>
+	    <String CONTENT="*ج : چنانکه"
+                    HPOS="1333"
+                    VPOS="3087"
+                    WIDTH="327"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1429"
+                   VPOS="259"
+                   WIDTH="79"
+                   HEIGHT="74"
+                   ID="eSc_textblock_de33e518"
+                   TAGREFS="BT1157">
+          <Shape><Polygon POINTS="1429 259 1429 333 1508 333 1508 259"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="468"
+                   VPOS="377"
+                   WIDTH="1908"
+                   HEIGHT="2577"
+                   ID="eSc_textblock_a224b134"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="468 377 468 2954 2376 2954 2376 377"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

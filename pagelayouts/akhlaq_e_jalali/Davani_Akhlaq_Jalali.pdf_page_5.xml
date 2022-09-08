@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Davani_Akhlaq_Jalali.pdf_page_5.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1138" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1139" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1140" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1141" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="257"
+                   VPOS="2771"
+                   WIDTH="1857"
+                   HEIGHT="278"
+                   ID="eSc_textblock_f7534411"
+                   TAGREFS="BT1138">
+          <Shape><Polygon POINTS="2044 2771 2114 2783 2114 2885 2091 3013 1974 3049 304 3037 257 2803 304 2771"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_26ca2dd6"
+                    
+                    BASELINE="280 2815 2067 2826" 
+                    HPOS="277"
+                    VPOS="2765"
+                    WIDTH="1790"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="280 2815 280 2765 2067 2777 2067 2826 2064 2850 277 2838"/></Shape>
+	    <String CONTENT="(1) صاحبقران کسی را کویند که در هنگام ولادتش قران عظمی واقع شود - و بعضی گویند که در"
+                    HPOS="277"
+                    VPOS="2765"
+                    WIDTH="1790"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dec37b22"
+                    
+                    BASELINE="277 2908 1965 2908" 
+                    HPOS="277"
+                    VPOS="2856"
+                    WIDTH="1688"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="277 2908 277 2856 1965 2856 1965 2908 1965 2937 277 2937"/></Shape>
+	    <String CONTENT="سال ولادت او زحل و مشترى را قران عظمى باشد و اين نوع قران بعد از سالهای فراوان"
+                    HPOS="277"
+                    VPOS="2856"
+                    WIDTH="1688"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19c2e2ab"
+                    
+                    BASELINE="1049 2990 1962 3002" 
+                    HPOS="1046"
+                    VPOS="2935"
+                    WIDTH="916"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1049 2990 1049 2935 1962 2946 1962 3002 1959 3057 1046 3046"/></Shape>
+	    <String CONTENT="واقع عود وآن چنین مولود را پادشامی دیر ماند *"
+                    HPOS="1046"
+                    VPOS="2935"
+                    WIDTH="916"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="281"
+                   VPOS="648"
+                   WIDTH="1819"
+                   HEIGHT="414"
+                   ID="eSc_textblock_ef683dd9"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="286 648 281 1023 2100 1062 2100 648"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="286"
+                   VPOS="1043"
+                   WIDTH="1814"
+                   HEIGHT="675"
+                   ID="eSc_textblock_b0c5f34f"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="286 1043 286 1718 2100 1718 2100 1043"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1099"
+                   VPOS="525"
+                   WIDTH="217"
+                   HEIGHT="89"
+                   ID="eSc_textblock_2a8905e9"
+                   TAGREFS="BT1140">
+          <Shape><Polygon POINTS="1099 525 1099 614 1316 614 1316 525"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="306"
+                   VPOS="1738"
+                   WIDTH="1784"
+                   HEIGHT="976"
+                   ID="eSc_textblock_dba5dc14"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="306 1738 306 2714 2090 2714 2090 1738"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

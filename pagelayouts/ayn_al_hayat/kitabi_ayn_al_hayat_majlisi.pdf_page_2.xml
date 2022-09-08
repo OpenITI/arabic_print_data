@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitabi_ayn_al_hayat_majlisi.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1158" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1159" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1160" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2075"
+          HEIGHT="2768"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2075"
+                  HEIGHT="2768">
+        
+        <TextBlock HPOS="1431"
+                   VPOS="221"
+                   WIDTH="422"
+                   HEIGHT="90"
+                   ID="eSc_textblock_d4c087ca"
+                   TAGREFS="BT1159">
+          <Shape><Polygon POINTS="1834 230 1853 302 1467 311 1431 249 1504 221"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_684384c4"
+                    
+                    BASELINE="1463 276 1832 281" 
+                    HPOS="1461"
+                    VPOS="226"
+                    WIDTH="371"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1463 276 1463 226 1832 230 1832 281 1830 302 1461 297"/></Shape>
+	    <String CONTENT="در نماز جعفر طیاراست"
+                    HPOS="1461"
+                    VPOS="226"
+                    WIDTH="371"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="230"
+                   VPOS="332"
+                   WIDTH="1651"
+                   HEIGHT="2267"
+                   ID="eSc_textblock_068a6373"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1844 332 1881 359 1871 2599 230 2590 240 332"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c2caae9e"
+                    
+                    BASELINE="237 392 1848 403" 
+                    HPOS="235"
+                    VPOS="336"
+                    WIDTH="1613"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="237 392 237 336 1848 348 1848 403 1846 426 235 415"/></Shape>
+	    <String CONTENT="نمودهاند و برهمه اعمال ترجیح دارد نماز پنجاه و یکرکعت انست که هفده رکعت آن نماز"
+                    HPOS="235"
+                    VPOS="336"
+                    WIDTH="1613"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc556bbc"
+                    
+                    BASELINE="240 477 1848 495" 
+                    HPOS="237"
+                    VPOS="426"
+                    WIDTH="1611"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="240 477 240 426 1848 445 1848 495 1846 521 237 502"/></Shape>
+	    <String CONTENT="بنجگانه است و باقی هشت رکعت نافلهٔ پیشین است که پیش از نماز ظهرمی باید کرد و هشت رکعت"
+                    HPOS="237"
+                    VPOS="426"
+                    WIDTH="1611"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_342ca4f9"
+                    
+                    BASELINE="240 565 1851 581" 
+                    HPOS="237"
+                    VPOS="514"
+                    WIDTH="1614"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="240 565 240 514 1851 530 1851 581 1848 608 237 592"/></Shape>
+	    <String CONTENT="نافله پسین است که پیش از فریضهٔ عصرمیباید کرد و چهارر کعت نافلهٔ شام است که بعد از نمازشام"
+                    HPOS="237"
+                    VPOS="514"
+                    WIDTH="1614"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de4a5384"
+                    
+                    BASELINE="240 657 1853 673" 
+                    HPOS="237"
+                    VPOS="604"
+                    WIDTH="1616"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="240 657 240 604 1853 620 1853 673 1851 696 237 680"/></Shape>
+	    <String CONTENT="می باید کرد و دور کعت نمازوتیره است که بعد از نه از خفتن نشسته میکنند و بیکر کعت حساب"
+                    HPOS="237"
+                    VPOS="604"
+                    WIDTH="1616"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_debdfcb0"
+                    
+                    BASELINE="242 745 1851 756" 
+                    HPOS="240"
+                    VPOS="694"
+                    WIDTH="1611"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="242 745 242 694 1851 705 1851 756 1848 781 240 770"/></Shape>
+	    <String CONTENT="میشود وهشت ر کعت نمازشب است بادور کعت نمازشفع و یکر کعت ونر که بعد از نصف شب"
+                    HPOS="240"
+                    VPOS="694"
+                    WIDTH="1611"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4a97681"
+                    
+                    BASELINE="240 835 1848 848" 
+                    HPOS="237"
+                    VPOS="784"
+                    WIDTH="1611"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="240 835 240 784 1848 798 1848 848 1846 871 237 858"/></Shape>
+	    <String CONTENT="می باید کرد و دور کعت نافلهٔ صبح است که پیش از نماز صبح می باید کرد واین نافله هردور کعت"
+                    HPOS="237"
+                    VPOS="784"
+                    WIDTH="1611"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6088ee6"
+                    
+                    BASELINE="240 931 1848 938" 
+                    HPOS="237"
+                    VPOS="876"
+                    WIDTH="1611"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="240 931 240 876 1848 883 1848 938 1846 959 237 952"/></Shape>
+	    <String CONTENT="را بیك سلام می باید کرد اینها در فضیلت و تأکید تالی مرتبهٔ و اجباتند که حضرت رسول (ص"
+                    HPOS="237"
+                    VPOS="876"
+                    WIDTH="1611"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d27b7512"
+                    
+                    BASELINE="240 1012 1851 1024" 
+                    HPOS="237"
+                    VPOS="961"
+                    WIDTH="1614"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="240 1012 240 961 1851 973 1851 1024 1848 1049 237 1038"/></Shape>
+	    <String CONTENT="همیشه براینها مداومت مینمودهاند و اگرترك شود مانند و اجبات قضامیباید کردد یگراز جملهٔ"
+                    HPOS="237"
+                    VPOS="961"
+                    WIDTH="1614"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_865aa4b8"
+                    
+                    BASELINE="235 1104 1851 1114" 
+                    HPOS="233"
+                    VPOS="1056"
+                    WIDTH="1618"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="235 1104 235 1056 1851 1065 1851 1114 1848 1141 233 1132"/></Shape>
+	    <String CONTENT="سن آنحضرت روزهٔ هرماه سه روزاست یعنی پنجشنبه اول ماه و چهارشنیهٔ اول ازدههٔ میان ماه"
+                    HPOS="233"
+                    VPOS="1056"
+                    WIDTH="1618"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9684e255"
+                    
+                    BASELINE="240 1190 1848 1204" 
+                    HPOS="237"
+                    VPOS="1141"
+                    WIDTH="1611"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="240 1190 240 1141 1848 1155 1848 1204 1846 1227 237 1213"/></Shape>
+	    <String CONTENT="وینج شنبه آخروتمام ماه مبارك بشعبان که حضرت رسول (ص) دراین ماه روزه بودند تا ازدنیا"
+                    HPOS="237"
+                    VPOS="1141"
+                    WIDTH="1611"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b5d8664"
+                    
+                    BASELINE="237 1282 1311 1296 1846 1287" 
+                    HPOS="235"
+                    VPOS="1222"
+                    WIDTH="1611"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="237 1282 237 1222 1308 1236 1844 1227 1846 1287 1846 1314 1311 1324 1308 1324 235 1310"/></Shape>
+	    <String CONTENT="مفارفت نمودند و این سه روزنیزاگرترك شود قضا میباید کرد دیگرازاعمال مؤکد که فضایل"
+                    HPOS="235"
+                    VPOS="1222"
+                    WIDTH="1611"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08af25ae"
+                    
+                    BASELINE="230 1372 1848 1381" 
+                    HPOS="228"
+                    VPOS="1321"
+                    WIDTH="1620"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="230 1372 230 1321 1848 1330 1848 1381 1846 1404 228 1395"/></Shape>
+	    <String CONTENT="نامتناهی در آن واردشده است نمازجعفر طیاراست و آن چهارر کعت است بدوسلام و عستحبست"
+                    HPOS="228"
+                    VPOS="1321"
+                    WIDTH="1620"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99963108"
+                    
+                    BASELINE="237 1460 1844 1471" 
+                    HPOS="235"
+                    VPOS="1407"
+                    WIDTH="1609"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="237 1460 237 1407 1844 1418 1844 1471 1841 1497 235 1485"/></Shape>
+	    <String CONTENT="که درر کعت اول سورهٔ حمد واذازلزلة بخواند و درر کعت دویم سورهٔ حمد و سورهٔ عادیات"
+                    HPOS="235"
+                    VPOS="1407"
+                    WIDTH="1609"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40597424"
+                    
+                    BASELINE="235 1550 1851 1561" 
+                    HPOS="233"
+                    VPOS="1499"
+                    WIDTH="1618"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="235 1550 235 1499 1851 1510 1851 1561 1848 1584 233 1573"/></Shape>
+	    <String CONTENT="ودررکعت سیم سورهٔ حمد واداجاء نصرالله ودرر کعت جهارم سورهٔ حمد وقل هوالنه احد و"
+                    HPOS="233"
+                    VPOS="1499"
+                    WIDTH="1618"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ea47215"
+                    
+                    BASELINE="235 1642 1851 1649" 
+                    HPOS="233"
+                    VPOS="1593"
+                    WIDTH="1618"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="235 1642 235 1593 1851 1600 1851 1649 1848 1674 233 1667"/></Shape>
+	    <String CONTENT="اگردرهرر کعتی سورهٔ قل هوالله احد بخواند خوبست بعدازسوره درهرر کعتی پانزده عرتبه"
+                    HPOS="233"
+                    VPOS="1593"
+                    WIDTH="1618"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e917091a"
+                    
+                    BASELINE="233 1743 1846 1739" 
+                    HPOS="230"
+                    VPOS="1679"
+                    WIDTH="1616"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="233 1743 230 1683 1844 1679 1846 1739 1846 1762 233 1766"/></Shape>
+	    <String CONTENT="بگوید سبحان الله والحمه لله ولا اله الاالله والله اکبرودر هرر کوعی و درهرسر برداشتن ازرکوع"
+                    HPOS="230"
+                    VPOS="1679"
+                    WIDTH="1616"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbc8b3c1"
+                    
+                    BASELINE="228 1822 1851 1833" 
+                    HPOS="226"
+                    VPOS="1776"
+                    WIDTH="1625"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="228 1822 228 1776 1851 1787 1851 1833 1848 1859 226 1847"/></Shape>
+	    <String CONTENT="ودرهرسجدهٔ ودرهرسر برداشتن از سجودده مرتبه بگوید وسنت است که درسجدهٔ اخر بعد"
+                    HPOS="226"
+                    VPOS="1776"
+                    WIDTH="1625"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d772c37"
+                    
+                    BASELINE="230 1907 1075 1923 1853 1916" 
+                    HPOS="228"
+                    VPOS="1849"
+                    WIDTH="1625"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="230 1907 230 1849 1075 1866 1851 1859 1853 1916 1853 1946 1075 1953 1073 1953 228 1937"/></Shape>
+	    <String CONTENT="ارتسیحات این دعا بخواند (سبحان من لبس العزوالوقار سبحان من تعطف بالمجد و تکرم به"
+                    HPOS="228"
+                    VPOS="1849"
+                    WIDTH="1625"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3c18bed"
+                    
+                    BASELINE="228 2002 1851 2009" 
+                    HPOS="226"
+                    VPOS="1956"
+                    WIDTH="1625"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="228 2002 228 1956 1851 1962 1851 2009 1848 2036 226 2029"/></Shape>
+	    <String CONTENT="سحان من لاینیغی التسیح الاله سبحان من احصی کل شیء علمه سیحان ذی المن والنیم سبحان"
+                    HPOS="226"
+                    VPOS="1956"
+                    WIDTH="1625"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_335ff6c3"
+                    
+                    BASELINE="233 2094 1855 2103" 
+                    HPOS="230"
+                    VPOS="2046"
+                    WIDTH="1625"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="233 2094 233 2046 1855 2055 1855 2103 1853 2133 230 2124"/></Shape>
+	    <String CONTENT="دی القدرة والكرم سحان دی العزة والفضل سبحان ذی القوة والطول اللهمانى اسئلك بمعاقد"
+                    HPOS="230"
+                    VPOS="2046"
+                    WIDTH="1625"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aff85661"
+                    
+                    BASELINE="235 2182 750 2195 1858 2191" 
+                    HPOS="233"
+                    VPOS="2129"
+                    WIDTH="1625"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="235 2182 235 2129 750 2142 1855 2138 1858 2191 1858 2230 750 2235 747 2235 233 2221"/></Shape>
+	    <String CONTENT="العرمن عرشك ومنتهى الرحمة من كتابك وباسمك الاعظم و كلماتك التامة التى تمت صدقا وعدلاً"
+                    HPOS="233"
+                    VPOS="2129"
+                    WIDTH="1625"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caa2e66e"
+                    
+                    BASELINE="235 2283 1855 2283" 
+                    HPOS="235"
+                    VPOS="2235"
+                    WIDTH="1620"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="235 2283 235 2235 1855 2235 1855 2283 1855 2318 235 2318"/></Shape>
+	    <String CONTENT="ان تصلی علی محمد وآل محمد واهل بیته) بعدازآن حاجت خودرا از حفتعالی بطلبد چون از"
+                    HPOS="235"
+                    VPOS="2235"
+                    WIDTH="1620"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0454308"
+                    
+                    BASELINE="228 2368 680 2380 1848 2375" 
+                    HPOS="226"
+                    VPOS="2318"
+                    WIDTH="1622"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="228 2368 228 2318 680 2329 1846 2325 1848 2375 1848 2410 680 2415 678 2415 226 2403"/></Shape>
+	    <String CONTENT="نازفارغ شود تسیح حضرت فاطمه زهرا(ه) را بخواند و در احادیث معتبره واردشده است"
+                    HPOS="226"
+                    VPOS="2318"
+                    WIDTH="1622"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5d9033c"
+                    
+                    BASELINE="233 2463 1324 2475 1798 2468" 
+                    HPOS="230"
+                    VPOS="2408"
+                    WIDTH="1568"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="233 2463 233 2408 1322 2419 1795 2412 1798 2468 1798 2502 1324 2509 1322 2509 230 2498"/></Shape>
+	    <String CONTENT="هرکه این نمازرا یکند گناهان او آمرزیده شود اگرچه بقدر کف دریاوریگ بیایان گناه"
+                    HPOS="230"
+                    VPOS="2408"
+                    WIDTH="1568"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aed5c433"
+                    
+                    BASELINE="230 2574 1345 2571 1807 2558" 
+                    HPOS="228"
+                    VPOS="2498"
+                    WIDTH="1579"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="230 2574 228 2514 1343 2511 1804 2498 1807 2558 1807 2585 1345 2599 1345 2599 230 2601"/></Shape>
+	    <String CONTENT="شهیاصد ودوارده هرارحسنه ازیرای او بنویسند که هرحسنه بزر گتراز کوه احدباشد واین"
+                    HPOS="228"
+                    VPOS="2498"
+                    WIDTH="1579"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1015"
+                   VPOS="2609"
+                   WIDTH="128"
+                   HEIGHT="87"
+                   ID="eSc_textblock_06f12afa"
+                   TAGREFS="BT1160">
+          <Shape><Polygon POINTS="1015 2609 1015 2696 1143 2696 1143 2609"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

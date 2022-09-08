@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>hajj_sayyah_khatirat.pdf_page_23.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1132" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1133" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1134" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2200"
+          HEIGHT="3069"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2200"
+                  HEIGHT="3069">
+        
+        <TextBlock HPOS="1800"
+                   VPOS="317"
+                   WIDTH="110"
+                   HEIGHT="79"
+                   ID="eSc_textblock_bcf53d88"
+                   TAGREFS="BT1133">
+          <Shape><Polygon POINTS="1811 386 1800 337 1841 317 1910 327 1900 396"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f49b488d"
+                    
+                    BASELINE="1836 358 1870 363" 
+                    HPOS="1831"
+                    VPOS="319"
+                    WIDTH="44"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1836 358 1841 319 1875 324 1870 363 1864 378 1831 373"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="1831"
+                    VPOS="319"
+                    WIDTH="44"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="250"
+                   VPOS="297"
+                   WIDTH="430"
+                   HEIGHT="86"
+                   ID="eSc_textblock_3c1b6494"
+                   TAGREFS="BT1132">
+          <Shape><Polygon POINTS="250 297 250 383 680 383 680 297"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="183"
+                   VPOS="401"
+                   WIDTH="1707"
+                   HEIGHT="2383"
+                   ID="eSc_textblock_6a4ab6b7"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="235 401 183 2781 1890 2784 1890 401"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

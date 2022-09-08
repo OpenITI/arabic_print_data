@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Davani_Arz_Sipah.pdf_page_13.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1155" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1156" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1157" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="210"
+                   VPOS="3098"
+                   WIDTH="1751"
+                   HEIGHT="91"
+                   ID="eSc_textblock_6b05f9dc"
+                   TAGREFS="BT1155">
+          <Shape><Polygon POINTS="1903 3122 1961 3189 210 3189 222 3110 1005 3098"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a6a6ba68"
+                    
+                    BASELINE="245 3163 1064 3168" 
+                    HPOS="242"
+                    VPOS="3104"
+                    WIDTH="822"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="245 3163 245 3104 1064 3110 1064 3168 1061 3218 242 3212"/></Shape>
+	    <String CONTENT="3-ج : از اینجا تا &quot;نقش بند&quot; را ندارد"
+                    HPOS="242"
+                    VPOS="3104"
+                    WIDTH="822"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4e2fa4a"
+                    
+                    BASELINE="1619 3171 1926 3171" 
+                    HPOS="1619"
+                    VPOS="3122"
+                    WIDTH="307"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1619 3171 1619 3122 1926 3122 1926 3171 1926 3230 1619 3230"/></Shape>
+	    <String CONTENT="ج خوان"
+                    HPOS="1619"
+                    VPOS="3122"
+                    WIDTH="307"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f21df35"
+                    
+                    BASELINE="1166 3171 1502 3171" 
+                    HPOS="1166"
+                    VPOS="3113"
+                    WIDTH="336"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1166 3171 1166 3113 1502 3113 1502 3171 1502 3227 1166 3227"/></Shape>
+	    <String CONTENT="2- الف : تعالى"
+                    HPOS="1166"
+                    VPOS="3113"
+                    WIDTH="336"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="177"
+                   VPOS="421"
+                   WIDTH="1903"
+                   HEIGHT="2622"
+                   ID="eSc_textblock_119aafc5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="177 421 177 3043 2080 3043 2080 421"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1030"
+                   VPOS="288"
+                   WIDTH="123"
+                   HEIGHT="109"
+                   ID="eSc_textblock_d1313379"
+                   TAGREFS="BT1157">
+          <Shape><Polygon POINTS="1030 288 1030 397 1153 397 1153 288"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

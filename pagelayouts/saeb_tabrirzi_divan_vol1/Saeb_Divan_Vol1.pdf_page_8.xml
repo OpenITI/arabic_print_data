@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Saeb_Divan_Vol1.pdf_page_8.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1418" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1419" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1420" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1421" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1422" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1667"
+          HEIGHT="2638"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1667"
+                  HEIGHT="2638">
+        
+        <TextBlock HPOS="88"
+                   VPOS="2426"
+                   WIDTH="1521"
+                   HEIGHT="143"
+                   ID="eSc_textblock_2d4d0348"
+                   TAGREFS="BT1420">
+          <Shape><Polygon POINTS="1609 2569 1609 2426 88 2426 88 2569"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="930"
+                   VPOS="624"
+                   WIDTH="673"
+                   HEIGHT="78"
+                   ID="eSc_textblock_a0493677"
+                   TAGREFS="BT1418">
+          <Shape><Polygon POINTS="930 624 930 702 1603 702 1603 624"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="62"
+                   VPOS="315"
+                   WIDTH="1564"
+                   HEIGHT="2107"
+                   ID="eSc_textblock_66f99c5c"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1626 2422 1626 715 907 715 907 608 1625 580 1615 377 1612 320 68 315 62 2422"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="732"
+                   VPOS="218"
+                   WIDTH="230"
+                   HEIGHT="75"
+                   ID="eSc_textblock_43460a13"
+                   TAGREFS="BT1418">
+          <Shape><Polygon POINTS="732 218 732 293 962 293 962 218"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1531"
+                   VPOS="224"
+                   WIDTH="65"
+                   HEIGHT="56"
+                   ID="eSc_textblock_16a35ec6"
+                   TAGREFS="BT1422">
+          <Shape><Polygon POINTS="1531 224 1531 280 1596 280 1596 224"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d0e9a75c"
+                    
+                    BASELINE="1543 263 1572 263" 
+                    HPOS="1543"
+                    VPOS="230"
+                    WIDTH="29"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1543 263 1543 230 1572 230 1572 263 1572 281 1543 281"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1543"
+                    VPOS="230"
+                    WIDTH="29"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a45fae5"
+                    
+                    BASELINE="92 384 1576 375" 
+                    HPOS="90"
+                    VPOS="331"
+                    WIDTH="1486"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="92 384 90 340 1574 331 1576 375 1576 389 92 397"/></Shape>
+	    <String CONTENT="ز دیوان مولانا ونیز جلد دوم تذکرهٔ شعرای کشمیر، تألیف آقای سید حسام الدین راشدی،"
+                    HPOS="90"
+                    VPOS="331"
+                    WIDTH="1486"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01cd040b"
+                    
+                    BASELINE="1308 439 1583 439" 
+                    HPOS="1308"
+                    VPOS="406"
+                    WIDTH="275"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1308 439 1308 406 1583 406 1583 439 1583 457 1308 457"/></Shape>
+	    <String CONTENT="مراجعه بفرمایند."
+                    HPOS="1308"
+                    VPOS="406"
+                    WIDTH="275"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_abadc377"
+                    
+                    BASELINE="94 501 705 510 1145 501 1440 512" 
+                    HPOS="92"
+                    VPOS="457"
+                    WIDTH="1348"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="94 501 94 457 703 466 840 463 1143 457 1145 457 1440 468 1440 512 1438 531 1143 521 840 527 705 529 703 529 92 521"/></Shape>
+	    <String CONTENT="پس از این مختصر، بهشرح نسخی که در تتدوین اثر مورد استفاده قرار گرفتهاند -"
+                    HPOS="92"
+                    VPOS="457"
+                    WIDTH="1348"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a850f9c"
+                    
+                    BASELINE="892 571 1581 560" 
+                    HPOS="890"
+                    VPOS="518"
+                    WIDTH="691"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="892 571 890 529 1579 518 1581 560 1581 575 892 586"/></Shape>
+	    <String CONTENT="به نرتیب اعتبار و اهمیت آنها  می پردازم."
+                    HPOS="890"
+                    VPOS="518"
+                    WIDTH="691"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35972240"
+                    
+                    BASELINE="945 690 1585 683" 
+                    HPOS="943"
+                    VPOS="641"
+                    WIDTH="642"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="945 690 943 648 1583 641 1585 683 1585 694 945 701"/></Shape>
+	    <String CONTENT="مشخصات نسخهها و نشانهٔ اختصاری آنها"
+                    HPOS="943"
+                    VPOS="641"
+                    WIDTH="642"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03205fb1"
+                    
+                    BASELINE="96 760 1576 749" 
+                    HPOS="94"
+                    VPOS="705"
+                    WIDTH="1482"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="96 760 94 716 1574 705 1576 749 1576 762 96 773"/></Shape>
+	    <String CONTENT="1- نسخهٔ محفوظ در کتابخانهٔ دیوان هند (ایندیا آفیس) بهشمارۀ 560 نسخ خطی فارسی،"
+                    HPOS="94"
+                    VPOS="705"
+                    WIDTH="1482"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30593c86"
+                    
+                    BASELINE="530 819 1585 815" 
+                    HPOS="527"
+                    VPOS="776"
+                    WIDTH="1058"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="530 819 527 780 1583 776 1585 815 1585 826 530 830"/></Shape>
+	    <String CONTENT="در 488 برگ چهارستونی و هر صفحه دارای72 بییت با نشانه س."
+                    HPOS="527"
+                    VPOS="776"
+                    WIDTH="1058"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf9b4f2a"
+                    
+                    BASELINE="96 883 1440 881" 
+                    HPOS="94"
+                    VPOS="835"
+                    WIDTH="1346"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="96 883 94 837 1438 835 1440 881 1440 890 96 892"/></Shape>
+	    <String CONTENT="میکر وفیلم این نسخه برای کنابخانهٔ دانشکدهٔ ادبیات نهیه شده بود. آنرا چاپ کردم"
+                    HPOS="94"
+                    VPOS="835"
+                    WIDTH="1346"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26f73af3"
+                    
+                    BASELINE="736 938 1583 943" 
+                    HPOS="734"
+                    VPOS="896"
+                    WIDTH="849"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="736 938 736 896 1583 901 1583 943 1581 956 734 951"/></Shape>
+	    <String CONTENT="و دستنویس خودرا از آغاز تا پایان باآن مقابله کردم."
+                    HPOS="734"
+                    VPOS="896"
+                    WIDTH="849"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57c9968d"
+                    
+                    BASELINE="94 1009 266 1000 1447 1002" 
+                    HPOS="90"
+                    VPOS="951"
+                    WIDTH="1357"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="94 1009 90 960 261 951 266 951 1447 954 1447 1002 1444 1015 266 1015 94 1022"/></Shape>
+	    <String CONTENT="درمیان شمسه ای زیبا، برپشت برگ اول این نسخهٔ نفیس و مفصل - که هیچ افنادگی"
+                    HPOS="90"
+                    VPOS="951"
+                    WIDTH="1357"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7041287"
+                    
+                    BASELINE="94 1070 1583 1061" 
+                    HPOS="92"
+                    VPOS="1020"
+                    WIDTH="1491"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="94 1070 92 1028 1581 1020 1583 1061 1583 1072 94 1081"/></Shape>
+	    <String CONTENT="هم ندارد - نوشته شده: &quot;دبوان صائب از اوٓل تا آخر بهنظر واصلاح صائب رسیده&quot;. در بالای"
+                    HPOS="92"
+                    VPOS="1020"
+                    WIDTH="1491"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f36acd5e"
+                    
+                    BASELINE="881 1125 1585 1125" 
+                    HPOS="881"
+                    VPOS="1092"
+                    WIDTH="704"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="881 1125 881 1092 1585 1092 1585 1125 1585 1140 881 1140"/></Shape>
+	    <String CONTENT="صفحه اببن دو ببت از مولانا نوشته شده آست:"
+                    HPOS="881"
+                    VPOS="1092"
+                    WIDTH="704"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_beed5a36"
+                    
+                    BASELINE="870 1191 1539 1187" 
+                    HPOS="868"
+                    VPOS="1145"
+                    WIDTH="671"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="870 1191 868 1149 1537 1145 1539 1187 1539 1200 870 1204"/></Shape>
+	    <String CONTENT="محو کی از صفحهٔ دلها شود آثار من؟"
+                    HPOS="868"
+                    VPOS="1145"
+                    WIDTH="671"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfe6816f"
+                    
+                    BASELINE="136 1195 316 1187 809 1193" 
+                    HPOS="134"
+                    VPOS="1140"
+                    WIDTH="675"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="136 1195 134 1149 314 1140 316 1140 809 1147 809 1193 807 1209 316 1202 136 1211"/></Shape>
+	    <String CONTENT="من همان ذوقم که میبابند از افكار1 من"
+                    HPOS="134"
+                    VPOS="1140"
+                    WIDTH="675"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be91b889"
+                    
+                    BASELINE="866 1319 1535 1319" 
+                    HPOS="866"
+                    VPOS="1275"
+                    WIDTH="669"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="866 1319 866 1275 1535 1275 1535 1319 1535 1329 866 1329"/></Shape>
+	    <String CONTENT="نیست از کرداره ما بیحاصلان را بهره ای"
+                    HPOS="866"
+                    VPOS="1275"
+                    WIDTH="669"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3028b6ea"
+                    
+                    BASELINE="140 1312 815 1321" 
+                    HPOS="138"
+                    VPOS="1266"
+                    WIDTH="677"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="140 1312 140 1266 815 1275 815 1321 813 1329 138 1321"/></Shape>
+	    <String CONTENT="چون قلم از ما همین گفتار میماند بهچا"
+                    HPOS="138"
+                    VPOS="1266"
+                    WIDTH="677"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2eeb4b96"
+                    
+                    BASELINE="98 1378 1581 1376" 
+                    HPOS="96"
+                    VPOS="1336"
+                    WIDTH="1485"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="98 1378 96 1338 1579 1336 1581 1376 1581 1389 98 1391"/></Shape>
+	    <String CONTENT="ر آخر مثنوى رزميه، عبارت &quot;بلغ&quot; و درپابان ديوان هم &quot;بلغ صائب&quot; دارد اصلاحاتی در"
+                    HPOS="96"
+                    VPOS="1336"
+                    WIDTH="1485"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58762e04"
+                    
+                    BASELINE="94 1444 1583 1433" 
+                    HPOS="92"
+                    VPOS="1391"
+                    WIDTH="1491"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="94 1444 92 1402 1581 1391 1583 1433 1583 1446 94 1457"/></Shape>
+	    <String CONTENT="نسخه به دست صائب صورت گرفته است. شروع آن با قصاید است سپس مثنوی رزمیه (مننوی"
+                    HPOS="92"
+                    VPOS="1391"
+                    WIDTH="1491"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cecd6a93"
+                    
+                    BASELINE="98 1501 1583 1497" 
+                    HPOS="96"
+                    VPOS="1457"
+                    WIDTH="1487"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="98 1501 96 1461 1581 1457 1583 1497 1583 1512 98 1516"/></Shape>
+	    <String CONTENT="مختصری درفتح قندهار)، آنگاه قطعهٔ کوتاهی درتاریخ جلوس مجدد شاه صفی برنخت بانام"
+                    HPOS="96"
+                    VPOS="1457"
+                    WIDTH="1487"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_217556e6"
+                    
+                    BASELINE="96 1565 1585 1560" 
+                    HPOS="94"
+                    VPOS="1519"
+                    WIDTH="1491"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="96 1565 94 1523 1583 1519 1585 1560 1585 1574 96 1578"/></Shape>
+	    <String CONTENT="شاه سليمان. پساز آنها غزليات است به نرتیب الفبابی، بعد 17 غزل ترکی است و درآخر،"
+                    HPOS="94"
+                    VPOS="1519"
+                    WIDTH="1491"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17cef0ca"
+                    
+                    BASELINE="1110 1620 1587 1626" 
+                    HPOS="1108"
+                    VPOS="1578"
+                    WIDTH="479"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1110 1620 1110 1578 1587 1584 1587 1626 1585 1642 1108 1635"/></Shape>
+	    <String CONTENT="مطالع و متفر قات آمده است."
+                    HPOS="1108"
+                    VPOS="1578"
+                    WIDTH="479"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_749410b6"
+                    
+                    BASELINE="94 1690 1449 1686" 
+                    HPOS="92"
+                    VPOS="1644"
+                    WIDTH="1357"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="94 1690 92 1648 1447 1644 1449 1686 1449 1699 94 1703"/></Shape>
+	    <String CONTENT="درححاشبهٔ بعضی از صفحات هم غزلهابی بمخط کانب دبوان افروده شده است. ابن نسخه"
+                    HPOS="92"
+                    VPOS="1644"
+                    WIDTH="1357"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3b6a7c4"
+                    
+                    BASELINE="868 1747 1585 1756" 
+                    HPOS="866"
+                    VPOS="1708"
+                    WIDTH="719"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="868 1747 868 1708 1585 1716 1585 1756 1583 1769 866 1760"/></Shape>
+	    <String CONTENT="خزلهای بسیباری دارد که درنسخ دیگر نیست."
+                    HPOS="866"
+                    VPOS="1708"
+                    WIDTH="719"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d06b1c7"
+                    
+                    BASELINE="94 1822 1583 1815" 
+                    HPOS="92"
+                    VPOS="1774"
+                    WIDTH="1491"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="94 1822 92 1780 1581 1774 1583 1815 1583 1826 94 1833"/></Shape>
+	    <String CONTENT="3 نسخهٔ منعلسق به کتابخانهٔ ملی ملك درتهران، در282 برگ چهارستونی و هرصفه دارای"
+                    HPOS="92"
+                    VPOS="1774"
+                    WIDTH="1491"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a574da35"
+                    
+                    BASELINE="983 1881 1581 1881" 
+                    HPOS="983"
+                    VPOS="1844"
+                    WIDTH="598"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="983 1881 983 1844 1581 1844 1581 1881 1581 1897 983 1897"/></Shape>
+	    <String CONTENT="6بيت، تنا پایان حرف &quot;د&quot;: بانشانهٔ م"
+                    HPOS="983"
+                    VPOS="1844"
+                    WIDTH="598"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7af306c7"
+                    
+                    BASELINE="96 1945 950 1941 1433 1949" 
+                    HPOS="94"
+                    VPOS="1892"
+                    WIDTH="1339"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="96 1945 94 1897 947 1892 950 1892 1433 1901 1433 1949 1431 1963 947 1954 96 1958"/></Shape>
+	    <String CONTENT="بکی دو برگ از آغاز نسخه افتاده است ودرپایان آن عبارت &quot;بلغ صائب&quot; دیده میشود."
+                    HPOS="94"
+                    VPOS="1892"
+                    WIDTH="1339"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3039f625"
+                    
+                    BASELINE="92 2007 1229 2004 1587 2013" 
+                    HPOS="90"
+                    VPOS="1956"
+                    WIDTH="1497"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="92 2007 90 1958 1227 1956 1229 1956 1587 1965 1587 2013 1585 2026 1227 2018 92 2020"/></Shape>
+	    <String CONTENT="برپشت برگ آخر و بهخطی دیگر، سه غزل نوشته شده که یکی از آنها مکرر است. این نسخه"
+                    HPOS="90"
+                    VPOS="1956"
+                    WIDTH="1497"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13ec299a"
+                    
+                    BASELINE="96 2075 1581 2064" 
+                    HPOS="94"
+                    VPOS="2020"
+                    WIDTH="1487"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="96 2075 94 2031 1579 2020 1581 2064 1581 2077 96 2088"/></Shape>
+	    <String CONTENT="ه غزل درحواشی بمخط صائب دارد. مولانا در نسخه اصلاحاتی کرده، گاه بیتی افزوده و"
+                    HPOS="94"
+                    VPOS="2020"
+                    WIDTH="1487"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8d92f52"
+                    
+                    BASELINE="268 2136 1581 2132" 
+                    HPOS="266"
+                    VPOS="2090"
+                    WIDTH="1315"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="268 2136 266 2095 1579 2090 1581 2132 1581 2145 268 2149"/></Shape>
+	    <String CONTENT="بر دو سه بیت هم خط کشیده است (موارد حذف را درحواشی غزلها تذکر داده ام)."
+                    HPOS="266"
+                    VPOS="2090"
+                    WIDTH="1315"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9caa906a"
+                    
+                    BASELINE="94 2200 1440 2196" 
+                    HPOS="92"
+                    VPOS="2149"
+                    WIDTH="1348"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="94 2200 92 2154 1438 2149 1440 2196 1440 2207 94 2211"/></Shape>
+	    <String CONTENT="ثرتیب غزلها - و نیز تا اندازهٔ زیادی، ابیات - مانند نسخهٔ قبلی ونیز نسخهٔ دانشکده"
+                    HPOS="92"
+                    VPOS="2149"
+                    WIDTH="1348"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e06af295"
+                    
+                    BASELINE="811 2257 1583 2251" 
+                    HPOS="809"
+                    VPOS="2209"
+                    WIDTH="774"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="811 2257 809 2215 1581 2209 1583 2251 1583 2266 811 2273"/></Shape>
+	    <String CONTENT="است با ابن تفاوت که بعضی از غزلها را فاقد است."
+                    HPOS="809"
+                    VPOS="2209"
+                    WIDTH="774"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1082470a"
+                    
+                    BASELINE="92 2332 1438 2325" 
+                    HPOS="90"
+                    VPOS="2277"
+                    WIDTH="1348"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="92 2332 90 2284 1436 2277 1438 2325 1438 2336 92 2343"/></Shape>
+	    <String CONTENT="میکرو فیلم این نسخه به لطف استاد گلچین معانی و محبست محقق و شاعر فاضل، آقای"
+                    HPOS="90"
+                    VPOS="2277"
+                    WIDTH="1348"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1c9daa2"
+                    
+                    BASELINE="92 2396 1585 2382" 
+                    HPOS="90"
+                    VPOS="2339"
+                    WIDTH="1495"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="92 2396 90 2352 1583 2339 1585 2382 1585 2396 92 2409"/></Shape>
+	    <String CONTENT="احمد سهیلی خوانساری، نهیه شد (بخصوص درزمانی که در کتابخانههای متعلق به آستان قدس"
+                    HPOS="90"
+                    VPOS="2339"
+                    WIDTH="1495"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9308a82"
+                    
+                    BASELINE="738 263 947 263" 
+                    HPOS="738"
+                    VPOS="226"
+                    WIDTH="209"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="738 263 738 226 947 226 947 263 947 276 738 276"/></Shape>
+	    <String CONTENT="دبوان صائب"
+                    HPOS="738"
+                    VPOS="226"
+                    WIDTH="209"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0b737dc"
+                    
+                    BASELINE="90 2503 1581 2497" 
+                    HPOS="87"
+                    VPOS="2459"
+                    WIDTH="1494"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="90 2503 87 2466 1579 2459 1581 2497 1581 2510 90 2517"/></Shape>
+	    <String CONTENT="1- برسنگ قبر مولانا ونيز دربك غزل با پیش مصراعی دیگر: گفتار؛ برای توضیح بیشتر، به حاشیهٔ این بیت"
+                    HPOS="87"
+                    VPOS="2459"
+                    WIDTH="1494"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d676e793"
+                    
+                    BASELINE="1211 2543 1583 2543" 
+                    HPOS="1211"
+                    VPOS="2512"
+                    WIDTH="372"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1211 2543 1211 2512 1583 2512 1583 2543 1583 2561 1211 2561"/></Shape>
+	    <String CONTENT="در بخش مطالع رجوع شود."
+                    HPOS="1211"
+                    VPOS="2512"
+                    WIDTH="372"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

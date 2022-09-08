@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Sami_Tazkirat_Al_Muluk.pdf_page_21.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1481" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1482" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1483" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1484" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1485" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1113"
+                   VPOS="3029"
+                   WIDTH="887"
+                   HEIGHT="166"
+                   ID="eSc_textblock_28f5462c"
+                   TAGREFS="BT1483">
+          <Shape><Polygon POINTS="2000 3195 2000 3056 1113 3029 1113 3195"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="53"
+                   VPOS="426"
+                   WIDTH="1974"
+                   HEIGHT="2583"
+                   ID="eSc_textblock_00b72f05"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2027 426 2027 3009 53 3009 53 426"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="954"
+                   VPOS="254"
+                   WIDTH="192"
+                   HEIGHT="79"
+                   ID="eSc_textblock_44681955"
+                   TAGREFS="BT1485">
+          <Shape><Polygon POINTS="954 254 954 333 1146 333 1146 254"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_dfb3ce12"
+                    
+                    BASELINE="111 467 1993 473" 
+                    HPOS="108"
+                    VPOS="409"
+                    WIDTH="1885"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="111 467 111 409 1993 415 1993 473 1990 505 108 499"/></Shape>
+	    <String CONTENT="اخراجات ششماههٔ سر کار خاصهٔ شریفه را بمحصلی احدی بعد از وضع باقی نقدی و"
+                    HPOS="108"
+                    VPOS="409"
+                    WIDTH="1885"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7880713c"
+                    
+                    BASELINE="111 572 1984 587" 
+                    HPOS="108"
+                    VPOS="511"
+                    WIDTH="1876"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="111 572 111 511 1984 526 1984 587 1982 613 108 599"/></Shape>
+	    <String CONTENT="جنسی واجناس همه سالجات که ازولایات حسب الرقم مفرربوده که انفاد شود، بوقوف"
+                    HPOS="108"
+                    VPOS="511"
+                    WIDTH="1876"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4bf72b37"
+                    
+                    BASELINE="108 686 950 701 1996 684" 
+                    HPOS="105"
+                    VPOS="608"
+                    WIDTH="1891"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="108 686 108 610 950 625 1993 608 1996 684 1996 716 950 733 947 733 105 719"/></Shape>
+	    <String CONTENT="(1الف) صاحبجمعان تخمینا بر آورد، و وزیر بیوتات بر آورد مزبور را بناظر"
+                    HPOS="105"
+                    VPOS="608"
+                    WIDTH="1891"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba50478c"
+                    
+                    BASELINE="102 792 1976 806" 
+                    HPOS="99"
+                    VPOS="730"
+                    WIDTH="1877"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="102 792 102 730 1976 745 1976 806 1973 836 99 821"/></Shape>
+	    <String CONTENT="بيوتات میخواند و خاطرنشان میکرد، و وزیر بیوتات در همان بر اورد بخدمت"
+                    HPOS="99"
+                    VPOS="730"
+                    WIDTH="1877"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63746bc6"
+                    
+                    BASELINE="108 903 1976 912" 
+                    HPOS="105"
+                    VPOS="841"
+                    WIDTH="1871"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="108 903 108 841 1976 850 1976 912 1973 938 105 929"/></Shape>
+	    <String CONTENT="اعتمادالدوله چیزی مینوشت و ناظر مهر می کرد که اخراجات ششماههٔ بیوتات سر کار"
+                    HPOS="105"
+                    VPOS="841"
+                    WIDTH="1871"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a63e982"
+                    
+                    BASELINE="96 1020 1973 1029" 
+                    HPOS="93"
+                    VPOS="958"
+                    WIDTH="1880"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="96 1020 96 958 1973 967 1973 1029 1970 1058 93 1049"/></Shape>
+	    <String CONTENT="خاصه را مشرفان بفلان مبلغ بر اورد نمودهاند ، مفرٓر دارند که مقرب الخاقان"
+                    HPOS="93"
+                    VPOS="958"
+                    WIDTH="1880"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_655f3d02"
+                    
+                    BASELINE="96 1131 619 1145 1970 1140" 
+                    HPOS="93"
+                    VPOS="1061"
+                    WIDTH="1877"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="96 1131 96 1061 619 1075 1967 1069 1970 1140 1970 1166 619 1172 616 1172 93 1157"/></Shape>
+	    <String CONTENT="صاحب جمع خزانهٔ باهره 1 وجه بر آورد را از قرار قبوض الواصل مهمسازی صاحب"
+                    HPOS="93"
+                    VPOS="1061"
+                    WIDTH="1877"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_998f793c"
+                    
+                    BASELINE="93 1239 1093 1259 1964 1248" 
+                    HPOS="90"
+                    VPOS="1178"
+                    WIDTH="1874"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="93 1239 93 1178 1093 1198 1961 1186 1964 1248 1964 1283 1093 1295 1090 1295 90 1274"/></Shape>
+	    <String CONTENT="جمعان نمايد. وصاحب جمعان قبوض رابصاحبجمع خزانه سيرده ، وجه بازیافت"
+                    HPOS="90"
+                    VPOS="1178"
+                    WIDTH="1874"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b64545b"
+                    
+                    BASELINE="96 1356 268 1373 1955 1368" 
+                    HPOS="90"
+                    VPOS="1289"
+                    WIDTH="1865"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="96 1356 102 1289 271 1306 1952 1300 1955 1368 1955 1397 268 1403 263 1403 90 1385"/></Shape>
+	    <String CONTENT="مینمودند. وصاحبجمعان اجناسی که بایست خریداری کنند، بعضی اجناس بود که"
+                    HPOS="90"
+                    VPOS="1289"
+                    WIDTH="1865"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1264585a"
+                    
+                    BASELINE="81 1502 1958 1496" 
+                    HPOS="78"
+                    VPOS="1429"
+                    WIDTH="1880"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="81 1502 78 1435 1955 1429 1958 1496 1958 1523 81 1528"/></Shape>
+	    <String CONTENT="سالی یکمرتبه (ب) قیمت مشخص میشد ومفرر بود که ناظر بیونات بعهدهٔ تابینی"
+                    HPOS="78"
+                    VPOS="1429"
+                    WIDTH="1880"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f5e2aae"
+                    
+                    BASELINE="84 1604 1429 1622 1961 1610" 
+                    HPOS="81"
+                    VPOS="1537"
+                    WIDTH="1880"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="84 1604 84 1537 1426 1555 1958 1543 1961 1610 1961 1642 1429 1654 1426 1654 81 1637"/></Shape>
+	    <String CONTENT="مفرر میکرد که وزیر بیوتات و محتسب الممالك ومستوفی اصفهان وریش سفیدان"
+                    HPOS="81"
+                    VPOS="1537"
+                    WIDTH="1880"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ca4fc56"
+                    
+                    BASELINE="84 1724 1955 1730" 
+                    HPOS="81"
+                    VPOS="1660"
+                    WIDTH="1874"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="84 1724 84 1660 1955 1666 1955 1730 1952 1759 81 1754"/></Shape>
+	    <String CONTENT="صنف را در یکجا حاضرسازد وهمکی نشسته، قیمت اجناس بنابر صرفهٔ دیوان مشخص"
+                    HPOS="81"
+                    VPOS="1660"
+                    WIDTH="1874"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69075c02"
+                    
+                    BASELINE="84 1835 1961 1844" 
+                    HPOS="81"
+                    VPOS="1780"
+                    WIDTH="1880"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="84 1835 84 1780 1961 1789 1961 1844 1958 1876 81 1868"/></Shape>
+	    <String CONTENT="ونمونهٔ اجناس را مهر نموده، وفیمت نامجه را مامورین و ناظر بیونات مهر نموده"
+                    HPOS="81"
+                    VPOS="1780"
+                    WIDTH="1880"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04114d27"
+                    
+                    BASELINE="76 1967 1952 1961" 
+                    HPOS="73"
+                    VPOS="1897"
+                    WIDTH="1879"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="76 1967 73 1903 1949 1897 1952 1961 1952 1984 76 1990"/></Shape>
+	    <String CONTENT="بصاحبجمعان سیارند، که آنچه اجناس بجهت اخراجات خاصه در عرض سال احتیاج"
+                    HPOS="73"
+                    VPOS="1897"
+                    WIDTH="1879"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba3670b9"
+                    
+                    BASELINE="73 2081 1952 2075" 
+                    HPOS="70"
+                    VPOS="2014"
+                    WIDTH="1882"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="73 2081 70 2020 1949 2014 1952 2075 1952 2104 73 2110"/></Shape>
+	    <String CONTENT="شود، صاحبجمعان اجناس را موافق نمونهٔ ممهوره خریداری، وقیمت را از فرارقیمت"
+                    HPOS="70"
+                    VPOS="2014"
+                    WIDTH="1882"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8ebe769"
+                    
+                    BASELINE="73 2204 1946 2195" 
+                    HPOS="70"
+                    VPOS="2131"
+                    WIDTH="1876"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="73 2204 70 2139 1944 2131 1946 2195 1946 2218 73 2227"/></Shape>
+	    <String CONTENT="ناهجهٔ مذکوره از بابت تحویلات خود مهمسازی (17الف) صاحب مال نمایند وبعضی"
+                    HPOS="70"
+                    VPOS="2131"
+                    WIDTH="1876"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8d31907"
+                    
+                    BASELINE="73 2306 1952 2312" 
+                    HPOS="70"
+                    VPOS="2242"
+                    WIDTH="1882"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="73 2306 73 2242 1952 2248 1952 2312 1949 2341 70 2335"/></Shape>
+	    <String CONTENT="اجناس دیگر را صاحب نسق بایست ماه بماه التزام از ریش سفید هریك گرفته"
+                    HPOS="70"
+                    VPOS="2242"
+                    WIDTH="1882"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53b35385"
+                    
+                    BASELINE="67 2423 1938 2423" 
+                    HPOS="67"
+                    VPOS="2364"
+                    WIDTH="1871"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="67 2423 67 2364 1938 2364 1938 2423 1938 2452 67 2452"/></Shape>
+	    <String CONTENT="محتسب الممالك سپارد که او التزام مزبور را ضبط و از روی آنها تسعبر نامجات"
+                    HPOS="67"
+                    VPOS="2364"
+                    WIDTH="1871"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc9583f8"
+                    
+                    BASELINE="73 2537 1949 2531" 
+                    HPOS="70"
+                    VPOS="2467"
+                    WIDTH="1879"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="73 2537 70 2473 1946 2467 1949 2531 1949 2560 73 2566"/></Shape>
+	    <String CONTENT="نوشته، بمناسبت بناظر بیوتات عرض و بحفیقت واقع آن برسد واگر داند که بعضی"
+                    HPOS="70"
+                    VPOS="2467"
+                    WIDTH="1879"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d46a21f"
+                    
+                    BASELINE="76 2636 1944 2636" 
+                    HPOS="76"
+                    VPOS="2578"
+                    WIDTH="1868"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="76 2636 76 2578 1944 2578 1944 2636 1944 2671 76 2671"/></Shape>
+	    <String CONTENT="اجناس را قیمت زیاد نوشتهاند بنحوی که ظلم نشود ووبد دعائی&quot; درضمن ان نباشد"
+                    HPOS="76"
+                    VPOS="2578"
+                    WIDTH="1868"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d2d4b8e"
+                    
+                    BASELINE="70 2762 1938 2753" 
+                    HPOS="67"
+                    VPOS="2686"
+                    WIDTH="1871"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="70 2762 67 2695 1935 2686 1938 2753 1938 2785 70 2794"/></Shape>
+	    <String CONTENT="کم نموده تسلیم صاحبجمعان نمایند که مشرفان بیوتات موافق اخراجات بعدازوضع"
+                    HPOS="67"
+                    VPOS="2686"
+                    WIDTH="1871"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_617988f4"
+                    
+                    BASELINE="73 2873 1935 2873" 
+                    HPOS="73"
+                    VPOS="2818"
+                    WIDTH="1862"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="73 2873 73 2818 1935 2818 1935 2873 1935 2908 73 2908"/></Shape>
+	    <String CONTENT="باقی صاحبجمعان سند ابتياع بانضمام دهنیم رسومات بر ضمن تسعير نامجه قلمی، و"
+                    HPOS="73"
+                    VPOS="2818"
+                    WIDTH="1862"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c9a8ae6"
+                    
+                    BASELINE="67 2978 1926 2990" 
+                    HPOS="64"
+                    VPOS="2920"
+                    WIDTH="1862"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="67 2978 67 2920 1926 2932 1926 2990 1923 3040 64 3028"/></Shape>
+	    <String CONTENT="ناظر مهر نموده بخرج (ب) خود مجری دارند. وناظر قدغن نماید که مشرفان ماه"
+                    HPOS="64"
+                    VPOS="2920"
+                    WIDTH="1862"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffa6805c"
+                    
+                    BASELINE="1020 304 1105 304" 
+                    HPOS="1020"
+                    VPOS="260"
+                    WIDTH="85"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1020 304 1020 260 1105 260 1105 304 1105 330 1020 330"/></Shape>
+	    <String CONTENT="10"
+                    HPOS="1020"
+                    VPOS="260"
+                    WIDTH="85"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8fc9be3f"
+                    
+                    BASELINE="1432 3125 1759 3125" 
+                    HPOS="1432"
+                    VPOS="3081"
+                    WIDTH="327"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1432 3125 1432 3081 1759 3081 1759 3125 1759 3186 1432 3186"/></Shape>
+	    <String CONTENT="ور اصل بامره"
+                    HPOS="1432"
+                    VPOS="3081"
+                    WIDTH="327"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

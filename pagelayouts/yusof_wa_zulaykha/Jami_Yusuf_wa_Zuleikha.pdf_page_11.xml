@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Jami_Yusuf_wa_Zuleikha.pdf_page_11.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1532" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1533" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1534" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1535" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1536" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2079"
+          HEIGHT="2953"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2079"
+                  HEIGHT="2953">
+        
+        <TextBlock HPOS="403"
+                   VPOS="1844"
+                   WIDTH="1274"
+                   HEIGHT="651"
+                   ID="eSc_textblock_9b6c664f"
+                   TAGREFS="BT1534">
+          <Shape><Polygon POINTS="1677 2495 1677 1844 403 1844 403 2495"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="437"
+                   VPOS="1601"
+                   WIDTH="1211"
+                   HEIGHT="77"
+                   ID="eSc_textblock_c87820fd"
+                   TAGREFS="BT1532">
+          <Shape><Polygon POINTS="1648 1678 1648 1601 437 1601 437 1678"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="603"
+                   VPOS="687"
+                   WIDTH="879"
+                   HEIGHT="87"
+                   ID="eSc_textblock_16ef5aa4"
+                   TAGREFS="BT1532">
+          <Shape><Polygon POINTS="1482 774 1482 687 603 687 603 774"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1395"
+                   VPOS="395"
+                   WIDTH="282"
+                   HEIGHT="64"
+                   ID="eSc_textblock_91ceecb0"
+                   TAGREFS="BT1532">
+          <Shape><Polygon POINTS="1677 459 1677 395 1395 395 1395 459"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="403"
+                   VPOS="1688"
+                   WIDTH="1284"
+                   HEIGHT="136"
+                   ID="eSc_textblock_584ad1b6"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1687 1824 1687 1688 403 1688 403 1824"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="413"
+                   VPOS="784"
+                   WIDTH="1274"
+                   HEIGHT="812"
+                   ID="eSc_textblock_457132eb"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1687 1596 1687 784 413 784 413 1596"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="423"
+                   VPOS="536"
+                   WIDTH="1254"
+                   HEIGHT="132"
+                   ID="eSc_textblock_99121b7f"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1677 668 1677 536 423 536 423 668"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="433"
+                   VPOS="405"
+                   WIDTH="72"
+                   HEIGHT="39"
+                   ID="eSc_textblock_ea3b8aba"
+                   TAGREFS="BT1536">
+          <Shape><Polygon POINTS="433 405 433 444 505 444 505 405"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_6c47ac81"
+                    
+                    BASELINE="1408 433 1657 433" 
+                    HPOS="1408"
+                    VPOS="396"
+                    WIDTH="249"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1408 433 1408 396 1657 396 1657 433 1657 450 1408 450"/></Shape>
+	    <String CONTENT="يوسف و زليخا"
+                    HPOS="1408"
+                    VPOS="396"
+                    WIDTH="249"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c27f686"
+                    
+                    BASELINE="445 583 943 578" 
+                    HPOS="443"
+                    VPOS="536"
+                    WIDTH="500"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="445 583 443 541 940 536 943 578 943 595 445 600"/></Shape>
+	    <String CONTENT="که خلق از ذکرایشان لب ببستند"
+                    HPOS="443"
+                    VPOS="536"
+                    WIDTH="500"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a24fd2c"
+                    
+                    BASELINE="1138 580 1635 585" 
+                    HPOS="1135"
+                    VPOS="536"
+                    WIDTH="500"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1138 580 1138 536 1635 541 1635 585 1633 602 1135 597"/></Shape>
+	    <String CONTENT="بسا 1 مرغان خوش پیکر که هستند"
+                    HPOS="1135"
+                    VPOS="536"
+                    WIDTH="500"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a90783d"
+                    
+                    BASELINE="445 657 948 657" 
+                    HPOS="445"
+                    VPOS="617"
+                    WIDTH="503"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="445 657 445 617 948 617 948 657 948 674 445 674"/></Shape>
+	    <String CONTENT="حديث بلبل و پروانه گویند"
+                    HPOS="445"
+                    VPOS="617"
+                    WIDTH="503"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6b2a5ed"
+                    
+                    BASELINE="1140 654 1635 661" 
+                    HPOS="1138"
+                    VPOS="610"
+                    WIDTH="497"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1140 654 1140 610 1635 617 1635 661 1633 676 1138 669"/></Shape>
+	    <String CONTENT="چو اهل دل زعشق افسانه گویند"
+                    HPOS="1138"
+                    VPOS="610"
+                    WIDTH="497"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c3ce1bc"
+                    
+                    BASELINE="598 740 1477 740" 
+                    HPOS="598"
+                    VPOS="701"
+                    WIDTH="879"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="598 740 598 701 1477 701 1477 740 1477 762 598 762"/></Shape>
+	    <String CONTENT="افروختن شمع جمال ببوسف در شیستان غیب"
+                    HPOS="598"
+                    VPOS="701"
+                    WIDTH="879"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26d12051"
+                    
+                    BASELINE="455 821 955 816" 
+                    HPOS="453"
+                    VPOS="772"
+                    WIDTH="502"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="455 821 453 777 953 772 955 816 955 831 455 836"/></Shape>
+	    <String CONTENT="ورق خوانان وحی2 آسمانی،"
+                    HPOS="453"
+                    VPOS="772"
+                    WIDTH="502"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53331a7a"
+                    
+                    BASELINE="1162 821 1635 821" 
+                    HPOS="1162"
+                    VPOS="780"
+                    WIDTH="473"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1162 821 1162 780 1635 780 1635 821 1635 834 1162 834"/></Shape>
+	    <String CONTENT="گهر سنجان دریای معانی"
+                    HPOS="1162"
+                    VPOS="780"
+                    WIDTH="473"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_016fc4a0"
+                    
+                    BASELINE="1157 890 1635 895" 
+                    HPOS="1155"
+                    VPOS="846"
+                    WIDTH="480"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1157 890 1157 846 1635 851 1635 895 1633 910 1155 905"/></Shape>
+	    <String CONTENT="چو تاریخ جهان کردند آغاز"
+                    HPOS="1155"
+                    VPOS="846"
+                    WIDTH="480"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cad61c21"
+                    
+                    BASELINE="453 890 953 895" 
+                    HPOS="450"
+                    VPOS="844"
+                    WIDTH="503"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="453 890 453 844 953 848 953 895 950 905 450 900"/></Shape>
+	    <String CONTENT="چنین دادند از آدم خبر باز"
+                    HPOS="450"
+                    VPOS="844"
+                    WIDTH="503"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01717b5b"
+                    
+                    BASELINE="1152 964 1635 964" 
+                    HPOS="1152"
+                    VPOS="925"
+                    WIDTH="483"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1152 964 1152 925 1635 925 1635 964 1635 986 1152 986"/></Shape>
+	    <String CONTENT="که چون چشم جهان بینش گشادند"
+                    HPOS="1152"
+                    VPOS="925"
+                    WIDTH="483"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60ff9952"
+                    
+                    BASELINE="448 962 943 967" 
+                    HPOS="445"
+                    VPOS="920"
+                    WIDTH="498"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="448 962 448 920 943 925 943 967 940 979 445 974"/></Shape>
+	    <String CONTENT="رو اولاد اورا جلوه دادند"
+                    HPOS="445"
+                    VPOS="920"
+                    WIDTH="498"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c19a304"
+                    
+                    BASELINE="450 1055 950 1040" 
+                    HPOS="448"
+                    VPOS="996"
+                    WIDTH="502"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="450 1055 448 1011 948 996 950 1040 950 1053 450 1068"/></Shape>
+	    <String CONTENT="ستاده هر صفی در پایهٔ خویش"
+                    HPOS="448"
+                    VPOS="996"
+                    WIDTH="502"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c60f73da"
+                    
+                    BASELINE="1145 1053 1640 1048" 
+                    HPOS="1142"
+                    VPOS="1001"
+                    WIDTH="498"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1145 1053 1142 1006 1638 1001 1640 1048 1640 1060 1145 1065"/></Shape>
+	    <String CONTENT=" صفوف انبيا یكجا پس و پیش"
+                    HPOS="1142"
+                    VPOS="1001"
+                    WIDTH="498"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b7b107c"
+                    
+                    BASELINE="450 1112 950 1112" 
+                    HPOS="450"
+                    VPOS="1075"
+                    WIDTH="500"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="450 1112 450 1075 950 1075 950 1112 950 1129 450 1129"/></Shape>
+	    <String CONTENT="زهر جمعی تماشای در کرد ،"
+                    HPOS="450"
+                    VPOS="1075"
+                    WIDTH="500"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f68f8fe3"
+                    
+                    BASELINE="1150 1112 1638 1117" 
+                    HPOS="1147"
+                    VPOS="1068"
+                    WIDTH="491"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1150 1112 1150 1068 1638 1072 1638 1117 1635 1134 1147 1129"/></Shape>
+	    <String CONTENT="چو آدم سوی آن مجمع نظر کرد"
+                    HPOS="1147"
+                    VPOS="1068"
+                    WIDTH="491"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8878165"
+                    
+                    BASELINE="448 1188 940 1181" 
+                    HPOS="445"
+                    VPOS="1141"
+                    WIDTH="495"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="448 1188 445 1149 938 1141 940 1181 940 1195 448 1203"/></Shape>
+	    <String CONTENT="نه مه خورشید اوج عزت و جاه"
+                    HPOS="445"
+                    VPOS="1141"
+                    WIDTH="495"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8607ec32"
+                    
+                    BASELINE="1150 1188 1638 1193" 
+                    HPOS="1147"
+                    VPOS="1144"
+                    WIDTH="491"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1150 1188 1150 1144 1638 1149 1638 1193 1635 1208 1147 1203"/></Shape>
+	    <String CONTENT="به چشمش یوسف آمد چون یکی ماه"
+                    HPOS="1147"
+                    VPOS="1144"
+                    WIDTH="491"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29b571c5"
+                    
+                    BASELINE="1152 1269 1640 1264" 
+                    HPOS="1150"
+                    VPOS="1220"
+                    WIDTH="490"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1152 1269 1150 1225 1638 1220 1640 1264 1640 1279 1152 1284"/></Shape>
+	    <String CONTENT="جمال نیکوان در پیش او کم"
+                    HPOS="1150"
+                    VPOS="1220"
+                    WIDTH="490"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bdc9574"
+                    
+                    BASELINE="448 1264 945 1269" 
+                    HPOS="445"
+                    VPOS="1220"
+                    WIDTH="500"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="448 1264 448 1220 945 1225 945 1269 943 1284 445 1279"/></Shape>
+	    <String CONTENT="چنان، کزپرتو خورشید ،3انجم"
+                    HPOS="445"
+                    VPOS="1220"
+                    WIDTH="500"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a10c1975"
+                    
+                    BASELINE="450 1350 950 1338" 
+                    HPOS="448"
+                    VPOS="1294"
+                    WIDTH="502"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="450 1350 448 1306 948 1294 950 1338 950 1350 450 1363"/></Shape>
+	    <String CONTENT="فدای خاك پایش صد رداپوش"
+                    HPOS="448"
+                    VPOS="1294"
+                    WIDTH="502"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_172d1c03"
+                    
+                    BASELINE="1147 1346 1643 1346" 
+                    HPOS="1147"
+                    VPOS="1304"
+                    WIDTH="496"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1147 1346 1147 1304 1643 1304 1643 1346 1643 1358 1147 1358"/></Shape>
+	    <String CONTENT="ردای * دلبری افکنده بر دوش"
+                    HPOS="1147"
+                    VPOS="1304"
+                    WIDTH="496"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_342ac947"
+                    
+                    BASELINE="1147 1417 1640 1412" 
+                    HPOS="1145"
+                    VPOS="1373"
+                    WIDTH="495"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1147 1417 1145 1378 1638 1373 1640 1412 1640 1427 1147 1432"/></Shape>
+	    <String CONTENT="کمال حسنش از اندیشه بیرون"
+                    HPOS="1145"
+                    VPOS="1373"
+                    WIDTH="495"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15a9e7dd"
+                    
+                    BASELINE="450 1419 950 1412" 
+                    HPOS="448"
+                    VPOS="1370"
+                    WIDTH="502"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="450 1419 448 1378 948 1370 950 1412 950 1424 450 1432"/></Shape>
+	    <String CONTENT="ز حد عقل فكرت5 بيشه بيرون"
+                    HPOS="448"
+                    VPOS="1370"
+                    WIDTH="502"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bf12a8c"
+                    
+                    BASELINE="445 1488 958 1481" 
+                    HPOS="443"
+                    VPOS="1439"
+                    WIDTH="515"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="445 1488 443 1446 955 1439 958 1481 958 1496 445 1503"/></Shape>
+	    <String CONTENT="بز صحرای خلیل7الله غزالی است"
+                    HPOS="443"
+                    VPOS="1439"
+                    WIDTH="515"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6224dfd7"
+                    
+                    BASELINE="1147 1481 1645 1486" 
+                    HPOS="1145"
+                    VPOS="1439"
+                    WIDTH="500"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1147 1481 1147 1439 1645 1444 1645 1486 1643 1503 1145 1498"/></Shape>
+	    <String CONTENT="ز باغستان یعقوبی6 نهالی است"
+                    HPOS="1145"
+                    VPOS="1439"
+                    WIDTH="500"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3a09c91"
+                    
+                    BASELINE="1145 1562 1643 1560" 
+                    HPOS="1142"
+                    VPOS="1513"
+                    WIDTH="501"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1145 1562 1142 1515 1640 1513 1643 1560 1643 1574 1145 1577"/></Shape>
+	    <String CONTENT="زکیوان8 بگذرد ایوان1 جاهش"
+                    HPOS="1142"
+                    VPOS="1513"
+                    WIDTH="501"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c980bde"
+                    
+                    BASELINE="445 1567 948 1560" 
+                    HPOS="443"
+                    VPOS="1518"
+                    WIDTH="505"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="445 1567 443 1525 945 1518 948 1560 948 1572 445 1579"/></Shape>
+	    <String CONTENT="زمین مصر باشد تختگاهش"
+                    HPOS="443"
+                    VPOS="1518"
+                    WIDTH="505"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cd23cde"
+                    
+                    BASELINE="448 1648 1643 1641" 
+                    HPOS="445"
+                    VPOS="1592"
+                    WIDTH="1198"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="448 1648 445 1599 1640 1592 1643 1641 1643 1658 448 1665"/></Shape>
+	    <String CONTENT="زلیخا ، آنکه مغرب از طلوع آفتاب حجابش مشرق گشته بود"
+                    HPOS="445"
+                    VPOS="1592"
+                    WIDTH="1198"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ef3205d"
+                    
+                    BASELINE="450 1729 955 1720" 
+                    HPOS="448"
+                    VPOS="1675"
+                    WIDTH="507"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="450 1729 448 1685 953 1675 955 1720 955 1734 450 1744"/></Shape>
+	    <String CONTENT="که در گنجینه بودش از سخن، گنج"
+                    HPOS="448"
+                    VPOS="1675"
+                    WIDTH="507"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07594786"
+                    
+                    BASELINE="1150 1727 1638 1727" 
+                    HPOS="1150"
+                    VPOS="1685"
+                    WIDTH="488"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1150 1727 1150 1685 1638 1685 1638 1727 1638 1742 1150 1742"/></Shape>
+	    <String CONTENT="چنین گفت آن سخندان سخن سنج"
+                    HPOS="1150"
+                    VPOS="1685"
+                    WIDTH="488"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_924b60f6"
+                    
+                    BASELINE="448 1811 958 1803" 
+                    HPOS="445"
+                    VPOS="1759"
+                    WIDTH="513"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="448 1811 445 1766 955 1759 958 1803 958 1816 448 1823"/></Shape>
+	    <String CONTENT="همی زدکوس شاهی11، نام، طیموس"
+                    HPOS="445"
+                    VPOS="1759"
+                    WIDTH="513"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fbb336d"
+                    
+                    BASELINE="1174 1806 1638 1806" 
+                    HPOS="1174"
+                    VPOS="1764"
+                    WIDTH="464"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1174 1806 1174 1764 1638 1764 1638 1806 1638 1823 1174 1823"/></Shape>
+	    <String CONTENT="که در مفرب زمین شاهی بناموس"
+                    HPOS="1174"
+                    VPOS="1764"
+                    WIDTH="464"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9042113"
+                    
+                    BASELINE="453 1916 864 1907 1588 1912" 
+                    HPOS="450"
+                    VPOS="1870"
+                    WIDTH="1138"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="453 1916 450 1880 862 1870 864 1870 1588 1875 1588 1912 1586 1929 864 1924 453 1934"/></Shape>
+	    <String CONTENT="1 - درجهان مرغ زیبا بسیار هست اماچون ازجمال عشق بی بهره اند سخنی"
+                    HPOS="450"
+                    VPOS="1870"
+                    WIDTH="1138"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c631663b"
+                    
+                    BASELINE="1273 1983 1640 1983" 
+                    HPOS="1273"
+                    VPOS="1946"
+                    WIDTH="367"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1273 1983 1273 1946 1640 1946 1640 1983 1640 1998 1273 1998"/></Shape>
+	    <String CONTENT="از آنها درمیان نیست."
+                    HPOS="1273"
+                    VPOS="1946"
+                    WIDTH="367"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a783460"
+                    
+                    BASELINE="448 1988 1170 1980" 
+                    HPOS="445"
+                    VPOS="1936"
+                    WIDTH="725"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="448 1988 445 1944 1167 1936 1170 1980 1170 1993 448 2000"/></Shape>
+	    <String CONTENT="2- وحی: آنچه از جا نب خداوند بردل پیامبران"
+                    HPOS="445"
+                    VPOS="1936"
+                    WIDTH="725"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_140ec6b3"
+                    
+                    BASELINE="1485 2057 1647 2057" 
+                    HPOS="1485"
+                    VPOS="2020"
+                    WIDTH="162"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1485 2057 1485 2020 1647 2020 1647 2057 1647 2072 1485 2072"/></Shape>
+	    <String CONTENT="القا شود"
+                    HPOS="1485"
+                    VPOS="2020"
+                    WIDTH="162"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3071ef3"
+                    
+                    BASELINE="448 2059 1381 2054" 
+                    HPOS="445"
+                    VPOS="2015"
+                    WIDTH="936"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="448 2059 445 2020 1379 2015 1381 2054 1381 2067 448 2072"/></Shape>
+	    <String CONTENT="3 -انجمبه فتحاول و ضم سوم: جمع نجم به فتحاول : ستارگان."
+                    HPOS="445"
+                    VPOS="2015"
+                    WIDTH="936"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ad299cc"
+                    
+                    BASELINE="1027 2126 1477 2131" 
+                    HPOS="1024"
+                    VPOS="2086"
+                    WIDTH="453"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1027 2126 1027 2086 1477 2091 1477 2131 1475 2145 1024 2140"/></Shape>
+	    <String CONTENT="به كسر اول : بالا يوش &quot; عبا."
+                    HPOS="1024"
+                    VPOS="2086"
+                    WIDTH="453"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91aca598"
+                    
+                    BASELINE="448 2131 876 2126" 
+                    HPOS="445"
+                    VPOS="2091"
+                    WIDTH="431"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="448 2131 445 2096 874 2091 876 2126 876 2140 448 2145"/></Shape>
+	    <String CONTENT="5 - فکرت پیشه: آندیشمند."
+                    HPOS="445"
+                    VPOS="2091"
+                    WIDTH="431"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e94fb219"
+                    
+                    BASELINE="443 2199 1652 2195" 
+                    HPOS="440"
+                    VPOS="2153"
+                    WIDTH="1212"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="443 2199 440 2158 1650 2153 1652 2195 1652 2207 443 2212"/></Shape>
+	    <String CONTENT="6- بيغمبر بنی اسراييل پدر يوسف. 7- خليل الرحمان لقب حضرت ابراهیم"
+                    HPOS="440"
+                    VPOS="2153"
+                    WIDTH="1212"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63fe1362"
+                    
+                    BASELINE="438 2261 1652 2273" 
+                    HPOS="435"
+                    VPOS="2217"
+                    WIDTH="1217"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="438 2261 438 2217 1652 2229 1652 2273 1650 2286 435 2273"/></Shape>
+	    <String CONTENT="پیامبر بنی اسراییل است که دو هزارسال پیش از میلاد میزیسته، خانهٔ کعبه یه"
+                    HPOS="435"
+                    VPOS="2217"
+                    WIDTH="1217"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b4fb10f"
+                    
+                    BASELINE="440 2335 1650 2335" 
+                    HPOS="440"
+                    VPOS="2298"
+                    WIDTH="1210"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="440 2335 440 2298 1650 2298 1650 2335 1650 2347 440 2347"/></Shape>
+	    <String CONTENT="دست وی ساخته شده است. 8- کیوان ستارهٔ زحل. 9- ایوان بخانه ، کاخ15_"
+                    HPOS="440"
+                    VPOS="2298"
+                    WIDTH="1210"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d928a2e"
+                    
+                    BASELINE="440 2411 1647 2406" 
+                    HPOS="438"
+                    VPOS="2367"
+                    WIDTH="1209"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="440 2411 438 2372 1645 2367 1647 2406 1647 2421 440 2426"/></Shape>
+	    <String CONTENT="ناموس : مأخوذ از يونانی به معنی قانون، و جمع آندر عربی نوامیس است."
+                    HPOS="438"
+                    VPOS="2367"
+                    WIDTH="1209"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1ecaadd"
+                    
+                    BASELINE="953 2482 1652 2478" 
+                    HPOS="950"
+                    VPOS="2438"
+                    WIDTH="702"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="953 2482 950 2443 1650 2438 1652 2478 1652 2495 953 2500"/></Shape>
+	    <String CONTENT="بناموس : مشهور . 11- كوس : طبل بزرگ."
+                    HPOS="950"
+                    VPOS="2438"
+                    WIDTH="702"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

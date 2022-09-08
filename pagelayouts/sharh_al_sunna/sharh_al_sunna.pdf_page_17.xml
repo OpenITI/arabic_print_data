@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>sharh_al_sunna.pdf_page_17.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT855" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT856" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT857" LABEL="Caption" DESCRIPTION="block type Caption"/><OtherTag ID="BT858" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT859" LABEL="Running title" DESCRIPTION="block type Running title"/>
+    <OtherTag ID="LT32" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1876"
+          HEIGHT="2792"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1876"
+                  HEIGHT="2792">
+        
+        <TextBlock HPOS="1468"
+                   VPOS="226"
+                   WIDTH="88"
+                   HEIGHT="58"
+                   ID="eSc_textblock_b16b7bd4"
+                   TAGREFS="BT858">
+          <Shape><Polygon POINTS="1556 226 1556 284 1468 284 1468 226"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0648388b"
+                    
+                    BASELINE="1480 260 1531 265" 
+                    HPOS="1477"
+                    VPOS="221"
+                    WIDTH="56"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1480 260 1482 221 1533 225 1531 265 1529 283 1477 279"/></Shape>
+	    <String CONTENT="18"
+                    HPOS="1477"
+                    VPOS="221"
+                    WIDTH="56"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="139"
+                   VPOS="335"
+                   WIDTH="1578"
+                   HEIGHT="1654"
+                   ID="eSc_textblock_e513661b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="158 1989 139 353 167 335 1689 353 1717 474 1717 1523 1680 1970"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ceca8213"
+                    
+                    BASELINE="155 409 1585 409" 
+                    HPOS="155"
+                    VPOS="355"
+                    WIDTH="1430"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="155 409 155 355 1585 355 1585 409 1585 432 155 432"/></Shape>
+	    <String CONTENT="67] والكلام والجدال والخصومة في القدر خاصة منهى عنه عند جميع الفرق؛ لأن"
+                    HPOS="155"
+                    VPOS="355"
+                    WIDTH="1430"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa5cc7f5"
+                    
+                    BASELINE="158 507 1668 502" 
+                    HPOS="155"
+                    VPOS="449"
+                    WIDTH="1513"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="158 507 155 453 1666 449 1668 502 1668 528 158 532"/></Shape>
+	    <String CONTENT="القدر سر الله(42)، ونهى الرب حتبارك وتعالى- الأنبياء عن الكلام في القدر، ونهى رسول الله"
+                    HPOS="155"
+                    VPOS="449"
+                    WIDTH="1513"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39df89eb"
+                    
+                    BASELINE="158 602 556 614 1650 602" 
+                    HPOS="155"
+                    VPOS="542"
+                    WIDTH="1495"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="158 602 158 542 556 553 1647 542 1650 602 1650 628 556 639 553 639 155 628"/></Shape>
+	    <String CONTENT=" عن الخصومة في القدر(14)، وكرهه العلماء وأهل الورع، ونهوا عن الجدال في القدر؛"
+                    HPOS="155"
+                    VPOS="542"
+                    WIDTH="1495"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_938b8bfd"
+                    
+                    BASELINE="158 702 1289 714 1664 700" 
+                    HPOS="155"
+                    VPOS="639"
+                    WIDTH="1509"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="158 702 158 642 1287 653 1661 639 1664 700 1664 723 1289 737 1287 737 155 725"/></Shape>
+	    <String CONTENT="فعليك بالتسليم والاقرار والإيمان، واعتقاد ما قال رسول الله في جملة الأشياء، وتسكت"
+                    HPOS="155"
+                    VPOS="639"
+                    WIDTH="1509"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9649d135"
+                    
+                    BASELINE="1384 798 1661 805" 
+                    HPOS="1382"
+                    VPOS="751"
+                    WIDTH="279"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1384 798 1384 751 1661 758 1661 805 1659 823 1382 816"/></Shape>
+	    <String CONTENT="عما سوی ذلك."
+                    HPOS="1382"
+                    VPOS="751"
+                    WIDTH="279"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6013e541"
+                    
+                    BASELINE="158 912 1589 907" 
+                    HPOS="155"
+                    VPOS="846"
+                    WIDTH="1434"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="158 912 155 851 1587 846 1589 907 1589 926 158 930"/></Shape>
+	    <String CONTENT="(68] والإيمان بأن رسول الله  أسرى به إلى السماء، وصار إلى العرش، وكلمه الله"
+                    HPOS="155"
+                    VPOS="846"
+                    WIDTH="1434"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00069722"
+                    
+                    BASELINE="158 1012 1664 1002" 
+                    HPOS="155"
+                    VPOS="949"
+                    WIDTH="1509"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="158 1012 155 958 1661 949 1664 1002 1664 1021 158 1030"/></Shape>
+	    <String CONTENT="تبارك وتعالى- ودخل الجنة، واطلع إلى النار، ورأى الملائكة، ونشرت له الأنبياء، ورأى"
+                    HPOS="155"
+                    VPOS="949"
+                    WIDTH="1509"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa2c6060"
+                    
+                    BASELINE="160 1100 1664 1105" 
+                    HPOS="158"
+                    VPOS="1053"
+                    WIDTH="1506"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="160 1100 160 1053 1664 1058 1664 1105 1661 1128 158 1123"/></Shape>
+	    <String CONTENT="شرادقات العرش والكرسى، وجميع ما في السماوات وما في الأرضين في اليقظة، حمله"
+                    HPOS="158"
+                    VPOS="1053"
+                    WIDTH="1506"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_476f7ff6"
+                    
+                    BASELINE="158 1212 614 1202 1664 1209" 
+                    HPOS="155"
+                    VPOS="1144"
+                    WIDTH="1509"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="158 1212 155 1154 612 1144 614 1144 1664 1151 1664 1209 1661 1233 614 1226 158 1235"/></Shape>
+	    <String CONTENT="جبريل على البراق حتى آداره في السماوات، وفرضت له الصلاة في تلك الليلة، ورجع إلى"
+                    HPOS="155"
+                    VPOS="1144"
+                    WIDTH="1509"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_daa25170"
+                    
+                    BASELINE="963 1302 1664 1302" 
+                    HPOS="963"
+                    VPOS="1251"
+                    WIDTH="701"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="963 1302 963 1251 1664 1251 1664 1302 1664 1323 963 1323"/></Shape>
+	    <String CONTENT=" مكة في تلك الليلة، وذلك قبل الهجرة(5)"
+                    HPOS="963"
+                    VPOS="1251"
+                    WIDTH="701"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_267783d6"
+                    
+                    BASELINE="158 1421 1592 1405" 
+                    HPOS="155"
+                    VPOS="1344"
+                    WIDTH="1437"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="158 1421 155 1361 1589 1344 1592 1405 1592 1423 158 1440"/></Shape>
+	    <String CONTENT="[69) واعلم أن أرواح الشهداء في قناديل تحت العرش تسرح في الجنة(12)، وأرواح"
+                    HPOS="155"
+                    VPOS="1344"
+                    WIDTH="1437"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_355d9219"
+                    
+                    BASELINE="407 1516 1668 1503" 
+                    HPOS="404"
+                    VPOS="1451"
+                    WIDTH="1264"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="407 1516 404 1465 1666 1451 1668 1503 1668 1521 407 1535"/></Shape>
+	    <String CONTENT="المؤمنين تحت العرش، وأرواح الكفار والفجار في برهوت، وهي في سجين."
+                    HPOS="404"
+                    VPOS="1451"
+                    WIDTH="1264"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24d1b33b"
+                    
+                    BASELINE="158 1619 1592 1610" 
+                    HPOS="155"
+                    VPOS="1554"
+                    WIDTH="1437"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="158 1619 155 1563 1589 1554 1592 1610 1592 1630 158 1640"/></Shape>
+	    <String CONTENT="[70] والإيمان بأن الميت يقعد في قبره، ويرسل الله فيه الروح حتى يسأله منكر ونكير"
+                    HPOS="155"
+                    VPOS="1554"
+                    WIDTH="1437"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03eef42e"
+                    
+                    BASELINE="882 1710 1664 1714" 
+                    HPOS="879"
+                    VPOS="1651"
+                    WIDTH="785"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="882 1710 882 1651 1664 1656 1664 1714 1661 1738 879 1733"/></Shape>
+	    <String CONTENT="عن الإيمان وشرائعه، ثم يسل روحه بلا ألم(47)."
+                    HPOS="879"
+                    VPOS="1651"
+                    WIDTH="785"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24eabe99"
+                    
+                    BASELINE="155 1819 1587 1814" 
+                    HPOS="153"
+                    VPOS="1763"
+                    WIDTH="1434"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="155 1819 153 1768 1585 1763 1587 1814 1587 1838 155 1842"/></Shape>
+	    <String CONTENT="(71] ويعرف الميت الزائر إذا أتاه(1))، وينعم في القبر المؤمن، ويعذب الفاجر كيف"
+                    HPOS="153"
+                    VPOS="1763"
+                    WIDTH="1434"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23d31703"
+                    
+                    BASELINE="1459 1903 1666 1907" 
+                    HPOS="1457"
+                    VPOS="1849"
+                    WIDTH="209"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="1459 1903 1459 1849 1666 1854 1666 1907 1664 1924 1457 1919"/></Shape>
+	    <String CONTENT="شاء الله(12)"
+                    HPOS="1457"
+                    VPOS="1849"
+                    WIDTH="209"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="148"
+                   VPOS="1947"
+                   WIDTH="1579"
+                   HEIGHT="718"
+                   ID="eSc_textblock_b6704d3f"
+                   TAGREFS="BT855">
+          <Shape><Polygon POINTS="1644 1947 1708 2082 1652 2094 1727 2131 1680 2177 1717 2214 1699 2659 940 2665 1003 2643 835 2594 195 2612 148 2445 158 2019"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e9e12e34"
+                    
+                    BASELINE="158 2047 1668 2047" 
+                    HPOS="158"
+                    VPOS="2019"
+                    WIDTH="1510"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="158 2047 158 2019 1668 2019 1668 2047 1668 2073 158 2073"/></Shape>
+	    <String CONTENT=") اخرجه أبو نعيم في &quot;الحلية&quot; (6/ 182)، من حديث ابن عسر نفقفا، بلفظ: لالا تكلموا في القدر"
+                    HPOS="158"
+                    VPOS="2019"
+                    WIDTH="1510"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_182df781"
+                    
+                    BASELINE="432 2119 1587 2124" 
+                    HPOS="430"
+                    VPOS="2075"
+                    WIDTH="1157"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="432 2119 432 2075 1587 2080 1587 2124 1585 2142 430 2138"/></Shape>
+	    <String CONTENT="فانه سر الله، فلا تفشوا لله سرءلا، وضعفه الألبانى فی &quot;ضعيف الجامع&quot; (4131)."
+                    HPOS="430"
+                    VPOS="2075"
+                    WIDTH="1157"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_131484f9"
+                    
+                    BASELINE="169 2198 1675 2194" 
+                    HPOS="167"
+                    VPOS="2149"
+                    WIDTH="1508"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="169 2198 167 2154 1673 2149 1675 2194 1675 2214 169 2219"/></Shape>
+	    <String CONTENT="(94) أخرجه ابن ماجه (85)، من حديث عبد الله بن عمرو نظفلا، وصححه الألباني في &quot;صحيح سنن ابن ماجه1."
+                    HPOS="167"
+                    VPOS="2149"
+                    WIDTH="1508"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bff8eb52"
+                    
+                    BASELINE="197 2273 1673 2273" 
+                    HPOS="197"
+                    VPOS="2226"
+                    WIDTH="1476"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="197 2273 197 2226 1673 2226 1673 2273 1673 2296 197 2296"/></Shape>
+	    <String CONTENT="(95) كما في حديث الإسراء والمعراج الذي أخرجه البخاري (349)، ومسلم (163)، من حديث أنس ر."
+                    HPOS="197"
+                    VPOS="2226"
+                    WIDTH="1476"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35b8a8bc"
+                    
+                    BASELINE="886 2347 1673 2340" 
+                    HPOS="884"
+                    VPOS="2291"
+                    WIDTH="789"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="886 2347 884 2298 1671 2291 1673 2340 1673 2359 886 2366"/></Shape>
+	    <String CONTENT="(96) أخرجه مسلم (1887)، عن ابن مسعود"
+                    HPOS="884"
+                    VPOS="2291"
+                    WIDTH="789"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_231c54b3"
+                    
+                    BASELINE="181 2419 1675 2419" 
+                    HPOS="181"
+                    VPOS="2373"
+                    WIDTH="1494"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="181 2419 181 2373 1675 2373 1675 2419 1675 2443 181 2443"/></Shape>
+	    <String CONTENT="(97) كما في الحديث الذي أخرجه البخاري (1369)، ومسلم (2871)، من حديث البراء بن عازب ."
+                    HPOS="181"
+                    VPOS="2373"
+                    WIDTH="1494"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8393e2b0"
+                    
+                    BASELINE="165 2501 1673 2491" 
+                    HPOS="162"
+                    VPOS="2445"
+                    WIDTH="1511"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="165 2501 162 2454 1671 2445 1673 2491 1673 2512 165 2522"/></Shape>
+	    <String CONTENT="(98) أخرجه البخارى (1338)، ومسلم (2870)، من حديث أنس رقه، بلفظ: &quot;إن الميت إذا وضع"
+                    HPOS="162"
+                    VPOS="2445"
+                    WIDTH="1511"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4a04168"
+                    
+                    BASELINE="309 2570 1587 2580" 
+                    HPOS="307"
+                    VPOS="2524"
+                    WIDTH="1280"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="309 2570 309 2524 1587 2533 1587 2580 1585 2601 307 2591"/></Shape>
+	    <String CONTENT="في قبره إنه ليسمع خفق نعالهم إذا انصرفوا&quot;. أما معرفة الزائر ففيها خلاف بين أهل العلم."
+                    HPOS="307"
+                    VPOS="2524"
+                    WIDTH="1280"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_daec19dc"
+                    
+                    BASELINE="1219 2647 1671 2643" 
+                    HPOS="1217"
+                    VPOS="2594"
+                    WIDTH="454"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1219 2647 1217 2598 1668 2594 1671 2643 1671 2668 1219 2673"/></Shape>
+	    <String CONTENT="(99) انظر هامش رقم (97)."
+                    HPOS="1217"
+                    VPOS="2594"
+                    WIDTH="454"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="186"
+                   VPOS="2010"
+                   WIDTH="16"
+                   HEIGHT="7"
+                   ID="eSc_textblock_37777be7"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="186 2017 186 2010 202 2010 202 2017"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="428"
+                   VPOS="2010"
+                   WIDTH="491"
+                   HEIGHT="16"
+                   ID="eSc_textblock_569669d8"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="761 2010 919 2026 428 2026 456 2010"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="282"
+                   VPOS="178"
+                   WIDTH="320"
+                   HEIGHT="122"
+                   ID="eSc_textblock_b15cf2a3"
+                   TAGREFS="BT859">
+          <Shape><Polygon POINTS="282 178 282 300 602 300 602 178"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

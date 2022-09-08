@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>AlRaduyani_Tarjuman_Al_Balaghah.pdf_page_76.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1471" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1472" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1473" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1474" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1475" LABEL="Head" DESCRIPTION="block type Head"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="75"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="570"
+                   VPOS="572"
+                   WIDTH="1265"
+                   HEIGHT="2087"
+                   ID="eSc_textblock_d35544b6"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1835 2659 1828 572 576 592 570 2632"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1848"
+                   VPOS="618"
+                   WIDTH="291"
+                   HEIGHT="1967"
+                   ID="eSc_textblock_e7630d9b"
+                   TAGREFS="BT1475">
+          <Shape><Polygon POINTS="2139 2585 2139 618 1848 618 1848 2585"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="497"
+                   VPOS="2672"
+                   WIDTH="1616"
+                   HEIGHT="304"
+                   ID="eSc_textblock_95afa3a0"
+                   TAGREFS="BT1473">
+          <Shape><Polygon POINTS="2113 2976 2113 2672 497 2672 497 2976"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1093"
+                   VPOS="413"
+                   WIDTH="483"
+                   HEIGHT="93"
+                   ID="eSc_textblock_4075618e"
+                   TAGREFS="BT1471">
+          <Shape><Polygon POINTS="1093 413 1093 506 1576 506 1576 413"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="484"
+                   VPOS="426"
+                   WIDTH="132"
+                   HEIGHT="99"
+                   ID="eSc_textblock_044dd763"
+                   TAGREFS="BT1472">
+          <Shape><Polygon POINTS="484 426 484 525 616 525 616 426"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_f68fab4d"
+                    
+                    BASELINE="1391 675 2104 666" 
+                    HPOS="1388"
+                    VPOS="593"
+                    WIDTH="716"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1391 675 1388 602 2101 593 2104 666 2104 695 1391 704"/></Shape>
+	    <String CONTENT="4 مسل: فی المتاوب المحح"
+                    HPOS="1388"
+                    VPOS="593"
+                    WIDTH="716"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b7e17e7"
+                    
+                    BASELINE="757 675 1280 669" 
+                    HPOS="754"
+                    VPOS="602"
+                    WIDTH="526"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="757 675 754 608 1277 602 1280 669 1280 695 757 701"/></Shape>
+	    <String CONTENT="10 مصل: فى المقتحب"
+                    HPOS="754"
+                    VPOS="602"
+                    WIDTH="526"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_172b36c0"
+                    
+                    BASELINE="762 798 1274 792" 
+                    HPOS="760"
+                    VPOS="710"
+                    WIDTH="514"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="762 798 760 716 1271 710 1274 792 1274 818 762 824"/></Shape>
+	    <String CONTENT="13 فصل: فی المطابق"
+                    HPOS="760"
+                    VPOS="710"
+                    WIDTH="514"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9c2a88e"
+                    
+                    BASELINE="1540 803 2104 803" 
+                    HPOS="1540"
+                    VPOS="748"
+                    WIDTH="564"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1540 803 1540 748 2104 748 2104 803 2104 827 1540 827"/></Shape>
+	    <String CONTENT=" قصلفی المضار عا"
+                    HPOS="1540"
+                    VPOS="748"
+                    WIDTH="564"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0cb103c"
+                    
+                    BASELINE="2163 917 2224 912" 
+                    HPOS="2160"
+                    VPOS="879"
+                    WIDTH="64"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="2163 917 2160 885 2221 879 2224 912 2224 932 2163 938"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2160"
+                    VPOS="879"
+                    WIDTH="64"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e337411c"
+                    
+                    BASELINE="1575 920 2116 915" 
+                    HPOS="1572"
+                    VPOS="824"
+                    WIDTH="544"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1575 920 1572 830 2113 824 2116 915 2116 935 1575 941"/></Shape>
+	    <String CONTENT="13 مصل: فی المتضاد"
+                    HPOS="1572"
+                    VPOS="824"
+                    WIDTH="544"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7dd3f1a4"
+                    
+                    BASELINE="716 923 1265 917" 
+                    HPOS="713"
+                    VPOS="850"
+                    WIDTH="552"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="716 923 713 856 1262 850 1265 917 1265 932 716 938"/></Shape>
+	    <String CONTENT="16 قصل: فی الاعمنات"
+                    HPOS="713"
+                    VPOS="850"
+                    WIDTH="552"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4de7b458"
+                    
+                    BASELINE="1432 1037 2104 1034" 
+                    HPOS="1429"
+                    VPOS="955"
+                    WIDTH="675"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="1432 1037 1429 958 2101 955 2104 1034 2104 1064 1432 1067"/></Shape>
+	    <String CONTENT="15 مصل: فی إعناب القريه"
+                    HPOS="1429"
+                    VPOS="955"
+                    WIDTH="675"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f83b57c"
+                    
+                    BASELINE="710 1031 1262 1037" 
+                    HPOS="707"
+                    VPOS="967"
+                    WIDTH="555"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="710 1031 710 967 1262 973 1262 1037 1259 1058 707 1052"/></Shape>
+	    <String CONTENT="1 قصل: فی الاسعاره"
+                    HPOS="707"
+                    VPOS="967"
+                    WIDTH="555"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_774c1ba3"
+                    
+                    BASELINE="605 1166 1265 1151" 
+                    HPOS="602"
+                    VPOS="1069"
+                    WIDTH="663"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="605 1166 602 1084 1262 1069 1265 1151 1265 1175 605 1189"/></Shape>
+	    <String CONTENT="18 قصل : فی التشبيه المكنى"
+                    HPOS="602"
+                    VPOS="1069"
+                    WIDTH="663"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db18330d"
+                    
+                    BASELINE="1604 1154 2116 1154" 
+                    HPOS="1604"
+                    VPOS="1102"
+                    WIDTH="512"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1604 1154 1604 1102 2116 1102 2116 1154 2116 1186 1604 1186"/></Shape>
+	    <String CONTENT="17 قصل: فی التشيه"
+                    HPOS="1604"
+                    VPOS="1102"
+                    WIDTH="512"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffcde8d4"
+                    
+                    BASELINE="2154 1271 2221 1271" 
+                    HPOS="2154"
+                    VPOS="1219"
+                    WIDTH="67"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="2154 1271 2154 1219 2221 1219 2221 1271 2221 1306 2154 1306"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2154"
+                    VPOS="1219"
+                    WIDTH="67"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ac8c6b8"
+                    
+                    BASELINE="590 1277 2119 1271" 
+                    HPOS="587"
+                    VPOS="1198"
+                    WIDTH="1532"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="590 1277 587 1204 2116 1198 2119 1271 2119 1300 590 1306"/></Shape>
+	    <String CONTENT="15 قل : فی التسبيه المرجوع عنه20 قصل : فی التشبيه الشرطى"
+                    HPOS="587"
+                    VPOS="1198"
+                    WIDTH="1532"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70cd59cf"
+                    
+                    BASELINE="581 1397 1259 1385" 
+                    HPOS="578"
+                    VPOS="1321"
+                    WIDTH="681"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="581 1397 578 1333 1257 1321 1259 1385 1259 1414 581 1426"/></Shape>
+	    <String CONTENT="22 فصل: فی التشبيه المردوح"
+                    HPOS="578"
+                    VPOS="1321"
+                    WIDTH="681"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cf5ceaf"
+                    
+                    BASELINE="1414 1400 2104 1388" 
+                    HPOS="1411"
+                    VPOS="1321"
+                    WIDTH="693"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1414 1400 1411 1333 2101 1321 2104 1388 2104 1414 1414 1426"/></Shape>
+	    <String CONTENT="21 وصل: فی التشبيه المعكوت"
+                    HPOS="1411"
+                    VPOS="1321"
+                    WIDTH="693"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7c467c2"
+                    
+                    BASELINE="1449 1505 1841 1517 2107 1502" 
+                    HPOS="1447"
+                    VPOS="1444"
+                    WIDTH="660"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1449 1505 1449 1447 1838 1458 2101 1444 2107 1502 2107 1540 1841 1555 1838 1555 1447 1543"/></Shape>
+	    <String CONTENT="33 فصل: فی خسن المطالء"
+                    HPOS="1447"
+                    VPOS="1444"
+                    WIDTH="660"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c71b1e9"
+                    
+                    BASELINE="605 1514 1262 1505" 
+                    HPOS="602"
+                    VPOS="1447"
+                    WIDTH="660"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="605 1514 602 1455 1259 1447 1262 1505 1262 1528 605 1537"/></Shape>
+	    <String CONTENT="32 قصل: فی حن المحالص"
+                    HPOS="602"
+                    VPOS="1447"
+                    WIDTH="660"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_616f45a3"
+                    
+                    BASELINE="1435 1645 2110 1637" 
+                    HPOS="1432"
+                    VPOS="1575"
+                    WIDTH="678"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1435 1645 1432 1584 2107 1575 2110 1637 2110 1663 1435 1672"/></Shape>
+	    <String CONTENT="25 محل: فی خنن المقاطع"
+                    HPOS="1432"
+                    VPOS="1575"
+                    WIDTH="678"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2904cc71"
+                    
+                    BASELINE="602 1637 1262 1637" 
+                    HPOS="602"
+                    VPOS="1581"
+                    WIDTH="660"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="602 1637 602 1581 1262 1581 1262 1637 1262 1660 602 1660"/></Shape>
+	    <String CONTENT="26 فصل: فی حياقة الاعداد"
+                    HPOS="602"
+                    VPOS="1581"
+                    WIDTH="660"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17ddca11"
+                    
+                    BASELINE="1371 1754 2104 1759" 
+                    HPOS="1368"
+                    VPOS="1698"
+                    WIDTH="736"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1371 1754 1371 1698 2104 1704 2104 1759 2101 1789 1368 1783"/></Shape>
+	    <String CONTENT="27 فصل : فی الاعراق فی الصفه"
+                    HPOS="1368"
+                    VPOS="1698"
+                    WIDTH="736"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6618d33"
+                    
+                    BASELINE="640 1751 1257 1759" 
+                    HPOS="637"
+                    VPOS="1692"
+                    WIDTH="620"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="640 1751 640 1692 1257 1701 1257 1759 1254 1777 637 1768"/></Shape>
+	    <String CONTENT="38 فصل ز فی اجمه وجده"
+                    HPOS="637"
+                    VPOS="1692"
+                    WIDTH="620"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52435da0"
+                    
+                    BASELINE="590 1868 1248 1873" 
+                    HPOS="587"
+                    VPOS="1818"
+                    WIDTH="661"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="590 1868 590 1818 1248 1824 1248 1873 1245 1900 587 1894"/></Shape>
+	    <String CONTENT="م3 قل: فی التقم وحده"
+                    HPOS="587"
+                    VPOS="1818"
+                    WIDTH="661"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9403be0"
+                    
+                    BASELINE="1409 1876 2104 1882" 
+                    HPOS="1406"
+                    VPOS="1818"
+                    WIDTH="698"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1409 1876 1409 1818 2104 1824 2104 1882 2101 1903 1406 1897"/></Shape>
+	    <String CONTENT="29 قصل : فی التقریق وحده"
+                    HPOS="1406"
+                    VPOS="1818"
+                    WIDTH="698"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aad68980"
+                    
+                    BASELINE="1423 2011 2227 1993" 
+                    HPOS="1420"
+                    VPOS="1926"
+                    WIDTH="807"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1423 2011 1420 1944 2224 1926 2227 1993 2227 2020 1423 2037"/></Shape>
+	    <String CONTENT="1ا* قصل : فی الحمع والتفريق"
+                    HPOS="1420"
+                    VPOS="1926"
+                    WIDTH="807"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28b34558"
+                    
+                    BASELINE="596 2002 1248 1993" 
+                    HPOS="593"
+                    VPOS="1932"
+                    WIDTH="655"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="596 2002 593 1941 1245 1932 1248 1993 1248 2011 596 2020"/></Shape>
+	    <String CONTENT="جم فصل: فی الحمه والتقم"
+                    HPOS="593"
+                    VPOS="1932"
+                    WIDTH="655"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df39f2ff"
+                    
+                    BASELINE="1400 2122 2110 2110" 
+                    HPOS="1397"
+                    VPOS="2052"
+                    WIDTH="713"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1400 2122 1397 2063 2107 2052 2110 2110 2110 2136 1400 2148"/></Shape>
+	    <String CONTENT="ح قصل : فی التغريق والتقسيم"
+                    HPOS="1397"
+                    VPOS="2052"
+                    WIDTH="713"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4dab3262"
+                    
+                    BASELINE="596 2113 1251 2119" 
+                    HPOS="593"
+                    VPOS="2052"
+                    WIDTH="658"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="596 2113 596 2052 1251 2058 1251 2119 1248 2136 593 2131"/></Shape>
+	    <String CONTENT="34 فصل: فی تيق الصعات"
+                    HPOS="593"
+                    VPOS="2052"
+                    WIDTH="658"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d80948c"
+                    
+                    BASELINE="564 2245 1257 2239" 
+                    HPOS="561"
+                    VPOS="2157"
+                    WIDTH="696"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="564 2245 561 2163 1254 2157 1257 2239 1257 2268 564 2274"/></Shape>
+	    <String CONTENT="كم قصل: فی المدح الموجه"
+                    HPOS="561"
+                    VPOS="2157"
+                    WIDTH="696"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a415999"
+                    
+                    BASELINE="1403 2250 2107 2242" 
+                    HPOS="1400"
+                    VPOS="2189"
+                    WIDTH="707"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1403 2250 1400 2198 2104 2189 2107 2242 2107 2262 1403 2271"/></Shape>
+	    <String CONTENT="35 فصل: فی مراعات النظير"
+                    HPOS="1400"
+                    VPOS="2189"
+                    WIDTH="707"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5e84eea"
+                    
+                    BASELINE="698 2373 1254 2367" 
+                    HPOS="695"
+                    VPOS="2300"
+                    WIDTH="559"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="698 2373 695 2306 1251 2300 1254 2367 1254 2391 698 2397"/></Shape>
+	    <String CONTENT="&quot; قصل: فی الالتفات"
+                    HPOS="695"
+                    VPOS="2300"
+                    WIDTH="559"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5fceec42"
+                    
+                    BASELINE="1406 2376 2221 2370" 
+                    HPOS="1403"
+                    VPOS="2321"
+                    WIDTH="818"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1406 2376 1403 2326 2218 2321 2221 2370 2221 2402 1406 2408"/></Shape>
+	    <String CONTENT="15 7ا3 مصل: فی تجاهل العارف"
+                    HPOS="1403"
+                    VPOS="2321"
+                    WIDTH="818"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0592e27b"
+                    
+                    BASELINE="610 2499 1248 2499" 
+                    HPOS="610"
+                    VPOS="2438"
+                    WIDTH="638"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="610 2499 610 2438 1248 2438 1248 2499 1248 2528 610 2528"/></Shape>
+	    <String CONTENT="م فصل: فی إرسال المل"
+                    HPOS="610"
+                    VPOS="2438"
+                    WIDTH="638"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a3711bf"
+                    
+                    BASELINE="1429 2502 2098 2502" 
+                    HPOS="1429"
+                    VPOS="2440"
+                    WIDTH="669"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1429 2502 1429 2440 2098 2440 2098 2502 2098 2534 1429 2534"/></Shape>
+	    <String CONTENT="هم مصل:فی تاكد المدح"
+                    HPOS="1429"
+                    VPOS="2440"
+                    WIDTH="669"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6ec0527"
+                    
+                    BASELINE="757 2619 988 2616" 
+                    HPOS="754"
+                    VPOS="2552"
+                    WIDTH="234"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="757 2619 754 2554 985 2552 988 2616 988 2636 757 2639"/></Shape>
+	    <String CONTENT="فی البيت"
+                    HPOS="754"
+                    VPOS="2552"
+                    WIDTH="234"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa4ceeae"
+                    
+                    BASELINE="1490 2631 1824 2622" 
+                    HPOS="1487"
+                    VPOS="2563"
+                    WIDTH="337"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1490 2631 1487 2572 1821 2563 1824 2622 1824 2639 1490 2648"/></Shape>
+	    <String CONTENT="ما نصجه الذم"
+                    HPOS="1487"
+                    VPOS="2563"
+                    WIDTH="337"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e7588ef"
+                    
+                    BASELINE="1087 467 1534 467" 
+                    HPOS="1087"
+                    VPOS="415"
+                    WIDTH="447"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1087 467 1087 415 1534 415 1534 467 1534 502 1087 502"/></Shape>
+	    <String CONTENT="صلای ترجمان البلاع"
+                    HPOS="1087"
+                    VPOS="415"
+                    WIDTH="447"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9a9fa23"
+                    
+                    BASELINE="2160 1637 2230 1637" 
+                    HPOS="2160"
+                    VPOS="1566"
+                    WIDTH="70"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="2160 1637 2160 1566 2230 1566 2230 1637 2230 1686 2160 1686"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="2160"
+                    VPOS="1566"
+                    WIDTH="70"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60104855"
+                    
+                    BASELINE="526 2756 982 2774 2011 2774" 
+                    HPOS="523"
+                    VPOS="2698"
+                    WIDTH="1488"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="526 2756 526 2698 982 2715 2011 2715 2011 2774 2011 2800 982 2800 979 2800 523 2783"/></Shape>
+	    <String CONTENT="* اعنات : المراعت باصل المرجوع مرجوع - اصل  *سياقه:"
+                    HPOS="523"
+                    VPOS="2698"
+                    WIDTH="1488"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02de3b2a"
+                    
+                    BASELINE="540 2853 2113 2861" 
+                    HPOS="537"
+                    VPOS="2800"
+                    WIDTH="1576"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="540 2853 540 2800 2113 2809 2113 2861 2110 2888 537 2879"/></Shape>
+	    <String CONTENT="اقة اصل ه التقسيم: التقسير- اصلي التسيق- اصل"
+                    HPOS="537"
+                    VPOS="2800"
+                    WIDTH="1576"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6aeb12f3"
+                    
+                    BASELINE="526 2932 2096 2946" 
+                    HPOS="523"
+                    VPOS="2879"
+                    WIDTH="1573"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="526 2932 526 2879 2096 2894 2096 2946 2093 2999 523 2984"/></Shape>
+	    <String CONTENT="ه1 الظير النظر اصلا المدح مدح اصلا 1 مته شه اصا"
+                    HPOS="523"
+                    VPOS="2879"
+                    WIDTH="1573"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ce01b66"
+                    
+                    BASELINE="359 2008 456 2002" 
+                    HPOS="353"
+                    VPOS="1920"
+                    WIDTH="103"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="359 2008 353 1926 450 1920 456 2002 456 2046 359 2052"/></Shape>
+	    <String CONTENT=""
+                    HPOS="353"
+                    VPOS="1920"
+                    WIDTH="103"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

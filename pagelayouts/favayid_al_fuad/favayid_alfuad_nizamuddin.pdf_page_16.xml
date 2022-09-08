@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>favayid_alfuad_nizamuddin.pdf_page_16.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1117" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1118" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1119" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1980"
+          HEIGHT="2731"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1980"
+                  HEIGHT="2731">
+        
+        <TextBlock HPOS="1599"
+                   VPOS="182"
+                   WIDTH="171"
+                   HEIGHT="79"
+                   ID="eSc_textblock_4f951fa6"
+                   TAGREFS="BT1117">
+          <Shape><Polygon POINTS="1752 182 1770 243 1609 261 1599 182"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b4e3df43"
+                    
+                    BASELINE="1606 232 1752 238" 
+                    HPOS="1604"
+                    VPOS="182"
+                    WIDTH="150"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1606 232 1609 182 1754 188 1752 238 1750 252 1604 245"/></Shape>
+	    <String CONTENT="بیشگفتار"
+                    HPOS="1604"
+                    VPOS="182"
+                    WIDTH="150"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="282"
+                   VPOS="200"
+                   WIDTH="61"
+                   HEIGHT="52"
+                   ID="eSc_textblock_cce6ec29"
+                   TAGREFS="BT1118">
+          <Shape><Polygon POINTS="343 200 343 252 282 243 300 200"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="252"
+                   VPOS="331"
+                   WIDTH="1557"
+                   HEIGHT="2225"
+                   ID="eSc_textblock_b805ba59"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="252 331 252 2556 1809 2556 1809 331"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

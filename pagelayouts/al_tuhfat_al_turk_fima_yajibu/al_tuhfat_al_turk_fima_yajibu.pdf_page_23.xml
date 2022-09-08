@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_tuhfat_al_turk_fima_yajibu.pdf_page_23.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT878" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT879" LABEL="Marginal material" DESCRIPTION="block type Marginal material"/><OtherTag ID="BT880" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT881" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    <OtherTag ID="LT36" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1752"
+          HEIGHT="2480"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1752"
+                  HEIGHT="2480">
+        
+        <TextBlock HPOS="687"
+                   VPOS="445"
+                   WIDTH="417"
+                   HEIGHT="221"
+                   ID="eSc_textblock_97dff96e"
+                   TAGREFS="BT880">
+          <Shape><Polygon POINTS="1104 445 1104 666 687 666 687 445"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e024028a"
+                    
+                    BASELINE="872 506 922 510" 
+                    HPOS="870"
+                    VPOS="452"
+                    WIDTH="56"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="872 506 877 452 926 456 922 510 920 522 870 518"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="870"
+                    VPOS="452"
+                    WIDTH="56"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17335b07"
+                    
+                    BASELINE="688 597 1114 603" 
+                    HPOS="686"
+                    VPOS="531"
+                    WIDTH="428"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="688 597 688 531 1114 537 1114 603 1112 626 686 620"/></Shape>
+	    <String CONTENT="الطرسوسى و&quot;تحفة الترك&quot;"
+                    HPOS="686"
+                    VPOS="531"
+                    WIDTH="428"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="314"
+                   VPOS="760"
+                   WIDTH="1189"
+                   HEIGHT="1007"
+                   ID="eSc_textblock_73d8ffe6"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1478 777 1503 843 1487 1725 1462 1750 355 1767 314 1684 330 793 388 760"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_438942d5"
+                    
+                    BASELINE="347 830 1387 843" 
+                    HPOS="345"
+                    VPOS="787"
+                    WIDTH="1042"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="347 830 347 787 1387 799 1387 843 1385 859 345 847"/></Shape>
+	    <String CONTENT="هو نجم الدين أبو إسحاق إبراهيم بن على بن أحمد الطرسوسي. ولد"
+                    HPOS="345"
+                    VPOS="787"
+                    WIDTH="1042"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c43f53b3"
+                    
+                    BASELINE="347 907 1460 917" 
+                    HPOS="345"
+                    VPOS="865"
+                    WIDTH="1115"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="347 907 347 865 1460 876 1460 917 1458 934 345 923"/></Shape>
+	    <String CONTENT="بدمشق عام 5710 وقد تولى والذه عماد الدين على ثيابة قضاء الحنفية"
+                    HPOS="345"
+                    VPOS="865"
+                    WIDTH="1115"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bc7b3e6"
+                    
+                    BASELINE="351 994 1172 992 1456 1000" 
+                    HPOS="349"
+                    VPOS="946"
+                    WIDTH="1107"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="351 994 349 948 1170 946 1172 946 1456 954 1456 1000 1454 1014 1170 1006 351 1008"/></Shape>
+	    <String CONTENT="بدمشق منذ العام 722ه وعندما توفى قاضى القضاة الحنفى صدر الدين"
+                    HPOS="349"
+                    VPOS="946"
+                    WIDTH="1107"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b14617f"
+                    
+                    BASELINE="349 1066 1454 1076" 
+                    HPOS="347"
+                    VPOS="1023"
+                    WIDTH="1107"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="349 1066 349 1023 1454 1033 1454 1076 1452 1093 347 1082"/></Shape>
+	    <String CONTENT="البصروى عام 727ه صار عماد الدين قاضيا للقضاة. وفى مطالع"
+                    HPOS="347"
+                    VPOS="1023"
+                    WIDTH="1107"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c365bc4f"
+                    
+                    BASELINE="347 1142 1460 1157" 
+                    HPOS="345"
+                    VPOS="1099"
+                    WIDTH="1115"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="347 1142 347 1099 1460 1113 1460 1157 1458 1171 345 1157"/></Shape>
+	    <String CONTENT="الأربعينات جعل عماد الدين ابنه نجم الدين نائبا له ، ثم تنازل له عن قضاء"
+                    HPOS="345"
+                    VPOS="1099"
+                    WIDTH="1115"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b63e6f99"
+                    
+                    BASELINE="343 1223 1460 1229" 
+                    HPOS="341"
+                    VPOS="1182"
+                    WIDTH="1119"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="343 1223 343 1182 1460 1188 1460 1229 1458 1246 341 1240"/></Shape>
+	    <String CONTENT="القضاة عام 746ه فاحتفظ نجم الدين بمنصب قاضى قضاة الأحناف بدمشق"
+                    HPOS="341"
+                    VPOS="1182"
+                    WIDTH="1119"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_988bd844"
+                    
+                    BASELINE="345 1314 541 1306 1456 1310" 
+                    HPOS="343"
+                    VPOS="1260"
+                    WIDTH="1113"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="345 1314 343 1268 539 1260 541 1260 1456 1264 1456 1310 1454 1328 541 1324 345 1333"/></Shape>
+	    <String CONTENT="حتى وفاته عام 758ه. وتذكر كتب التراجم الحنفية لنجم الدين الطرسوسي"
+                    HPOS="343"
+                    VPOS="1260"
+                    WIDTH="1113"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c521a167"
+                    
+                    BASELINE="347 1380 1456 1388" 
+                    HPOS="345"
+                    VPOS="1337"
+                    WIDTH="1111"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="347 1380 347 1337 1456 1345 1456 1388 1454 1407 345 1399"/></Shape>
+	    <String CONTENT="أحد عشر مؤلفاً؛ منها اثنان في العقيدة والتراجم ، والباقى في مسائل فقهية"
+                    HPOS="345"
+                    VPOS="1337"
+                    WIDTH="1111"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74ea07e5"
+                    
+                    BASELINE="347 1461 1460 1469" 
+                    HPOS="345"
+                    VPOS="1417"
+                    WIDTH="1115"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="347 1461 347 1417 1460 1426 1460 1469 1458 1485 345 1477"/></Shape>
+	    <String CONTENT="تفصيلية شغلته - فيما يبدو- في تجربته اليومية نائبا لقاضى القضاة، ثم"
+                    HPOS="345"
+                    VPOS="1417"
+                    WIDTH="1115"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f5fc101"
+                    
+                    BASELINE="343 1539 1456 1545" 
+                    HPOS="341"
+                    VPOS="1496"
+                    WIDTH="1115"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="343 1539 343 1496 1456 1502 1456 1545 1454 1560 341 1554"/></Shape>
+	    <String CONTENT="قاضياً للقضاة في عهد السلطان الناصر محمد بن قلاوون (692- 741ه)"
+                    HPOS="341"
+                    VPOS="1496"
+                    WIDTH="1115"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12ad773d"
+                    
+                    BASELINE="345 1628 757 1622 1452 1630" 
+                    HPOS="343"
+                    VPOS="1574"
+                    WIDTH="1109"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="345 1628 343 1581 754 1574 757 1574 1452 1583 1452 1630 1450 1647 757 1638 345 1645"/></Shape>
+	    <String CONTENT="وعهود أبنائه؛ وبخاصة السلطان الناصر حسن الذي كتب الطرسوسي - في"
+                    HPOS="343"
+                    VPOS="1574"
+                    WIDTH="1109"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1949f2d3"
+                    
+                    BASELINE="759 1696 1447 1705" 
+                    HPOS="757"
+                    VPOS="1653"
+                    WIDTH="690"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="759 1696 759 1653 1447 1661 1447 1705 1445 1721 757 1713"/></Shape>
+	    <String CONTENT="الغالب - رسالته &quot;تحفة الترك&quot; فی عهده(1)."
+                    HPOS="757"
+                    VPOS="1653"
+                    WIDTH="690"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="314"
+                   VPOS="1759"
+                   WIDTH="1156"
+                   HEIGHT="387"
+                   ID="eSc_textblock_64f493a2"
+                   TAGREFS="BT878">
+          <Shape><Polygon POINTS="1452 1759 1470 2130 857 2146 339 2130 314 2081 330 1802 397 1793"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b3c71b0c"
+                    
+                    BASELINE="335 1833 1447 1841" 
+                    HPOS="333"
+                    VPOS="1798"
+                    WIDTH="1114"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="335 1833 335 1798 1447 1806 1447 1841 1445 1857 333 1849"/></Shape>
+	    <String CONTENT="(1) انظر عنه ابن تغرى بردي : المنهل الصافى ، تحقيق محمد محمد أمين ، القاهرة"
+                    HPOS="333"
+                    VPOS="1798"
+                    WIDTH="1114"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0a46325"
+                    
+                    BASELINE="341 1899 1137 1907" 
+                    HPOS="339"
+                    VPOS="1864"
+                    WIDTH="798"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="341 1899 341 1864 1137 1872 1137 1907 1135 1917 339 1909"/></Shape>
+	    <String CONTENT="-4139 وابن حجر: الدرر الكامنة، تحقيق محمد سيد جاد"
+                    HPOS="339"
+                    VPOS="1864"
+                    WIDTH="798"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c0cb3fa"
+                    
+                    BASELINE="345 1971 1352 1971" 
+                    HPOS="345"
+                    VPOS="1936"
+                    WIDTH="1007"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="345 1971 345 1936 1352 1936 1352 1971 1352 1986 345 1986"/></Shape>
+	    <String CONTENT="حق ، القاهرة 1966، 44/1 - 45&quot; والنعيمي : الدارس في تاريخ المدارس،"
+                    HPOS="345"
+                    VPOS="1936"
+                    WIDTH="1007"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1758aa4f"
+                    
+                    BASELINE="347 2035 930 2037" 
+                    HPOS="345"
+                    VPOS="1996"
+                    WIDTH="585"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="347 2035 347 1996 930 1998 930 2037 928 2050 345 2048"/></Shape>
+	    <String CONTENT="623- 624، وابن قطلوبغا: تاج التراجم ،"
+                    HPOS="345"
+                    VPOS="1996"
+                    WIDTH="585"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91b8f80a"
+                    
+                    BASELINE="304 2095 1375 2108" 
+                    HPOS="301"
+                    VPOS="2060"
+                    WIDTH="1074"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="304 2095 304 2060 1375 2072 1375 2108 1373 2124 301 2112"/></Shape>
+	    <String CONTENT="مصدر سابق؛ ص 4؛ والقرشى : الجواهر المضية ، تحقيق عبد الفتاح محمد ="
+                    HPOS="301"
+                    VPOS="2060"
+                    WIDTH="1074"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="826"
+                   VPOS="2179"
+                   WIDTH="135"
+                   HEIGHT="61"
+                   ID="eSc_textblock_e77763b9"
+                   TAGREFS="BT881">
+          <Shape><Polygon POINTS="961 2179 961 2240 826 2240 826 2179"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_094d5a64"
+                    
+                    BASELINE="885 2223 914 2223" 
+                    HPOS="885"
+                    VPOS="2186"
+                    WIDTH="29"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="885 2223 885 2186 914 2186 914 2223 914 2238 885 2238"/></Shape>
+	    <String CONTENT="14"
+                    HPOS="885"
+                    VPOS="2186"
+                    WIDTH="29"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

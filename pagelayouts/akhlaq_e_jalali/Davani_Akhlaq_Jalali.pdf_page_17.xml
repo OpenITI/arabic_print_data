@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Davani_Akhlaq_Jalali.pdf_page_17.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1138" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1139" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1140" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1141" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="320"
+                   VPOS="535"
+                   WIDTH="1888"
+                   HEIGHT="2503"
+                   ID="eSc_textblock_08869afe"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="320 535 320 3038 2208 3038 2208 535"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1148"
+                   VPOS="421"
+                   WIDTH="212"
+                   HEIGHT="89"
+                   ID="eSc_textblock_dc0d4be1"
+                   TAGREFS="BT1140">
+          <Shape><Polygon POINTS="1148 421 1148 510 1360 510 1360 421"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

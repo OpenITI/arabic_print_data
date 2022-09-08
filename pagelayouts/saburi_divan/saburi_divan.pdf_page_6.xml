@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>saburi_divan.pdf_page_6.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1403" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1404" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1405" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1406" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1407" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2184"
+          HEIGHT="2804"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2184"
+                  HEIGHT="2804">
+        
+        <TextBlock HPOS="624"
+                   VPOS="1769"
+                   WIDTH="950"
+                   HEIGHT="138"
+                   ID="eSc_textblock_5640f53f"
+                   TAGREFS="BT1403">
+          <Shape><Polygon POINTS="1574 1907 1574 1769 624 1769 624 1907"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="368"
+                   VPOS="296"
+                   WIDTH="148"
+                   HEIGHT="67"
+                   ID="eSc_textblock_ab5bc8e1"
+                   TAGREFS="BT1403">
+          <Shape><Polygon POINTS="368 296 368 363 516 363 516 296"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="353"
+                   VPOS="394"
+                   WIDTH="1549"
+                   HEIGHT="1370"
+                   ID="eSc_textblock_29b393c9"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1902 1764 1902 394 353 394 353 1764"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="322"
+                   VPOS="1917"
+                   WIDTH="1600"
+                   HEIGHT="710"
+                   ID="eSc_textblock_81a793b5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1922 2627 1922 1917 322 1917 322 2627"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1758"
+                   VPOS="312"
+                   WIDTH="72"
+                   HEIGHT="41"
+                   ID="eSc_textblock_eff510ac"
+                   TAGREFS="BT1407">
+          <Shape><Polygon POINTS="1758 312 1758 353 1830 353 1830 312"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_05c8ceaf"
+                    
+                    BASELINE="1772 343 1823 343" 
+                    HPOS="1772"
+                    VPOS="313"
+                    WIDTH="51"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="1772 343 1772 313 1823 313 1823 343 1823 359 1772 359"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1772"
+                    VPOS="313"
+                    WIDTH="51"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3bfe4a4b"
+                    
+                    BASELINE="360 453 1840 439" 
+                    HPOS="357"
+                    VPOS="392"
+                    WIDTH="1483"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="360 453 357 406 1837 392 1840 439 1840 455 360 469"/></Shape>
+	    <String CONTENT="اعلا ونفيس ببازارهای مشهد و سایر بلاد ایران روان میساختند: رفته رفته این"
+                    HPOS="357"
+                    VPOS="392"
+                    WIDTH="1483"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f92b4e8f"
+                    
+                    BASELINE="346 537 1419 542 1844 528" 
+                    HPOS="343"
+                    VPOS="469"
+                    WIDTH="1501"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="346 537 346 479 1417 481 1842 469 1844 528 1844 553 1419 567 1417 567 343 563"/></Shape>
+	    <String CONTENT="متاع ظریف بازارهای گرمی در خارج از ایران (افغانستان هندوستان و تر کستان"
+                    HPOS="343"
+                    VPOS="469"
+                    WIDTH="1501"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_037f9bdf"
+                    
+                    BASELINE="418 621 949 633 1840 623" 
+                    HPOS="416"
+                    VPOS="567"
+                    WIDTH="1424"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="418 621 418 567 949 579 1837 570 1840 623 1840 642 949 651 947 651 416 640"/></Shape>
+	    <String CONTENT="وبخارا) نیز بدست آورد وهرسال عدلهای حریر وخارا بخارج صادر میشد ."
+                    HPOS="416"
+                    VPOS="567"
+                    WIDTH="1424"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea0bfc8c"
+                    
+                    BASELINE="350 717 1706 705" 
+                    HPOS="348"
+                    VPOS="654"
+                    WIDTH="1358"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="350 717 348 665 1704 654 1706 705 1706 724 350 736"/></Shape>
+	    <String CONTENT="حاج محمد بافر ریاست این صنف بزرگ هنرمند رادر خراسان احراز کرد"
+                    HPOS="348"
+                    VPOS="654"
+                    WIDTH="1358"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d14eb902"
+                    
+                    BASELINE="350 794 1842 799" 
+                    HPOS="348"
+                    VPOS="747"
+                    WIDTH="1494"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="350 794 350 747 1842 752 1842 799 1840 820 348 815"/></Shape>
+	    <String CONTENT="و پسرانش که همه از محمد کاطم بزرگتر بودند بشغل پدر مشغولشدند هر یك"
+                    HPOS="348"
+                    VPOS="747"
+                    WIDTH="1494"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcc7cbb9"
+                    
+                    BASELINE="860 885 1269 897 1837 883" 
+                    HPOS="858"
+                    VPOS="827"
+                    WIDTH="979"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="860 885 860 829 1269 841 1835 827 1837 883 1837 901 1269 915 1267 915 858 904"/></Shape>
+	    <String CONTENT="دستگاههائی بهمان سبك وروش پدر بوجود آوردند ."
+                    HPOS="858"
+                    VPOS="827"
+                    WIDTH="979"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fb26bb4"
+                    
+                    BASELINE="348 988 1213 986 1713 969" 
+                    HPOS="346"
+                    VPOS="906"
+                    WIDTH="1367"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="348 988 346 925 1211 922 1711 906 1713 969 1713 986 1213 1002 1213 1002 348 1004"/></Shape>
+	    <String CONTENT="محمد کاظم که کوچکترین آنها بودپس از اتمام تحصیلات مقدماتی چون بیش از"
+                    HPOS="346"
+                    VPOS="906"
+                    WIDTH="1367"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f175f9a0"
+                    
+                    BASELINE="348 1074 1842 1074" 
+                    HPOS="348"
+                    VPOS="1023"
+                    WIDTH="1494"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="348 1074 348 1023 1842 1023 1842 1074 1842 1088 348 1088"/></Shape>
+	    <String CONTENT=" برادران به تکمیل سواد و تحصیل علم رغبت داشت بشغل وحرفهٔ بدر علافه نشان"
+                    HPOS="348"
+                    VPOS="1023"
+                    WIDTH="1494"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d91be668"
+                    
+                    BASELINE="348 1156 752 1168 1835 1151" 
+                    HPOS="346"
+                    VPOS="1093"
+                    WIDTH="1489"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="348 1156 348 1098 752 1109 1833 1093 1835 1151 1835 1170 752 1187 750 1187 346 1175"/></Shape>
+	    <String CONTENT="نداد و همچنان سر گرم تحصیل و تکمیل ادبیات زبان پارسی و عربی و حکمت و"
+                    HPOS="346"
+                    VPOS="1093"
+                    WIDTH="1489"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1629aebf"
+                    
+                    BASELINE="348 1250 1835 1240" 
+                    HPOS="346"
+                    VPOS="1189"
+                    WIDTH="1489"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="348 1250 346 1198 1833 1189 1835 1240 1835 1257 348 1266"/></Shape>
+	    <String CONTENT="فلسفه در نزد اساتید زمان خود گردید وچون ذاتا دارای ذوقی سرشار وطبعی ذخار"
+                    HPOS="346"
+                    VPOS="1189"
+                    WIDTH="1489"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_568a0fe2"
+                    
+                    BASELINE="348 1338 1835 1334" 
+                    HPOS="346"
+                    VPOS="1285"
+                    WIDTH="1489"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="348 1338 346 1289 1833 1285 1835 1334 1835 1352 348 1357"/></Shape>
+	    <String CONTENT="بود بمطالعهٔ دواوین شعرای متقدم پرداخت واز خرمن طبع هریك از اساتید شعرو"
+                    HPOS="346"
+                    VPOS="1285"
+                    WIDTH="1489"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e070a4c1"
+                    
+                    BASELINE="346 1432 1835 1418" 
+                    HPOS="343"
+                    VPOS="1364"
+                    WIDTH="1492"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="346 1432 343 1378 1833 1364 1835 1418 1835 1439 346 1453"/></Shape>
+	    <String CONTENT="ادب خوشهها چید و اندوختهها فراهم آورد واز همان اوان جوانی شعر گفتن آغاز"
+                    HPOS="343"
+                    VPOS="1364"
+                    WIDTH="1492"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b355be1b"
+                    
+                    BASELINE="346 1523 771 1514 1816 1516" 
+                    HPOS="343"
+                    VPOS="1462"
+                    WIDTH="1473"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="346 1523 343 1472 769 1462 771 1462 1816 1465 1816 1516 1814 1535 771 1532 346 1542"/></Shape>
+	    <String CONTENT="کرد ودرین راه باتشویق اساتید زمان و تائید رجال خراسان بقدری کوشید ورنج"
+                    HPOS="343"
+                    VPOS="1462"
+                    WIDTH="1473"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58969e33"
+                    
+                    BASELINE="350 1609 1524 1600 1830 1607" 
+                    HPOS="348"
+                    VPOS="1546"
+                    WIDTH="1482"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="350 1609 348 1556 1522 1546 1524 1546 1830 1553 1830 1607 1828 1628 1522 1621 350 1630"/></Shape>
+	    <String CONTENT="برد تا بمقام شامخ ملك الشعرائی آستان قدس رضوی نایل گشت و سر آمد اقران و"
+                    HPOS="348"
+                    VPOS="1546"
+                    WIDTH="1482"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee2a4da3"
+                    
+                    BASELINE="1325 1691 1830 1691" 
+                    HPOS="1325"
+                    VPOS="1647"
+                    WIDTH="505"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1325 1691 1325 1647 1830 1647 1830 1691 1830 1717 1325 1717"/></Shape>
+	    <String CONTENT="محسود رقیبان واقع شد."
+                    HPOS="1325"
+                    VPOS="1647"
+                    WIDTH="505"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdd90c77"
+                    
+                    BASELINE="621 1850 1538 1836" 
+                    HPOS="619"
+                    VPOS="1778"
+                    WIDTH="919"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="621 1850 619 1792 1536 1778 1538 1836 1538 1852 621 1866"/></Shape>
+	    <String CONTENT="فسبت صبوری بخانواده صبا و صبور گاشانی"
+                    HPOS="619"
+                    VPOS="1778"
+                    WIDTH="919"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc358f5b"
+                    
+                    BASELINE="339 1990 1704 1979" 
+                    HPOS="336"
+                    VPOS="1923"
+                    WIDTH="1368"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="339 1990 336 1934 1702 1923 1704 1979 1704 1997 339 2009"/></Shape>
+	    <String CONTENT="مرحوم حاج نایب الصدر گنابادی (معصوم علیشاه) در کتاب طرایق الحقایق"
+                    HPOS="336"
+                    VPOS="1923"
+                    WIDTH="1368"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1194f803"
+                    
+                    BASELINE="336 2074 1830 2065" 
+                    HPOS="334"
+                    VPOS="2014"
+                    WIDTH="1496"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="336 2074 334 2023 1828 2014 1830 2065 1830 2084 336 2093"/></Shape>
+	    <String CONTENT="مینویسد : &quot;میرزای صبوری کاشانی نام شریفش میرزا محمد کاظم ویاء نسبتش بعیرزا"
+                    HPOS="334"
+                    VPOS="2014"
+                    WIDTH="1496"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4f2c47e"
+                    
+                    BASELINE="336 2177 486 2168 1826 2159" 
+                    HPOS="332"
+                    VPOS="2105"
+                    WIDTH="1494"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="336 2177 332 2126 481 2117 484 2114 1823 2105 1826 2159 1826 2177 486 2187 336 2196"/></Shape>
+	    <String CONTENT="احمد صبور تخلص . برادرزادهٔ ملك الشعراکاشانی است . سالهاست در مشهد طوس"
+                    HPOS="332"
+                    VPOS="2105"
+                    WIDTH="1494"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a575ffce"
+                    
+                    BASELINE="336 2271 1828 2257" 
+                    HPOS="334"
+                    VPOS="2205"
+                    WIDTH="1494"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="336 2271 334 2219 1826 2205 1828 2257 1828 2273 336 2287"/></Shape>
+	    <String CONTENT="خاکبوس ومتوطن : از فضایل صوری بهرهٔ کامل یافته ودر اقسام سخن موزون با"
+                    HPOS="334"
+                    VPOS="2205"
+                    WIDTH="1494"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2815070e"
+                    
+                    BASELINE="336 2367 731 2355 1826 2357" 
+                    HPOS="334"
+                    VPOS="2303"
+                    WIDTH="1492"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="336 2367 334 2315 729 2303 731 2303 1826 2306 1826 2357 1823 2374 731 2371 336 2383"/></Shape>
+	    <String CONTENT="قدرت و در اثر قدما شتافته و از خدمت آستانهٔ مقدسه بلفب ملك الشعرائی مفتخر"
+                    HPOS="334"
+                    VPOS="2303"
+                    WIDTH="1492"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ddef2cc"
+                    
+                    BASELINE="334 2455 1828 2451" 
+                    HPOS="332"
+                    VPOS="2404"
+                    WIDTH="1496"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="334 2455 332 2409 1826 2404 1828 2451 1828 2469 334 2474"/></Shape>
+	    <String CONTENT="است . مکرر صحبتش حاصل گردیده و درحجهٔ سیصد وشانزده بزیارت خانهٔ خدا"
+                    HPOS="332"
+                    VPOS="2404"
+                    WIDTH="1496"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0cb1cc4"
+                    
+                    BASELINE="329 2549 1833 2549" 
+                    HPOS="329"
+                    VPOS="2495"
+                    WIDTH="1504"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="329 2549 329 2495 1833 2495 1833 2549 1833 2567 329 2567"/></Shape>
+	    <String CONTENT="وائمه هدی مشرف گشته بود بطهران آمد مورد عنایت پادشاهی گردید هنگام"
+                    HPOS="329"
+                    VPOS="2495"
+                    WIDTH="1504"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7eb1f955"
+                    
+                    BASELINE="374 338 481 338" 
+                    HPOS="374"
+                    VPOS="308"
+                    WIDTH="107"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="374 338 374 308 481 308 481 338 481 355 374 355"/></Shape>
+	    <String CONTENT="مقدمه"
+                    HPOS="374"
+                    VPOS="308"
+                    WIDTH="107"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

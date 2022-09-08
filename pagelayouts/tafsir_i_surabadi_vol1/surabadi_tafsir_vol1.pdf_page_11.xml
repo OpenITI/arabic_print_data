@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>surabadi_tafsir_vol1.pdf_page_11.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1458" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1459" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1460" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1461" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1462" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2079"
+          HEIGHT="2954"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2079"
+                  HEIGHT="2954">
+        
+        <TextBlock HPOS="315"
+                   VPOS="356"
+                   WIDTH="1422"
+                   HEIGHT="2233"
+                   ID="eSc_textblock_c797764b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="315 356 315 2589 1737 2589 1737 356"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="933"
+                   VPOS="239"
+                   WIDTH="199"
+                   HEIGHT="65"
+                   ID="eSc_textblock_2732aa40"
+                   TAGREFS="BT1458">
+          <Shape><Polygon POINTS="933 239 933 304 1132 304 1132 239"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1659"
+                   VPOS="248"
+                   WIDTH="61"
+                   HEIGHT="65"
+                   ID="eSc_textblock_24259e73"
+                   TAGREFS="BT1460">
+          <Shape><Polygon POINTS="1659 248 1659 313 1720 313 1720 248"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_21c86473"
+                    
+                    BASELINE="332 408 1711 401" 
+                    HPOS="330"
+                    VPOS="354"
+                    WIDTH="1381"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="332 408 330 361 1709 354 1711 401 1711 416 332 423"/></Shape>
+	    <String CONTENT="1345 شمسی (1966 میلادی) به صورت نسخهٔ عکسی منتشر کرد. برگزیدهای از"
+                    HPOS="330"
+                    VPOS="354"
+                    WIDTH="1381"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69b9d6ae"
+                    
+                    BASELINE="330 489 1709 480" 
+                    HPOS="327"
+                    VPOS="428"
+                    WIDTH="1382"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="330 489 327 438 1707 428 1709 480 1709 492 330 502"/></Shape>
+	    <String CONTENT="تفسیر را بر اساس نسخهٔ کوتاه شدهای از آن متعلق به موقوفهٔ تربت شیخ جام"
+                    HPOS="327"
+                    VPOS="428"
+                    WIDTH="1382"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_285f2c02"
+                    
+                    BASELINE="330 563 1709 558" 
+                    HPOS="327"
+                    VPOS="507"
+                    WIDTH="1382"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="330 563 327 512 1707 507 1709 558 1709 571 330 576"/></Shape>
+	    <String CONTENT="زنده یاد دکتر یحیی مهدوی پیش از آن برای انتشار آماده ساخته بود ولی انتشار آن"
+                    HPOS="327"
+                    VPOS="507"
+                    WIDTH="1382"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e191aeb6"
+                    
+                    BASELINE="332 630 1709 637" 
+                    HPOS="330"
+                    VPOS="583"
+                    WIDTH="1379"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="332 630 332 583 1709 590 1709 637 1707 652 330 644"/></Shape>
+	    <String CONTENT="به تآخیر افتاد، تا آنکه در سال 1347 شمسی (1968 ميلادی) جزء مجموعهٔ"
+                    HPOS="330"
+                    VPOS="583"
+                    WIDTH="1379"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef718913"
+                    
+                    BASELINE="330 718 564 708 1711 708" 
+                    HPOS="327"
+                    VPOS="662"
+                    WIDTH="1384"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="330 718 327 672 561 662 564 662 1711 662 1711 708 1711 726 564 726 330 733"/></Shape>
+	    <String CONTENT="&quot;&quot;گنجينهٔ متون ایرانی&quot; انتشارات دانشگاه تهران (شمارهٔ 1179، هدیهٔ دکتر یحیی"
+                    HPOS="327"
+                    VPOS="662"
+                    WIDTH="1384"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be2717ec"
+                    
+                    BASELINE="330 797 1714 787" 
+                    HPOS="327"
+                    VPOS="736"
+                    WIDTH="1387"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="330 797 327 745 1711 736 1714 787 1714 800 330 809"/></Shape>
+	    <String CONTENT="مهدوی شمارهٔ 23) به نام &quot;قصص قرآن مجید برگرفته از تفسیر ابوبکر عتیق"
+                    HPOS="327"
+                    VPOS="736"
+                    WIDTH="1387"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac407ab3"
+                    
+                    BASELINE="335 864 1714 868" 
+                    HPOS="332"
+                    VPOS="822"
+                    WIDTH="1382"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="335 864 335 822 1714 827 1714 868 1711 886 332 881"/></Shape>
+	    <String CONTENT="نیشابوری مشهور به سورابادی&quot; منتشر گردید و موجب شهرت بیشتر تفسیر و مزید"
+                    HPOS="332"
+                    VPOS="822"
+                    WIDTH="1382"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73c4ca48"
+                    
+                    BASELINE="1251 945 1709 940" 
+                    HPOS="1248"
+                    VPOS="891"
+                    WIDTH="461"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1251 945 1248 896 1707 891 1709 940 1709 957 1251 962"/></Shape>
+	    <String CONTENT="اطلاع دانشمندان از آن شد."
+                    HPOS="1248"
+                    VPOS="891"
+                    WIDTH="461"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df9ef678"
+                    
+                    BASELINE="330 1026 1657 1014" 
+                    HPOS="327"
+                    VPOS="962"
+                    WIDTH="1330"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="330 1026 327 974 1655 962 1657 1014 1657 1031 330 1043"/></Shape>
+	    <String CONTENT="اما طبع انتقادی کامل این تفسیر عظیم همچنان به صورت آرزویی باقی بود تا آن"
+                    HPOS="327"
+                    VPOS="962"
+                    WIDTH="1330"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d96ce968"
+                    
+                    BASELINE="330 1102 1711 1088" 
+                    HPOS="327"
+                    VPOS="1038"
+                    WIDTH="1384"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="330 1102 327 1053 1709 1038 1711 1088 1711 1102 330 1117"/></Shape>
+	    <String CONTENT="که همسر دانشمند آزادهام که زبان و ادب فارسی از جهات گوناگون مدیون"
+                    HPOS="327"
+                    VPOS="1038"
+                    WIDTH="1384"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad173471"
+                    
+                    BASELINE="335 1176 1709 1169" 
+                    HPOS="332"
+                    VPOS="1122"
+                    WIDTH="1377"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="335 1176 332 1129 1707 1122 1709 1169 1709 1184 335 1191"/></Shape>
+	    <String CONTENT="کوششهای فرهنگی اوست به عملی ساختن این آرزو همت گماشت و پس از تهیهٔ"
+                    HPOS="332"
+                    VPOS="1122"
+                    WIDTH="1377"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8cdc5a3"
+                    
+                    BASELINE="335 1257 1714 1248" 
+                    HPOS="332"
+                    VPOS="1201"
+                    WIDTH="1382"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="335 1257 332 1211 1711 1201 1714 1248 1714 1260 335 1270"/></Shape>
+	    <String CONTENT="عکس ده نسخهٔ معتبر تفسیر، چندین سال در مقابلهٔ انها و فراهم کردن متن در خور"
+                    HPOS="332"
+                    VPOS="1201"
+                    WIDTH="1382"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df69502f"
+                    
+                    BASELINE="335 1331 1714 1324" 
+                    HPOS="332"
+                    VPOS="1275"
+                    WIDTH="1382"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="335 1331 332 1282 1711 1275 1714 1324 1714 1341 335 1348"/></Shape>
+	    <String CONTENT="اعتمادی از این اثر نفیس زبان فارسی صرف وقت نمود اما طبع آن به سبب مشکلاتی"
+                    HPOS="332"
+                    VPOS="1275"
+                    WIDTH="1382"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea4a7690"
+                    
+                    BASELINE="332 1408 1711 1403" 
+                    HPOS="330"
+                    VPOS="1351"
+                    WIDTH="1381"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="332 1408 330 1356 1709 1351 1711 1403 1711 1417 332 1422"/></Shape>
+	    <String CONTENT="که در زندگی پرافتخار وی پیش آمد امکان نیافت. و متاسفانه تهیهٔ فهرست کامل"
+                    HPOS="330"
+                    VPOS="1351"
+                    WIDTH="1381"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1608f537"
+                    
+                    BASELINE="335 1481 1184 1486 1711 1474" 
+                    HPOS="332"
+                    VPOS="1425"
+                    WIDTH="1379"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="335 1481 335 1432 1182 1437 1709 1425 1711 1474 1711 1489 1184 1501 1182 1501 332 1496"/></Shape>
+	    <String CONTENT="اختلاف نسخه ها نیز به سرنوشت وی گره خورد که امید است در آینده صاحب همتی"
+                    HPOS="332"
+                    VPOS="1425"
+                    WIDTH="1379"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01db2b8a"
+                    
+                    BASELINE="330 1565 1716 1553" 
+                    HPOS="327"
+                    VPOS="1504"
+                    WIDTH="1389"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="330 1565 327 1516 1714 1504 1716 1553 1716 1570 330 1582"/></Shape>
+	    <String CONTENT="به تکمیل آن اقدام کند و همچنین فرهنگ لغات و ترکیبات مستخرج از متن تفسیر را"
+                    HPOS="327"
+                    VPOS="1504"
+                    WIDTH="1389"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4039dfd"
+                    
+                    BASELINE="729 1632 1719 1632" 
+                    HPOS="729"
+                    VPOS="1595"
+                    WIDTH="990"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="729 1632 729 1595 1719 1595 1719 1632 1719 1651 729 1651"/></Shape>
+	    <String CONTENT="سامان دهد و به دوستداران زبان وادب فارسی هدیه بدارد."
+                    HPOS="729"
+                    VPOS="1595"
+                    WIDTH="990"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d82c64e"
+                    
+                    BASELINE="330 1715 1655 1708" 
+                    HPOS="327"
+                    VPOS="1659"
+                    WIDTH="1328"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="330 1715 327 1666 1652 1659 1655 1708 1655 1723 330 1730"/></Shape>
+	    <String CONTENT="اینک خدای مهربان را سپاس که مؤسسهٔ &quot;فرهنگ نشر نو به کمک فرزندان"
+                    HPOS="327"
+                    VPOS="1659"
+                    WIDTH="1328"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1684eb99"
+                    
+                    BASELINE="335 1789 1714 1792" 
+                    HPOS="332"
+                    VPOS="1742"
+                    WIDTH="1382"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="335 1789 335 1742 1714 1745 1714 1792 1711 1806 332 1804"/></Shape>
+	    <String CONTENT="زنده باد سعیدی سیرجانی، صهبا و ساغر و سایه، در طبع این اثر گرانمایه که از"
+                    HPOS="332"
+                    VPOS="1742"
+                    WIDTH="1382"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34fe02d3"
+                    
+                    BASELINE="332 1873 1716 1868" 
+                    HPOS="330"
+                    VPOS="1819"
+                    WIDTH="1386"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="332 1873 330 1824 1714 1819 1716 1868 1716 1880 332 1885"/></Shape>
+	    <String CONTENT="مهمترین آثار قرن پنجم هجری و مشتمل بر فوائد زبانی و لغوی و ادبی و ائینی بسیار"
+                    HPOS="330"
+                    VPOS="1819"
+                    WIDTH="1386"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05d3c9f7"
+                    
+                    BASELINE="332 1937 1711 1947" 
+                    HPOS="330"
+                    VPOS="1890"
+                    WIDTH="1381"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="332 1937 332 1890 1711 1900 1711 1947 1709 1961 330 1952"/></Shape>
+	    <String CONTENT="و پادگار گرانقدری از مصحح صاحبدل و صاحب قلم آن است اهتمام نموده است."
+                    HPOS="330"
+                    VPOS="1890"
+                    WIDTH="1381"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bbdb816"
+                    
+                    BASELINE="332 2021 1714 2016" 
+                    HPOS="330"
+                    VPOS="1974"
+                    WIDTH="1384"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="332 2021 330 1979 1711 1974 1714 2016 1714 2030 332 2035"/></Shape>
+	    <String CONTENT="همچنین از طرف خود و خانواده و دوستان همسرم از استاد دانشمند عالیقدر جناب"
+                    HPOS="330"
+                    VPOS="1974"
+                    WIDTH="1384"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80c61a2f"
+                    
+                    BASELINE="332 2097 1709 2092" 
+                    HPOS="330"
+                    VPOS="2043"
+                    WIDTH="1379"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="332 2097 330 2048 1707 2043 1709 2092 1709 2107 332 2112"/></Shape>
+	    <String CONTENT="آقای دکتر عطاءالله مهاجرانی سپاسگزارم که ضمن همهٔ خدمات درخشان علمی و"
+                    HPOS="330"
+                    VPOS="2043"
+                    WIDTH="1379"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_642e4078"
+                    
+                    BASELINE="793 2166 1709 2176" 
+                    HPOS="790"
+                    VPOS="2121"
+                    WIDTH="919"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="793 2166 793 2121 1709 2131 1709 2176 1707 2195 790 2185"/></Shape>
+	    <String CONTENT="فرهنگی خود موانع را از سر راه نشر این کتاب برداشتند."
+                    HPOS="790"
+                    VPOS="2121"
+                    WIDTH="919"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a09b4d27"
+                    
+                    BASELINE="330 2254 1665 2254" 
+                    HPOS="330"
+                    VPOS="2205"
+                    WIDTH="1335"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="330 2254 330 2205 1665 2205 1665 2254 1665 2267 330 2267"/></Shape>
+	    <String CONTENT=" در پایان سخن از اقای محمدرضا جعفری هم باید تشکر کنم که در غلط گیری"
+                    HPOS="330"
+                    VPOS="2205"
+                    WIDTH="1335"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8084c9b"
+                    
+                    BASELINE="332 2333 1716 2328" 
+                    HPOS="330"
+                    VPOS="2281"
+                    WIDTH="1386"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="332 2333 330 2286 1714 2281 1716 2328 1716 2341 332 2345"/></Shape>
+	    <String CONTENT="چایی کل تفسیر اهتمام ورزیدند و در این همه سال در نگرانیهای ما سهیم بودند و در"
+                    HPOS="330"
+                    VPOS="2281"
+                    WIDTH="1386"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4bbfdec"
+                    
+                    BASELINE="332 2412 1719 2407" 
+                    HPOS="330"
+                    VPOS="2355"
+                    WIDTH="1389"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="332 2412 330 2360 1716 2355 1719 2407 1719 2419 332 2424"/></Shape>
+	    <String CONTENT="این بازار بیرونق کتاب از صرف هزینهٔ سنگین برای نشر تفسیر سورابادی"
+                    HPOS="330"
+                    VPOS="2355"
+                    WIDTH="1389"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55d880ff"
+                    
+                    BASELINE="817 2476 1711 2483" 
+                    HPOS="815"
+                    VPOS="2432"
+                    WIDTH="896"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="817 2476 817 2432 1711 2439 1711 2483 1709 2503 815 2496"/></Shape>
+	    <String CONTENT="نهراسیدند و آن را به صورت حاضر به چاپ رسانیدند."
+                    HPOS="815"
+                    VPOS="2432"
+                    WIDTH="896"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f857ce2"
+                    
+                    BASELINE="332 2562 615 2557" 
+                    HPOS="330"
+                    VPOS="2508"
+                    WIDTH="285"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="332 2562 330 2513 613 2508 615 2557 615 2574 332 2579"/></Shape>
+	    <String CONTENT="مهرانگیز سعیدی"
+                    HPOS="330"
+                    VPOS="2508"
+                    WIDTH="285"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89255f0b"
+                    
+                    BASELINE="945 285 1098 292" 
+                    HPOS="943"
+                    VPOS="236"
+                    WIDTH="155"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="945 285 945 236 1098 243 1098 292 1096 305 943 297"/></Shape>
+	    <String CONTENT="پیشگفتار"
+                    HPOS="943"
+                    VPOS="236"
+                    WIDTH="155"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

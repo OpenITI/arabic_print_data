@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00031.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1315" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1316" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1317" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1318" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1319" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1561"
+          HEIGHT="2193"
+          PHYSICAL_IMG_NR="30"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1561"
+                  HEIGHT="2193">
+        
+        <TextBlock HPOS="196"
+                   VPOS="281"
+                   WIDTH="1251"
+                   HEIGHT="1722"
+                   ID="eSc_textblock_0a3b2721"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1447 2003 1447 281 196 281 196 2003"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="747"
+                   VPOS="168"
+                   WIDTH="175"
+                   HEIGHT="67"
+                   ID="eSc_textblock_4fae2e21"
+                   TAGREFS="BT1315">
+          <Shape><Polygon POINTS="747 168 747 235 922 235 922 168"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="192"
+                   VPOS="181"
+                   WIDTH="79"
+                   HEIGHT="58"
+                   ID="eSc_textblock_02c506f3"
+                   TAGREFS="BT1317">
+          <Shape><Polygon POINTS="192 181 192 239 271 239 271 181"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_dcc8b8b2"
+                    
+                    BASELINE="190 338 488 328 1257 334 1416 327" 
+                    HPOS="188"
+                    VPOS="277"
+                    WIDTH="1228"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="190 338 188 288 486 279 488 279 892 283 1255 285 1412 277 1416 327 1416 341 1257 349 1255 349 890 345 488 343 190 352"/></Shape>
+	    <String CONTENT="در اندرون حيوانات کار کنان اند وهمیشه در کار اند ؛ وكار ایشان این"
+                    HPOS="188"
+                    VPOS="277"
+                    WIDTH="1228"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_542d1986"
+                    
+                    BASELINE="188 413 928 409 1157 418 1422 405" 
+                    HPOS="186"
+                    VPOS="356"
+                    WIDTH="1236"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="188 413 186 363 926 360 930 360 1155 369 1418 356 1422 405 1422 420 1157 433 1155 433 926 423 188 427"/></Shape>
+	    <String CONTENT="است که اين نوررا از ظلمت جدا می کنند . اول غذا در دهان"
+                    HPOS="186"
+                    VPOS="356"
+                    WIDTH="1236"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffcbbd1a"
+                    
+                    BASELINE="190 491 1418 487" 
+                    HPOS="188"
+                    VPOS="451"
+                    WIDTH="1230"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="190 491 188 455 1416 451 1418 487 1418 500 190 504"/></Shape>
+	    <String CONTENT="نهادند : دهان کار خود تمام می کند وبمعده می دهد ومعده کار خود"
+                    HPOS="188"
+                    VPOS="451"
+                    WIDTH="1230"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1d161ab"
+                    
+                    BASELINE="191 575 1416 566" 
+                    HPOS="190"
+                    VPOS="526"
+                    WIDTH="1226"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="191 575 190 535 1414 526 1416 566 1416 581 191 590"/></Shape>
+	    <String CONTENT="تمام می كند وبجگر می دهد ، وجگر کار خود تمام می کند وبدل"
+                    HPOS="190"
+                    VPOS="526"
+                    WIDTH="1226"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f4018fd"
+                    
+                    BASELINE="193 652 1412 654" 
+                    HPOS="191"
+                    VPOS="614"
+                    WIDTH="1221"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="193 652 193 614 1412 615 1412 654 1411 668 191 667"/></Shape>
+	    <String CONTENT="می دهد ، ودل كار خود تمام می کند وبدماغ می دهد . چون بدماغ"
+                    HPOS="191"
+                    VPOS="614"
+                    WIDTH="1221"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c6bd067"
+                    
+                    BASELINE="188 725 756 738 1418 727" 
+                    HPOS="186"
+                    VPOS="679"
+                    WIDTH="1232"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="188 725 188 679 756 692 1416 681 1418 727 1418 747 756 758 754 758 186 745"/></Shape>
+	    <String CONTENT="رسید ودماغ کار خود تمام کرد وعروج تمام شد ونور از ظلمت جدا"
+                    HPOS="186"
+                    VPOS="679"
+                    WIDTH="1232"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dcf9aa98"
+                    
+                    BASELINE="191 826 1409 807" 
+                    HPOS="190"
+                    VPOS="763"
+                    WIDTH="1219"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="191 826 190 782 1407 763 1409 807 1409 822 191 840"/></Shape>
+	    <String CONTENT="گشت وصفات نور پیدا آمدند وحيوان دانا وشنوا وبینا گشت واین"
+                    HPOS="190"
+                    VPOS="763"
+                    WIDTH="1219"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2625d1d8"
+                    
+                    BASELINE="191 899 630 906 1412 895" 
+                    HPOS="190"
+                    VPOS="846"
+                    WIDTH="1222"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="191 899 191 849 630 857 1411 846 1412 895 1412 911 630 922 628 922 190 915"/></Shape>
+	    <String CONTENT="اکسیر است وحیوانات دایم در اکسیر اند و آدمی این اکسیررا بنهایت"
+                    HPOS="190"
+                    VPOS="846"
+                    WIDTH="1222"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17cb0876"
+                    
+                    BASELINE="193 981 360 992 1118 990 1414 981" 
+                    HPOS="191"
+                    VPOS="930"
+                    WIDTH="1223"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="193 981 195 930 360 941 1116 939 1412 930 1414 981 1414 994 1118 1003 1118 1003 360 1005 358 1005 191 994"/></Shape>
+	    <String CONTENT="رسانید ، واکسیر این اکسیر است که آدمی میکند بهر چیزی که"
+                    HPOS="191"
+                    VPOS="930"
+                    WIDTH="1223"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2adae22c"
+                    
+                    BASELINE="191 1072 848 1067 1422 1072" 
+                    HPOS="190"
+                    VPOS="1023"
+                    WIDTH="1232"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="191 1072 190 1028 846 1023 848 1023 1422 1028 1422 1072 1420 1085 846 1080 191 1085"/></Shape>
+	    <String CONTENT="می خورد جان آن چیزها میستاند وزبده وخلاصه چیزها می گیرد -"
+                    HPOS="190"
+                    VPOS="1023"
+                    WIDTH="1232"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b368a1d"
+                    
+                    BASELINE="193 1145 1412 1149" 
+                    HPOS="191"
+                    VPOS="1103"
+                    WIDTH="1221"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="193 1145 193 1103 1412 1107 1412 1149 1411 1164 191 1160"/></Shape>
+	    <String CONTENT="یعنی نوررا ازظلمت چنان جدا می کند که نور خودرا کناهی می داند"
+                    HPOS="191"
+                    VPOS="1103"
+                    WIDTH="1221"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b17b94d"
+                    
+                    BASELINE="632 1224 1420 1235" 
+                    HPOS="630"
+                    VPOS="1186"
+                    WIDTH="790"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="632 1224 632 1186 1420 1197 1420 1235 1418 1248 630 1237"/></Shape>
+	    <String CONTENT="ومی بیند . وایین جز در انسان کامل نباشد ."
+                    HPOS="630"
+                    VPOS="1186"
+                    WIDTH="790"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79f8b1cd"
+                    
+                    BASELINE="193 1317 1321 1306" 
+                    HPOS="191"
+                    VPOS="1257"
+                    WIDTH="1130"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="193 1317 191 1268 1319 1257 1321 1306 1321 1317 193 1328"/></Shape>
+	    <String CONTENT="(16) ای درویش ! انسان کامل این اکسیررا بکمال رسانید واین"
+                    HPOS="191"
+                    VPOS="1257"
+                    WIDTH="1130"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d38ce32"
+                    
+                    BASELINE="193 1394 1416 1388" 
+                    HPOS="191"
+                    VPOS="1343"
+                    WIDTH="1225"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="193 1394 191 1348 1414 1343 1416 1388 1416 1399 193 1405"/></Shape>
+	    <String CONTENT="نوررا تمام از ظلمت جدا گردانید از جهت آنکه نور هیچ جای دیگر"
+                    HPOS="191"
+                    VPOS="1343"
+                    WIDTH="1225"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bfc899b"
+                    
+                    BASELINE="186 1465 1418 1465" 
+                    HPOS="186"
+                    VPOS="1429"
+                    WIDTH="1232"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="186 1465 186 1429 1418 1429 1418 1465 1418 1482 186 1482"/></Shape>
+	    <String CONTENT="خودرا کما هی ندانست وندید، ودر انسان کامل خودرا کما هی دیید"
+                    HPOS="186"
+                    VPOS="1429"
+                    WIDTH="1232"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_583de26a"
+                    
+                    BASELINE="1272 1546 1431 1551" 
+                    HPOS="1270"
+                    VPOS="1507"
+                    WIDTH="161"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1272 1546 1272 1507 1431 1513 1431 1551 1429 1560 1270 1555"/></Shape>
+	    <String CONTENT="ودانست ."
+                    HPOS="1270"
+                    VPOS="1507"
+                    WIDTH="161"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cfac4c0"
+                    
+                    BASELINE="186 1637 1069 1644 1319 1635" 
+                    HPOS="184"
+                    VPOS="1586"
+                    WIDTH="1135"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="186 1637 186 1588 1067 1595 1317 1586 1319 1635 1319 1646 1069 1655 1067 1655 184 1648"/></Shape>
+	    <String CONTENT="17) ای درویش ! این نوررا بکلی از ظلمت جدا نتوان کردن"
+                    HPOS="184"
+                    VPOS="1586"
+                    WIDTH="1135"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9928341"
+                    
+                    BASELINE="109 1716 747 1726 1398 1717" 
+                    HPOS="107"
+                    VPOS="1673"
+                    WIDTH="1291"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="109 1716 109 1673 747 1684 1396 1675 1398 1717 1398 1734 747 1743 745 1743 107 1732"/></Shape>
+	    <String CONTENT="که نور بی ظلمت نتواند بود وظلمت بی نور هم نتواند بود ، از جهت 15"
+                    HPOS="107"
+                    VPOS="1673"
+                    WIDTH="1291"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_372a8df0"
+                    
+                    BASELINE="195 1798 1100 1809 1416 1798" 
+                    HPOS="193"
+                    VPOS="1752"
+                    WIDTH="1223"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="195 1798 195 1752 1098 1763 1414 1752 1416 1798 1416 1814 1100 1825 1098 1825 193 1814"/></Shape>
+	    <String CONTENT="آنکه نور از جهتى وقايهٔ ظلمت است وظلمت ازجهتی وقايۀ نور است ."
+                    HPOS="193"
+                    VPOS="1752"
+                    WIDTH="1223"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_106e2948"
+                    
+                    BASELINE="193 1885 1423 1885" 
+                    HPOS="193"
+                    VPOS="1842"
+                    WIDTH="1230"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="193 1885 193 1842 1423 1842 1423 1885 1423 1904 193 1904"/></Shape>
+	    <String CONTENT="هر دو با یکدیگر اند وبا یکدیگر بوده اند و با یکدیگر خواهند بود ،"
+                    HPOS="193"
+                    VPOS="1842"
+                    WIDTH="1230"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffe7b29f"
+                    
+                    BASELINE="107 1971 1412 1964" 
+                    HPOS="106"
+                    VPOS="1920"
+                    WIDTH="1306"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="107 1971 106 1928 1411 1920 1412 1964 1412 1977 107 1984"/></Shape>
+	    <String CONTENT="ما نور با ظلمت در اول همچنان است كه روغن با شير، لاجرم صفات 1"
+                    HPOS="106"
+                    VPOS="1920"
+                    WIDTH="1306"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf7094b1"
+                    
+                    BASELINE="751 210 899 213" 
+                    HPOS="749"
+                    VPOS="173"
+                    WIDTH="150"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="751 210 751 173 899 177 899 213 897 226 749 222"/></Shape>
+	    <String CONTENT="رسالهٔ اول"
+                    HPOS="749"
+                    VPOS="173"
+                    WIDTH="150"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34b6f1c4"
+                    
+                    BASELINE="199 217 250 213" 
+                    HPOS="197"
+                    VPOS="188"
+                    WIDTH="53"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="199 217 197 191 248 188 250 213 250 222 199 226"/></Shape>
+	    <String CONTENT="25"
+                    HPOS="197"
+                    VPOS="188"
+                    WIDTH="53"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53963afd"
+                    
+                    BASELINE="127 487 155 487" 
+                    HPOS="127"
+                    VPOS="455"
+                    WIDTH="28"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="127 487 127 455 155 455 155 487 155 500 127 500"/></Shape>
+	    <String CONTENT="5"
+                    HPOS="127"
+                    VPOS="455"
+                    WIDTH="28"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61dbb1c0"
+                    
+                    BASELINE="133 721 151 721" 
+                    HPOS="133"
+                    VPOS="687"
+                    WIDTH="18"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="133 721 133 687 151 687 151 721 151 732 133 732"/></Shape>
+	    <String CONTENT="5"
+                    HPOS="133"
+                    VPOS="687"
+                    WIDTH="18"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee52e8fd"
+                    
+                    BASELINE="135 974 149 975" 
+                    HPOS="133"
+                    VPOS="939"
+                    WIDTH="20"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="135 974 138 939 153 941 149 975 148 986 133 985"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="133"
+                    VPOS="939"
+                    WIDTH="20"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7144cda1"
+                    
+                    BASELINE="113 1218 149 1220" 
+                    HPOS="111"
+                    VPOS="1182"
+                    WIDTH="38"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="113 1218 113 1182 149 1184 149 1220 148 1229 111 1228"/></Shape>
+	    <String CONTENT="14"
+                    HPOS="111"
+                    VPOS="1182"
+                    WIDTH="38"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e37c7b88"
+                    
+                    BASELINE="113 1465 164 1465" 
+                    HPOS="113"
+                    VPOS="1430"
+                    WIDTH="51"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="113 1465 113 1430 164 1430 164 1465 164 1485 113 1485"/></Shape>
+	    <String CONTENT="15"
+                    HPOS="113"
+                    VPOS="1430"
+                    WIDTH="51"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FaniKishmiri_Akhlaq_Alam_Ara.pdf_page_14.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1142" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1143" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1144" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="409"
+                   VPOS="2806"
+                   WIDTH="1774"
+                   HEIGHT="207"
+                   ID="eSc_textblock_1fe33ade"
+                   TAGREFS="BT1142">
+          <Shape><Polygon POINTS="2125 2806 2183 2829 2183 2897 2148 2990 2055 3013 456 2967 409 2829 537 2806"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6f058602"
+                    
+                    BASELINE="423 2861 2119 2888" 
+                    HPOS="420"
+                    VPOS="2809"
+                    WIDTH="1699"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="423 2861 423 2809 2119 2835 2119 2888 2116 2935 420 2908"/></Shape>
+	    <String CONTENT="1- در رصحف ابراهیم&quot; آمده &quot;شاهزادهٔ مذکور کتب تصوف را ازوی اسفاده نمود&quot;."
+                    HPOS="420"
+                    VPOS="2809"
+                    WIDTH="1699"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7208ddca"
+                    
+                    BASELINE="1663 2955 2046 2961" 
+                    HPOS="1660"
+                    VPOS="2908"
+                    WIDTH="386"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1663 2955 1663 2908 2046 2914 2046 2961 2043 2993 1660 2987"/></Shape>
+	    <String CONTENT="هاجا3ز105"
+                    HPOS="1660"
+                    VPOS="2908"
+                    WIDTH="386"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1272"
+                   VPOS="278"
+                   WIDTH="93"
+                   HEIGHT="69"
+                   ID="eSc_textblock_8b5f1be8"
+                   TAGREFS="BT1144">
+          <Shape><Polygon POINTS="1272 278 1272 347 1365 347 1365 278"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="424"
+                   VPOS="372"
+                   WIDTH="1759"
+                   HEIGHT="2380"
+                   ID="eSc_textblock_0759e570"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="424 372 424 2752 2183 2752 2183 372"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00024.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1315" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1316" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1317" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1318" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1319" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1625"
+          HEIGHT="2198"
+          PHYSICAL_IMG_NR="23"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1625"
+                  HEIGHT="2198">
+        
+        <TextBlock HPOS="69"
+                   VPOS="266"
+                   WIDTH="1294"
+                   HEIGHT="200"
+                   ID="eSc_textblock_455bb4de"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1363 466 1363 266 69 266 69 466"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="78"
+                   VPOS="653"
+                   WIDTH="1272"
+                   HEIGHT="1406"
+                   ID="eSc_textblock_0069b88a"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="78 653 78 2059 1350 2059 1350 653"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="386"
+                   VPOS="474"
+                   WIDTH="639"
+                   HEIGHT="144"
+                   ID="eSc_textblock_ca0e1506"
+                   TAGREFS="BT1315">
+          <Shape><Polygon POINTS="1025 618 1025 474 386 479 391 618"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="543"
+                   VPOS="175"
+                   WIDTH="317"
+                   HEIGHT="48"
+                   ID="eSc_textblock_9973ecfe"
+                   TAGREFS="BT1315">
+          <Shape><Polygon POINTS="543 175 543 223 860 223 860 175"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1255"
+                   VPOS="171"
+                   WIDTH="74"
+                   HEIGHT="56"
+                   ID="eSc_textblock_38057e37"
+                   TAGREFS="BT1317">
+          <Shape><Polygon POINTS="1255 171 1255 227 1329 227 1329 171"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d019ed9b"
+                    
+                    BASELINE="1262 206 1317 210" 
+                    HPOS="1260"
+                    VPOS="177"
+                    WIDTH="59"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="1262 206 1264 177 1319 181 1317 210 1315 219 1260 216"/></Shape>
+	    <String CONTENT="18"
+                    HPOS="1260"
+                    VPOS="177"
+                    WIDTH="59"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cb93466"
+                    
+                    BASELINE="100 318 859 327 1320 315" 
+                    HPOS="98"
+                    VPOS="271"
+                    WIDTH="1222"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="100 318 100 274 857 283 1319 271 1320 315 1320 333 859 346 857 346 98 337"/></Shape>
+	    <String CONTENT="مادر باین عالم میزاید . چنين میدانم که تمام فهم نکردی ، روشنتر"
+                    HPOS="98"
+                    VPOS="271"
+                    WIDTH="1222"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f052dac"
+                    
+                    BASELINE="855 402 1320 399" 
+                    HPOS="853"
+                    VPOS="351"
+                    WIDTH="467"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="855 402 853 355 1319 351 1320 399 1320 413 855 417"/></Shape>
+	    <String CONTENT="ازین بنوعی دیگر بگویم ."
+                    HPOS="853"
+                    VPOS="351"
+                    WIDTH="467"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c90b832f"
+                    
+                    BASELINE="633 516 798 511" 
+                    HPOS="632"
+                    VPOS="474"
+                    WIDTH="166"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="633 516 632 479 796 474 798 511 798 527 633 533"/></Shape>
+	    <String CONTENT="نصل سوم"
+                    HPOS="632"
+                    VPOS="474"
+                    WIDTH="166"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9dae8ac9"
+                    
+                    BASELINE="428 602 998 595" 
+                    HPOS="426"
+                    VPOS="551"
+                    WIDTH="572"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="428 602 426 558 996 551 998 595 998 608 428 615"/></Shape>
+	    <String CONTENT="در بیان تربیت نطفه بنوعی دیگر"
+                    HPOS="426"
+                    VPOS="551"
+                    WIDTH="572"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f261c58"
+                    
+                    BASELINE="97 708 1234 703" 
+                    HPOS="95"
+                    VPOS="664"
+                    WIDTH="1139"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="97 708 95 670 1232 664 1234 703 1234 716 97 721"/></Shape>
+	    <String CONTENT="(5) بدان که نطفه چون در رحم میافتد ، مدور میشود ، از"
+                    HPOS="95"
+                    VPOS="664"
+                    WIDTH="1139"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e651853"
+                    
+                    BASELINE="1363 780 1397 776" 
+                    HPOS="1359"
+                    VPOS="741"
+                    WIDTH="38"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1363 780 1359 745 1394 741 1397 776 1397 785 1363 789"/></Shape>
+	    <String CONTENT="4"
+                    HPOS="1359"
+                    VPOS="741"
+                    WIDTH="38"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bc7ecaf"
+                    
+                    BASELINE="93 794 302 783 1333 780" 
+                    HPOS="89"
+                    VPOS="732"
+                    WIDTH="1244"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="93 794 89 747 298 736 300 736 1331 732 1333 780 1333 798 302 802 93 813"/></Shape>
+	    <String CONTENT="حهت آنکه آب بطبع خود مدور است . آنکاه نطغه بواسطه حرارتی"
+                    HPOS="89"
+                    VPOS="732"
+                    WIDTH="1244"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c420a13"
+                    
+                    BASELINE="98 862 1309 855" 
+                    HPOS="97"
+                    VPOS="816"
+                    WIDTH="1212"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="98 862 97 824 1308 816 1309 855 1309 868 98 875"/></Shape>
+	    <String CONTENT="كه با خود دارد ، وبواسطهٔ حرارتی که بر رحم است ، بتدریج"
+                    HPOS="97"
+                    VPOS="816"
+                    WIDTH="1212"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e14f8f0c"
+                    
+                    BASELINE="102 934 1322 934" 
+                    HPOS="102"
+                    VPOS="895"
+                    WIDTH="1220"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="102 934 102 895 1322 895 1322 934 1322 950 102 950"/></Shape>
+	    <String CONTENT=" نضج میيابد ، واجزای لطیف وی از اجزای غلیظ وی جدا می شود."
+                    HPOS="102"
+                    VPOS="895"
+                    WIDTH="1220"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ac92374"
+                    
+                    BASELINE="95 1020 382 1011 1331 1014" 
+                    HPOS="93"
+                    VPOS="965"
+                    WIDTH="1238"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="95 1020 93 974 381 965 382 965 1331 968 1331 1014 1330 1029 382 1025 95 1034"/></Shape>
+	    <String CONTENT="چون نضج تمام مییابد ، اجزای غلیظ از تمامت نطفه روی بمر کز"
+                    HPOS="93"
+                    VPOS="965"
+                    WIDTH="1238"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7006c8c"
+                    
+                    BASELINE="91 1093 1320 1091" 
+                    HPOS="89"
+                    VPOS="1056"
+                    WIDTH="1231"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="91 1093 89 1058 1319 1056 1320 1091 1320 1106 91 1108"/></Shape>
+	    <String CONTENT=" نطفه مینهد ، واجزای لطيف از تمامت نطفه روی بمحيط نطفه نهد"
+                    HPOS="89"
+                    VPOS="1056"
+                    WIDTH="1231"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b2228cf"
+                    
+                    BASELINE="86 1168 1148 1172 1326 1179" 
+                    HPOS="84"
+                    VPOS="1133"
+                    WIDTH="1242"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="86 1168 86 1133 1148 1137 1148 1137 1326 1144 1326 1179 1324 1196 1146 1188 84 1185"/></Shape>
+	    <String CONTENT="وبدين واسطه نطفه چهار طبقه میشود. هر طبقه محيط ما تحت"
+                    HPOS="84"
+                    VPOS="1133"
+                    WIDTH="1242"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_27beddec"
+                    
+                    BASELINE="93 1258 1397 1252" 
+                    HPOS="91"
+                    VPOS="1212"
+                    WIDTH="1306"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="93 1258 91 1218 1395 1212 1397 1252 1397 1265 93 1271"/></Shape>
+	    <String CONTENT="14 خود می باشد ، یعنی انچه غلیظ است روی بمرکز مینهد ، ودر"
+                    HPOS="91"
+                    VPOS="1212"
+                    WIDTH="1306"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68ab8b63"
+                    
+                    BASELINE="91 1333 818 1333 943 1340 1328 1331" 
+                    HPOS="91"
+                    VPOS="1283"
+                    WIDTH="1237"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="91 1333 91 1285 818 1285 820 1285 943 1293 1326 1283 1328 1331 1328 1348 943 1357 941 1357 817 1351 91 1351"/></Shape>
+	    <String CONTENT="میان نطفه قرار می گیرند وآنچه لطیف است روی بمحیط می آرد،"
+                    HPOS="91"
+                    VPOS="1283"
+                    WIDTH="1237"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e61b1c2"
+                    
+                    BASELINE="86 1406 419 1415 1326 1412" 
+                    HPOS="84"
+                    VPOS="1364"
+                    WIDTH="1242"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="86 1406 86 1364 419 1373 1324 1370 1326 1412 1326 1430 419 1434 417 1434 84 1425"/></Shape>
+	    <String CONTENT="ودر سطح اعلى نطفه مقر میسازد ، وآنچه در زیر سطح اعلی است"
+                    HPOS="84"
+                    VPOS="1364"
+                    WIDTH="1242"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9bedc47"
+                    
+                    BASELINE="87 1489 776 1496 1394 1489" 
+                    HPOS="86"
+                    VPOS="1447"
+                    WIDTH="1308"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="87 1489 87 1447 774 1454 1392 1447 1394 1489 1394 1509 776 1516 774 1516 86 1509"/></Shape>
+	    <String CONTENT="11 متصل بسطح اعلى است در لطيفى كمتر از سطح اعلى است ، وآنچه"
+                    HPOS="86"
+                    VPOS="1447"
+                    WIDTH="1308"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_801c91e6"
+                    
+                    BASELINE="89 1573 360 1582 1328 1582" 
+                    HPOS="87"
+                    VPOS="1527"
+                    WIDTH="1241"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="89 1573 89 1527 360 1536 1328 1536 1328 1582 1328 1595 360 1595 359 1595 87 1586"/></Shape>
+	    <String CONTENT="بالای مركز است ومتصل بمر کز است در غلیظی کمتر از مرکز است ،"
+                    HPOS="87"
+                    VPOS="1527"
+                    WIDTH="1241"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c51e679"
+                    
+                    BASELINE="84 1655 549 1666 1326 1666" 
+                    HPOS="82"
+                    VPOS="1611"
+                    WIDTH="1244"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="84 1655 84 1611 549 1622 1326 1622 1326 1666 1326 1679 549 1679 547 1679 82 1668"/></Shape>
+	    <String CONTENT="باین واسطه نطفه چهار طبقه میشود . مر کزرا که در میان نطفه است"
+                    HPOS="82"
+                    VPOS="1611"
+                    WIDTH="1244"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37606b91"
+                    
+                    BASELINE="91 1743 463 1736 1295 1743 1383 1736" 
+                    HPOS="89"
+                    VPOS="1692"
+                    WIDTH="1294"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="91 1743 89 1699 461 1692 463 1692 828 1696 1293 1699 1379 1692 1383 1736 1383 1752 1295 1760 1293 1760 820 1756 463 1752 91 1760"/></Shape>
+	    <String CONTENT="1 سودا می گویند وسودا سرد. وخشک است وطبیعت خاك دارد ، لاجرم"
+                    HPOS="89"
+                    VPOS="1692"
+                    WIDTH="1294"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_696ad693"
+                    
+                    BASELINE="93 1826 311 1818 1330 1822" 
+                    HPOS="91"
+                    VPOS="1771"
+                    WIDTH="1239"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="93 1826 91 1778 309 1771 311 1771 1330 1774 1330 1822 1328 1837 311 1833 93 1840"/></Shape>
+	    <String CONTENT="بجای خاك افتاد . وآن طبقهرا که بالای مركز است ومتصل بمر کز"
+                    HPOS="91"
+                    VPOS="1771"
+                    WIDTH="1239"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_713b0f1f"
+                    
+                    BASELINE="86 1897 1337 1904" 
+                    HPOS="84"
+                    VPOS="1857"
+                    WIDTH="1253"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="86 1897 86 1857 1337 1864 1337 1904 1335 1923 84 1915"/></Shape>
+	    <String CONTENT="ومحيط مركز است بلغم می گويند ، وبلغم سرد وتر است وطبيعت آب"
+                    HPOS="84"
+                    VPOS="1857"
+                    WIDTH="1253"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8918873"
+                    
+                    BASELINE="86 1974 1139 1989 1419 1970" 
+                    HPOS="84"
+                    VPOS="1923"
+                    WIDTH="1335"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="86 1974 86 1926 1137 1941 1416 1923 1419 1970 1419 1992 1139 2011 1137 2011 84 1996"/></Shape>
+	    <String CONTENT="41 دارد ، لاجرم بجای آب افتاد . وآن طبقدرا كه بالای بلغم است"
+                    HPOS="84"
+                    VPOS="1923"
+                    WIDTH="1335"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ccc4184e"
+                    
+                    BASELINE="566 216 853 210" 
+                    HPOS="564"
+                    VPOS="177"
+                    WIDTH="289"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="566 216 564 183 851 177 853 210 853 223 566 228"/></Shape>
+	    <String CONTENT="كتاب الانسان الكامل"
+                    HPOS="564"
+                    VPOS="177"
+                    WIDTH="289"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b67c1871"
+                    
+                    BASELINE="1361 1012 1405 1007" 
+                    HPOS="1355"
+                    VPOS="972"
+                    WIDTH="50"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1361 1012 1355 978 1399 972 1405 1007 1405 1018 1361 1023"/></Shape>
+	    <String CONTENT="5"
+                    HPOS="1355"
+                    VPOS="972"
+                    WIDTH="50"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

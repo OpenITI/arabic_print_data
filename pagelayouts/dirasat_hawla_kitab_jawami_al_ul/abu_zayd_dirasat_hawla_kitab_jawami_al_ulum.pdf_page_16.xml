@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>abu_zayd_dirasat_hawla_kitab_jawami_al_ulum.pdf_page_16.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1086" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1087" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1088" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2079"
+          HEIGHT="2954"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2079"
+                  HEIGHT="2954">
+        
+        <TextBlock HPOS="1487"
+                   VPOS="246"
+                   WIDTH="303"
+                   HEIGHT="86"
+                   ID="eSc_textblock_57c3ceb1"
+                   TAGREFS="BT1086">
+          <Shape><Polygon POINTS="1771 246 1790 332 1527 332 1487 312 1497 246"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ec1ac62b"
+                    
+                    BASELINE="1505 297 1753 297" 
+                    HPOS="1505"
+                    VPOS="260"
+                    WIDTH="248"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1505 297 1505 260 1753 260 1753 297 1753 315 1505 315"/></Shape>
+	    <String CONTENT="شعیابن فریغون"
+                    HPOS="1505"
+                    VPOS="260"
+                    WIDTH="248"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="295"
+                   VPOS="359"
+                   WIDTH="1564"
+                   HEIGHT="2267"
+                   ID="eSc_textblock_113acddd"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1840 359 1859 2360 1849 2577 1810 2626 305 2606 295 452 335 364"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ca1bd7ce"
+                    
+                    BASELINE="1162 408 1776 401" 
+                    HPOS="1160"
+                    VPOS="366"
+                    WIDTH="616"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1162 408 1160 374 1773 366 1776 401 1776 420 1162 428"/></Shape>
+	    <String CONTENT="تلمید ابی زید احمدبن زید البلخی ."
+                    HPOS="1160"
+                    VPOS="366"
+                    WIDTH="616"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44674295"
+                    
+                    BASELINE="337 627 1645 617" 
+                    HPOS="335"
+                    VPOS="566"
+                    WIDTH="1310"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="337 627 335 576 1643 566 1645 617 1645 635 337 644"/></Shape>
+	    <String CONTENT="نسخ من نسخة استدل باستعجام مواضع منها على أن المعارضة لم يقع بها و"
+                    HPOS="335"
+                    VPOS="566"
+                    WIDTH="1310"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e4912c3"
+                    
+                    BASELINE="337 726 1776 736" 
+                    HPOS="335"
+                    VPOS="674"
+                    WIDTH="1441"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="337 726 337 674 1776 684 1776 736 1773 750 335 740"/></Shape>
+	    <String CONTENT="عورض بهذا على اصله، و اصلح ماامكن اصلاحه ... ما استعجم، فلم يمكن اصلاحه"
+                    HPOS="335"
+                    VPOS="674"
+                    WIDTH="1441"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb034a31"
+                    
+                    BASELINE="344 839 1776 834" 
+                    HPOS="342"
+                    VPOS="787"
+                    WIDTH="1434"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="344 839 342 792 1773 787 1776 834 1776 851 344 856"/></Shape>
+	    <String CONTENT="على حقيقة منه . و الحمدلله رب العالمين وصلى الله على خيرته من خلقه محمدالنبى"
+                    HPOS="342"
+                    VPOS="787"
+                    WIDTH="1434"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4ea5064"
+                    
+                    BASELINE="1438 945 1783 945" 
+                    HPOS="1438"
+                    VPOS="898"
+                    WIDTH="345"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1438 945 1438 898 1783 898 1783 945 1783 964 1438 964"/></Shape>
+	    <String CONTENT="وآله وسلم تسليما."
+                    HPOS="1438"
+                    VPOS="898"
+                    WIDTH="345"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02addd53"
+                    
+                    BASELINE="1608 1201 1761 1196" 
+                    HPOS="1606"
+                    VPOS="1147"
+                    WIDTH="155"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1608 1201 1606 1152 1758 1147 1761 1196 1761 1213 1608 1218"/></Shape>
+	    <String CONTENT="الصرف"
+                    HPOS="1606"
+                    VPOS="1147"
+                    WIDTH="155"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49076f14"
+                    
+                    BASELINE="349 1319 1655 1309" 
+                    HPOS="347"
+                    VPOS="1257"
+                    WIDTH="1308"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="349 1319 347 1267 1652 1257 1655 1309 1655 1326 349 1336"/></Shape>
+	    <String CONTENT="اللغة العربية تنقسم الی...  امامن جهة اللفظ لجو امامن جهة المعنى (3-أ)."
+                    HPOS="347"
+                    VPOS="1257"
+                    WIDTH="1308"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cbb5277"
+                    
+                    BASELINE="347 1427 1780 1420" 
+                    HPOS="344"
+                    VPOS="1366"
+                    WIDTH="1436"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="347 1427 344 1373 1778 1366 1780 1420 1780 1435 347 1442"/></Shape>
+	    <String CONTENT="ومایختص بالافعال (مب). المثل تسعة لجوسكون الاعراب  الثلاثی المعتل (4-أ)."
+                    HPOS="344"
+                    VPOS="1366"
+                    WIDTH="1436"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e830fbd"
+                    
+                    BASELINE="352 1536 684 1526 1507 1536 1783 1526" 
+                    HPOS="349"
+                    VPOS="1472"
+                    WIDTH="1434"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="352 1536 349 1481 682 1472 684 1472 1086 1476 1505 1481 1780 1472 1783 1526 1783 1543 1507 1553 1505 1553 1083 1548 684 1543 352 1553"/></Shape>
+	    <String CONTENT="معتل الحرفين * المهموز، امثلته عشرة (عب). امثلة الافعال المشتقة من الثلاثى ح"
+                    HPOS="349"
+                    VPOS="1472"
+                    WIDTH="1434"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ff2a0be"
+                    
+                    BASELINE="347 1644 1788 1632" 
+                    HPOS="344"
+                    VPOS="1580"
+                    WIDTH="1444"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="347 1644 344 1592 1785 1580 1788 1632 1788 1646 347 1659"/></Shape>
+	    <String CONTENT="اشتقاق الامكنة ه اشتقاق الآلات (5أ). الافعال المعتدية الی غيرموازينها (5-ب)."
+                    HPOS="344"
+                    VPOS="1580"
+                    WIDTH="1444"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_48721870"
+                    
+                    BASELINE="349 1750 1017 1742 1539 1752 1783 1740" 
+                    HPOS="347"
+                    VPOS="1683"
+                    WIDTH="1436"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="349 1750 347 1693 1014 1686 1017 1686 1125 1688 1537 1696 1778 1683 1783 1740 1783 1762 1539 1774 1537 1774 1123 1767 1014 1765 349 1772"/></Shape>
+	    <String CONTENT="استفعل الى افعوعل (6-أ). النعوت فی حيز الاسماء (عب). الاداة لفظة تجتلب الى اسم"
+                    HPOS="347"
+                    VPOS="1683"
+                    WIDTH="1436"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66f74a19"
+                    
+                    BASELINE="349 1853 1778 1848" 
+                    HPOS="347"
+                    VPOS="1799"
+                    WIDTH="1431"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="349 1853 347 1804 1776 1799 1778 1848 1778 1868 349 1873"/></Shape>
+	    <String CONTENT="أوفعل (7-أ). معنى الادوات (باب). الادوات المأخوذة من نفس الحروف (8-أ)."
+                    HPOS="347"
+                    VPOS="1799"
+                    WIDTH="1431"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02692c06"
+                    
+                    BASELINE="349 1961 1783 1957" 
+                    HPOS="347"
+                    VPOS="1907"
+                    WIDTH="1436"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="349 1961 347 1912 1780 1907 1783 1957 1783 1979 349 1984"/></Shape>
+	    <String CONTENT="ادوات نفی ه ادوات لايقاعشك (هب). ادوات الشك فی الاطماع والقنية (9-أ)."
+                    HPOS="347"
+                    VPOS="1907"
+                    WIDTH="1436"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb119c7c"
+                    
+                    BASELINE="482 2067 1783 2072" 
+                    HPOS="480"
+                    VPOS="2016"
+                    WIDTH="1303"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="482 2067 482 2016 1783 2021 1783 2072 1780 2089 480 2085"/></Shape>
+	    <String CONTENT="فی الادوات المركبة والمشتقة من الاسماء والافعال (من9-ب الی 12أ)."
+                    HPOS="480"
+                    VPOS="2016"
+                    WIDTH="1303"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30b189ba"
+                    
+                    BASELINE="1635 2217 1776 2213" 
+                    HPOS="1633"
+                    VPOS="2168"
+                    WIDTH="143"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1635 2217 1633 2173 1773 2168 1776 2213 1776 2227 1635 2232"/></Shape>
+	    <String CONTENT="النحو"
+                    HPOS="1633"
+                    VPOS="2168"
+                    WIDTH="143"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e400123"
+                    
+                    BASELINE="344 2331 1275 2341 1652 2326" 
+                    HPOS="342"
+                    VPOS="2272"
+                    WIDTH="1310"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="344 2331 344 2277 1273 2286 1650 2272 1652 2326 1652 2348 1275 2363 1273 2363 342 2353"/></Shape>
+	    <String CONTENT="الاعراب ينقسم الىجنس ونوع (12 -ب) . الاسماء - ظاهرة - مضمرة -"
+                    HPOS="342"
+                    VPOS="2272"
+                    WIDTH="1310"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90e15a78"
+                    
+                    BASELINE="352 2446 1785 2437" 
+                    HPOS="349"
+                    VPOS="2387"
+                    WIDTH="1436"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="352 2446 349 2397 1783 2387 1785 2437 1785 2454 352 2464"/></Shape>
+	    <String CONTENT="مبهمة (13- أ). الادوات التى تعمل 000* الكلام يتركب من اسم وفعل (13حب)."
+                    HPOS="349"
+                    VPOS="2387"
+                    WIDTH="1436"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b36fab23"
+                    
+                    BASELINE="349 2569 492 2560 1497 2560 1783 2547" 
+                    HPOS="344"
+                    VPOS="2491"
+                    WIDTH="1439"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="349 2569 344 2513 487 2503 492 2503 987 2503 1495 2503 1780 2491 1783 2547 1783 2572 1497 2584 1497 2584 985 2584 492 2584 349 2594"/></Shape>
+	    <String CONTENT="اقسام الفعل (14- أ) . فی الاضافة * التعجب (14 -ب) . عمل الادوات تنقسم الى"
+                    HPOS="344"
+                    VPOS="2491"
+                    WIDTH="1439"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="344"
+                   VPOS="275"
+                   WIDTH="106"
+                   HEIGHT="47"
+                   ID="eSc_textblock_c6a9796c"
+                   TAGREFS="BT1088">
+          <Shape><Polygon POINTS="440 275 450 292 440 322 344 322 344 275"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7192d027"
+                    
+                    BASELINE="369 297 411 292" 
+                    HPOS="364"
+                    VPOS="265"
+                    WIDTH="47"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="369 297 364 270 406 265 411 292 411 310 369 315"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="364"
+                    VPOS="265"
+                    WIDTH="47"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

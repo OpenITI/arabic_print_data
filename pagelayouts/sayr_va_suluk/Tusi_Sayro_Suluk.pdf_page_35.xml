@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Tusi_Sayro_Suluk.pdf_page_35.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1413" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1414" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1415" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1416" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1417" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="184"
+                   VPOS="1963"
+                   WIDTH="1910"
+                   HEIGHT="1156"
+                   ID="eSc_textblock_a4eabbb8"
+                   TAGREFS="BT1416">
+          <Shape><Polygon POINTS="2094 3119 2094 1963 184 1963 184 3119"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="232"
+                   VPOS="484"
+                   WIDTH="1823"
+                   HEIGHT="1421"
+                   ID="eSc_textblock_cd1d9772"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2055 1905 2055 484 232 484 232 1905"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1571"
+                   VPOS="363"
+                   WIDTH="237"
+                   HEIGHT="58"
+                   ID="eSc_textblock_566571cf"
+                   TAGREFS="BT1413">
+          <Shape><Polygon POINTS="1571 363 1571 421 1808 421 1808 363"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1842"
+                   VPOS="372"
+                   WIDTH="218"
+                   HEIGHT="39"
+                   ID="eSc_textblock_12046aae"
+                   TAGREFS="BT1415">
+          <Shape><Polygon POINTS="2060 372 2060 411 1842 411 1842 372"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_be9845f9"
+                    
+                    BASELINE="1581 400 2025 406" 
+                    HPOS="1578"
+                    VPOS="344"
+                    WIDTH="447"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1581 400 1581 344 2025 350 2025 406 2022 420 1578 415"/></Shape>
+	    <String CONTENT="سی و دو اسیر و سلوک"
+                    HPOS="1578"
+                    VPOS="344"
+                    WIDTH="447"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_908e3de4"
+                    
+                    BASELINE="251 546 2040 552" 
+                    HPOS="248"
+                    VPOS="482"
+                    WIDTH="1792"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="251 546 251 482 2040 488 2040 552 2037 581 248 575"/></Shape>
+	    <String CONTENT="مسلمان را چندین قرن به خود مشغول کرده بود، یعنی ار تباط میان عقل و وحی، و اینکه"
+                    HPOS="248"
+                    VPOS="482"
+                    WIDTH="1792"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71c10849"
+                    
+                    BASELINE="251 666 549 654 2034 648" 
+                    HPOS="248"
+                    VPOS="584"
+                    WIDTH="1786"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="251 666 248 602 546 590 546 590 2031 584 2034 648 2034 678 549 684 251 695"/></Shape>
+	    <String CONTENT="آیا برای آدمیان امکان دارد که به حقیقت غایی دین دست پیدا کنند یا نه. برای غزالی،"
+                    HPOS="248"
+                    VPOS="584"
+                    WIDTH="1786"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79623b33"
+                    
+                    BASELINE="248 765 2028 754" 
+                    HPOS="245"
+                    VPOS="692"
+                    WIDTH="1783"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="248 765 245 704 2025 692 2028 754 2028 774 248 786"/></Shape>
+	    <String CONTENT="فقیه و متکلم برجستهٔ سنی مذهب که بیشتر زندگیاش را در اشتغال به این موضوح"
+                    HPOS="245"
+                    VPOS="692"
+                    WIDTH="1783"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ea732fb"
+                    
+                    BASELINE="245 865 631 853 1406 865 2025 850" 
+                    HPOS="242"
+                    VPOS="783"
+                    WIDTH="1783"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="245 865 242 798 628 786 631 786 996 792 1403 798 2022 783 2025 850 2025 877 1406 891 1403 891 996 885 631 879 245 891"/></Shape>
+	    <String CONTENT="گذرانده بود، سؤال اساسی ارزش نسبی کلام، حکمت، تعلیم معلم صادق و تصوف برای"
+                    HPOS="242"
+                    VPOS="783"
+                    WIDTH="1783"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a03137bb"
+                    
+                    BASELINE="245 958 2025 958" 
+                    HPOS="245"
+                    VPOS="903"
+                    WIDTH="1780"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="245 958 245 903 2025 903 2025 958 2025 985 245 985"/></Shape>
+	    <String CONTENT="کب این حقایق بود.1 پس از سرگشتگی و انزوایی دراز مدت، غزالی به طریقت"
+                    HPOS="245"
+                    VPOS="903"
+                    WIDTH="1780"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f12c6811"
+                    
+                    BASELINE="242 1064 2028 1058" 
+                    HPOS="239"
+                    VPOS="996"
+                    WIDTH="1789"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="242 1064 239 1002 2025 996 2028 1058 2028 1078 242 1084"/></Shape>
+	    <String CONTENT="صوفیه روی آورد، اگرچه در منقذ نتوانست اصل تعلیم را آنگونه که باید رد کند، چون"
+                    HPOS="239"
+                    VPOS="996"
+                    WIDTH="1789"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b1ebf88"
+                    
+                    BASELINE="248 1160 1827 1166 2028 1151" 
+                    HPOS="245"
+                    VPOS="1087"
+                    WIDTH="1783"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="248 1160 248 1096 1824 1102 2022 1087 2028 1151 2028 1172 1827 1186 1824 1186 245 1181"/></Shape>
+	    <String CONTENT="منطقا آن را برای لزوم نبوت پذیرفته بود. اما در مورد طوسی، که یک قرن بعد از او"
+                    HPOS="245"
+                    VPOS="1087"
+                    WIDTH="1783"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b53b86d"
+                    
+                    BASELINE="248 1254 2025 1268" 
+                    HPOS="245"
+                    VPOS="1195"
+                    WIDTH="1780"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="248 1254 248 1195 2025 1210 2025 1268 2022 1289 245 1274"/></Shape>
+	    <String CONTENT="می زیست و تصوف برای او با تشتع ناسازگار نبود، انتخاب اساسا میان حکمت و فلسفه"
+                    HPOS="245"
+                    VPOS="1195"
+                    WIDTH="1780"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ee505e2"
+                    
+                    BASELINE="242 1368 2028 1359" 
+                    HPOS="239"
+                    VPOS="1300"
+                    WIDTH="1789"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="242 1368 239 1309 2025 1300 2028 1359 2028 1385 242 1394"/></Shape>
+	    <String CONTENT="نظری و هدایت معلم بود، و روند حل این تعارض و اختلاف موضوع سیر و سلوک را"
+                    HPOS="239"
+                    VPOS="1300"
+                    WIDTH="1789"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2a9cdbb"
+                    
+                    BASELINE="1672 1464 2020 1455" 
+                    HPOS="1669"
+                    VPOS="1400"
+                    WIDTH="351"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1672 1464 1669 1409 2017 1400 2020 1455 2020 1485 1672 1493"/></Shape>
+	    <String CONTENT="تشکیل میدهد."
+                    HPOS="1669"
+                    VPOS="1400"
+                    WIDTH="351"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e37ecb4"
+                    
+                    BASELINE="239 1578 450 1566 1958 1566" 
+                    HPOS="233"
+                    VPOS="1502"
+                    WIDTH="1725"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="239 1578 233 1514 444 1502 450 1502 1958 1502 1958 1566 1958 1590 450 1590 239 1599"/></Shape>
+	    <String CONTENT="مدرس رضوی، در چاب خود از این رساله میگوید که نسخهٔ خطی هیچ عنوانی"
+                    HPOS="233"
+                    VPOS="1502"
+                    WIDTH="1725"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b296601f"
+                    
+                    BASELINE="242 1663 2028 1657" 
+                    HPOS="239"
+                    VPOS="1604"
+                    WIDTH="1789"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="242 1663 239 1610 2025 1604 2028 1657 2028 1683 242 1689"/></Shape>
+	    <String CONTENT="ندارد و نام سیر و سلوک را کسی که نخستین بار آن را منتشر کرده، بدان داده است. اما،"
+                    HPOS="239"
+                    VPOS="1604"
+                    WIDTH="1789"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_10176563"
+                    
+                    BASELINE="242 1771 2031 1759" 
+                    HPOS="239"
+                    VPOS="1707"
+                    WIDTH="1792"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="242 1771 239 1718 2028 1707 2031 1759 2031 1783 242 1794"/></Shape>
+	    <String CONTENT="نگاهی به محتویات رساله که حاکی از روند تغییر مذهب نویسنده است، تناسب عنوان"
+                    HPOS="239"
+                    VPOS="1707"
+                    WIDTH="1792"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_692b1f62"
+                    
+                    BASELINE="239 1865 2028 1870" 
+                    HPOS="236"
+                    VPOS="1812"
+                    WIDTH="1792"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="239 1865 239 1812 2028 1818 2028 1870 2025 1891 236 1885"/></Shape>
+	    <String CONTENT="را نشان میدهد.2 به هر حال، سیر و سلوک، به خاطر اطلاعات بی نظیری که دربارهٔ"
+                    HPOS="236"
+                    VPOS="1812"
+                    WIDTH="1792"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45498d98"
+                    
+                    BASELINE="236 2060 2022 2055" 
+                    HPOS="233"
+                    VPOS="2008"
+                    WIDTH="1789"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="236 2060 233 2014 2020 2008 2022 2055 2022 2078 236 2084"/></Shape>
+	    <String CONTENT="1. غرالى در المنقذ من الضلال میگويد: وقتی که خداوند به لطف و كرم جسيم خود مرض مرا درمان کرد،"
+                    HPOS="233"
+                    VPOS="2008"
+                    WIDTH="1789"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfb85d48"
+                    
+                    BASELINE="242 2142 1949 2136" 
+                    HPOS="239"
+                    VPOS="2078"
+                    WIDTH="1710"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="242 2142 239 2084 1946 2078 1949 2136 1949 2151 242 2157"/></Shape>
+	    <String CONTENT="جویندگان طریق حقیقت را در چهار دسته دیدم: 1. متکلمین، که مدعیاند که اریاب اندیشه و تأمل"
+                    HPOS="239"
+                    VPOS="2078"
+                    WIDTH="1710"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5405027"
+                    
+                    BASELINE="242 2212 1955 2204" 
+                    HPOS="239"
+                    VPOS="2160"
+                    WIDTH="1716"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="242 2212 239 2169 1952 2160 1955 2204 1955 2227 242 2236"/></Shape>
+	    <String CONTENT="عقلای ايده2. باطنیه، که معتقدند تنها آنها به عنوان اهل تعلیم، حقيقت را از امامی معصوم اخذ"
+                    HPOS="239"
+                    VPOS="2160"
+                    WIDTH="1716"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61550e16"
+                    
+                    BASELINE="236 2291 1952 2286" 
+                    HPOS="233"
+                    VPOS="2239"
+                    WIDTH="1719"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="236 2291 233 2245 1949 2239 1952 2286 1952 2306 236 2312"/></Shape>
+	    <String CONTENT="میکسند:2 فلاسفه، که خود را مبلغان و اصحاب منطق و بیان میدانند: 2. صوفیه، که مدعیاند تنها"
+                    HPOS="233"
+                    VPOS="2239"
+                    WIDTH="1719"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4a4c2c6"
+                    
+                    BASELINE="236 2373 1964 2359" 
+                    HPOS="233"
+                    VPOS="2309"
+                    WIDTH="1731"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="236 2373 233 2324 1961 2309 1964 2359 1964 2379 236 2394"/></Shape>
+	    <String CONTENT="آناناند که به حضور خداوند میرسند و صاحب بینش و درک شهودیاند. عمر خیام، ریاضیدان، منجم"
+                    HPOS="233"
+                    VPOS="2309"
+                    WIDTH="1731"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51e8d00d"
+                    
+                    BASELINE="239 2446 1970 2440" 
+                    HPOS="236"
+                    VPOS="2391"
+                    WIDTH="1734"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="239 2446 236 2397 1967 2391 1970 2440 1970 2461 239 2467"/></Shape>
+	    <String CONTENT="و شاعر مشهور همین گروهها را در رسالاة الوجود، برمیشمارد، نک: سیدحسین نصر، مقدمه ای بر"
+                    HPOS="236"
+                    VPOS="2391"
+                    WIDTH="1734"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d41c90f"
+                    
+                    BASELINE="654 2516 1964 2516" 
+                    HPOS="654"
+                    VPOS="2470"
+                    WIDTH="1310"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="654 2516 654 2470 1964 2470 1964 2516 1964 2543 654 2543"/></Shape>
+	    <String CONTENT="اعقادات جهادشسی اسلامی (چاپ تجدید نظر شده، لندن، 1978م)، ص 25."
+                    HPOS="654"
+                    VPOS="2470"
+                    WIDTH="1310"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01e5e80f"
+                    
+                    BASELINE="239 2607 2002 2592" 
+                    HPOS="236"
+                    VPOS="2534"
+                    WIDTH="1766"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="239 2607 236 2549 1999 2534 2002 2592 2002 2616 239 2631"/></Shape>
+	    <String CONTENT="2 در کعاب جامع الاسرار ومیع الانوار حيدر آملی، تصحیح هانری كربن و عثمان يحیی (تهران - پاریس"
+                    HPOS="236"
+                    VPOS="2534"
+                    WIDTH="1766"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6631d61"
+                    
+                    BASELINE="233 2674 1938 2674" 
+                    HPOS="233"
+                    VPOS="2625"
+                    WIDTH="1705"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="233 2674 233 2625 1938 2625 1938 2674 1938 2695 233 2695"/></Shape>
+	    <String CONTENT="196م)، ص 292ٓ، و برخی از کتابنامهها، مثل کارل بروکلمان، وور رعل ع ررموهی"
+                    HPOS="233"
+                    VPOS="2625"
+                    WIDTH="1705"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9cc2f644"
+                    
+                    BASELINE="233 2750 1827 2750" 
+                    HPOS="233"
+                    VPOS="2701"
+                    WIDTH="1594"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="233 2750 233 2701 1827 2701 1827 2750 1827 2774 233 2774"/></Shape>
+	    <String CONTENT="ل تكمله ا(ليدن 1937م)، ص 927، سير وسلوك به شكل عنوان فرعى اوصاف الاشراف"
+                    HPOS="233"
+                    VPOS="2701"
+                    WIDTH="1594"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76ffc39b"
+                    
+                    BASELINE="236 2832 1952 2832" 
+                    HPOS="236"
+                    VPOS="2783"
+                    WIDTH="1716"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="236 2832 236 2783 1952 2783 1952 2832 1952 2853 236 2853"/></Shape>
+	    <String CONTENT="طاهر میشود چون این عنوان در مقدمهٔ خود طوسی بر اوصاف الاشراف نیست، ممکن است در بعضی"
+                    HPOS="236"
+                    VPOS="2783"
+                    WIDTH="1716"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f3e8bce"
+                    
+                    BASELINE="245 2902 1938 2911" 
+                    HPOS="242"
+                    VPOS="2850"
+                    WIDTH="1696"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="245 2902 245 2850 1938 2859 1938 2911 1935 2932 242 2923"/></Shape>
+	    <String CONTENT="ح این دو اثر در یک نسحه ظاهر شده باشند، و بعدا سیر و سلوک از اوصاف الاشرا جدا شده و"
+                    HPOS="242"
+                    VPOS="2850"
+                    WIDTH="1696"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc51cc9b"
+                    
+                    BASELINE="236 2984 1941 2981" 
+                    HPOS="233"
+                    VPOS="2932"
+                    WIDTH="1708"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="236 2984 233 2935 1938 2932 1941 2981 1941 3008 236 3011"/></Shape>
+	    <String CONTENT="حاطر شبهه انتاب آن به اسماعیلیه، عنوان اوصاف الاشراف برای آن باقی مانده باشد. در نسخةٔ خطی"
+                    HPOS="233"
+                    VPOS="2932"
+                    WIDTH="1708"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e877e39"
+                    
+                    BASELINE="885 3057 1952 3066" 
+                    HPOS="882"
+                    VPOS="3008"
+                    WIDTH="1070"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="885 3057 885 3008 1952 3016 1952 3066 1949 3104 882 3095"/></Shape>
+	    <String CONTENT="هران عنوان آن معتقد خواجه نصیر طوسی رحمت الله علیه می باشد"
+                    HPOS="882"
+                    VPOS="3008"
+                    WIDTH="1070"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

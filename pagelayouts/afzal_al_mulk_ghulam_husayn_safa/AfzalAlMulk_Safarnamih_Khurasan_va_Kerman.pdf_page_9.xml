@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>AfzalAlMulk_Safarnamih_Khurasan_va_Kerman.pdf_page_9.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1135" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1136" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1137" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="163"
+                   VPOS="514"
+                   WIDTH="605"
+                   HEIGHT="114"
+                   ID="eSc_textblock_23f34fb0"
+                   TAGREFS="BT1136">
+          <Shape><Polygon POINTS="733 526 768 593 628 628 163 616 175 537 292 514"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_568dd096"
+                    
+                    BASELINE="181 587 716 581" 
+                    HPOS="178"
+                    VPOS="540"
+                    WIDTH="538"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="181 587 178 546 713 540 716 581 716 596 181 602"/></Shape>
+	    <String CONTENT="کاب بسغرنامهٔ خراسان وکرهان"
+                    HPOS="178"
+                    VPOS="540"
+                    WIDTH="538"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1613"
+                   VPOS="526"
+                   WIDTH="79"
+                   HEIGHT="90"
+                   ID="eSc_textblock_916c803c"
+                   TAGREFS="BT1137">
+          <Shape><Polygon POINTS="1692 537 1692 616 1613 605 1648 526"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="163"
+                   VPOS="663"
+                   WIDTH="1562"
+                   HEIGHT="2158"
+                   ID="eSc_textblock_1f12c649"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="163 663 163 2821 1720 2821 1725 663"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

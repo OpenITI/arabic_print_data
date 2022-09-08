@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ibn_sina_risalah_judiyah.pdf_page_5.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1390" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1391" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1392" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1393" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1394" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1722"
+          HEIGHT="2434"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1722"
+                  HEIGHT="2434">
+        
+        <TextBlock HPOS="34"
+                   VPOS="265"
+                   WIDTH="1326"
+                   HEIGHT="1935"
+                   ID="eSc_textblock_31461f1c"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1360 2200 1360 268 34 265 44 2200"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="675"
+                   VPOS="2220"
+                   WIDTH="77"
+                   HEIGHT="47"
+                   ID="eSc_textblock_5dc20dfa"
+                   TAGREFS="BT1392">
+          <Shape><Polygon POINTS="675 2220 675 2267 752 2267 752 2220"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="588"
+                   VPOS="178"
+                   WIDTH="262"
+                   HEIGHT="64"
+                   ID="eSc_textblock_de839fd6"
+                   TAGREFS="BT1390">
+          <Shape><Polygon POINTS="588 178 588 242 850 242 850 178"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_c193df51"
+                    
+                    BASELINE="60 314 1226 314" 
+                    HPOS="60"
+                    VPOS="271"
+                    WIDTH="1166"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="60 314 60 271 1226 271 1226 314 1226 336 60 336"/></Shape>
+	    <String CONTENT="طب امروزی دنبالهٔ همان طت قدیم است که بطور ودیعه دست بدست"
+                    HPOS="60"
+                    VPOS="271"
+                    WIDTH="1166"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d44bb344"
+                    
+                    BASELINE="62 403 1350 403" 
+                    HPOS="62"
+                    VPOS="356"
+                    WIDTH="1288"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="62 403 62 356 1350 356 1350 403 1350 423 62 423"/></Shape>
+	    <String CONTENT=" سیرده تا وقتیکه بدست اروپائیان رسیده و اینان یس از استفادات کامل"
+                    HPOS="62"
+                    VPOS="356"
+                    WIDTH="1288"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd33122c"
+                    
+                    BASELINE="64 490 1352 496" 
+                    HPOS="62"
+                    VPOS="440"
+                    WIDTH="1290"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="64 490 64 440 1352 446 1352 496 1350 513 62 507"/></Shape>
+	    <String CONTENT="روز بروز آنرا تکمیل نموده تا بدین پایه رسانده اند ، یعنی در حقیقت"
+                    HPOS="62"
+                    VPOS="440"
+                    WIDTH="1290"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf229d17"
+                    
+                    BASELINE="485 580 1346 576" 
+                    HPOS="483"
+                    VPOS="529"
+                    WIDTH="863"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="485 580 483 533 1344 529 1346 576 1346 596 485 600"/></Shape>
+	    <String CONTENT="مبنی وپایهٔ طب امروزی همان طب قدیمی است ."
+                    HPOS="483"
+                    VPOS="529"
+                    WIDTH="863"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78d4b568"
+                    
+                    BASELINE="180 657 844 663 1222 651" 
+                    HPOS="178"
+                    VPOS="594"
+                    WIDTH="1044"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="180 657 180 600 842 606 1220 594 1222 651 1222 669 844 681 842 681 178 675"/></Shape>
+	    <String CONTENT="حال که تا اندازه ای حق این مطلب ادا گردید میگوئیم :"
+                    HPOS="178"
+                    VPOS="594"
+                    WIDTH="1044"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_445e16bc"
+                    
+                    BASELINE="60 746 1224 746" 
+                    HPOS="60"
+                    VPOS="701"
+                    WIDTH="1164"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="60 746 60 701 1224 701 1224 746 1224 768 60 768"/></Shape>
+	    <String CONTENT=" اولا- طب ارویا تا قریب قرون شانزدهم وهفدهم میلادی تحت"
+                    HPOS="60"
+                    VPOS="701"
+                    WIDTH="1164"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c9fc766"
+                    
+                    BASELINE="81 829 432 843 1344 823" 
+                    HPOS="79"
+                    VPOS="766"
+                    WIDTH="1265"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="81 829 83 772 432 786 1342 766 1344 823 1344 845 432 866 430 866 79 851"/></Shape>
+	    <String CONTENT="تعلیم و نفوذ یزشکان قدیم بخصوص یزشکان اسلامی ایرانی بوده است."
+                    HPOS="79"
+                    VPOS="766"
+                    WIDTH="1265"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f519eac"
+                    
+                    BASELINE="71 914 475 928 1218 912" 
+                    HPOS="69"
+                    VPOS="855"
+                    WIDTH="1149"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="71 914 71 857 475 872 1216 855 1218 912 1218 939 475 955 473 955 69 941"/></Shape>
+	    <String CONTENT="ثانیاً - پزشکان اسلامی که درمیان آنها نوابغ بسیار بزرگ بودهاند،"
+                    HPOS="69"
+                    VPOS="855"
+                    WIDTH="1149"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8fe21b7"
+                    
+                    BASELINE="62 1004 538 1014 720 1006 1342 1006" 
+                    HPOS="60"
+                    VPOS="951"
+                    WIDTH="1282"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="62 1004 62 951 536 961 716 953 720 953 1342 953 1342 1006 1342 1030 720 1030 538 1036 536 1036 60 1026"/></Shape>
+	    <String CONTENT="طبی که از یونانیها گرفته بدان اضافاتی نموده و از صورت سابق خود."
+                    HPOS="60"
+                    VPOS="951"
+                    WIDTH="1282"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_904b29c1"
+                    
+                    BASELINE="64 1093 442 1105 1344 1093" 
+                    HPOS="62"
+                    VPOS="1038"
+                    WIDTH="1282"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="64 1093 64 1038 442 1050 1342 1038 1344 1093 1344 1111 442 1123 440 1123 62 1111"/></Shape>
+	    <String CONTENT="بصورت جدیدی در آوردهاند که قرنها درارویا رواج و رونق داشته است ."
+                    HPOS="62"
+                    VPOS="1038"
+                    WIDTH="1282"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b634a5f1"
+                    
+                    BASELINE="81 1186 852 1192 1212 1178" 
+                    HPOS="79"
+                    VPOS="1119"
+                    WIDTH="1133"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="81 1186 81 1127 850 1133 1208 1119 1212 1178 1212 1196 852 1210 850 1210 79 1204"/></Shape>
+	    <String CONTENT="ثالثا - درمیان این نوابغ طبی اسلامی یزشکان ایرانی مانند طبری"
+                    HPOS="79"
+                    VPOS="1119"
+                    WIDTH="1133"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37c10036"
+                    
+                    BASELINE="67 1279 1348 1259" 
+                    HPOS="64"
+                    VPOS="1206"
+                    WIDTH="1284"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="67 1279 64 1227 1346 1206 1348 1259 1348 1277 67 1298"/></Shape>
+	    <String CONTENT="رازی ، اهوازی ، ابن سینا وگرگانی وامثال آنها بوده اند که بتصدیق"
+                    HPOS="64"
+                    VPOS="1206"
+                    WIDTH="1284"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fba2670e"
+                    
+                    BASELINE="64 1361 428 1369 1344 1354" 
+                    HPOS="62"
+                    VPOS="1302"
+                    WIDTH="1282"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="64 1361 64 1308 428 1316 1342 1302 1344 1354 1344 1377 428 1391 426 1391 62 1383"/></Shape>
+	    <String CONTENT="هرکس درزمان خود نابغه بوده و مکتب آنها چندین قرن درعالم بقوت"
+                    HPOS="62"
+                    VPOS="1302"
+                    WIDTH="1282"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8c970ec"
+                    
+                    BASELINE="67 1456 1348 1442" 
+                    HPOS="64"
+                    VPOS="1391"
+                    WIDTH="1284"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="67 1456 64 1405 1346 1391 1348 1442 1348 1460 67 1474"/></Shape>
+	    <String CONTENT="خود باقی مانده است و امید واریم خدمات ایرانیها را به طب و نفوذ آن"
+                    HPOS="64"
+                    VPOS="1391"
+                    WIDTH="1284"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0bd76c51"
+                    
+                    BASELINE="73 1541 1346 1541" 
+                    HPOS="73"
+                    VPOS="1490"
+                    WIDTH="1273"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="73 1541 73 1490 1346 1490 1346 1541 1346 1559 73 1559"/></Shape>
+	    <String CONTENT=" بر روی طب ارویا عنقریب بنظر خوانند کان کرامی این رساله برسانیم."
+                    HPOS="73"
+                    VPOS="1490"
+                    WIDTH="1273"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36556dcd"
+                    
+                    BASELINE="64 1632 1214 1618" 
+                    HPOS="62"
+                    VPOS="1563"
+                    WIDTH="1152"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="64 1632 62 1578 1212 1563 1214 1618 1214 1638 64 1653"/></Shape>
+	    <String CONTENT="اینك برای آنکه مطلب کمی روشن کردد سیرطب یونانی از یونان"
+                    HPOS="62"
+                    VPOS="1563"
+                    WIDTH="1152"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62180128"
+                    
+                    BASELINE="64 1724 1342 1711" 
+                    HPOS="62"
+                    VPOS="1657"
+                    WIDTH="1280"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="64 1724 62 1669 1340 1657 1342 1711 1342 1728 64 1740"/></Shape>
+	    <String CONTENT=" بمشرق زمین و تکمیل آن دراین سرزمین و نگاهداری این مشعل فروزان"
+                    HPOS="62"
+                    VPOS="1657"
+                    WIDTH="1280"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0769f545"
+                    
+                    BASELINE="69 1803 639 1809 1344 1795" 
+                    HPOS="67"
+                    VPOS="1736"
+                    WIDTH="1277"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="69 1803 69 1744 637 1750 1342 1736 1344 1795 1344 1815 639 1829 637 1829 67 1823"/></Shape>
+	    <String CONTENT="در دست دانشمندان مشرق مخصوصاً ایرانیها و انتقال آن بارویا را تقریبا"
+                    HPOS="67"
+                    VPOS="1736"
+                    WIDTH="1277"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbb6cadc"
+                    
+                    BASELINE="69 1890 266 1898 1346 1878" 
+                    HPOS="67"
+                    VPOS="1825"
+                    WIDTH="1279"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="69 1890 71 1837 266 1845 1344 1825 1346 1878 1346 1902 266 1922 263 1922 67 1914"/></Shape>
+	    <String CONTENT="تا حملهٔ مغول بیان نموده تا آنکه کمی از حقوق دانشمندان ایرانی ادا"
+                    HPOS="67"
+                    VPOS="1825"
+                    WIDTH="1279"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a002f14"
+                    
+                    BASELINE="64 1977 741 1987 1319 1973" 
+                    HPOS="62"
+                    VPOS="1916"
+                    WIDTH="1257"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="64 1977 64 1920 739 1930 1317 1916 1319 1973 1319 1995 741 2010 739 2010 62 1999"/></Shape>
+	    <String CONTENT="گردیده و اثر و نفوذطب اسلامی بر روی طب ارویا معلوم شود ، ضمناً"
+                    HPOS="62"
+                    VPOS="1916"
+                    WIDTH="1257"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3287fe76"
+                    
+                    BASELINE="67 2060 428 2074 1346 2058" 
+                    HPOS="64"
+                    VPOS="2001"
+                    WIDTH="1282"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="67 2060 69 2003 428 2018 1344 2001 1346 2058 1346 2087 428 2103 426 2103 64 2089"/></Shape>
+	    <String CONTENT="شناسائی از احوال نابغهٔ ایرانی مخصوصا ابن سینا و میرائی از علم طب که"
+                    HPOS="64"
+                    VPOS="2001"
+                    WIDTH="1282"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d70f9931"
+                    
+                    BASELINE="87 2160 1338 2152" 
+                    HPOS="85"
+                    VPOS="2103"
+                    WIDTH="1253"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="87 2160 85 2111 1336 2103 1338 2152 1338 2174 87 2182"/></Shape>
+	    <String CONTENT="به وی رسیده نیز بعمل آید آنگاه به تشریح رساله جودیه میپردازیم."
+                    HPOS="85"
+                    VPOS="2103"
+                    WIDTH="1253"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5001844c"
+                    
+                    BASELINE="619 217 810 219" 
+                    HPOS="617"
+                    VPOS="174"
+                    WIDTH="193"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="619 217 619 174 810 176 810 219 808 237 617 235"/></Shape>
+	    <String CONTENT="رسالهٔ جودیه"
+                    HPOS="617"
+                    VPOS="174"
+                    WIDTH="193"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_793d9a81"
+                    
+                    BASELINE="664 2245 720 2245" 
+                    HPOS="664"
+                    VPOS="2212"
+                    WIDTH="56"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="664 2245 664 2212 720 2212 720 2245 720 2261 664 2261"/></Shape>
+	    <String CONTENT="دو"
+                    HPOS="664"
+                    VPOS="2212"
+                    WIDTH="56"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

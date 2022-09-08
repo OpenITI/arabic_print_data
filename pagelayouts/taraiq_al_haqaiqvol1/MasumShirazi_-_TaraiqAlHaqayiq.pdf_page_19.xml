@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>MasumShirazi_-_TaraiqAlHaqayiq.pdf_page_19.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT926" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT927" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1468" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1469" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1470" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1537"
+                   VPOS="1757"
+                   WIDTH="437"
+                   HEIGHT="159"
+                   ID="eSc_textblock_57ea9bac"
+                   TAGREFS="BT926">
+          <Shape><Polygon POINTS="1537 1757 1537 1916 1974 1916 1974 1757"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1616"
+                   VPOS="751"
+                   WIDTH="331"
+                   HEIGHT="92"
+                   ID="eSc_textblock_120bad70"
+                   TAGREFS="BT926">
+          <Shape><Polygon POINTS="1616 751 1616 843 1947 843 1947 751"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="311"
+                   VPOS="367"
+                   WIDTH="331"
+                   HEIGHT="72"
+                   ID="eSc_textblock_63fc9528"
+                   TAGREFS="BT926">
+          <Shape><Polygon POINTS="311 367 311 439 642 439 642 367"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="212"
+                   VPOS="445"
+                   WIDTH="1811"
+                   HEIGHT="2624"
+                   ID="eSc_textblock_607fbc05"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1980 3069 1980 1963 1490 1963 1490 1744 1980 1745 2003 889 1564 881 1578 729 2023 725 2020 445 258 473 212 3069"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1894"
+                   VPOS="367"
+                   WIDTH="67"
+                   HEIGHT="52"
+                   ID="eSc_textblock_d5232609"
+                   TAGREFS="BT927">
+          <Shape><Polygon POINTS="1894 367 1894 419 1961 419 1961 367"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d2cfa495"
+                    
+                    BASELINE="298 426 654 418" 
+                    HPOS="295"
+                    VPOS="377"
+                    WIDTH="359"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="298 426 295 385 651 377 654 418 654 444 298 453"/></Shape>
+	    <String CONTENT="طرايق الحقايق"
+                    HPOS="295"
+                    VPOS="377"
+                    WIDTH="359"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f299a66"
+                    
+                    BASELINE="292 511 1818 496" 
+                    HPOS="289"
+                    VPOS="447"
+                    WIDTH="1529"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="292 511 289 461 1815 447 1818 496 1818 532 292 546"/></Shape>
+	    <String CONTENT="بدانکه تصریح نموده اند بر حسب برهان که اجناس عالیه را طریق بسوی تعریف"
+                    HPOS="289"
+                    VPOS="447"
+                    WIDTH="1529"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6eb0aa84"
+                    
+                    BASELINE="289 605 1946 596" 
+                    HPOS="286"
+                    VPOS="540"
+                    WIDTH="1660"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="289 605 286 549 1944 540 1946 596 1946 622 289 631"/></Shape>
+	    <String CONTENT="آنها نیست مگر برسوم ناقصه زیرا که جنس عالی را دیگر جنسی نیست و الا عالی نیست"
+                    HPOS="286"
+                    VPOS="540"
+                    WIDTH="1660"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_963629b4"
+                    
+                    BASELINE="496 678 1958 684" 
+                    HPOS="494"
+                    VPOS="625"
+                    WIDTH="1464"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="496 678 496 625 1958 631 1958 684 1955 710 494 704"/></Shape>
+	    <String CONTENT="وچون جنس الاجناس را جنس نباشد فصل نيز نباشد که مالاجنس له لافصل له"
+                    HPOS="494"
+                    VPOS="625"
+                    WIDTH="1464"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_639ada70"
+                    
+                    BASELINE="289 777 447 768 1467 777" 
+                    HPOS="283"
+                    VPOS="707"
+                    WIDTH="1184"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="289 777 283 716 441 707 447 707 1467 716 1467 777 1464 803 447 795 289 803"/></Shape>
+	    <String CONTENT="و از برای کیف نیز نیافته اند خاصهٔ شاملهای را که برسم ناقص"
+                    HPOS="283"
+                    VPOS="707"
+                    WIDTH="1184"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_964f43eb"
+                    
+                    BASELINE="1625 806 1894 800" 
+                    HPOS="1622"
+                    VPOS="724"
+                    WIDTH="272"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="1625 806 1622 730 1891 724 1894 800 1894 830 1625 836"/></Shape>
+	    <String CONTENT="تعریف کیف"
+                    HPOS="1622"
+                    VPOS="724"
+                    WIDTH="272"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d5ab8a9"
+                    
+                    BASELINE="283 841 1470 841" 
+                    HPOS="283"
+                    VPOS="798"
+                    WIDTH="1187"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="283 841 283 798 1470 798 1470 841 1470 874 283 874"/></Shape>
+	    <String CONTENT="او را تعریف نمایند لهذا بقیود عدمیه او را ترسیم نموده اند"
+                    HPOS="283"
+                    VPOS="798"
+                    WIDTH="1187"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c664ebc0"
+                    
+                    BASELINE="283 923 1958 935" 
+                    HPOS="280"
+                    VPOS="871"
+                    WIDTH="1678"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="283 923 283 871 1958 882 1958 935 1955 961 280 950"/></Shape>
+	    <String CONTENT="و تخصیص داده اید اورا باجتماع آن قیود که خاصهٔ مر کبه باشد ازسایر مقولات چنانکه"
+                    HPOS="280"
+                    VPOS="871"
+                    WIDTH="1678"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a13be87c"
+                    
+                    BASELINE="286 1017 1593 1017 1946 1002" 
+                    HPOS="286"
+                    VPOS="944"
+                    WIDTH="1660"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="286 1017 286 958 1590 958 1944 944 1946 1002 1946 1029 1593 1043 1593 1043 286 1043"/></Shape>
+	    <String CONTENT="گفتهاند که کیف عرضی است که ذاتش اقتضای قسمت و نسبت ننماید و بقید عرض جوهر"
+                    HPOS="286"
+                    VPOS="944"
+                    WIDTH="1660"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5a7d6c0"
+                    
+                    BASELINE="280 1096 1952 1096" 
+                    HPOS="280"
+                    VPOS="1049"
+                    WIDTH="1672"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="280 1096 280 1049 1952 1049 1952 1096 1952 1119 280 1119"/></Shape>
+	    <String CONTENT="خارج شد و بقید عدم قسمت کم خارج شد و بقید عدم نسبت اعراض دیگر بیرون رفتند و"
+                    HPOS="280"
+                    VPOS="1049"
+                    WIDTH="1672"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7ac08b9"
+                    
+                    BASELINE="271 1181 1952 1181" 
+                    HPOS="271"
+                    VPOS="1128"
+                    WIDTH="1681"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="271 1181 271 1128 1952 1128 1952 1181 1952 1207 271 1207"/></Shape>
+	    <String CONTENT="بعضی ترسیم کیف را چنین نموده هوالذی یعرض بهیئة قارة بلاقسمة و نسبةاو امهات اقسام"
+                    HPOS="271"
+                    VPOS="1128"
+                    WIDTH="1681"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f131778"
+                    
+                    BASELINE="274 1259 1941 1259" 
+                    HPOS="274"
+                    VPOS="1213"
+                    WIDTH="1667"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="274 1259 274 1213 1941 1213 1941 1259 1941 1286 274 1286"/></Shape>
+	    <String CONTENT="کیف چهاراست : کیفیات محسوسه مثل زردی طلا و سرخی خجل وشیرینی قند و کیفیات"
+                    HPOS="274"
+                    VPOS="1213"
+                    WIDTH="1667"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d415ff44"
+                    
+                    BASELINE="274 1344 1952 1344" 
+                    HPOS="274"
+                    VPOS="1297"
+                    WIDTH="1678"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="274 1344 274 1297 1952 1297 1952 1344 1952 1368 274 1368"/></Shape>
+	    <String CONTENT="استعدادیه مثل سهولت قبول مرض سهولت قبول صحت و کیفیات مختصه بکمیات مثل"
+                    HPOS="274"
+                    VPOS="1297"
+                    WIDTH="1678"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_01271967"
+                    
+                    BASELINE="277 1426 1952 1420" 
+                    HPOS="274"
+                    VPOS="1373"
+                    WIDTH="1678"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="277 1426 274 1379 1949 1373 1952 1420 1952 1449 277 1455"/></Shape>
+	    <String CONTENT="استقامت و انحنا و زوجیت و فردیت و کیفیات نفسانیه مثل علم وقدرت و اراده و جبن و"
+                    HPOS="274"
+                    VPOS="1373"
+                    WIDTH="1678"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d93de142"
+                    
+                    BASELINE="274 1508 1952 1508" 
+                    HPOS="274"
+                    VPOS="1464"
+                    WIDTH="1678"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="274 1508 274 1464 1952 1464 1952 1508 1952 1534 274 1534"/></Shape>
+	    <String CONTENT="شجاعت و این کیفيات نفسانیه را در جملهٔ اجسام مختص بذوات الانفس حيوانی دانسته و"
+                    HPOS="274"
+                    VPOS="1464"
+                    WIDTH="1678"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76f7ce5e"
+                    
+                    BASELINE="271 1587 1944 1596" 
+                    HPOS="268"
+                    VPOS="1537"
+                    WIDTH="1676"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="271 1587 271 1537 1944 1546 1944 1596 1941 1616 268 1607"/></Shape>
+	    <String CONTENT="جماد و نبات را از این کیفیات عاری می دانند و این بر دوقسم است اگر کیفیهٔ راسخه"
+                    HPOS="268"
+                    VPOS="1537"
+                    WIDTH="1676"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c2590ff"
+                    
+                    BASELINE="730 1669 1338 1683 1944 1672" 
+                    HPOS="727"
+                    VPOS="1607"
+                    WIDTH="1217"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="730 1669 730 1607 1338 1622 1941 1610 1944 1672 1944 1698 1338 1710 1335 1710 727 1695"/></Shape>
+	    <String CONTENT="باشد اورا ملکه نامند و اگر غیر راسخه باشد اورا حال گویند."
+                    HPOS="727"
+                    VPOS="1607"
+                    WIDTH="1217"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c0caddf"
+                    
+                    BASELINE="263 1774 616 1765 1458 1777" 
+                    HPOS="260"
+                    VPOS="1707"
+                    WIDTH="1198"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="263 1774 260 1715 613 1707 616 1707 1458 1718 1458 1777 1455 1803 616 1792 263 1800"/></Shape>
+	    <String CONTENT="و در اینجا اشکال معروفیست و شیخ در الهیات شفا اشاره به آن"
+                    HPOS="260"
+                    VPOS="1707"
+                    WIDTH="1198"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40f6ef2b"
+                    
+                    BASELINE="1537 1809 1955 1803" 
+                    HPOS="1534"
+                    VPOS="1739"
+                    WIDTH="421"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1537 1809 1534 1745 1952 1739 1955 1803 1955 1830 1537 1835"/></Shape>
+	    <String CONTENT="اشکال بربودن علم"
+                    HPOS="1534"
+                    VPOS="1739"
+                    WIDTH="421"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3b2975f"
+                    
+                    BASELINE="266 1856 1449 1856" 
+                    HPOS="266"
+                    VPOS="1806"
+                    WIDTH="1183"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="266 1856 266 1806 1449 1806 1449 1856 1449 1882 266 1882"/></Shape>
+	    <String CONTENT="نموده میفرماید که و اما علم بدرستیکه در آن شبهه است و"
+                    HPOS="266"
+                    VPOS="1806"
+                    WIDTH="1183"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4e4f649"
+                    
+                    BASELINE="1546 1900 1958 1891" 
+                    HPOS="1543"
+                    VPOS="1832"
+                    WIDTH="415"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1546 1900 1543 1841 1955 1832 1958 1891 1958 1917 1546 1926"/></Shape>
+	    <String CONTENT="از کیفیات نفانیه"
+                    HPOS="1543"
+                    VPOS="1832"
+                    WIDTH="415"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc2b100f"
+                    
+                    BASELINE="263 1941 1449 1935" 
+                    HPOS="260"
+                    VPOS="1879"
+                    WIDTH="1189"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="263 1941 260 1885 1447 1879 1449 1935 1449 1958 263 1964"/></Shape>
+	    <String CONTENT="بیانش آنستکه از برای قائل است که بگوید آنکه علم چیزیست"
+                    HPOS="260"
+                    VPOS="1879"
+                    WIDTH="1189"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd264f3b"
+                    
+                    BASELINE="260 2034 1938 2025" 
+                    HPOS="257"
+                    VPOS="1973"
+                    WIDTH="1681"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="260 2034 257 1982 1935 1973 1938 2025 1938 2049 260 2058"/></Shape>
+	    <String CONTENT="که کسب شده باشد از صور موجودات در حالتیکه مجرد باشد آن صور از مواد خودشان"
+                    HPOS="257"
+                    VPOS="1973"
+                    WIDTH="1681"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36db0aa1"
+                    
+                    BASELINE="260 2113 1952 2122" 
+                    HPOS="257"
+                    VPOS="2060"
+                    WIDTH="1695"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="260 2113 260 2060 1952 2069 1952 2122 1949 2145 257 2136"/></Shape>
+	    <String CONTENT="و این صور بعضی از آن ها جواهر و بعضی اعراض است پس اگر صور اعراض اعراض"
+                    HPOS="257"
+                    VPOS="2060"
+                    WIDTH="1695"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f608a9d"
+                    
+                    BASELINE="257 2207 1944 2195" 
+                    HPOS="254"
+                    VPOS="2139"
+                    WIDTH="1690"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="257 2207 254 2151 1941 2139 1944 2195 1944 2218 257 2230"/></Shape>
+	    <String CONTENT="باشد جوهر چگونه میشود اعراض باشد زیرا که جوهر آنست که لذاته جوهر باشد پس"
+                    HPOS="254"
+                    VPOS="2139"
+                    WIDTH="1690"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4660a3a5"
+                    
+                    BASELINE="257 2280 1637 2288 1949 2274" 
+                    HPOS="254"
+                    VPOS="2215"
+                    WIDTH="1695"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="257 2280 257 2221 1634 2230 1946 2215 1949 2274 1949 2303 1637 2318 1634 2318 254 2309"/></Shape>
+	    <String CONTENT="ماهیت جوهر در موضوع نمیباشد و ماهیت وی محفوظ است خواه نسبت داده شود آن"
+                    HPOS="254"
+                    VPOS="2215"
+                    WIDTH="1695"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_219fa94e"
+                    
+                    BASELINE="260 2367 1952 2362" 
+                    HPOS="257"
+                    VPOS="2309"
+                    WIDTH="1695"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="260 2367 257 2315 1949 2309 1952 2362 1952 2382 260 2388"/></Shape>
+	    <String CONTENT="ماهیت جوهر بسوی ادراك عقل مر او را یا نسبت داده شود بسوی وجود خارجی آن و"
+                    HPOS="257"
+                    VPOS="2309"
+                    WIDTH="1695"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6267f1b9"
+                    
+                    BASELINE="254 2452 1946 2443" 
+                    HPOS="251"
+                    VPOS="2385"
+                    WIDTH="1695"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="254 2452 251 2394 1944 2385 1946 2443 1946 2467 254 2476"/></Shape>
+	    <String CONTENT="در جواب از این اشکال میفرماید پس میگوئیم بدرستیکه ماهیت جوهر جوهر است باین"
+                    HPOS="251"
+                    VPOS="2385"
+                    WIDTH="1695"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd904fcd"
+                    
+                    BASELINE="257 2522 1669 2537 1952 2522" 
+                    HPOS="254"
+                    VPOS="2464"
+                    WIDTH="1698"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="257 2522 257 2464 1666 2478 1949 2464 1952 2522 1952 2554 1669 2569 1666 2569 254 2554"/></Shape>
+	    <String CONTENT="معنی که جوهر آن موجودیست که دراعیان محتاج بموضوعی نباشد و این صفة نیز موجود"
+                    HPOS="254"
+                    VPOS="2464"
+                    WIDTH="1698"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29fd0810"
+                    
+                    BASELINE="257 2619 1952 2607" 
+                    HPOS="254"
+                    VPOS="2552"
+                    WIDTH="1698"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="257 2619 254 2563 1949 2552 1952 2607 1952 2628 257 2639"/></Shape>
+	    <String CONTENT="است از برای ماهیت جوهر معقوله یعنی این ماهیت معقوله از امریست که وجود آن امر"
+                    HPOS="254"
+                    VPOS="2552"
+                    WIDTH="1698"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_492880ce"
+                    
+                    BASELINE="257 2701 1952 2695" 
+                    HPOS="254"
+                    VPOS="2636"
+                    WIDTH="1698"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="257 2701 254 2642 1949 2636 1952 2695 1952 2718 257 2724"/></Shape>
+	    <String CONTENT="در اعیان نیباشد در موضوعی و اما وجود آن در عقل باین صفت پس نیست در حد جوهر"
+                    HPOS="254"
+                    VPOS="2636"
+                    WIDTH="1698"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11d839a1"
+                    
+                    BASELINE="257 2780 1949 2780" 
+                    HPOS="257"
+                    VPOS="2724"
+                    WIDTH="1692"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="257 2780 257 2724 1949 2724 1949 2780 1949 2806 257 2806"/></Shape>
+	    <String CONTENT="من حث هوجوهر بعد از آن میفرماید پس اگر گفته شود که باین تحقیق ماهیت جوهر"
+                    HPOS="257"
+                    VPOS="2724"
+                    WIDTH="1692"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28e93651"
+                    
+                    BASELINE="248 2867 1944 2861" 
+                    HPOS="245"
+                    VPOS="2806"
+                    WIDTH="1699"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="248 2867 245 2812 1941 2806 1944 2861 1944 2888 248 2894"/></Shape>
+	    <String CONTENT="بکمرتبه عرض شد و یکمرتبه جوهر و عال آنکه بودن شیء واحد جوهر و عرض منع"
+                    HPOS="245"
+                    VPOS="2806"
+                    WIDTH="1699"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6459e916"
+                    
+                    BASELINE="248 2940 1946 2949" 
+                    HPOS="245"
+                    VPOS="2891"
+                    WIDTH="1701"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="248 2940 248 2891 1946 2899 1946 2949 1944 2975 245 2967"/></Shape>
+	    <String CONTENT="نمودهاید در جواب این سخن میفرماید پس میگوئیم بدرستیکه ما منم کردیم آن که"
+                    HPOS="245"
+                    VPOS="2891"
+                    WIDTH="1701"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32c41ae9"
+                    
+                    BASELINE="245 3025 1941 3034" 
+                    HPOS="242"
+                    VPOS="2975"
+                    WIDTH="1699"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="245 3025 245 2975 1941 2984 1941 3034 1938 3072 242 3063"/></Shape>
+	    <String CONTENT="بوده باشد ماهیت شیء که یافت میشود در اعیان یکمرتبه عرض باشد آنشیء و یکمرتبه"
+                    HPOS="242"
+                    VPOS="2975"
+                    WIDTH="1699"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

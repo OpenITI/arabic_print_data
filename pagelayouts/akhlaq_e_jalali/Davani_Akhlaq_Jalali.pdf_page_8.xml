@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Davani_Akhlaq_Jalali.pdf_page_8.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1138" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1139" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1140" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1141" LABEL="Caption" DESCRIPTION="block type Caption"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3507"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3507">
+        
+        <TextBlock HPOS="291"
+                   VPOS="485"
+                   WIDTH="1933"
+                   HEIGHT="1973"
+                   ID="eSc_textblock_cb04bcc7"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="291 485 291 2458 2224 2458 2224 485"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1109"
+                   VPOS="352"
+                   WIDTH="286"
+                   HEIGHT="104"
+                   ID="eSc_textblock_eff1b900"
+                   TAGREFS="BT1140">
+          <Shape><Polygon POINTS="1109 352 1109 456 1395 456 1395 352"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="311"
+                   VPOS="2472"
+                   WIDTH="1922"
+                   HEIGHT="464"
+                   ID="eSc_textblock_8cf8c4e1"
+                   TAGREFS="BT1138">
+          <Shape><Polygon POINTS="311 2472 311 2936 2233 2936 2233 2472"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

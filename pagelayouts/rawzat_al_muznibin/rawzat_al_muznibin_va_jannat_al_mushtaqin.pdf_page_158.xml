@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>rawzat_al_muznibin_va_jannat_al_mushtaqin.pdf_page_158.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1385" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1386" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1387" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1388" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1389" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2310"
+          HEIGHT="3261"
+          PHYSICAL_IMG_NR="157"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2310"
+                  HEIGHT="3261">
+        
+        <TextBlock HPOS="1375"
+                   VPOS="2784"
+                   WIDTH="575"
+                   HEIGHT="101"
+                   ID="eSc_textblock_464d0e9c"
+                   TAGREFS="BT1388">
+          <Shape><Polygon POINTS="1950 2784 1950 2885 1375 2885 1375 2784"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="429"
+                   VPOS="1475"
+                   WIDTH="1521"
+                   HEIGHT="1282"
+                   ID="eSc_textblock_91a519bf"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="429 1475 429 2757 1950 2757 1950 1475"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="660"
+                   VPOS="1217"
+                   WIDTH="989"
+                   HEIGHT="196"
+                   ID="eSc_textblock_be5c9322"
+                   TAGREFS="BT1385">
+          <Shape><Polygon POINTS="1649 1413 1649 1217 660 1217 660 1413"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_424c7d8d"
+                    
+                    BASELINE="701 1388 1617 1380" 
+                    HPOS="698"
+                    VPOS="1323"
+                    WIDTH="919"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="701 1388 698 1331 1614 1323 1617 1380 1617 1402 701 1410"/></Shape>
+	    <String CONTENT="در نوحید و شناخت حق سبحانه و نعالی"
+                    HPOS="698"
+                    VPOS="1323"
+                    WIDTH="919"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d136177"
+                    
+                    BASELINE="442 1540 1742 1527" 
+                    HPOS="440"
+                    VPOS="1464"
+                    WIDTH="1302"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="442 1540 440 1478 1739 1464 1742 1527 1742 1548 442 1562"/></Shape>
+	    <String CONTENT="شيخ الاسلام، قدوة الابدال، قطب العالم، احمد بن ابى الحسن"
+                    HPOS="440"
+                    VPOS="1464"
+                    WIDTH="1302"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa55dc33"
+                    
+                    BASELINE="440 1641 1888 1630" 
+                    HPOS="437"
+                    VPOS="1570"
+                    WIDTH="1451"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="440 1641 437 1581 1886 1570 1888 1630 1888 1654 440 1665"/></Shape>
+	    <String CONTENT="النامقى الجامي قدس الله روحه العزيز گوييد كه : درتوحيد، وشناخت"
+                    HPOS="437"
+                    VPOS="1570"
+                    WIDTH="1451"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7256bc5a"
+                    
+                    BASELINE="445 1750 1891 1744" 
+                    HPOS="442"
+                    VPOS="1687"
+                    WIDTH="1449"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="445 1750 442 1693 1888 1687 1891 1744 1891 1771 445 1777"/></Shape>
+	    <String CONTENT="حق سبحانه و تعالی سخن بسیار گفته اند ائمه دین رحمة الله علیهم ،"
+                    HPOS="442"
+                    VPOS="1687"
+                    WIDTH="1449"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f45bac00"
+                    
+                    BASELINE="448 1858 1899 1853" 
+                    HPOS="445"
+                    VPOS="1796"
+                    WIDTH="1454"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="448 1858 445 1801 1896 1796 1899 1853 1899 1877 448 1883"/></Shape>
+	    <String CONTENT="وسخن به جایی رسانیده اند که از حد بیرون برده اند؛ و چون به"
+                    HPOS="445"
+                    VPOS="1796"
+                    WIDTH="1454"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2a2cc8b"
+                    
+                    BASELINE="445 1964 1899 1964" 
+                    HPOS="445"
+                    VPOS="1910"
+                    WIDTH="1454"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="445 1964 445 1910 1899 1910 1899 1964 1899 1989 445 1989"/></Shape>
+	    <String CONTENT=" حقيقت درآن نظر كردم، آن همه عصبيت است، وازعصبيت، وهوی"
+                    HPOS="445"
+                    VPOS="1910"
+                    WIDTH="1454"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08d5ed4b"
+                    
+                    BASELINE="451 2065 1899 2070" 
+                    HPOS="448"
+                    VPOS="2008"
+                    WIDTH="1451"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="451 2065 451 2008 1899 2013 1899 2070 1896 2092 448 2087"/></Shape>
+	    <String CONTENT="وجدل، نور دل نخيزدبلکه ضلالت، و كينه، وتعصب، وجنگ، وفتنه"
+                    HPOS="448"
+                    VPOS="2008"
+                    WIDTH="1451"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5585b650"
+                    
+                    BASELINE="451 2184 1905 2179" 
+                    HPOS="448"
+                    VPOS="2119"
+                    WIDTH="1457"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="451 2184 448 2125 1902 2119 1905 2179 1905 2206 451 2212"/></Shape>
+	    <String CONTENT="وشور، وشغب، وامثال این خیزد. خاصهدراین روز گار که چندهزار"
+                    HPOS="448"
+                    VPOS="2119"
+                    WIDTH="1457"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_192beb21"
+                    
+                    BASELINE="451 2279 1905 2290" 
+                    HPOS="448"
+                    VPOS="2222"
+                    WIDTH="1457"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="451 2279 451 2222 1905 2233 1905 2290 1902 2315 448 2304"/></Shape>
+	    <String CONTENT="مؤمن موحد مخلص را بکشتند دراین یك مسئله که آن را هیچ ماییه"
+                    HPOS="448"
+                    VPOS="2222"
+                    WIDTH="1457"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e46c4fc4"
+                    
+                    BASELINE="451 2402 1902 2396" 
+                    HPOS="448"
+                    VPOS="2334"
+                    WIDTH="1454"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="451 2402 448 2339 1899 2334 1902 2396 1902 2421 451 2426"/></Shape>
+	    <String CONTENT="نیست، و آن این است که : قومی از امت می گویند که : خدای را به"
+                    HPOS="448"
+                    VPOS="2334"
+                    WIDTH="1454"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bdbcfb9"
+                    
+                    BASELINE="453 2502 1905 2508" 
+                    HPOS="451"
+                    VPOS="2445"
+                    WIDTH="1454"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="453 2502 453 2445 1905 2451 1905 2508 1902 2532 451 2527"/></Shape>
+	    <String CONTENT="عقل توان شناخت، وقومی گویند که خدای را به تعلیم توان شناخت"
+                    HPOS="451"
+                    VPOS="2445"
+                    WIDTH="1454"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26b5a857"
+                    
+                    BASELINE="459 2611 1907 2616" 
+                    HPOS="456"
+                    VPOS="2557"
+                    WIDTH="1451"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="459 2611 459 2557 1907 2562 1907 2616 1905 2641 456 2635"/></Shape>
+	    <String CONTENT="واین هردو ازسر تعصب، وحسد، وعصبیت خاسته است، وبدین چیزها"
+                    HPOS="456"
+                    VPOS="2557"
+                    WIDTH="1451"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9fffb09"
+                    
+                    BASELINE="459 2728 1910 2728" 
+                    HPOS="459"
+                    VPOS="2665"
+                    WIDTH="1451"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="459 2728 459 2665 1910 2665 1910 2728 1910 2763 459 2763"/></Shape>
+	    <String CONTENT=" نظر دین ودقایق ایمان نباشد، ودرحقیقت بدانید که : توحید گفتن از"
+                    HPOS="459"
+                    VPOS="2665"
+                    WIDTH="1451"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81c8d5d8"
+                    
+                    BASELINE="1024 1279 1274 1285" 
+                    HPOS="1021"
+                    VPOS="1201"
+                    WIDTH="253"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1024 1279 1024 1201 1274 1206 1274 1285 1271 1307 1021 1301"/></Shape>
+	    <String CONTENT="باب اول:"
+                    HPOS="1021"
+                    VPOS="1201"
+                    WIDTH="253"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5a2b401"
+                    
+                    BASELINE="1413 2850 1739 2856" 
+                    HPOS="1410"
+                    VPOS="2804"
+                    WIDTH="329"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1413 2850 1413 2804 1739 2809 1739 2856 1736 2888 1410 2883"/></Shape>
+	    <String CONTENT="1-م : حكم."
+                    HPOS="1410"
+                    VPOS="2804"
+                    WIDTH="329"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

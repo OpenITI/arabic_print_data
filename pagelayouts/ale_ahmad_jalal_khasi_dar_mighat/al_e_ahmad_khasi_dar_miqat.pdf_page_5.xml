@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>al_e_ahmad_khasi_dar_miqat.pdf_page_5.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1152" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1153" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1154" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1473"
+          HEIGHT="1936"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1473"
+                  HEIGHT="1936">
+        
+        <TextBlock HPOS="123"
+                   VPOS="921"
+                   WIDTH="1127"
+                   HEIGHT="779"
+                   ID="eSc_textblock_7455244a"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="123 921 123 1700 1250 1700 1250 921"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="518"
+                   VPOS="1720"
+                   WIDTH="712"
+                   HEIGHT="91"
+                   ID="eSc_textblock_0c969fb7"
+                   TAGREFS="BT1152">
+          <Shape><Polygon POINTS="518 1720 518 1811 1230 1811 1230 1720"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

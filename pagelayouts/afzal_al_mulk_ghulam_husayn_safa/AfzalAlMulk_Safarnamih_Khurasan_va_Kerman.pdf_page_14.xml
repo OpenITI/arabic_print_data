@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>AfzalAlMulk_Safarnamih_Khurasan_va_Kerman.pdf_page_14.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1135" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1136" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1137" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="935"
+                   VPOS="1578"
+                   WIDTH="1248"
+                   HEIGHT="664"
+                   ID="eSc_textblock_fa78b39d"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="2160 1938 1973 2022 2055 2078 1879 2151 1938 2207 1099 2242 1087 1952 935 1903 1040 1821 958 1730 1075 1590 1297 1578 1786 1601 2125 1707 2183 1812 2113 1859"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_26967d5a"
+                    
+                    BASELINE="1160 1824 1637 1792" 
+                    HPOS="1151"
+                    VPOS="1692"
+                    WIDTH="488"
+                    HEIGHT="193">
+            <Shape><Polygon POINTS="1160 1824 1151 1724 1628 1692 1637 1792 1639 1853 1163 1885"/></Shape>
+	    <String CONTENT="حش اول"
+                    HPOS="1151"
+                    VPOS="1692"
+                    WIDTH="488"
+                    HEIGHT="193"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0be09b78"
+                    
+                    BASELINE="1186 2072 1452 2055" 
+                    HPOS="1181"
+                    VPOS="1973"
+                    WIDTH="274"
+                    HEIGHT="172">
+            <Shape><Polygon POINTS="1186 2072 1181 1990 1447 1973 1452 2055 1455 2128 1189 2145"/></Shape>
+	    <String CONTENT="ابعا"
+                    HPOS="1181"
+                    VPOS="1973"
+                    WIDTH="274"
+                    HEIGHT="172"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

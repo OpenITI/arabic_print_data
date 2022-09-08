@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>abu_zayd_dirasat_hawla_kitab_jawami_al_ulum.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1086" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1087" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1088" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2079"
+          HEIGHT="2954"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2079"
+                  HEIGHT="2954">
+        
+        <TextBlock HPOS="1428"
+                   VPOS="275"
+                   WIDTH="303"
+                   HEIGHT="96"
+                   ID="eSc_textblock_01fb82c7"
+                   TAGREFS="BT1086">
+          <Shape><Polygon POINTS="1721 285 1731 371 1428 361 1428 295 1497 275"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_456a2809"
+                    
+                    BASELINE="1448 329 1704 334" 
+                    HPOS="1445"
+                    VPOS="292"
+                    WIDTH="259"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1448 329 1448 292 1704 297 1704 334 1702 349 1445 344"/></Shape>
+	    <String CONTENT="شعيابن فریغون"
+                    HPOS="1445"
+                    VPOS="292"
+                    WIDTH="259"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="256"
+                   VPOS="393"
+                   WIDTH="1524"
+                   HEIGHT="1967"
+                   ID="eSc_textblock_8ceea0e6"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1780 413 1780 2094 1751 2360 266 2360 256 443 285 393"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d7775dfb"
+                    
+                    BASELINE="290 438 1716 433" 
+                    HPOS="288"
+                    VPOS="388"
+                    WIDTH="1428"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="290 438 288 393 1714 388 1716 433 1716 455 290 460"/></Shape>
+	    <String CONTENT="خطأالنساخ، اذلم ترد اشارة فی الفهرست، أوفى غيره من مصادر القرن الرابع وبعده"
+                    HPOS="288"
+                    VPOS="388"
+                    WIDTH="1428"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b6028df"
+                    
+                    BASELINE="290 541 1716 548" 
+                    HPOS="288"
+                    VPOS="494"
+                    WIDTH="1428"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="290 541 290 494 1716 502 1716 548 1714 566 288 558"/></Shape>
+	    <String CONTENT="الى &quot;ابىزيدالبلخى&quot; الآخر، يكون مقامه العلمى بدرجة يفتخرمعها مؤلف بان كان"
+                    HPOS="288"
+                    VPOS="494"
+                    WIDTH="1428"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecb9cb39"
+                    
+                    BASELINE="290 649 1719 657" 
+                    HPOS="288"
+                    VPOS="603"
+                    WIDTH="1431"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="290 649 290 603 1719 610 1719 657 1716 674 288 667"/></Shape>
+	    <String CONTENT="من تلاميذه ، وخصوصاً ان ابازيد احمدبن سهل البلخى ذاته قدألف كتاباً باسم"
+                    HPOS="288"
+                    VPOS="603"
+                    WIDTH="1431"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5729e43b"
+                    
+                    BASELINE="293 765 492 758 1406 768 1716 755" 
+                    HPOS="290"
+                    VPOS="704"
+                    WIDTH="1426"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="293 765 290 713 490 706 492 706 832 708 1404 716 1714 704 1716 755 1716 775 1406 787 1404 787 830 780 492 777 293 785"/></Shape>
+	    <String CONTENT="(كتب الاجوبة&quot; من اجل ابى على احمدبن محمدبن المظفر، اى نفس ذلك الشخص"
+                    HPOS="290"
+                    VPOS="704"
+                    WIDTH="1426"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d8a086c"
+                    
+                    BASELINE="1130 866 1721 861" 
+                    HPOS="1128"
+                    VPOS="817"
+                    WIDTH="593"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1130 866 1128 822 1719 817 1721 861 1721 886 1130 891"/></Shape>
+	    <String CONTENT="الذى قدم له كتاب جوامع العلوم ."
+                    HPOS="1128"
+                    VPOS="817"
+                    WIDTH="593"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7601ca76"
+                    
+                    BASELINE="290 982 1603 982" 
+                    HPOS="290"
+                    VPOS="932"
+                    WIDTH="1313"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="290 982 290 932 1603 932 1603 982 1603 996 290 996"/></Shape>
+	    <String CONTENT="ويقول ابن النديم فی الفهرست : &quot;ابوزيدالبلخى؛ واسمه احمدبن سهل ،"
+                    HPOS="290"
+                    VPOS="932"
+                    WIDTH="1313"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7b95075"
+                    
+                    BASELINE="288 1078 1724 1083" 
+                    HPOS="285"
+                    VPOS="1031"
+                    WIDTH="1439"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="288 1078 288 1031 1724 1036 1724 1083 1721 1100 285 1095"/></Shape>
+	    <String CONTENT="وكان فاضلافی سائر العلوم القديمة والحديثة، تلا في تصنيفاته وتأليفاته طريقة الفلاسفة"
+                    HPOS="285"
+                    VPOS="1031"
+                    WIDTH="1439"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_446e626d"
+                    
+                    BASELINE="293 1198 1724 1186" 
+                    HPOS="290"
+                    VPOS="1134"
+                    WIDTH="1434"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="293 1198 290 1147 1721 1134 1724 1186 1724 1203 293 1216"/></Shape>
+	    <String CONTENT="الاان بأهل الادب اشبه، واليهم اقرب، فلذلك رتبته فی هذا الموضع من الكتاب، حكى"
+                    HPOS="290"
+                    VPOS="1134"
+                    WIDTH="1434"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60c5f73e"
+                    
+                    BASELINE="288 1297 1721 1302" 
+                    HPOS="285"
+                    VPOS="1250"
+                    WIDTH="1436"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="288 1297 288 1250 1721 1255 1721 1302 1719 1319 285 1314"/></Shape>
+	    <String CONTENT="عن ابی زیدانه قال کالحسین بن علی المرورودی واخوه صعلوك یجری علی صلات معلومة"
+                    HPOS="285"
+                    VPOS="1250"
+                    WIDTH="1436"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b16d7f6f"
+                    
+                    BASELINE="295 1412 1726 1405" 
+                    HPOS="293"
+                    VPOS="1351"
+                    WIDTH="1433"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="295 1412 293 1358 1724 1351 1726 1405 1726 1417 295 1425"/></Shape>
+	    <String CONTENT="دائمة فلما أمليت كتابى في البحث عن كيفية التأويلات قطعها عنى ، وكان لابى"
+                    HPOS="293"
+                    VPOS="1351"
+                    WIDTH="1433"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c963df2"
+                    
+                    BASELINE="290 1521 1721 1516" 
+                    HPOS="288"
+                    VPOS="1464"
+                    WIDTH="1433"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="290 1521 288 1469 1719 1464 1721 1516 1721 1531 290 1536"/></Shape>
+	    <String CONTENT="علی الجیهانی وزیر نصر بن احمدجواری یدرهاعلی فلما املیت کتابی القرابین والذبائح"
+                    HPOS="288"
+                    VPOS="1464"
+                    WIDTH="1433"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9c122f1"
+                    
+                    BASELINE="290 1624 1726 1619" 
+                    HPOS="288"
+                    VPOS="1570"
+                    WIDTH="1438"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="290 1624 288 1575 1724 1570 1726 1619 1726 1634 290 1639"/></Shape>
+	    <String CONTENT="حرمنيها. وكان الحسين قرمطيا و كان الجيهانى ثنويا و كان يرمى ابوزيد بالالحاد،"
+                    HPOS="288"
+                    VPOS="1570"
+                    WIDTH="1438"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4cc4a7c"
+                    
+                    BASELINE="288 1733 1721 1723" 
+                    HPOS="285"
+                    VPOS="1673"
+                    WIDTH="1436"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="288 1733 285 1683 1719 1673 1721 1723 1721 1740 288 1750"/></Shape>
+	    <String CONTENT="فحكى عن البلخى انه قال: &quot;هذا الرجل مظلوم- يعنى ابازيد - وهوموحد، انا اعرف"
+                    HPOS="285"
+                    VPOS="1673"
+                    WIDTH="1436"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7a82bf2"
+                    
+                    BASELINE="288 1831 1721 1838" 
+                    HPOS="285"
+                    VPOS="1782"
+                    WIDTH="1436"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="288 1831 288 1782 1721 1789 1721 1838 1719 1853 285 1846"/></Shape>
+	    <String CONTENT="به من غيرى، وانا انشأنا معا، و انماأتى من المنطق، وقد قرأنا المنطق و ما ألحدنا"
+                    HPOS="285"
+                    VPOS="1782"
+                    WIDTH="1436"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a6d0451"
+                    
+                    BASELINE="290 1954 1729 1949" 
+                    HPOS="288"
+                    VPOS="1897"
+                    WIDTH="1441"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="290 1954 288 1902 1726 1897 1729 1949 1729 1966 290 1971"/></Shape>
+	    <String CONTENT="بحمدالله&quot; . ولابى زيد من الكتب - كما ذكرابن النديم = اكثرمن اربعين كتاباً، منها"
+                    HPOS="288"
+                    VPOS="1897"
+                    WIDTH="1441"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a857b63"
+                    
+                    BASELINE="290 2065 1125 2077 1719 2065" 
+                    HPOS="288"
+                    VPOS="2011"
+                    WIDTH="1431"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="290 2065 290 2011 1123 2023 1716 2011 1719 2065 1719 2087 1125 2099 1123 2099 288 2087"/></Shape>
+	    <String CONTENT="كتاب أجوبة ابى على بن ابى بكربن المظفر المعروف بابن محتاج. ويقول ياقوت :"
+                    HPOS="288"
+                    VPOS="2011"
+                    WIDTH="1431"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e144bc9"
+                    
+                    BASELINE="290 2195 642 2185 1726 2185" 
+                    HPOS="288"
+                    VPOS="2134"
+                    WIDTH="1438"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="290 2195 288 2144 640 2134 642 2134 1726 2134 1726 2185 1726 2208 642 2208 290 2215"/></Shape>
+	    <String CONTENT="&quot;وكان لابى زيد حافد يقال له على بن محمدبن ابىزيد، قال : ولابى زيد نحو من"
+                    HPOS="288"
+                    VPOS="2134"
+                    WIDTH="1438"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3a806ef"
+                    
+                    BASELINE="1411 2306 1721 2311" 
+                    HPOS="1408"
+                    VPOS="2259"
+                    WIDTH="313"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1411 2306 1411 2259 1721 2264 1721 2311 1719 2331 1408 2326"/></Shape>
+	    <String CONTENT="سبعين تأليفاًا&quot; ."
+                    HPOS="1408"
+                    VPOS="2259"
+                    WIDTH="313"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="827"
+                   VPOS="2432"
+                   WIDTH="865"
+                   HEIGHT="204"
+                   ID="eSc_textblock_0ee13e7a"
+                   TAGREFS="BT1087">
+          <Shape><Polygon POINTS="1603 2432 1692 2461 1633 2481 1692 2547 1633 2569 1652 2636 847 2626 827 2510 857 2461 1054 2432"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dda7cf04"
+                    
+                    BASELINE="1012 2498 1578 2501" 
+                    HPOS="1009"
+                    VPOS="2459"
+                    WIDTH="569"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1012 2498 1012 2459 1578 2461 1578 2501 1576 2513 1009 2510"/></Shape>
+	    <String CONTENT="- الفهرست ، طبع قاهره ، ص 98"
+                    HPOS="1009"
+                    VPOS="2459"
+                    WIDTH="569"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74edf47c"
+                    
+                    BASELINE="938 2599 1591 2599" 
+                    HPOS="938"
+                    VPOS="2562"
+                    WIDTH="653"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="938 2599 938 2562 1591 2562 1591 2599 1591 2614 938 2614"/></Shape>
+	    <String CONTENT="2- معجم الادباع، طبع مصر، ج 3، ص 81"
+                    HPOS="938"
+                    VPOS="2562"
+                    WIDTH="653"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="275"
+                   VPOS="295"
+                   WIDTH="87"
+                   HEIGHT="57"
+                   ID="eSc_textblock_d817774c"
+                   TAGREFS="BT1088">
+          <Shape><Polygon POINTS="362 305 362 352 275 352 295 295"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

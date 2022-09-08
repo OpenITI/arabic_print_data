@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitabi_ayn_al_hayat_majlisi.pdf_page_5.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1158" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1159" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1160" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2024"
+          HEIGHT="2769"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2024"
+                  HEIGHT="2769">
+        
+        <TextBlock HPOS="249"
+                   VPOS="101"
+                   WIDTH="512"
+                   HEIGHT="90"
+                   ID="eSc_textblock_8e0c0062"
+                   TAGREFS="BT1159">
+          <Shape><Polygon POINTS="715 101 761 119 761 163 332 191 249 154 258 110 341 101"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ee5c7b09"
+                    
+                    BASELINE="272 152 733 147" 
+                    HPOS="270"
+                    VPOS="99"
+                    WIDTH="463"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="272 152 270 103 731 99 733 147 733 173 272 177"/></Shape>
+	    <String CONTENT="در تعقیب بساز عصرو نیازخف"
+                    HPOS="270"
+                    VPOS="99"
+                    WIDTH="463"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="245"
+                   VPOS="251"
+                   WIDTH="1578"
+                   HEIGHT="2181"
+                   ID="eSc_textblock_5b45c8aa"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="245 255 245 2432 1823 2432 1823 251"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="998"
+                   VPOS="2456"
+                   WIDTH="157"
+                   HEIGHT="77"
+                   ID="eSc_textblock_72e494a5"
+                   TAGREFS="BT1160">
+          <Shape><Polygon POINTS="998 2456 998 2533 1155 2533 1155 2456"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

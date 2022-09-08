@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>abu_zayd_dirasat_hawla_kitab_jawami_al_ulum.pdf_page_6.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1086" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1087" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1088" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2079"
+          HEIGHT="2954"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2079"
+                  HEIGHT="2954">
+        
+        <TextBlock HPOS="1556"
+                   VPOS="305"
+                   WIDTH="274"
+                   HEIGHT="86"
+                   ID="eSc_textblock_7c3a496c"
+                   TAGREFS="BT1086">
+          <Shape><Polygon POINTS="1820 305 1830 391 1556 381 1556 305"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f7eb8725"
+                    
+                    BASELINE="1561 354 1803 361" 
+                    HPOS="1559"
+                    VPOS="315"
+                    WIDTH="244"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1561 354 1561 315 1803 322 1803 361 1800 376 1559 369"/></Shape>
+	    <String CONTENT="شعیابن فریغون"
+                    HPOS="1559"
+                    VPOS="315"
+                    WIDTH="244"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="354"
+                   VPOS="413"
+                   WIDTH="1525"
+                   HEIGHT="2075"
+                   ID="eSc_textblock_b9a2cd59"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1879 443 1869 2478 384 2488 354 2459 354 462 374 423 482 413"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_89bff6fe"
+                    
+                    BASELINE="389 465 1815 460" 
+                    HPOS="386"
+                    VPOS="408"
+                    WIDTH="1429"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="389 465 386 413 1812 408 1815 460 1815 477 389 482"/></Shape>
+	    <String CONTENT="الدكتور&quot;ريتر&quot; فی مجلة فدعنمل (السنة الثالثة ص83 - 85 -1950م) . وقد كتبت"
+                    HPOS="386"
+                    VPOS="408"
+                    WIDTH="1429"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a8499cd"
+                    
+                    BASELINE="389 566 1817 576" 
+                    HPOS="386"
+                    VPOS="519"
+                    WIDTH="1431"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="389 566 389 519 1817 529 1817 576 1815 595 386 585"/></Shape>
+	    <String CONTENT="فی سنة 396 ه - أی بعد ثلاث سنوات من تاریخ تحریرنسخة اسکوریال - فی مدینة"
+                    HPOS="386"
+                    VPOS="519"
+                    WIDTH="1431"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ddcf4d6"
+                    
+                    BASELINE="1485 681 1822 676" 
+                    HPOS="1482"
+                    VPOS="630"
+                    WIDTH="340"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1485 681 1482 635 1820 630 1822 676 1822 691 1485 696"/></Shape>
+	    <String CONTENT="&quot;الرملة&quot; بفلسطين ."
+                    HPOS="1482"
+                    VPOS="630"
+                    WIDTH="340"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac412716"
+                    
+                    BASELINE="386 787 1721 787" 
+                    HPOS="386"
+                    VPOS="740"
+                    WIDTH="1335"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="386 787 386 740 1721 740 1721 787 1721 807 386 807"/></Shape>
+	    <String CONTENT="وهذه قطوفوردت فی بعض المراجع الاسلامية والاوروبية ومتن الكتاب ذاته"
+                    HPOS="386"
+                    VPOS="740"
+                    WIDTH="1335"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b709ea0"
+                    
+                    BASELINE="386 896 1825 896" 
+                    HPOS="386"
+                    VPOS="849"
+                    WIDTH="1439"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="386 896 386 849 1825 849 1825 896 1825 915 386 915"/></Shape>
+	    <String CONTENT="يمكن ان تفيدناالىحدما فی وصف جوامع العلوم ، والتعريف بابن فريغون واستاذه"
+                    HPOS="386"
+                    VPOS="849"
+                    WIDTH="1439"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_933eabd4"
+                    
+                    BASELINE="391 1011 1817 1001" 
+                    HPOS="389"
+                    VPOS="947"
+                    WIDTH="1428"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="391 1011 389 957 1815 947 1817 1001 1817 1019 391 1028"/></Shape>
+	    <String CONTENT="ابیزيدالبلخى ، و بذلك الذى كتب له كتاب &quot;جوامع العلوم&quot; اى ابى على احمدبن"
+                    HPOS="389"
+                    VPOS="947"
+                    WIDTH="1428"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a0311e0"
+                    
+                    BASELINE="1495 1112 1825 1112" 
+                    HPOS="1495"
+                    VPOS="1070"
+                    WIDTH="330"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1495 1112 1495 1070 1825 1070 1825 1112 1825 1127 1495 1127"/></Shape>
+	    <String CONTENT="محمدبن المظفر."
+                    HPOS="1495"
+                    VPOS="1070"
+                    WIDTH="330"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_446c3f97"
+                    
+                    BASELINE="1482 1252 1812 1248" 
+                    HPOS="1480"
+                    VPOS="1198"
+                    WIDTH="332"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1482 1252 1480 1203 1810 1198 1812 1248 1812 1265 1482 1270"/></Shape>
+	    <String CONTENT="شعیا بن فربغون"
+                    HPOS="1480"
+                    VPOS="1198"
+                    WIDTH="332"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b86c632"
+                    
+                    BASELINE="389 1351 1689 1341" 
+                    HPOS="386"
+                    VPOS="1287"
+                    WIDTH="1303"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="389 1351 386 1297 1687 1287 1689 1341 1689 1356 389 1366"/></Shape>
+	    <String CONTENT="كتب اسم المؤلف فی النسختين المحفوظتين بتر کیا بصوریقرأ محتملا&quot;امنعبی"
+                    HPOS="386"
+                    VPOS="1287"
+                    WIDTH="1303"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_724d1eb6"
+                    
+                    BASELINE="389 1457 670 1447 1827 1454" 
+                    HPOS="386"
+                    VPOS="1395"
+                    WIDTH="1441"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="389 1457 386 1405 667 1395 670 1395 1827 1403 1827 1454 1825 1469 670 1462 389 1472"/></Shape>
+	    <String CONTENT="و متغبى و مبتغى&quot; . اما النسخة الصحيحة القديمة الكاملة لمكتبة اسكوريال ، وهى"
+                    HPOS="386"
+                    VPOS="1395"
+                    WIDTH="1441"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9afb3af"
+                    
+                    BASELINE="389 1560 1822 1553" 
+                    HPOS="386"
+                    VPOS="1506"
+                    WIDTH="1436"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="389 1560 386 1513 1820 1506 1822 1553 1822 1573 389 1580"/></Shape>
+	    <String CONTENT="التى جاء فی عدة مواضع منهاجمل مثل &quot;بلغت المقابلة&quot; ، وفی أواخر بعض الفصول"
+                    HPOS="386"
+                    VPOS="1506"
+                    WIDTH="1436"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c85a769d"
+                    
+                    BASELINE="389 1664 1822 1664" 
+                    HPOS="389"
+                    VPOS="1622"
+                    WIDTH="1433"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="389 1664 389 1622 1822 1622 1822 1664 1822 1683 389 1683"/></Shape>
+	    <String CONTENT="جملة (عرض على اصله وصح ان شاء الله) - وهى اشارات تجعل من المسلم انه قد"
+                    HPOS="389"
+                    VPOS="1622"
+                    WIDTH="1433"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dabdb9e0"
+                    
+                    BASELINE="386 1772 1825 1772" 
+                    HPOS="386"
+                    VPOS="1723"
+                    WIDTH="1439"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="386 1772 386 1723 1825 1723 1825 1772 1825 1789 386 1789"/></Shape>
+	    <String CONTENT="روعيت الدقة فی كتابة النسخة وانهاقدقوبلت بالنسخة الاصلیة فقداثبت فیها اسم المؤلف"
+                    HPOS="386"
+                    VPOS="1723"
+                    WIDTH="1439"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a62782fe"
+                    
+                    BASELINE="391 1870 1817 1885" 
+                    HPOS="389"
+                    VPOS="1824"
+                    WIDTH="1428"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="391 1870 391 1824 1817 1838 1817 1885 1815 1905 389 1890"/></Shape>
+	    <String CONTENT="بغير ابهام البتة فى صفحة العنوان : &quot;شعيابن فريغون&quot;، ثم جاء في نهاية النسخة ايضاً"
+                    HPOS="389"
+                    VPOS="1824"
+                    WIDTH="1428"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af70493f"
+                    
+                    BASELINE="741 1984 1820 1989" 
+                    HPOS="738"
+                    VPOS="1937"
+                    WIDTH="1082"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="741 1984 741 1937 1820 1942 1820 1989 1817 2008 738 2003"/></Shape>
+	    <String CONTENT="(شعيی بن فريغون&quot; ممالايدع مجالا للتردد فی صحة هذا الاسم ."
+                    HPOS="738"
+                    VPOS="1937"
+                    WIDTH="1082"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b9366d2"
+                    
+                    BASELINE="1357 2126 1805 2126" 
+                    HPOS="1357"
+                    VPOS="2082"
+                    WIDTH="448"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1357 2126 1357 2082 1805 2082 1805 2126 1805 2146 1357 2146"/></Shape>
+	    <String CONTENT="اصل ابن فربغون ونسبه"
+                    HPOS="1357"
+                    VPOS="2082"
+                    WIDTH="448"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbfa1f3e"
+                    
+                    BASELINE="391 2215 1704 2222" 
+                    HPOS="389"
+                    VPOS="2166"
+                    WIDTH="1315"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="391 2215 391 2166 1704 2173 1704 2222 1702 2240 389 2232"/></Shape>
+	    <String CONTENT="يقول بارتولد فی مقدمته لكتاب &quot;حدودالعالم من المشرق الى المغرب&quot; استناداً"
+                    HPOS="389"
+                    VPOS="2166"
+                    WIDTH="1315"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8021ca8d"
+                    
+                    BASELINE="391 2331 1815 2321" 
+                    HPOS="389"
+                    VPOS="2274"
+                    WIDTH="1426"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="391 2331 389 2284 1812 2274 1815 2321 1815 2341 391 2350"/></Shape>
+	    <String CONTENT="الى ماكتب مؤلف هذا الكتاب : &quot;تجعل الاساطير الفريغونيين ذاتهم من اولادافريدون،"
+                    HPOS="389"
+                    VPOS="2274"
+                    WIDTH="1426"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0dcdfa3"
+                    
+                    BASELINE="810 2432 1820 2432" 
+                    HPOS="810"
+                    VPOS="2390"
+                    WIDTH="1010"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="810 2432 810 2390 1820 2390 1820 2432 1820 2459 810 2459"/></Shape>
+	    <String CONTENT="ولكنه ليس لدينا اطلاع صحيح عن تاريخ ظهورهذه الاسرة1."
+                    HPOS="810"
+                    VPOS="2390"
+                    WIDTH="1010"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="374"
+                   VPOS="305"
+                   WIDTH="96"
+                   HEIGHT="76"
+                   ID="eSc_textblock_797f3e08"
+                   TAGREFS="BT1088">
+          <Shape><Polygon POINTS="470 324 470 381 374 381 374 324 413 305"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="365"
+                   VPOS="2497"
+                   WIDTH="1510"
+                   HEIGHT="144"
+                   ID="eSc_textblock_ab7004e1"
+                   TAGREFS="BT1087">
+          <Shape><Polygon POINTS="365 2497 365 2641 1875 2641 1875 2497"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

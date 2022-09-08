@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Tusi_Sayro_Suluk.pdf_page_29.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1413" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1414" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1415" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1416" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1417" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="222"
+                   VPOS="2911"
+                   WIDTH="1828"
+                   HEIGHT="232"
+                   ID="eSc_textblock_01b36d3c"
+                   TAGREFS="BT1416">
+          <Shape><Polygon POINTS="2050 3143 2050 2911 222 2911 222 3143"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="232"
+                   VPOS="455"
+                   WIDTH="1808"
+                   HEIGHT="2407"
+                   ID="eSc_textblock_c84dd8a0"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2040 2862 2040 455 232 455 232 2862"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1504"
+                   VPOS="372"
+                   WIDTH="237"
+                   HEIGHT="39"
+                   ID="eSc_textblock_9d1598d0"
+                   TAGREFS="BT1413">
+          <Shape><Polygon POINTS="1504 372 1504 411 1741 411 1741 372"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1784"
+                   VPOS="358"
+                   WIDTH="271"
+                   HEIGHT="72"
+                   ID="eSc_textblock_d8c721cc"
+                   TAGREFS="BT1415">
+          <Shape><Polygon POINTS="1784 358 1784 430 2055 430 2055 358"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_c312ed91"
+                    
+                    BASELINE="1511 403 2052 412" 
+                    HPOS="1508"
+                    VPOS="347"
+                    WIDTH="544"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1511 403 1511 347 2052 356 2052 412 2049 426 1508 418"/></Shape>
+	    <String CONTENT="پیست و شش [سیر و سلوک"
+                    HPOS="1508"
+                    VPOS="347"
+                    WIDTH="544"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2fb01196"
+                    
+                    BASELINE="260 552 2055 570" 
+                    HPOS="257"
+                    VPOS="485"
+                    WIDTH="1798"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="260 552 260 485 2055 502 2055 570 2052 587 257 570"/></Shape>
+	    <String CONTENT="پس از برملاشدن ارتباط و مکاتبه با مقامات عباسی در بغداد، طوسی وادار به نقل"
+                    HPOS="257"
+                    VPOS="485"
+                    WIDTH="1798"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a820df65"
+                    
+                    BASELINE="260 654 2052 660" 
+                    HPOS="257"
+                    VPOS="593"
+                    WIDTH="1795"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="260 654 260 593 2052 599 2052 660 2049 689 257 684"/></Shape>
+	    <String CONTENT="مکان به الموت و زندانی شدن در آنجا شد. اما محتمل ترین توضیح در این باره این است"
+                    HPOS="257"
+                    VPOS="593"
+                    WIDTH="1795"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d2cdf8c"
+                    
+                    BASELINE="251 771 2049 771" 
+                    HPOS="251"
+                    VPOS="710"
+                    WIDTH="1798"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="251 771 251 710 2049 710 2049 771 2049 800 251 800"/></Shape>
+	    <String CONTENT=" که سفر الموت یکی از سفرهای معمول و متعارفی بود که ناصرالدین برای ارائهٔ گزارش"
+                    HPOS="251"
+                    VPOS="710"
+                    WIDTH="1798"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b17dcfb"
+                    
+                    BASELINE="251 874 2040 882" 
+                    HPOS="248"
+                    VPOS="812"
+                    WIDTH="1792"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="251 874 251 812 2040 821 2040 882 2037 906 248 897"/></Shape>
+	    <String CONTENT="در امور اداری شخصا به مرکز دعوت اسماعیلیه انجام میداد، و طبیعی بود که حاکم"
+                    HPOS="248"
+                    VPOS="812"
+                    WIDTH="1792"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99f64d76"
+                    
+                    BASELINE="254 982 2037 991" 
+                    HPOS="251"
+                    VPOS="926"
+                    WIDTH="1786"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="254 982 254 926 2037 935 2037 991 2034 1014 251 1005"/></Shape>
+	    <String CONTENT="چند نفر از معتمد ترین نزدیکان خود را به همراه ببرد. در هر حال، طوسی این سفر را"
+                    HPOS="251"
+                    VPOS="926"
+                    WIDTH="1786"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_043086bb"
+                    
+                    BASELINE="251 1084 2043 1096" 
+                    HPOS="248"
+                    VPOS="1029"
+                    WIDTH="1795"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="251 1084 251 1029 2043 1040 2043 1096 2040 1122 248 1110"/></Shape>
+	    <String CONTENT="فرصت و افتخاری بزرگ تلقی میکرده است، مخصوصا ازین رو که الموت منزلگاه"
+                    HPOS="248"
+                    VPOS="1029"
+                    WIDTH="1795"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbe014c8"
+                    
+                    BASELINE="251 1189 2043 1204" 
+                    HPOS="248"
+                    VPOS="1131"
+                    WIDTH="1795"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="251 1189 251 1131 2043 1145 2043 1204 2040 1230 248 1216"/></Shape>
+	    <String CONTENT="امامان اسماعیلی و محل نگهداری مهمترین کتابخانهٔ دولت اسما عیلی و پناهگاه"
+                    HPOS="248"
+                    VPOS="1131"
+                    WIDTH="1795"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d05ad9e0"
+                    
+                    BASELINE="254 1300 2040 1315" 
+                    HPOS="251"
+                    VPOS="1239"
+                    WIDTH="1789"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="254 1300 254 1239 2040 1254 2040 1315 2037 1341 251 1327"/></Shape>
+	    <String CONTENT="بسیاری از دانشمندان سنی و شیعه بود که بعضی از آنها برای نجات از حملات مغول به"
+                    HPOS="251"
+                    VPOS="1239"
+                    WIDTH="1789"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59b59beb"
+                    
+                    BASELINE="982 1411 2034 1420" 
+                    HPOS="979"
+                    VPOS="1344"
+                    WIDTH="1055"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="982 1411 982 1344 2034 1353 2034 1420 2031 1447 979 1438"/></Shape>
+	    <String CONTENT="آسیای میانه و خراسان در آنجا مأمن گزیده بودند."
+                    HPOS="979"
+                    VPOS="1344"
+                    WIDTH="1055"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e4a551f"
+                    
+                    BASELINE="242 1517 1964 1525" 
+                    HPOS="239"
+                    VPOS="1455"
+                    WIDTH="1725"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="242 1517 242 1455 1964 1464 1964 1525 1961 1549 239 1540"/></Shape>
+	    <String CONTENT="طوسی هر نقشه و آرزویی که داشته، اقامت طولانی او به مدت بیست سال در الموت"
+                    HPOS="239"
+                    VPOS="1455"
+                    WIDTH="1725"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd5296f6"
+                    
+                    BASELINE="245 1625 2031 1642" 
+                    HPOS="242"
+                    VPOS="1566"
+                    WIDTH="1789"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="245 1625 245 1566 2031 1584 2031 1642 2028 1663 242 1645"/></Shape>
+	    <String CONTENT="و میمون دژ پربارترین دورهٔ زندگی و باروری خلاقیت اوست که تحت حمایت و"
+                    HPOS="242"
+                    VPOS="1566"
+                    WIDTH="1789"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b65e1afb"
+                    
+                    BASELINE="242 1739 2028 1739" 
+                    HPOS="242"
+                    VPOS="1677"
+                    WIDTH="1786"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="242 1739 242 1677 2028 1677 2028 1739 2028 1765 242 1765"/></Shape>
+	    <String CONTENT=" شویق امام علاءالدین محمد (م: 652ق) و نخبگان جامعهٔ اسماعیلی آن زمان تحفق"
+                    HPOS="242"
+                    VPOS="1677"
+                    WIDTH="1786"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44faa1b4"
+                    
+                    BASELINE="242 1841 1561 1856 2028 1841" 
+                    HPOS="239"
+                    VPOS="1774"
+                    WIDTH="1789"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="242 1841 242 1774 1558 1789 2025 1774 2028 1841 2028 1870 1561 1885 1558 1885 239 1870"/></Shape>
+	    <String CONTENT="یافته است. اضافه بر این، چنین برمی آید که طوسی برخوردار از آزادی اندیشه و مراوده"
+                    HPOS="239"
+                    VPOS="1774"
+                    WIDTH="1789"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_252d607f"
+                    
+                    BASELINE="239 1946 2031 1961" 
+                    HPOS="236"
+                    VPOS="1888"
+                    WIDTH="1795"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="239 1946 239 1888 2031 1903 2031 1961 2028 1984 236 1970"/></Shape>
+	    <String CONTENT="بوده که او را قادر میساخته است دربارهٔ موضوعات متفاوتی شامل نجوم، ریاضیات،"
+                    HPOS="236"
+                    VPOS="1888"
+                    WIDTH="1795"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf0cdde8"
+                    
+                    BASELINE="242 2060 2031 2055" 
+                    HPOS="239"
+                    VPOS="1999"
+                    WIDTH="1792"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="242 2060 239 2005 2028 1999 2031 2055 2031 2081 242 2087"/></Shape>
+	    <String CONTENT="قلسفه و شعب مختلف علوم کاربردی مطلب نوشته و با دانشمندان معاصر خود"
+                    HPOS="239"
+                    VPOS="1999"
+                    WIDTH="1792"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11fcac68"
+                    
+                    BASELINE="236 2174 418 2163 871 2174 2031 2166" 
+                    HPOS="230"
+                    VPOS="2098"
+                    WIDTH="1801"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="236 2174 230 2110 412 2098 418 2098 771 2107 871 2110 2028 2101 2031 2166 2031 2195 871 2204 868 2204 765 2201 418 2192 236 2204"/></Shape>
+	    <String CONTENT="مکاتبات علمی داشته باشد.1 طوسی مهم ترین اثرش در زمینهٔ تفکرات اسما عیلی،"
+                    HPOS="230"
+                    VPOS="2098"
+                    WIDTH="1801"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b7e3b96"
+                    
+                    BASELINE="233 2274 2022 2283" 
+                    HPOS="230"
+                    VPOS="2212"
+                    WIDTH="1792"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="233 2274 233 2212 2022 2221 2022 2283 2020 2303 230 2294"/></Shape>
+	    <String CONTENT="یعنی روضهٔ تسلیم را در سال 620 و اساس الاقتاس را در سال 642 به اتمام رسانده و"
+                    HPOS="230"
+                    VPOS="2212"
+                    WIDTH="1792"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52f91fdb"
+                    
+                    BASELINE="233 2379 2020 2388" 
+                    HPOS="230"
+                    VPOS="2321"
+                    WIDTH="1790"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="233 2379 233 2321 2020 2329 2020 2388 2017 2411 230 2402"/></Shape>
+	    <String CONTENT="دفاعیهٔ مشهور وی از این سینا علیه انتقادات فخرالدین رازی، یعنی شرح الاشارات و"
+                    HPOS="230"
+                    VPOS="2321"
+                    WIDTH="1790"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ae6d789"
+                    
+                    BASELINE="236 2487 2022 2499" 
+                    HPOS="233"
+                    VPOS="2426"
+                    WIDTH="1789"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="236 2487 236 2426 2022 2438 2022 2499 2020 2519 233 2508"/></Shape>
+	    <String CONTENT="التهات، در سال 622ق آخرین ملاحظات خود را از سر گذراند اینها به غیر از آثار"
+                    HPOS="233"
+                    VPOS="2426"
+                    WIDTH="1789"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fee1ba0e"
+                    
+                    BASELINE="239 2604 917 2595 2022 2610" 
+                    HPOS="236"
+                    VPOS="2531"
+                    WIDTH="1786"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="239 2604 236 2540 915 2531 917 2531 2022 2546 2022 2610 2020 2642 915 2628 239 2636"/></Shape>
+	    <String CONTENT="فراوان او دربارهٔ نجوم، بازنویس کتب درسی و ترجمههایی هستند که در سال های اخر"
+                    HPOS="236"
+                    VPOS="2531"
+                    WIDTH="1786"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a71fcfd"
+                    
+                    BASELINE="233 2712 2017 2707" 
+                    HPOS="230"
+                    VPOS="2645"
+                    WIDTH="1787"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="233 2712 230 2651 2014 2645 2017 2707 2017 2733 233 2739"/></Shape>
+	    <String CONTENT="اقامش در الموت کالیف نمود. احتمالاً به خاطر همین تلاشهای خستگی نا پذیر، در"
+                    HPOS="230"
+                    VPOS="2645"
+                    WIDTH="1787"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06c38882"
+                    
+                    BASELINE="406 2812 1531 2818 1774 2829 1996 2821" 
+                    HPOS="403"
+                    VPOS="2745"
+                    WIDTH="1593"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="406 2812 406 2745 1531 2750 1534 2750 1540 2750 1774 2762 1993 2753 1996 2821 1996 2850 1774 2859 1771 2859 1537 2850 1528 2847 403 2841"/></Shape>
+	    <String CONTENT="ار عوامل دیگر است که طوسی مفتخر به لقب سلطان الدعات گردیده است."
+                    HPOS="403"
+                    VPOS="2745"
+                    WIDTH="1593"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f64883c3"
+                    
+                    BASELINE="225 2987 1944 3002" 
+                    HPOS="222"
+                    VPOS="2935"
+                    WIDTH="1722"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="225 2987 225 2935 1944 2949 1944 3002 1941 3028 222 3013"/></Shape>
+	    <String CONTENT=" تعدادی اراین سؤال و جوابها بر جای مانده است، برای آگاهی بیشتر نک: مدرس زنجانی"
+                    HPOS="222"
+                    VPOS="2935"
+                    WIDTH="1722"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_798e9dd3"
+                    
+                    BASELINE="502 3060 1499 3087 1865 3078" 
+                    HPOS="499"
+                    VPOS="3008"
+                    WIDTH="1366"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="502 3060 502 3008 1499 3034 1862 3025 1865 3078 1865 3122 1499 3130 1496 3130 499 3104"/></Shape>
+	    <String CONTENT=" وعقاید فلفی حواحه نصرالدين طوسى، (تهران، 1335ش)، صص 198-221"
+                    HPOS="499"
+                    VPOS="3008"
+                    WIDTH="1366"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

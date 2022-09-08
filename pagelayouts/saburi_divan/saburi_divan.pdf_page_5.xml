@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>saburi_divan.pdf_page_5.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1403" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1404" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1405" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1406" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1407" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2022"
+          HEIGHT="2819"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2022"
+                  HEIGHT="2819">
+        
+        <TextBlock HPOS="526"
+                   VPOS="890"
+                   WIDTH="1216"
+                   HEIGHT="468"
+                   ID="eSc_textblock_4cd12331"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="1742 1358 1723 890 540 890 526 1358"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="379"
+                   VPOS="1387"
+                   WIDTH="1434"
+                   HEIGHT="303"
+                   ID="eSc_textblock_faa15d6b"
+                   TAGREFS="BT1403">
+          <Shape><Polygon POINTS="1813 1690 1799 1387 393 1387 379 1690"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="317"
+                   VPOS="1723"
+                   WIDTH="1562"
+                   HEIGHT="923"
+                   ID="eSc_textblock_33ef454d"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1879 2646 1879 1723 317 1723 317 2646"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_dbb4a3eb"
+                    
+                    BASELINE="1126 1014 1375 1021 1605 1010" 
+                    HPOS="1123"
+                    VPOS="852"
+                    WIDTH="485"
+                    HEIGHT="214">
+            <Shape><Polygon POINTS="1126 1014 1128 857 1373 864 1596 852 1605 1010 1608 1054 1377 1066 1373 1066 1123 1059"/></Shape>
+	    <String CONTENT="بسم اللمالر"
+                    HPOS="1123"
+                    VPOS="852"
+                    WIDTH="485"
+                    HEIGHT="214"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30c3be17"
+                    
+                    BASELINE="968 1024 1058 1019" 
+                    HPOS="963"
+                    VPOS="972"
+                    WIDTH="95"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="968 1024 963 977 1053 972 1058 1019 1058 1043 968 1047"/></Shape>
+	    <String CONTENT=""
+                    HPOS="963"
+                    VPOS="972"
+                    WIDTH="95"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac6354b2"
+                    
+                    BASELINE="966 1296 1126 1292" 
+                    HPOS="963"
+                    VPOS="1238"
+                    WIDTH="163"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="966 1296 963 1242 1123 1238 1126 1292 1126 1310 966 1315"/></Shape>
+	    <String CONTENT="ق"
+                    HPOS="963"
+                    VPOS="1238"
+                    WIDTH="163"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89adcb1e"
+                    
+                    BASELINE="413 1482 1737 1475" 
+                    HPOS="411"
+                    VPOS="1407"
+                    WIDTH="1326"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="413 1482 411 1414 1735 1407 1737 1475 1737 1501 413 1508"/></Shape>
+	    <String CONTENT="در شرح احوال حلاج میرزا معمد گاظم صبوری"
+                    HPOS="411"
+                    VPOS="1407"
+                    WIDTH="1326"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b99d5f6"
+                    
+                    BASELINE="733 1649 1394 1642" 
+                    HPOS="731"
+                    VPOS="1578"
+                    WIDTH="663"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="733 1649 731 1585 1391 1578 1394 1642 1394 1656 733 1663"/></Shape>
+	    <String CONTENT="ملك الشیرا آستان قدس رضوی"
+                    HPOS="731"
+                    VPOS="1578"
+                    WIDTH="663"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecc57dc4"
+                    
+                    BASELINE="331 1787 1711 1792" 
+                    HPOS="329"
+                    VPOS="1738"
+                    WIDTH="1382"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="331 1787 331 1738 1711 1743 1711 1792 1709 1808 329 1804"/></Shape>
+	    <String CONTENT="در یکصد و بیست وچهار سال پیش ازین ، بسال 1259 هجری فمری دریك"
+                    HPOS="329"
+                    VPOS="1738"
+                    WIDTH="1382"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17d6ac57"
+                    
+                    BASELINE="333 1888 590 1879 1840 1879" 
+                    HPOS="331"
+                    VPOS="1825"
+                    WIDTH="1509"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="333 1888 331 1834 587 1825 590 1825 1840 1825 1840 1879 1840 1898 590 1898 333 1905"/></Shape>
+	    <String CONTENT="خانوادهٔ صنعتگر کاشانی که بصنعت حریر بافی اشتغال داشته و تازه از کاشان بشهر"
+                    HPOS="331"
+                    VPOS="1825"
+                    WIDTH="1509"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ae10e18"
+                    
+                    BASELINE="333 1973 1838 1968" 
+                    HPOS="331"
+                    VPOS="1916"
+                    WIDTH="1507"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="333 1973 331 1921 1836 1916 1838 1968 1838 1989 333 1994"/></Shape>
+	    <String CONTENT="مقدس مشهد توطن اختیار کرده بودند ، کود کی پا بعرصهٔ وجود گذاشت و بهٔ"
+                    HPOS="331"
+                    VPOS="1916"
+                    WIDTH="1507"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c6879c3"
+                    
+                    BASELINE="1342 2062 1836 2062" 
+                    HPOS="1342"
+                    VPOS="2015"
+                    WIDTH="494"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1342 2062 1342 2015 1836 2015 1836 2062 1836 2083 1342 2083"/></Shape>
+	    <String CONTENT="محمد کاظم موسوم گردید."
+                    HPOS="1342"
+                    VPOS="2015"
+                    WIDTH="494"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2f050df"
+                    
+                    BASELINE="333 2180 1711 2165" 
+                    HPOS="331"
+                    VPOS="2116"
+                    WIDTH="1380"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="333 2180 331 2130 1709 2116 1711 2165 1711 2189 333 2203"/></Shape>
+	    <String CONTENT="حاج محمدباقر پدر محمد کاظم از مردان مجرب و کدخدامنش کاشان بود"
+                    HPOS="331"
+                    VPOS="2116"
+                    WIDTH="1380"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ea59475"
+                    
+                    BASELINE="338 2264 1116 2273 1819 2259" 
+                    HPOS="336"
+                    VPOS="2203"
+                    WIDTH="1483"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="338 2264 338 2208 1114 2217 1817 2203 1819 2259 1819 2281 1116 2295 1114 2295 336 2285"/></Shape>
+	    <String CONTENT="که پس از انتقال بخراسان و توطن در شهر مشهد و گستردن دستگاه خارا بافی ،"
+                    HPOS="336"
+                    VPOS="2203"
+                    WIDTH="1483"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1e04ae7"
+                    
+                    BASELINE="331 2367 839 2377 1831 2360" 
+                    HPOS="329"
+                    VPOS="2306"
+                    WIDTH="1502"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="331 2367 331 2313 839 2323 1829 2306 1831 2360 1831 2384 839 2400 837 2400 329 2391"/></Shape>
+	    <String CONTENT="به تعلیم وتربیت عدهٔ زیادی از جوانان مشهد بفن حریر و قناویز بافی سر گرم شد"
+                    HPOS="329"
+                    VPOS="2306"
+                    WIDTH="1502"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0b126f1"
+                    
+                    BASELINE="326 2471 1838 2464" 
+                    HPOS="324"
+                    VPOS="2410"
+                    WIDTH="1514"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="326 2471 324 2417 1836 2410 1838 2464 1838 2483 326 2490"/></Shape>
+	    <String CONTENT="ودیری نگذشت که کارخانهای قناویز بافی او توسعه یافت و جماعتی از تربیت -"
+                    HPOS="324"
+                    VPOS="2410"
+                    WIDTH="1514"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7384b05c"
+                    
+                    BASELINE="329 2574 1246 2574 1838 2560" 
+                    HPOS="329"
+                    VPOS="2506"
+                    WIDTH="1509"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="329 2574 329 2520 1243 2520 1836 2506 1838 2560 1838 2584 1246 2598 1246 2598 329 2598"/></Shape>
+	    <String CONTENT="یافته گان حاجی مزبور دست در کار این صنعت شدند و پارچههای ابریشمین بسیار"
+                    HPOS="329"
+                    VPOS="2506"
+                    WIDTH="1509"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

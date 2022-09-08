@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00028.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1315" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1316" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1317" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1318" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1319" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1630"
+          HEIGHT="2192"
+          PHYSICAL_IMG_NR="27"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1630"
+                  HEIGHT="2192">
+        
+        <TextBlock HPOS="462"
+                   VPOS="1278"
+                   WIDTH="409"
+                   HEIGHT="156"
+                   ID="eSc_textblock_bdeaaa37"
+                   TAGREFS="BT1315">
+          <Shape><Polygon POINTS="871 1434 871 1278 462 1278 462 1434"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="453"
+                   VPOS="180"
+                   WIDTH="361"
+                   HEIGHT="61"
+                   ID="eSc_textblock_a2a5f39b"
+                   TAGREFS="BT1315">
+          <Shape><Polygon POINTS="814 241 814 180 453 180 453 241"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="39"
+                   VPOS="1469"
+                   WIDTH="1281"
+                   HEIGHT="549"
+                   ID="eSc_textblock_d3a133f6"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1320 2018 1320 1469 39 1469 39 2018"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="26"
+                   VPOS="276"
+                   WIDTH="1250"
+                   HEIGHT="936"
+                   ID="eSc_textblock_b43923a8"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1276 1212 1276 276 26 276 26 1212"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1189"
+                   VPOS="189"
+                   WIDTH="87"
+                   HEIGHT="61"
+                   ID="eSc_textblock_31543e6e"
+                   TAGREFS="BT1317">
+          <Shape><Polygon POINTS="1189 189 1189 250 1276 250 1276 189"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_75eb6595"
+                    
+                    BASELINE="1202 211 1248 211" 
+                    HPOS="1202"
+                    VPOS="186"
+                    WIDTH="46"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="1202 211 1202 186 1248 186 1248 211 1248 219 1202 219"/></Shape>
+	    <String CONTENT="22"
+                    HPOS="1202"
+                    VPOS="186"
+                    WIDTH="46"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ada52430"
+                    
+                    BASELINE="32 337 1251 323" 
+                    HPOS="31"
+                    VPOS="284"
+                    WIDTH="1220"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="32 337 31 299 1249 284 1251 323 1251 339 32 354"/></Shape>
+	    <String CONTENT="يبنج قسم است : يعنى حواس ظاهر پنج است ، سمع وبصر وشم وذوق"
+                    HPOS="31"
+                    VPOS="284"
+                    WIDTH="1220"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a4a9dab"
+                    
+                    BASELINE="38 416 1259 398" 
+                    HPOS="36"
+                    VPOS="358"
+                    WIDTH="1223"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="38 416 36 376 1257 358 1259 398 1259 411 38 429"/></Shape>
+	    <String CONTENT="ولمس : وحواس باطن هم ينج است ، حس مشترك وخيال ووهم"
+                    HPOS="36"
+                    VPOS="358"
+                    WIDTH="1223"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ce93a99"
+                    
+                    BASELINE="32 485 528 489 1260 474" 
+                    HPOS="31"
+                    VPOS="432"
+                    WIDTH="1229"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="32 485 32 443 526 447 1259 432 1260 474 1260 493 528 507 526 507 31 504"/></Shape>
+	    <String CONTENT="وحافظه ومتصرفه . وخيال خزانه دار حس مشترك است ، وحافظه"
+                    HPOS="31"
+                    VPOS="432"
+                    WIDTH="1229"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b66f7dd1"
+                    
+                    BASELINE="40 573 274 564 1260 555" 
+                    HPOS="38"
+                    VPOS="518"
+                    WIDTH="1222"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="40 573 38 537 272 527 272 527 1259 518 1260 555 1260 571 274 580 40 590"/></Shape>
+	    <String CONTENT="خزانه دار وهم است . حس مشترك مدرك صور محسوسات است ، ووهم"
+                    HPOS="38"
+                    VPOS="518"
+                    WIDTH="1222"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_181d6ff2"
+                    
+                    BASELINE="45 644 701 644 1264 632" 
+                    HPOS="45"
+                    VPOS="595"
+                    WIDTH="1219"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="45 644 45 608 699 608 1262 595 1264 632 1264 650 701 663 701 663 45 663"/></Shape>
+	    <String CONTENT="مدرك معانى محسوسات است ، يعنى حس مشترك شاهدرا در می يابد ،"
+                    HPOS="45"
+                    VPOS="595"
+                    WIDTH="1219"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85162458"
+                    
+                    BASELINE="54 730 423 723 688 730 1270 714" 
+                    HPOS="52"
+                    VPOS="666"
+                    WIDTH="1218"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="54 730 52 683 422 675 423 675 480 677 687 683 1268 666 1270 714 1270 728 688 745 687 745 478 739 422 737 54 745"/></Shape>
+	    <String CONTENT="وهم غايبرا . هر چه حواس بيرونی در می یابند ، آن جمله را حس"
+                    HPOS="52"
+                    VPOS="666"
+                    WIDTH="1218"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33b754a7"
+                    
+                    BASELINE="52 811 1266 792" 
+                    HPOS="51"
+                    VPOS="752"
+                    WIDTH="1215"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="52 811 51 770 1264 752 1266 792 1266 807 52 825"/></Shape>
+	    <String CONTENT="مشترك در می يابد ، وآن جمله در حس مشترك جمع آند ، وحس"
+                    HPOS="51"
+                    VPOS="752"
+                    WIDTH="1215"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28a28e0a"
+                    
+                    BASELINE="42 884 990 884 1268 873" 
+                    HPOS="42"
+                    VPOS="831"
+                    WIDTH="1226"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="42 884 42 842 988 842 1266 831 1268 873 1268 891 990 902 990 902 42 902"/></Shape>
+	    <String CONTENT="مشتركرا از جهت اين حس مشترك گفته شد ، يعنی مسموعات"
+                    HPOS="42"
+                    VPOS="831"
+                    WIDTH="1226"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5e2a987"
+                    
+                    BASELINE="45 962 1271 953" 
+                    HPOS="43"
+                    VPOS="918"
+                    WIDTH="1228"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="45 962 43 927 1270 918 1271 953 1271 971 45 980"/></Shape>
+	    <String CONTENT=" ومبصرات ومشمومات ومذوقات وملموسات در حسه مشترك جمع اند ."
+                    HPOS="43"
+                    VPOS="918"
+                    WIDTH="1228"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9dc7cd52"
+                    
+                    BASELINE="49 1044 1268 1037" 
+                    HPOS="47"
+                    VPOS="1004"
+                    WIDTH="1221"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="49 1044 47 1011 1266 1004 1268 1037 1268 1053 49 1061"/></Shape>
+	    <String CONTENT="ووهم معنی دوستی را در دوست ومعنی دشمنی را در دشمن در می یابد ؛"
+                    HPOS="47"
+                    VPOS="1004"
+                    WIDTH="1221"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c3ffcd0"
+                    
+                    BASELINE="47 1123 1270 1108" 
+                    HPOS="45"
+                    VPOS="1068"
+                    WIDTH="1225"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="47 1123 45 1083 1268 1068 1270 1108 1270 1123 47 1138"/></Shape>
+	    <String CONTENT="ومتصرفه آن است که در مدرکاتی که مخزون اند در خیال تصرف"
+                    HPOS="45"
+                    VPOS="1068"
+                    WIDTH="1225"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3d6919a"
+                    
+                    BASELINE="789 1198 1357 1190" 
+                    HPOS="787"
+                    VPOS="1152"
+                    WIDTH="570"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="789 1198 787 1159 1355 1152 1357 1190 1357 1209 789 1216"/></Shape>
+	    <String CONTENT="14 می كند بتر كيب وتفصيل ."
+                    HPOS="787"
+                    VPOS="1152"
+                    WIDTH="570"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2faffafb"
+                    
+                    BASELINE="575 1329 763 1322" 
+                    HPOS="573"
+                    VPOS="1284"
+                    WIDTH="190"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="575 1329 573 1291 762 1284 763 1322 763 1338 575 1346"/></Shape>
+	    <String CONTENT="فصل هشته"
+                    HPOS="573"
+                    VPOS="1284"
+                    WIDTH="190"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a401043"
+                    
+                    BASELINE="484 1412 849 1412" 
+                    HPOS="484"
+                    VPOS="1373"
+                    WIDTH="365"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="484 1412 484 1373 849 1373 849 1412 849 1426 484 1426"/></Shape>
+	    <String CONTENT="در بيان قوةٔ محرکه"
+                    HPOS="484"
+                    VPOS="1373"
+                    WIDTH="365"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c9efab1"
+                    
+                    BASELINE="52 1505 546 1514 681 1505 1215 1503" 
+                    HPOS="51"
+                    VPOS="1455"
+                    WIDTH="1164"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="52 1505 52 1457 544 1466 677 1457 679 1457 1213 1455 1215 1503 1215 1521 681 1523 546 1532 544 1532 51 1523"/></Shape>
+	    <String CONTENT="(11) بدان که قوة محر که هم بر دو قسمت است ، باعثه"
+                    HPOS="51"
+                    VPOS="1455"
+                    WIDTH="1164"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd825d48"
+                    
+                    BASELINE="51 1592 1284 1576" 
+                    HPOS="49"
+                    VPOS="1534"
+                    WIDTH="1235"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="51 1592 49 1550 1282 1534 1284 1576 1284 1589 51 1605"/></Shape>
+	    <String CONTENT="وفاعله : باعثه آن است كه چون صورت مطلوب يا مهروب ، در خيال"
+                    HPOS="49"
+                    VPOS="1534"
+                    WIDTH="1235"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6c37bfc"
+                    
+                    BASELINE="51 1673 1286 1660" 
+                    HPOS="49"
+                    VPOS="1616"
+                    WIDTH="1237"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="51 1673 49 1629 1284 1616 1286 1660 1286 1673 51 1686"/></Shape>
+	    <String CONTENT="يدا آيید داعی وباعث قوة فاعله گردد بر تحریك . وقوة فاعلد آن"
+                    HPOS="49"
+                    VPOS="1616"
+                    WIDTH="1237"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a9ed444"
+                    
+                    BASELINE="62 1748 402 1753 1346 1737" 
+                    HPOS="60"
+                    VPOS="1693"
+                    WIDTH="1286"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="62 1748 62 1704 400 1709 1344 1693 1346 1737 1346 1751 402 1768 400 1768 60 1762"/></Shape>
+	    <String CONTENT="1 است كه محرك اعضاست ، وحركة اعضا از وى است . واين قوة فاعله"
+                    HPOS="60"
+                    VPOS="1693"
+                    WIDTH="1286"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0871ccb8"
+                    
+                    BASELINE="56 1832 1160 1826 1291 1817" 
+                    HPOS="54"
+                    VPOS="1777"
+                    WIDTH="1237"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="56 1832 54 1791 1158 1786 1288 1777 1291 1817 1291 1837 1160 1846 1160 1846 56 1852"/></Shape>
+	    <String CONTENT="مطيع وفرمان بردار قوة باعثه است وقوة باعثه كه داعى وباعث قوة"
+                    HPOS="54"
+                    VPOS="1777"
+                    WIDTH="1237"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_367977ab"
+                    
+                    BASELINE="54 1914 648 1914 1301 1896" 
+                    HPOS="54"
+                    VPOS="1855"
+                    WIDTH="1247"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="54 1914 54 1874 646 1874 1299 1855 1301 1896 1301 1910 648 1928 648 1930 54 1930"/></Shape>
+	    <String CONTENT="فاعله است بر تحريك ، از جهت دو غرض است : يا از جهت جذب"
+                    HPOS="54"
+                    VPOS="1855"
+                    WIDTH="1247"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a7d0e04"
+                    
+                    BASELINE="60 1994 732 1994 1390 1970" 
+                    HPOS="60"
+                    VPOS="1932"
+                    WIDTH="1330"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="60 1994 60 1956 730 1956 1388 1932 1390 1970 1390 1989 732 2012 732 2014 60 2014"/></Shape>
+	    <String CONTENT="41 منفعت وحصول لذت است ، ودرين مرتبه اورا قوة شهوانی می گویند :"
+                    HPOS="60"
+                    VPOS="1932"
+                    WIDTH="1330"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f82d6fd"
+                    
+                    BASELINE="1310 714 1339 712" 
+                    HPOS="1306"
+                    VPOS="677"
+                    WIDTH="33"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1310 714 1306 679 1335 677 1339 712 1339 723 1310 725"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1306"
+                    VPOS="677"
+                    WIDTH="33"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bfffb30d"
+                    
+                    BASELINE="495 221 783 215" 
+                    HPOS="493"
+                    VPOS="180"
+                    WIDTH="290"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="495 221 493 186 782 180 783 215 783 228 495 233"/></Shape>
+	    <String CONTENT="كتاب الانسان الكامل"
+                    HPOS="493"
+                    VPOS="180"
+                    WIDTH="290"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bf3748e"
+                    
+                    BASELINE="1313 949 1355 949" 
+                    HPOS="1313"
+                    VPOS="915"
+                    WIDTH="42"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1313 949 1313 915 1355 915 1355 949 1355 962 1313 962"/></Shape>
+	    <String CONTENT="5"
+                    HPOS="1313"
+                    VPOS="915"
+                    WIDTH="42"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9cf1573"
+                    
+                    BASELINE="1310 1501 1363 1505" 
+                    HPOS="1308"
+                    VPOS="1466"
+                    WIDTH="57"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1310 1501 1312 1466 1365 1470 1363 1505 1361 1516 1308 1512"/></Shape>
+	    <String CONTENT="15"
+                    HPOS="1308"
+                    VPOS="1466"
+                    WIDTH="57"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

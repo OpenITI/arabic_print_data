@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>MahastiGanjavi_Divan.pdf_page_4.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1310" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1311" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1312" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1313" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1314" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="610"
+                   VPOS="984"
+                   WIDTH="1407"
+                   HEIGHT="185"
+                   ID="eSc_textblock_08d39993"
+                   TAGREFS="BT1310">
+          <Shape><Polygon POINTS="2017 1169 2017 984 610 984 610 1169"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="332"
+                   VPOS="1200"
+                   WIDTH="1979"
+                   HEIGHT="2010"
+                   ID="eSc_textblock_9bf05993"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2311 3210 2311 1200 332 1200 332 3210"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="371"
+                   VPOS="3217"
+                   WIDTH="77"
+                   HEIGHT="93"
+                   ID="eSc_textblock_7d5c9c54"
+                   TAGREFS="BT1312">
+          <Shape><Polygon POINTS="448 3310 448 3217 371 3217 371 3310"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d351e830"
+                    
+                    BASELINE="353 1300 2060 1292" 
+                    HPOS="350"
+                    VPOS="1207"
+                    WIDTH="1710"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="353 1300 350 1216 2058 1207 2060 1292 2060 1318 353 1327"/></Shape>
+	    <String CONTENT="این نکته بنظر من بسی سزاوار تأمل است که با اینکه شعرای"
+                    HPOS="350"
+                    VPOS="1207"
+                    WIDTH="1710"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41c03ffe"
+                    
+                    BASELINE="359 1426 2250 1426" 
+                    HPOS="359"
+                    VPOS="1344"
+                    WIDTH="1891"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="359 1426 359 1344 2250 1344 2250 1426 2250 1455 359 1455"/></Shape>
+	    <String CONTENT="ایران از تمام گویند کان جهان عشق را بهتر بیان کرده و بزبان قلب از"
+                    HPOS="359"
+                    VPOS="1344"
+                    WIDTH="1891"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05126a17"
+                    
+                    BASELINE="353 1558 2250 1549" 
+                    HPOS="350"
+                    VPOS="1461"
+                    WIDTH="1900"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="353 1558 350 1470 2248 1461 2250 1549 2250 1578 353 1587"/></Shape>
+	    <String CONTENT="شعرای هر زیانی آشناتر بوده اند ، معذلك زند کانی عشقی خود ایشان"
+                    HPOS="350"
+                    VPOS="1461"
+                    WIDTH="1900"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_865fa396"
+                    
+                    BASELINE="350 1680 2245 1689" 
+                    HPOS="347"
+                    VPOS="1601"
+                    WIDTH="1898"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="350 1680 350 1601 2245 1610 2245 1689 2242 1715 347 1707"/></Shape>
+	    <String CONTENT="بقدری تاریك است که هر اندازه انسان در زوایای آن کنجکاوی کند"
+                    HPOS="347"
+                    VPOS="1601"
+                    WIDTH="1898"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c2fddae"
+                    
+                    BASELINE="356 1821 2224 1809" 
+                    HPOS="353"
+                    VPOS="1727"
+                    WIDTH="1871"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="356 1821 353 1739 2221 1727 2224 1809 2224 1838 356 1850"/></Shape>
+	    <String CONTENT="کهترین نوری بدیدهٔ او نمی تابد ، غزلهای سعدی و حافظ ودیگر بلبلان"
+                    HPOS="353"
+                    VPOS="1727"
+                    WIDTH="1871"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d9ec916"
+                    
+                    BASELINE="356 1944 2250 1938" 
+                    HPOS="353"
+                    VPOS="1862"
+                    WIDTH="1897"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="356 1944 353 1868 2248 1862 2250 1938 2250 1967 356 1973"/></Shape>
+	    <String CONTENT="داستان سرای بوستان عشق همه شهادت میدهند که این داستانسر ائیها"
+                    HPOS="353"
+                    VPOS="1862"
+                    WIDTH="1897"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05dc77d8"
+                    
+                    BASELINE="353 2078 2248 2072" 
+                    HPOS="350"
+                    VPOS="1993"
+                    WIDTH="1898"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="353 2078 350 1999 2245 1993 2248 2072 2248 2101 353 2107"/></Shape>
+	    <String CONTENT="بعشق گلی بوده و این عود های عطر آکین که فضای وجود را مشکبوی"
+                    HPOS="350"
+                    VPOS="1993"
+                    WIDTH="1898"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d479dee"
+                    
+                    BASELINE="353 2195 2218 2204" 
+                    HPOS="350"
+                    VPOS="2116"
+                    WIDTH="1868"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="353 2195 353 2116 2218 2125 2218 2204 2215 2236 350 2227"/></Shape>
+	    <String CONTENT="کردهاند قلبهای کداخته ای بودهاند که بر آتش محبت محبوبی سوخته اند"
+                    HPOS="350"
+                    VPOS="2116"
+                    WIDTH="1868"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83bf4f8d"
+                    
+                    BASELINE="353 2347 2250 2341" 
+                    HPOS="350"
+                    VPOS="2250"
+                    WIDTH="1900"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="353 2347 350 2256 2248 2250 2250 2341 2250 2362 353 2367"/></Shape>
+	    <String CONTENT="ولی این محبوبان کیان بوده اندو کسانیکه این آتش را در قلب این"
+                    HPOS="350"
+                    VPOS="2250"
+                    WIDTH="1900"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c2f12c6"
+                    
+                    BASELINE="353 2470 2250 2458" 
+                    HPOS="350"
+                    VPOS="2379"
+                    WIDTH="1900"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="353 2470 350 2391 2248 2379 2250 2458 2250 2493 353 2505"/></Shape>
+	    <String CONTENT="شعرا میافروختهاند چه کسانی بودهاند؟ هیچ معلوم نیست و گوئی ایرانیان"
+                    HPOS="350"
+                    VPOS="2379"
+                    WIDTH="1900"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce969eab"
+                    
+                    BASELINE="356 2587 2250 2595" 
+                    HPOS="353"
+                    VPOS="2519"
+                    WIDTH="1897"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="356 2587 356 2519 2250 2528 2250 2595 2248 2631 353 2622"/></Shape>
+	    <String CONTENT="در مساله عفت از تمام ملل متعصب تر بوده اند، بطوریکه اتصالر با"
+                    HPOS="353"
+                    VPOS="2519"
+                    WIDTH="1897"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4012bd3b"
+                    
+                    BASELINE="356 2718 2218 2730" 
+                    HPOS="353"
+                    VPOS="2642"
+                    WIDTH="1865"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="356 2718 356 2642 2218 2654 2218 2730 2215 2765 353 2753"/></Shape>
+	    <String CONTENT="کمترین چیزی که باناموس ایشان تماس داشته ننگ بزر گی میشمرده اند"
+                    HPOS="353"
+                    VPOS="2642"
+                    WIDTH="1865"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_258d4610"
+                    
+                    BASELINE="353 2850 2250 2861" 
+                    HPOS="350"
+                    VPOS="2783"
+                    WIDTH="1900"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="353 2850 353 2783 2250 2794 2250 2861 2248 2897 350 2885"/></Shape>
+	    <String CONTENT="و چون همیشه ناموس بدان طرف تعبیر میشده که معشوق قرار کرفته"
+                    HPOS="350"
+                    VPOS="2783"
+                    WIDTH="1900"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a7375da"
+                    
+                    BASELINE="353 2990 2239 2990" 
+                    HPOS="353"
+                    VPOS="2923"
+                    WIDTH="1886"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="353 2990 353 2923 2239 2923 2239 2990 2239 3028 353 3028"/></Shape>
+	    <String CONTENT="بودهاست، همیشه عاشق از افشای نام معشوق خویش خودداری میکرده است"
+                    HPOS="353"
+                    VPOS="2923"
+                    WIDTH="1886"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_621d9614"
+                    
+                    BASELINE="356 3130 2248 3119" 
+                    HPOS="353"
+                    VPOS="3043"
+                    WIDTH="1895"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="356 3130 353 3054 2245 3043 2248 3119 2248 3174 356 3186"/></Shape>
+	    <String CONTENT="شاید علت اینکه بیان عشق را بطور کلی جایز دانسته و از تعیین آن در"
+                    HPOS="353"
+                    VPOS="3043"
+                    WIDTH="1895"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0a301a3"
+                    
+                    BASELINE="622 1110 1976 1105" 
+                    HPOS="619"
+                    VPOS="1040"
+                    WIDTH="1357"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="622 1110 619 1046 1973 1040 1976 1105 1976 1148 622 1154"/></Shape>
+	    <String CONTENT="هقی لتتنك يز لتاح ا"
+                    HPOS="619"
+                    VPOS="1040"
+                    WIDTH="1357"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94c10b62"
+                    
+                    BASELINE="397 3277 426 3271" 
+                    HPOS="385"
+                    VPOS="3218"
+                    WIDTH="53"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="397 3277 385 3224 415 3218 426 3271 438 3335 409 3341"/></Shape>
+	    <String CONTENT=""
+                    HPOS="385"
+                    VPOS="3218"
+                    WIDTH="53"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

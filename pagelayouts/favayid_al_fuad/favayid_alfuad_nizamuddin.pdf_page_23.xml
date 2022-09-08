@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>favayid_alfuad_nizamuddin.pdf_page_23.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1117" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1118" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1119" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2086"
+          HEIGHT="2725"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2086"
+                  HEIGHT="2725">
+        
+        <TextBlock HPOS="159"
+                   VPOS="345"
+                   WIDTH="1524"
+                   HEIGHT="2214"
+                   ID="eSc_textblock_2df738fb"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="187 362 159 2555 1679 2559 1683 345"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="166"
+                   VPOS="196"
+                   WIDTH="266"
+                   HEIGHT="82"
+                   ID="eSc_textblock_cf7d3989"
+                   TAGREFS="BT1117">
+          <Shape><Polygon POINTS="166 196 166 278 432 278 432 196"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1548"
+                   VPOS="193"
+                   WIDTH="88"
+                   HEIGHT="85"
+                   ID="eSc_textblock_08eb4a04"
+                   TAGREFS="BT1118">
+          <Shape><Polygon POINTS="1548 193 1548 278 1636 278 1636 193"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

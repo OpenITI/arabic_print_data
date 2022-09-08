@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>MasumShirazi_-_TaraiqAlHaqayiq.pdf_page_29.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT926" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT927" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1468" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1469" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1470" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1636"
+                   VPOS="499"
+                   WIDTH="325"
+                   HEIGHT="93"
+                   ID="eSc_textblock_fae81110"
+                   TAGREFS="BT926">
+          <Shape><Polygon POINTS="1636 499 1636 592 1961 592 1961 499"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="265"
+                   VPOS="347"
+                   WIDTH="358"
+                   HEIGHT="86"
+                   ID="eSc_textblock_9739998d"
+                   TAGREFS="BT926">
+          <Shape><Polygon POINTS="265 347 265 433 623 433 623 347"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="199"
+                   VPOS="453"
+                   WIDTH="1801"
+                   HEIGHT="2669"
+                   ID="eSc_textblock_c3a931ec"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2000 3122 2000 625 1537 625 1524 453 199 466 199 3122"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1868"
+                   VPOS="353"
+                   WIDTH="93"
+                   HEIGHT="80"
+                   ID="eSc_textblock_42fbe5b8"
+                   TAGREFS="BT927">
+          <Shape><Polygon POINTS="1868 353 1868 433 1961 433 1961 353"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_045d0d11"
+                    
+                    BASELINE="271 420 637 406" 
+                    HPOS="268"
+                    VPOS="397"
+                    WIDTH="369"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="271 420 268 412 634 397 637 406 637 435 271 450"/></Shape>
+	    <String CONTENT=" "
+                    HPOS="268"
+                    VPOS="397"
+                    WIDTH="369"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85e171bc"
+                    
+                    BASELINE="1648 558 1938 552" 
+                    HPOS="1645"
+                    VPOS="499"
+                    WIDTH="293"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1648 558 1645 505 1935 499 1938 552 1938 593 1648 599"/></Shape>
+	    <String CONTENT="تقسيمات علم"
+                    HPOS="1645"
+                    VPOS="499"
+                    WIDTH="293"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eef4cca6"
+                    
+                    BASELINE="268 526 494 514 1487 514" 
+                    HPOS="266"
+                    VPOS="464"
+                    WIDTH="1221"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="268 526 266 476 491 464 494 464 1487 464 1487 514 1487 543 494 543 268 552"/></Shape>
+	    <String CONTENT="ققههٔ علمرا تقسیماتی نمودهاند واز آنجمله نقسیم اواست بحصولی"
+                    HPOS="266"
+                    VPOS="464"
+                    WIDTH="1221"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0cb630d"
+                    
+                    BASELINE="1280 602 1479 596" 
+                    HPOS="1277"
+                    VPOS="540"
+                    WIDTH="202"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1280 602 1277 546 1476 540 1479 596 1479 619 1280 625"/></Shape>
+	    <String CONTENT="وحضوری"
+                    HPOS="1277"
+                    VPOS="540"
+                    WIDTH="202"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e68c88b0"
+                    
+                    BASELINE="268 684 1800 678" 
+                    HPOS="266"
+                    VPOS="608"
+                    WIDTH="1534"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="268 684 266 613 1797 608 1800 678 1800 704 268 710"/></Shape>
+	    <String CONTENT="علم حصولی که اورا نیزار تسامی خوانند عبارت از حصول صورت شیئی است نزدم جرد"
+                    HPOS="266"
+                    VPOS="608"
+                    WIDTH="1534"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72cd5743"
+                    
+                    BASELINE="268 771 1944 771" 
+                    HPOS="268"
+                    VPOS="713"
+                    WIDTH="1676"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="268 771 268 713 1944 713 1944 771 1944 795 268 795"/></Shape>
+	    <String CONTENT="واین قسم ازعلم لایداست ازانطباع درم حل مجرد قایل بنحومثال چون علم نفس بشمس و"
+                    HPOS="268"
+                    VPOS="713"
+                    WIDTH="1676"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cb1a1f6"
+                    
+                    BASELINE="266 853 1944 847" 
+                    HPOS="263"
+                    VPOS="792"
+                    WIDTH="1681"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="266 853 263 798 1941 792 1944 847 1944 871 266 877"/></Shape>
+	    <String CONTENT="قمر وحجر وندر ونحوذلك که صوراینها در نفس بانطباع حاصل میشود نه اعیان آنها و"
+                    HPOS="263"
+                    VPOS="792"
+                    WIDTH="1681"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e1b03ce"
+                    
+                    BASELINE="268 944 1923 926" 
+                    HPOS="266"
+                    VPOS="859"
+                    WIDTH="1657"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="268 944 266 877 1920 859 1923 926 1923 947 268 964"/></Shape>
+	    <String CONTENT="حکمای معاء مطلاق علم بغیررا علم حصولی نامند حتی آنکه گفته اند علم خداوند بغیر بیش"
+                    HPOS="266"
+                    VPOS="859"
+                    WIDTH="1657"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29400637"
+                    
+                    BASELINE="485 1020 1944 1014" 
+                    HPOS="482"
+                    VPOS="955"
+                    WIDTH="1462"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="485 1020 482 961 1941 955 1944 1014 1944 1040 485 1046"/></Shape>
+	    <String CONTENT="ازایجاد آنها حصولی ارتسامی است و فاریابی و شیخ و بهمنیار بر این قول رفته اند"
+                    HPOS="482"
+                    VPOS="955"
+                    WIDTH="1462"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e079cbb3"
+                    
+                    BASELINE="268 1099 1809 1093" 
+                    HPOS="266"
+                    VPOS="1029"
+                    WIDTH="1543"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="268 1099 266 1034 1806 1029 1809 1093 1809 1116 268 1122"/></Shape>
+	    <String CONTENT="وتعالی عرذلك علوأکبیراً وفی کثاب التوحید من الکافی باسناده عن محمد بن"
+                    HPOS="266"
+                    VPOS="1029"
+                    WIDTH="1543"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf69181f"
+                    
+                    BASELINE="263 1178 1932 1178" 
+                    HPOS="263"
+                    VPOS="1116"
+                    WIDTH="1669"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="263 1178 263 1116 1932 1116 1932 1178 1932 1204 263 1204"/></Shape>
+	    <String CONTENT="لم عن ای جعفر علیهما السلاء قال سمعته یقول کان الله ولاشینی غیره وام یزل عمالهاً"
+                    HPOS="263"
+                    VPOS="1116"
+                    WIDTH="1669"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_052989a3"
+                    
+                    BASELINE="263 1262 1932 1257" 
+                    HPOS="260"
+                    VPOS="1195"
+                    WIDTH="1672"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="263 1262 260 1201 1929 1195 1932 1257 1932 1283 263 1289"/></Shape>
+	    <String CONTENT="بمایکون فعلمه به قبل کونه کعلهه به بعد کونه وفیه ایضاً لم یزل الله عالما بالاشیاء"
+                    HPOS="260"
+                    VPOS="1195"
+                    WIDTH="1672"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e7e5b51"
+                    
+                    BASELINE="266 1347 1935 1347" 
+                    HPOS="266"
+                    VPOS="1289"
+                    WIDTH="1669"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="266 1347 266 1289 1935 1289 1935 1347 1935 1371 266 1371"/></Shape>
+	    <String CONTENT="قبل ان يخلق الاشياء كعلمه بالاشياء بعد ماخلمق الاشياءع تفصيل اين اجمال بنحو"
+                    HPOS="266"
+                    VPOS="1289"
+                    WIDTH="1669"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e282781d"
+                    
+                    BASELINE="266 1426 1932 1420" 
+                    HPOS="263"
+                    VPOS="1362"
+                    WIDTH="1669"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="266 1426 263 1368 1929 1362 1932 1420 1932 1444 266 1449"/></Shape>
+	    <String CONTENT="اختصارآنکه حضرت غیب الغیوب علمش بذات مقدس بذانه لذاته است ولایزید علی ذاته بلکه"
+                    HPOS="263"
+                    VPOS="1362"
+                    WIDTH="1669"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee397ed4"
+                    
+                    BASELINE="271 1517 1932 1502" 
+                    HPOS="268"
+                    VPOS="1438"
+                    WIDTH="1664"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="271 1517 268 1452 1929 1438 1932 1502 1932 1523 271 1537"/></Shape>
+	    <String CONTENT="تمام صفاع دانیه عین دات اواست چه بگویند علم چه بگویندذات و قدرت وحیات و اما علم بغیر"
+                    HPOS="268"
+                    VPOS="1438"
+                    WIDTH="1664"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08620cd0"
+                    
+                    BASELINE="263 1593 1935 1587" 
+                    HPOS="260"
+                    VPOS="1528"
+                    WIDTH="1675"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="263 1593 260 1534 1932 1528 1935 1587 1935 1613 263 1619"/></Shape>
+	    <String CONTENT="دایه و بعاسواه و بالجز نیات و المادیات اقوال بسیارست حتی بعضی منکرندعلم اورا بمحسوسات"
+                    HPOS="260"
+                    VPOS="1528"
+                    WIDTH="1675"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9fb96f35"
+                    
+                    BASELINE="263 1677 1935 1677" 
+                    HPOS="263"
+                    VPOS="1625"
+                    WIDTH="1672"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="263 1677 263 1625 1935 1625 1935 1677 1935 1704 263 1704"/></Shape>
+	    <String CONTENT="زیراکه جزنیات تغییرمی بایند ولازممی آید تغییر درعلم واجب خلاصه درعلم حق بماسواه"
+                    HPOS="263"
+                    VPOS="1625"
+                    WIDTH="1672"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67a93801"
+                    
+                    BASELINE="260 1765 1935 1756" 
+                    HPOS="257"
+                    VPOS="1698"
+                    WIDTH="1678"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="260 1765 257 1707 1932 1698 1935 1756 1935 1780 260 1789"/></Shape>
+	    <String CONTENT="قریب بده قول است یکی مذ کورشد که مشانٔیان و من تا بعهم گفته اند و چون نقل اقوال وردو قبول"
+                    HPOS="257"
+                    VPOS="1698"
+                    WIDTH="1678"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_693d7f9c"
+                    
+                    BASELINE="257 1844 1929 1844" 
+                    HPOS="257"
+                    VPOS="1789"
+                    WIDTH="1672"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="257 1844 257 1789 1929 1789 1929 1844 1929 1870 257 1870"/></Shape>
+	    <String CONTENT="آنها بطول میانجامدمناسب آنست که آنچه اقرب بصواب و انکشاف از برهان وموافق کلام امناع"
+                    HPOS="257"
+                    VPOS="1789"
+                    WIDTH="1672"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7936e171"
+                    
+                    BASELINE="260 1926 1932 1920" 
+                    HPOS="257"
+                    VPOS="1865"
+                    WIDTH="1675"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="260 1926 257 1870 1929 1865 1932 1920 1932 1944 260 1949"/></Shape>
+	    <String CONTENT="رحمن است ذکرشود پس گوئیم حضرت اول لا یعلم الاشیاءمن الاشیاء تا آنکه لازم بیاید تغییر در"
+                    HPOS="257"
+                    VPOS="1865"
+                    WIDTH="1675"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96aa01eb"
+                    
+                    BASELINE="260 2008 1935 2008" 
+                    HPOS="260"
+                    VPOS="1955"
+                    WIDTH="1675"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="260 2008 260 1955 1935 1955 1935 2008 1935 2034 260 2034"/></Shape>
+	    <String CONTENT="علم حق چنانکه مکن است مثلا علمما پیش ازوجود زید آنست که زید معدوم است و هر گاه"
+                    HPOS="260"
+                    VPOS="1955"
+                    WIDTH="1675"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85406152"
+                    
+                    BASELINE="257 2093 1926 2087" 
+                    HPOS="254"
+                    VPOS="2031"
+                    WIDTH="1672"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="257 2093 254 2037 1923 2031 1926 2087 1926 2113 257 2119"/></Shape>
+	    <String CONTENT="بوجود آمد علم داریم بوجود زید وچون معدوم شود بعد ازوجود علم داریم بعدم او بعد از"
+                    HPOS="254"
+                    VPOS="2031"
+                    WIDTH="1672"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a02ec1bd"
+                    
+                    BASELINE="263 2174 1944 2174" 
+                    HPOS="263"
+                    VPOS="2119"
+                    WIDTH="1681"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="263 2174 263 2119 1944 2119 1944 2174 1944 2198 263 2198"/></Shape>
+	    <String CONTENT="وجودش پس تغییر درعلمما حاصل شد بواسطۀ تغییردر معلوم ومنشاء این تغییر بودن علمم ما"
+                    HPOS="263"
+                    VPOS="2119"
+                    WIDTH="1681"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd78becb"
+                    
+                    BASELINE="254 2268 1938 2250" 
+                    HPOS="251"
+                    VPOS="2186"
+                    WIDTH="1687"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="254 2268 251 2204 1935 2186 1938 2250 1938 2274 254 2291"/></Shape>
+	    <String CONTENT="است زمانی ومستفاد از صور معلومات واما اول جل برهانه یعلم من ذاته کل شیئی کلی و جزئی"
+                    HPOS="251"
+                    VPOS="2186"
+                    WIDTH="1687"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6cd56bb4"
+                    
+                    BASELINE="257 2353 502 2338 1944 2332" 
+                    HPOS="251"
+                    VPOS="2271"
+                    WIDTH="1693"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="257 2353 251 2291 496 2277 499 2277 1941 2271 1944 2332 1944 2362 502 2367 257 2382"/></Shape>
+	    <String CONTENT="زیرا که علم او بذاتٔش علم اواست بسبدئیت او بنفس ذاتش وذاتش درمرتبهٔ ذات مظهر جمیع"
+                    HPOS="251"
+                    VPOS="2271"
+                    WIDTH="1693"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d59f43b5"
+                    
+                    BASELINE="254 2420 1938 2411" 
+                    HPOS="251"
+                    VPOS="2362"
+                    WIDTH="1687"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="254 2420 251 2370 1935 2362 1938 2411 1938 2432 254 2440"/></Shape>
+	    <String CONTENT="صفات واسماء ومجلای صور جمیم ممکناتست وماضی وحال واستقبال نزداو یکسان است"
+                    HPOS="251"
+                    VPOS="2362"
+                    WIDTH="1687"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c38880ef"
+                    
+                    BASELINE="260 2508 1941 2496" 
+                    HPOS="257"
+                    VPOS="2440"
+                    WIDTH="1684"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="260 2508 257 2452 1938 2440 1941 2496 1941 2522 260 2534"/></Shape>
+	    <String CONTENT="ماعند کم ینفد وماعند الله باق ولایعزب عن ربك من مثقال ذرة فی الارض ولا"
+                    HPOS="257"
+                    VPOS="2440"
+                    WIDTH="1684"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77ef5461"
+                    
+                    BASELINE="254 2592 1631 2592 1944 2578" 
+                    HPOS="254"
+                    VPOS="2525"
+                    WIDTH="1690"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="254 2592 254 2540 1628 2540 1941 2525 1944 2578 1944 2607 1631 2622 1631 2622 254 2622"/></Shape>
+	    <String CONTENT="فی السماء پس بوجود اشیاءزیادی نشود علمی که درذاتش نبوده وظاهر کردیده باین"
+                    HPOS="254"
+                    VPOS="2525"
+                    WIDTH="1690"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aaa4e362"
+                    
+                    BASELINE="257 2674 1929 2666" 
+                    HPOS="254"
+                    VPOS="2610"
+                    WIDTH="1675"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="257 2674 254 2619 1926 2610 1929 2666 1929 2692 257 2701"/></Shape>
+	    <String CONTENT="بيان فرمايش معصوم اميزل الله عالعاً بالاشياء قبل ان يخلق الاشياء كعلمه"
+                    HPOS="254"
+                    VPOS="2610"
+                    WIDTH="1675"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd288662"
+                    
+                    BASELINE="254 2759 1938 2745" 
+                    HPOS="251"
+                    VPOS="2695"
+                    WIDTH="1687"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="254 2759 251 2709 1935 2695 1938 2745 1938 2774 254 2788"/></Shape>
+	    <String CONTENT="بالاشیاع بعد ماخلق الاشیاء وبعبارت دیگر وجود اشیاء عين علم حق است باشیاء و"
+                    HPOS="251"
+                    VPOS="2695"
+                    WIDTH="1687"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1ae7eec"
+                    
+                    BASELINE="257 2847 1941 2835" 
+                    HPOS="254"
+                    VPOS="2777"
+                    WIDTH="1687"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="257 2847 254 2788 1938 2777 1941 2835 1941 2856 257 2867"/></Shape>
+	    <String CONTENT="علماو بجرنیات مادیه عین ایجاد اواست آنهارا و آنچه درشواهد مذکوراست از برای حق"
+                    HPOS="254"
+                    VPOS="2777"
+                    WIDTH="1687"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a25ad6ec"
+                    
+                    BASELINE="260 2929 1941 2917" 
+                    HPOS="257"
+                    VPOS="2861"
+                    WIDTH="1684"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="260 2929 257 2873 1938 2861 1941 2917 1941 2937 260 2949"/></Shape>
+	    <String CONTENT="دو علمست بکی علمیست که تایع معلوم است و علمی است که مقدم بر معلوم است خلاف نص"
+                    HPOS="257"
+                    VPOS="2861"
+                    WIDTH="1684"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0b461fe"
+                    
+                    BASELINE="257 2996 1944 2990" 
+                    HPOS="254"
+                    VPOS="2841"
+                    WIDTH="1690"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="257 2996 254 2847 1941 2841 1944 2990 1944 3031 257 3037"/></Shape>
+	    <String CONTENT="  اا و  ا ا اا اوو ت ال وع"
+                    HPOS="254"
+                    VPOS="2841"
+                    WIDTH="1690"
+                    HEIGHT="196"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>farhadnamah_arifardabili.pdf_page_21.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1105" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1106" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1107" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2096"
+          HEIGHT="2752"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2096"
+                  HEIGHT="2752">
+        
+        <TextBlock HPOS="402"
+                   VPOS="468"
+                   WIDTH="1330"
+                   HEIGHT="928"
+                   ID="eSc_textblock_1b1a9e15"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="402 468 402 1396 1732 1396 1732 468"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="411"
+                   VPOS="361"
+                   WIDTH="316"
+                   HEIGHT="90"
+                   ID="eSc_textblock_18539153"
+                   TAGREFS="BT1105">
+          <Shape><Polygon POINTS="411 361 411 451 727 451 727 361"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1544"
+                   VPOS="383"
+                   WIDTH="188"
+                   HEIGHT="72"
+                   ID="eSc_textblock_fbd27a9d"
+                   TAGREFS="BT1107">
+          <Shape><Polygon POINTS="1544 383 1544 455 1732 455 1732 383"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="394"
+                   VPOS="1414"
+                   WIDTH="1317"
+                   HEIGHT="1039"
+                   ID="eSc_textblock_0cc03fae"
+                   TAGREFS="BT1106">
+          <Shape><Polygon POINTS="394 1414 394 2453 1707 2453 1711 1414"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

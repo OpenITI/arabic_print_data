@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FaniKishmiri_Akhlaq_Alam_Ara.pdf_page_11.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1142" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1143" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1144" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1065"
+                   VPOS="333"
+                   WIDTH="108"
+                   HEIGHT="83"
+                   ID="eSc_textblock_b6aed656"
+                   TAGREFS="BT1144">
+          <Shape><Polygon POINTS="1065 333 1065 416 1173 416 1173 333"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="301"
+                   VPOS="406"
+                   WIDTH="1680"
+                   HEIGHT="1400"
+                   ID="eSc_textblock_fd31aa4a"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="301 471 301 1806 1981 1806 1952 406"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

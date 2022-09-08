@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>rasail_javanmardi.pdf_page_37.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1380" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1381" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1382" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1383" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1384" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2034"
+          HEIGHT="2820"
+          PHYSICAL_IMG_NR="36"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2034"
+                  HEIGHT="2820">
+        
+        <TextBlock HPOS="681"
+                   VPOS="324"
+                   WIDTH="328"
+                   HEIGHT="66"
+                   ID="eSc_textblock_8515cc46"
+                   TAGREFS="BT1380">
+          <Shape><Polygon POINTS="681 324 681 390 1009 390 1009 324"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="586"
+                   VPOS="624"
+                   WIDTH="571"
+                   HEIGHT="242"
+                   ID="eSc_textblock_71f1fdf4"
+                   TAGREFS="BT1380">
+          <Shape><Polygon POINTS="1157 866 1157 624 586 624 586 866"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1562"
+                   VPOS="328"
+                   WIDTH="57"
+                   HEIGHT="48"
+                   ID="eSc_textblock_b89d9111"
+                   TAGREFS="BT1382">
+          <Shape><Polygon POINTS="1562 328 1562 376 1619 376 1619 328"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="86"
+                   VPOS="909"
+                   WIDTH="1528"
+                   HEIGHT="1552"
+                   ID="eSc_textblock_0356e960"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="86 909 86 2461 1614 2461 1614 909"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="67"
+                   VPOS="2499"
+                   WIDTH="1585"
+                   HEIGHT="119"
+                   ID="eSc_textblock_56f0e74c"
+                   TAGREFS="BT1384">
+          <Shape><Polygon POINTS="1652 2499 1652 2618 67 2618 67 2499"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_172af51e"
+                    
+                    BASELINE="1549 366 1589 366" 
+                    HPOS="1549"
+                    VPOS="324"
+                    WIDTH="40"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1549 366 1549 324 1589 324 1589 366 1589 383 1549 383"/></Shape>
+	    <String CONTENT="8"
+                    HPOS="1549"
+                    VPOS="324"
+                    WIDTH="40"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c08ecc75"
+                    
+                    BASELINE="115 975 1486 987" 
+                    HPOS="112"
+                    VPOS="925"
+                    WIDTH="1374"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="115 975 115 925 1486 937 1486 987 1483 1008 112 996"/></Shape>
+	    <String CONTENT="(9) چون مقرر شد كه فتوت مبنى و اساس ولايت و مبدأ و قاعدهٔ آن ،"
+                    HPOS="112"
+                    VPOS="925"
+                    WIDTH="1374"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1aac943c"
+                    
+                    BASELINE="112 1066 1241 1071 1589 1085" 
+                    HPOS="110"
+                    VPOS="1017"
+                    WIDTH="1479"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="112 1066 112 1017 1241 1022 1241 1022 1589 1036 1589 1085 1587 1106 1239 1092 110 1088"/></Shape>
+	    <String CONTENT="يس هر كجا ولايت ظاهر شود ، فتوت كمال یافته چه نهایت فتوت بدایت"
+                    HPOS="110"
+                    VPOS="1017"
+                    WIDTH="1479"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8bc86fc1"
+                    
+                    BASELINE="110 1165 1594 1160" 
+                    HPOS="108"
+                    VPOS="1109"
+                    WIDTH="1486"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="110 1165 108 1113 1591 1109 1594 1160 1594 1179 110 1184"/></Shape>
+	    <String CONTENT="ولایت تواند بود ، چنانکه نهایت مروت بدایت فتوت است ، از بهر آنك طریق"
+                    HPOS="108"
+                    VPOS="1109"
+                    WIDTH="1486"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b7c9a24"
+                    
+                    BASELINE="110 1250 1631 1257" 
+                    HPOS="108"
+                    VPOS="1200"
+                    WIDTH="1523"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="110 1250 110 1200 1631 1207 1631 1257 1629 1266 108 1259"/></Shape>
+	    <String CONTENT=" ولايت اخلاق ومعاملات و احوال و مكاشفات و علوم ومشاهداتست ، و منتهى"
+                    HPOS="108"
+                    VPOS="1200"
+                    WIDTH="1523"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6955a7c8"
+                    
+                    BASELINE="110 1332 536 1344 1591 1339" 
+                    HPOS="108"
+                    VPOS="1283"
+                    WIDTH="1483"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="110 1332 110 1283 536 1294 1589 1290 1591 1339 1591 1355 536 1360 533 1360 108 1348"/></Shape>
+	    <String CONTENT="شود بفناء خليقت در عين حقيقت ، و طريق فتوت مجرد اخلاق و معاملات ،"
+                    HPOS="108"
+                    VPOS="1283"
+                    WIDTH="1483"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12a55b57"
+                    
+                    BASELINE="112 1426 406 1438 1598 1438" 
+                    HPOS="110"
+                    VPOS="1374"
+                    WIDTH="1488"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="112 1426 112 1374 406 1386 1598 1386 1598 1438 1598 1457 406 1457 404 1457 110 1445"/></Shape>
+	    <String CONTENT="و منتهی شود بخلاص فطرت از قيد جبلت . وچون فطرت از شوائب نشأت"
+                    HPOS="110"
+                    VPOS="1374"
+                    WIDTH="1488"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a028f1b3"
+                    
+                    BASELINE="112 1525 1646 1534" 
+                    HPOS="110"
+                    VPOS="1478"
+                    WIDTH="1536"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="112 1525 112 1478 1646 1487 1646 1534 1643 1555 110 1546"/></Shape>
+	    <String CONTENT=" خالص گشت ، مقصود بحصول پیوست چه فضائل همه لوازم ذاتی فطرت انسانی اند،"
+                    HPOS="110"
+                    VPOS="1478"
+                    WIDTH="1536"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11ebd511"
+                    
+                    BASELINE="108 1623 1596 1623" 
+                    HPOS="108"
+                    VPOS="1574"
+                    WIDTH="1488"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="108 1623 108 1574 1596 1574 1596 1623 1596 1642 108 1642"/></Shape>
+	    <String CONTENT="و رذایل امور چند غریب عارضی بواسطهٔ غواشی طبیعی طاری گشته ، واز این"
+                    HPOS="108"
+                    VPOS="1574"
+                    WIDTH="1488"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_86192e0a"
+                    
+                    BASELINE="580 1708 1594 1715" 
+                    HPOS="578"
+                    VPOS="1666"
+                    WIDTH="1016"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="580 1708 580 1666 1594 1673 1594 1715 1591 1736 578 1729"/></Shape>
+	    <String CONTENT="جهت فرمود : &quot;لها ما كسبت و عليها ما اكتسبت &quot;."
+                    HPOS="578"
+                    VPOS="1666"
+                    WIDTH="1016"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4840178b"
+                    
+                    BASELINE="103 1823 1474 1818" 
+                    HPOS="101"
+                    VPOS="1769"
+                    WIDTH="1373"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="103 1823 101 1774 1472 1769 1474 1818 1474 1833 103 1837"/></Shape>
+	    <String CONTENT="(10) چه فرق میان کسب و اکتساب آنست که اکتساب تحصیل چیزی"
+                    HPOS="101"
+                    VPOS="1769"
+                    WIDTH="1373"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be08dd3d"
+                    
+                    BASELINE="103 1901 569 1917 780 1908 1584 1912" 
+                    HPOS="101"
+                    VPOS="1847"
+                    WIDTH="1483"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="103 1901 103 1847 566 1863 775 1854 780 1854 1584 1858 1584 1912 1582 1934 780 1929 569 1938 566 1938 101 1922"/></Shape>
+	    <String CONTENT="بود بقصد و نیت جهت خود ، و کسب تحصيل آن بهر طریق که اتفاق افتد ،"
+                    HPOS="101"
+                    VPOS="1847"
+                    WIDTH="1483"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8fae27ef"
+                    
+                    BASELINE="103 1992 1589 1997" 
+                    HPOS="101"
+                    VPOS="1943"
+                    WIDTH="1488"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="103 1992 103 1943 1589 1948 1589 1997 1587 2018 101 2013"/></Shape>
+	    <String CONTENT="واز آن روی که خيرات و کمالات مقتضیات و لوازم این فطرتند ، بهر طریق که"
+                    HPOS="101"
+                    VPOS="1943"
+                    WIDTH="1488"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e76a9fc"
+                    
+                    BASELINE="101 2089 1321 2086 1648 2100" 
+                    HPOS="98"
+                    VPOS="2035"
+                    WIDTH="1550"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="101 2089 98 2037 1319 2035 1321 2035 1648 2049 1648 2100 1646 2119 1319 2105 101 2107"/></Shape>
+	    <String CONTENT="1 بعضى از آن حاصل شود، ثواب و نفع آن ويرا باشد . چه در او پنهان بود"
+                    HPOS="98"
+                    VPOS="2035"
+                    WIDTH="1550"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ef6b247"
+                    
+                    BASELINE="94 2169 514 2180 1589 2169" 
+                    HPOS="91"
+                    VPOS="2117"
+                    WIDTH="1498"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="94 2169 94 2117 514 2129 1587 2117 1589 2169 1589 2192 514 2204 512 2204 91 2192"/></Shape>
+	    <String CONTENT="ظاهر شد ، هر آینه اثر آن با او باشد و شرور عوارضی چند غریبند ازو ، بعید"
+                    HPOS="91"
+                    VPOS="2117"
+                    WIDTH="1498"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_438ef64c"
+                    
+                    BASELINE="96 2267 1591 2260" 
+                    HPOS="94"
+                    VPOS="2216"
+                    WIDTH="1497"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="96 2267 94 2223 1589 2216 1591 2260 1591 2279 96 2286"/></Shape>
+	    <String CONTENT="از عالم او، چون مباعدت ميان نور و ظلمت از عالم نفس و معدن رجس بدو"
+                    HPOS="94"
+                    VPOS="2216"
+                    WIDTH="1497"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_441ad0c1"
+                    
+                    BASELINE="89 2345 519 2359 1542 2357 1653 2366" 
+                    HPOS="87"
+                    VPOS="2291"
+                    WIDTH="1568"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="89 2345 89 2291 519 2305 1036 2303 1540 2303 1544 2303 1655 2312 1653 2366 1650 2389 1540 2380 1044 2382 519 2382 517 2382 87 2368"/></Shape>
+	    <String CONTENT="1 متصاعد گشته ، پس وبال وتبعۀ آن لاحق او نشود مادام تا راسخ و متراکم نگشته"
+                    HPOS="87"
+                    VPOS="2291"
+                    WIDTH="1568"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c555eafc"
+                    
+                    BASELINE="91 2436 1006 2455 1573 2444" 
+                    HPOS="89"
+                    VPOS="2382"
+                    WIDTH="1484"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="91 2436 91 2382 1004 2401 1570 2389 1573 2444 1573 2469 1006 2481 1004 2481 89 2462"/></Shape>
+	    <String CONTENT="باشد ، و رسوخ وتراکم وقتی بثبوت رسد که بقصد و نیت متوجه آن گشته باشد،"
+                    HPOS="89"
+                    VPOS="2382"
+                    WIDTH="1484"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0569f752"
+                    
+                    BASELINE="1594 987 1650 982" 
+                    HPOS="1589"
+                    VPOS="944"
+                    WIDTH="61"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1594 987 1589 949 1646 944 1650 982 1650 998 1594 1003"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1589"
+                    VPOS="944"
+                    WIDTH="61"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a72f435"
+                    
+                    BASELINE="684 373 1001 373" 
+                    HPOS="684"
+                    VPOS="324"
+                    WIDTH="317"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="684 373 684 324 1001 324 1001 373 1001 390 684 390"/></Shape>
+	    <String CONTENT="رسایل جوانمردان"
+                    HPOS="684"
+                    VPOS="324"
+                    WIDTH="317"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69e7fa40"
+                    
+                    BASELINE="768 674 968 667" 
+                    HPOS="766"
+                    VPOS="618"
+                    WIDTH="202"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="768 674 766 625 966 618 968 667 968 686 768 693"/></Shape>
+	    <String CONTENT="فصل دوم"
+                    HPOS="766"
+                    VPOS="618"
+                    WIDTH="202"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0084735"
+                    
+                    BASELINE="604 829 1121 824" 
+                    HPOS="601"
+                    VPOS="775"
+                    WIDTH="520"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="604 829 601 780 1119 775 1121 824 1121 843 604 848"/></Shape>
+	    <String CONTENT="در بیان منبع ومظهر آن"
+                    HPOS="601"
+                    VPOS="775"
+                    WIDTH="520"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_815ce7a9"
+                    
+                    BASELINE="1613 1821 1683 1830" 
+                    HPOS="1608"
+                    VPOS="1776"
+                    WIDTH="80"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1613 1821 1617 1776 1688 1786 1683 1830 1678 1849 1608 1840"/></Shape>
+	    <String CONTENT="12"
+                    HPOS="1608"
+                    VPOS="1776"
+                    WIDTH="80"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ddd3dd27"
+                    
+                    BASELINE="895 2585 1192 2587" 
+                    HPOS="893"
+                    VPOS="2528"
+                    WIDTH="299"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="895 2585 895 2528 1192 2530 1192 2587 1189 2599 893 2596"/></Shape>
+	    <String CONTENT="البقرة) آيةٔ 134"
+                    HPOS="893"
+                    VPOS="2528"
+                    WIDTH="299"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

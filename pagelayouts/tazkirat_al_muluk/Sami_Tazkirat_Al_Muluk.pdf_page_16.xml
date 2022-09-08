@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Sami_Tazkirat_Al_Muluk.pdf_page_16.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1481" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1482" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1483" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1484" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1485" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="821"
+                   VPOS="2460"
+                   WIDTH="981"
+                   HEIGHT="238"
+                   ID="eSc_textblock_9c3c8404"
+                   TAGREFS="BT1481">
+          <Shape><Polygon POINTS="1802 2698 1802 2460 821 2460 821 2698"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="285"
+                   VPOS="2711"
+                   WIDTH="2080"
+                   HEIGHT="537"
+                   ID="eSc_textblock_d43ec890"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2365 3248 2365 2711 285 2711 285 3248"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="272"
+                   VPOS="307"
+                   WIDTH="2099"
+                   HEIGHT="2146"
+                   ID="eSc_textblock_72d6bb69"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2371 2453 2371 307 272 307 272 2453"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1258"
+                   VPOS="174"
+                   WIDTH="186"
+                   HEIGHT="93"
+                   ID="eSc_textblock_9dda3115"
+                   TAGREFS="BT1485">
+          <Shape><Polygon POINTS="1258 174 1258 267 1444 267 1444 174"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_644e36d1"
+                    
+                    BASELINE="342 394 803 409 2338 403" 
+                    HPOS="339"
+                    VPOS="312"
+                    WIDTH="1999"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="342 394 342 312 803 327 2335 321 2338 403 2338 438 803 444 800 444 339 429"/></Shape>
+	    <String CONTENT="است که باعتبار اسلام، اعز ازوالی گرجستان است. وولات گرجستانات متعلفه بایران"
+                    HPOS="339"
+                    VPOS="312"
+                    WIDTH="1999"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0e70538"
+                    
+                    BASELINE="339 537 2321 532" 
+                    HPOS="336"
+                    VPOS="456"
+                    WIDTH="1985"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="339 537 336 461 2318 456 2321 532 2321 555 339 561"/></Shape>
+	    <String CONTENT="گرجستان کارنیل و کاخت و تفلیس است و بعد از مرتبهٔ و الی گرجستان والی کردستانست"
+                    HPOS="336"
+                    VPOS="456"
+                    WIDTH="1985"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84f9b273"
+                    
+                    BASELINE="342 643 827 654 1046 643 2324 643" 
+                    HPOS="339"
+                    VPOS="567"
+                    WIDTH="1985"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="342 643 342 567 824 578 1040 567 1043 567 1046 567 2324 567 2324 643 2324 675 1046 675 827 684 824 684 339 672"/></Shape>
+	    <String CONTENT="که سنندج محل سکنای ایشان میباشد- و بعدازاو حاکم ایل بختیاری و درقدیم"
+                    HPOS="339"
+                    VPOS="567"
+                    WIDTH="1985"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_786cfacd"
+                    
+                    BASELINE="1420 754 2332 760" 
+                    HPOS="1417"
+                    VPOS="686"
+                    WIDTH="915"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1420 754 1420 686 2332 692 2332 760 2329 789 1417 783"/></Shape>
+	    <String CONTENT="الايام كمال اعزاز و احترام داشتهاند"
+                    HPOS="1417"
+                    VPOS="686"
+                    WIDTH="915"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8355bfe"
+                    
+                    BASELINE="347 877 2128 877" 
+                    HPOS="347"
+                    VPOS="792"
+                    WIDTH="1781"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="347 877 347 792 2128 792 2128 877 2128 903 347 903"/></Shape>
+	    <String CONTENT="اها بیکلر بیکیان عظیم الشأن ایران سیزده است: اول قندهار دوم شیروان"
+                    HPOS="347"
+                    VPOS="792"
+                    WIDTH="1781"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d75a6191"
+                    
+                    BASELINE="344 982 2332 1002" 
+                    HPOS="342"
+                    VPOS="909"
+                    WIDTH="1990"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="344 982 344 909 2332 929 2332 1002 2329 1031 342 1011"/></Shape>
+	    <String CONTENT="سوم هرات. جهارم آذربایجان پنجم چخورسعد. ششم قراباغ و گنجه. هفتم استراباد"
+                    HPOS="342"
+                    VPOS="909"
+                    WIDTH="1990"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c8e006e"
+                    
+                    BASELINE="347 1116 2335 1122" 
+                    HPOS="344"
+                    VPOS="1040"
+                    WIDTH="1991"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="347 1116 347 1040 2335 1046 2335 1122 2332 1148 344 1143"/></Shape>
+	    <String CONTENT="هشتم کوه گیلویه (ب) : نهم کرمان. دهم عروشاهی جهان. یازدهم قلمرو علی شکر"
+                    HPOS="344"
+                    VPOS="1040"
+                    WIDTH="1991"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0106e53b"
+                    
+                    BASELINE="958 1236 1379 1227 2329 1239" 
+                    HPOS="955"
+                    VPOS="1157"
+                    WIDTH="1374"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="958 1236 955 1166 1376 1157 1379 1157 2329 1169 2329 1239 2326 1271 1379 1259 958 1268"/></Shape>
+	    <String CONTENT="دوازدهم عشهد مقدس معلی: سیزدهم دارالسلطنهٔ قزوین."
+                    HPOS="955"
+                    VPOS="1157"
+                    WIDTH="1374"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ced7670b"
+                    
+                    BASELINE="333 1344 2160 1368" 
+                    HPOS="330"
+                    VPOS="1271"
+                    WIDTH="1830"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="333 1344 333 1271 2160 1295 2160 1368 2157 1394 330 1371"/></Shape>
+	    <String CONTENT="نوع دوم درذکر امراع دردولت خایهٔ مبار که - همگی دردرگاه جهان پناه"
+                    HPOS="330"
+                    VPOS="1271"
+                    WIDTH="1830"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e85930d1"
+                    
+                    BASELINE="330 1464 1490 1485 2329 1479" 
+                    HPOS="327"
+                    VPOS="1388"
+                    WIDTH="2002"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="330 1464 330 1388 1490 1409 2326 1403 2329 1479 2329 1511 1490 1517 1487 1517 327 1496"/></Shape>
+	    <String CONTENT="شاهی حاضر وهریك بمنصب مختصی سرافراز میباشند که غرض از تسوید این رساله"
+                    HPOS="327"
+                    VPOS="1388"
+                    WIDTH="2002"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99ef4980"
+                    
+                    BASELINE="330 1590 2326 1601" 
+                    HPOS="327"
+                    VPOS="1525"
+                    WIDTH="1999"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="330 1590 330 1525 2326 1537 2326 1601 2324 1628 327 1616"/></Shape>
+	    <String CONTENT=" بت شغل مختص هریك ازایشان وسایرار باب مناصب اصفهان میباشد. اولا بایددانست"
+                    HPOS="327"
+                    VPOS="1525"
+                    WIDTH="1999"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82f75666"
+                    
+                    BASELINE="342 1733 850 1707 2315 1715" 
+                    HPOS="336"
+                    VPOS="1619"
+                    WIDTH="1979"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="342 1733 336 1645 844 1619 850 1619 2315 1628 2315 1715 2312 1745 850 1736 342 1762"/></Shape>
+	    <String CONTENT="که امراء در دولت خانه جهار نفر وارکان دولت قاهره مینامند: اول قورچی باشی"
+                    HPOS="336"
+                    VPOS="1619"
+                    WIDTH="1979"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ba37fd8"
+                    
+                    BASELINE="330 1832 2326 1841" 
+                    HPOS="327"
+                    VPOS="1759"
+                    WIDTH="1999"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="330 1832 330 1759 2326 1768 2326 1841 2324 1870 327 1862"/></Shape>
+	    <String CONTENT="دوم قوللمر آقاسینسوم ایشیك آقاسی باشی چهارم تفنگچی آقاسی واین چهار نفر"
+                    HPOS="327"
+                    VPOS="1759"
+                    WIDTH="1999"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ddde53e5"
+                    
+                    BASELINE="327 1946 1055 1941 1832 1964 2324 1955" 
+                    HPOS="324"
+                    VPOS="1862"
+                    WIDTH="2000"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="327 1946 324 1868 1052 1862 1055 1862 1409 1873 1832 1885 2321 1876 2324 1955 2324 1990 1832 1999 1830 1999 1406 1987 1052 1976 327 1982"/></Shape>
+	    <String CONTENT="با وزیر اعظم ودیوان بیکی (8الف) وواقعه نویس که مجموع هفت نفرمیشوند از قدیم"
+                    HPOS="324"
+                    VPOS="1862"
+                    WIDTH="2000"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0fb8efbe"
+                    
+                    BASELINE="321 2058 2338 2069" 
+                    HPOS="318"
+                    VPOS="1987"
+                    WIDTH="2020"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="321 2058 321 1987 2338 1999 2338 2069 2335 2098 318 2087"/></Shape>
+	    <String CONTENT="الایام داخل امراء جانقی بودهاند. ودراواخرزمان شاه سلطان حسین در چند مجمع"
+                    HPOS="318"
+                    VPOS="1987"
+                    WIDTH="2020"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f723e36"
+                    
+                    BASELINE="315 2172 2329 2183" 
+                    HPOS="312"
+                    VPOS="2107"
+                    WIDTH="2017"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="315 2172 315 2107 2329 2119 2329 2183 2326 2215 312 2204"/></Shape>
+	    <String CONTENT="ناظر ومستوفی الممالك و امیر شکار باشی داخل شدند واگر جانفی بخصوص فرستادن"
+                    HPOS="312"
+                    VPOS="2107"
+                    WIDTH="2017"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd02e2d0"
+                    
+                    BASELINE="324 2300 1356 2291 2329 2300" 
+                    HPOS="321"
+                    VPOS="2221"
+                    WIDTH="2008"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="324 2300 321 2230 1353 2221 1356 2221 2329 2230 2329 2300 2326 2344 1353 2335 324 2344"/></Shape>
+	    <String CONTENT="سپه سالار بسمتی از اطراف ممالك محروسه باشد حضور سپه سالار در مجمع جانفی"
+                    HPOS="321"
+                    VPOS="2221"
+                    WIDTH="2008"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c77508c"
+                    
+                    BASELINE="2002 2423 2329 2417" 
+                    HPOS="1999"
+                    VPOS="2350"
+                    WIDTH="330"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="2002 2423 1999 2356 2326 2350 2329 2417 2329 2467 2002 2473"/></Shape>
+	    <String CONTENT="شرط است"
+                    HPOS="1999"
+                    VPOS="2350"
+                    WIDTH="330"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b011818"
+                    
+                    BASELINE="993 2575 1642 2569" 
+                    HPOS="991"
+                    VPOS="2484"
+                    WIDTH="651"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="993 2575 991 2490 1639 2484 1642 2569 1642 2592 993 2598"/></Shape>
+	    <String CONTENT="فصل اول از باب دوم"
+                    HPOS="991"
+                    VPOS="2484"
+                    WIDTH="651"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30ad34a5"
+                    
+                    BASELINE="859 2683 1786 2689" 
+                    HPOS="856"
+                    VPOS="2610"
+                    WIDTH="930"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="859 2683 859 2610 1786 2616 1786 2689 1783 2712 856 2707"/></Shape>
+	    <String CONTENT="در بیان تفصیل شفل وزارت اعظم"
+                    HPOS="856"
+                    VPOS="2610"
+                    WIDTH="930"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa5a6297"
+                    
+                    BASELINE="312 2800 2157 2818" 
+                    HPOS="309"
+                    VPOS="2718"
+                    WIDTH="1848"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="312 2800 312 2718 2157 2736 2157 2818 2154 2844 309 2826"/></Shape>
+	    <String CONTENT="عالیجاه وزیر اعظم دیوان اعلی واعتماد الدولهٔ ایران عمده ترین ارکان دولت"
+                    HPOS="309"
+                    VPOS="2718"
+                    WIDTH="1848"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f34da4d8"
+                    
+                    BASELINE="324 2929 2321 2937" 
+                    HPOS="321"
+                    VPOS="2859"
+                    WIDTH="2000"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="324 2929 324 2859 2321 2867 2321 2937 2318 2964 321 2955"/></Shape>
+	    <String CONTENT="وقاطبهٔ امراء درگاه معلی وسرحدات ولایات ممالك محروبه وداد وستدکل مالیات (ب)"
+                    HPOS="321"
+                    VPOS="2859"
+                    WIDTH="2000"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b86ed0dd"
+                    
+                    BASELINE="318 3049 2326 3072" 
+                    HPOS="315"
+                    VPOS="2978"
+                    WIDTH="2011"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="318 3049 318 2978 2326 3002 2326 3072 2324 3101 315 3078"/></Shape>
+	    <String CONTENT="دیوانی ووجوهات انفادی خزانهٔ عامره وغیره بیوتات از کل ممالك ایران ودار السلطنهٔ"
+                    HPOS="315"
+                    VPOS="2978"
+                    WIDTH="2011"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_749f7897"
+                    
+                    BASELINE="330 3177 2332 3189" 
+                    HPOS="327"
+                    VPOS="3116"
+                    WIDTH="2005"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="330 3177 330 3116 2332 3127 2332 3189 2329 3236 327 3224"/></Shape>
+	    <String CONTENT="اصفهان بدون تعلیفه وامر عالیجاه معظم الیه داد وستد نمیشود و ارفام تعین مناصب و"
+                    HPOS="327"
+                    VPOS="3116"
+                    WIDTH="2005"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_613a7654"
+                    
+                    BASELINE="1286 222 1414 225" 
+                    HPOS="1283"
+                    VPOS="192"
+                    WIDTH="131"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1286 222 1286 192 1414 195 1414 225 1411 239 1283 236"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1283"
+                    VPOS="192"
+                    WIDTH="131"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

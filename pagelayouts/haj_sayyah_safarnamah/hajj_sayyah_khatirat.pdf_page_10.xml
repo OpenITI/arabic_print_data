@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>hajj_sayyah_khatirat.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1132" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1133" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1134" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2364"
+          HEIGHT="3407"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2364"
+                  HEIGHT="3407">
+        
+        <TextBlock HPOS="277"
+                   VPOS="1350"
+                   WIDTH="1866"
+                   HEIGHT="1610"
+                   ID="eSc_textblock_b21d98e3"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="277 1350 277 2960 2143 2960 2143 1350"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1080"
+                   VPOS="1146"
+                   WIDTH="236"
+                   HEIGHT="164"
+                   ID="eSc_textblock_02763224"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="1080 1146 1080 1310 1316 1310 1316 1146"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

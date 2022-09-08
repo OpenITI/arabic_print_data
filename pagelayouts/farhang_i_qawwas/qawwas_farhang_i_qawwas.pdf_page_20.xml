@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>qawwas_farhang_i_qawwas.pdf_page_20.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1111" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1112" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT1113" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2079"
+          HEIGHT="2954"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2079"
+                  HEIGHT="2954">
+        
+        <TextBlock HPOS="938"
+                   VPOS="422"
+                   WIDTH="284"
+                   HEIGHT="81"
+                   ID="eSc_textblock_dd035d31"
+                   TAGREFS="BT1111">
+          <Shape><Polygon POINTS="938 422 938 503 1222 503 1222 422"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1723"
+                   VPOS="422"
+                   WIDTH="55"
+                   HEIGHT="81"
+                   ID="eSc_textblock_64731bb7"
+                   TAGREFS="BT1112">
+          <Shape><Polygon POINTS="1723 422 1723 503 1778 503 1778 422"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="373"
+                   VPOS="520"
+                   WIDTH="1473"
+                   HEIGHT="1922"
+                   ID="eSc_textblock_ae8526ea"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="373 520 373 2442 1846 2442 1846 520"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="373"
+                   VPOS="2454"
+                   WIDTH="1405"
+                   HEIGHT="128"
+                   ID="eSc_textblock_64b9612b"
+                   TAGREFS="BT1113">
+          <Shape><Polygon POINTS="373 2454 373 2582 1778 2582 1778 2454"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

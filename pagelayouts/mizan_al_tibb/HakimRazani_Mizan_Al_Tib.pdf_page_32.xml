@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>HakimRazani_Mizan_Al_Tib.pdf_page_32.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1331" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1332" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1333" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1334" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1335" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="31"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="185"
+                   VPOS="2241"
+                   WIDTH="2186"
+                   HEIGHT="1073"
+                   ID="eSc_textblock_a5b111fa"
+                   TAGREFS="BT1333">
+          <Shape><Polygon POINTS="2371 3314 2371 2241 185 2241 185 3314"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="166"
+                   VPOS="333"
+                   WIDTH="2240"
+                   HEIGHT="1881"
+                   ID="eSc_textblock_c54fc9cc"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2385 333 2406 2102 2054 2103 2060 2214 166 2214 166 333"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2146"
+                   VPOS="227"
+                   WIDTH="232"
+                   HEIGHT="80"
+                   ID="eSc_textblock_1a11d80e"
+                   TAGREFS="BT1331">
+          <Shape><Polygon POINTS="2146 227 2146 307 2378 307 2378 227"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="238"
+                   VPOS="208"
+                   WIDTH="106"
+                   HEIGHT="79"
+                   ID="eSc_textblock_cf2c5ce1"
+                   TAGREFS="BT1335">
+          <Shape><Polygon POINTS="238 208 238 287 344 287 344 208"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2053"
+                   VPOS="2115"
+                   WIDTH="265"
+                   HEIGHT="99"
+                   ID="eSc_textblock_f7b213de"
+                   TAGREFS="BT1332">
+          <Shape><Polygon POINTS="2318 2214 2318 2115 2053 2115 2053 2214"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_4805e2e4"
+                    
+                    BASELINE="2177 277 2332 277" 
+                    HPOS="2177"
+                    VPOS="245"
+                    WIDTH="155"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="2177 277 2177 245 2332 245 2332 277 2332 301 2177 301"/></Shape>
+	    <String CONTENT="قاله دو"
+                    HPOS="2177"
+                    VPOS="245"
+                    WIDTH="155"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec8bf0ca"
+                    
+                    BASELINE="1683 406 2271 406" 
+                    HPOS="1683"
+                    VPOS="350"
+                    WIDTH="588"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1683 406 1683 350 2271 350 2271 406 2271 432 1683 432"/></Shape>
+	    <String CONTENT="ادوبه مفرده معدله سودا:"
+                    HPOS="1683"
+                    VPOS="350"
+                    WIDTH="588"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad9dc3d5"
+                    
+                    BASELINE="274 502 2262 508" 
+                    HPOS="271"
+                    VPOS="438"
+                    WIDTH="1991"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="274 502 274 438 2262 444 2262 508 2259 534 271 529"/></Shape>
+	    <String CONTENT="سپیستان(1) گاوزبان نخم خربزه بیخ مهک تخم مرو انجیر مویز و مانند آن هرچه گرم و تر بود"
+                    HPOS="271"
+                    VPOS="438"
+                    WIDTH="1991"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7697646a"
+                    
+                    BASELINE="268 605 1563 599 2341 616" 
+                    HPOS="266"
+                    VPOS="529"
+                    WIDTH="2075"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="268 605 266 534 1561 529 1563 529 2341 546 2341 616 2338 646 1561 628 268 634"/></Shape>
+	    <String CONTENT="پس اگر سودا از خلط گرم پیدا شده باشد سرد و تر باید و او چنانچه خرفه و بهدانه و خیارین و"
+                    HPOS="266"
+                    VPOS="529"
+                    WIDTH="2075"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89c849d2"
+                    
+                    BASELINE="877 692 2341 698" 
+                    HPOS="874"
+                    VPOS="634"
+                    WIDTH="1467"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="877 692 877 634 2341 640 2341 698 2338 727 874 722"/></Shape>
+	    <String CONTENT="مانند آن و الاگرم و تریا تری که معتدل در حرارت و برودت باشد،"
+                    HPOS="874"
+                    VPOS="634"
+                    WIDTH="1467"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecc71c05"
+                    
+                    BASELINE="1692 795 2274 795" 
+                    HPOS="1692"
+                    VPOS="745"
+                    WIDTH="582"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1692 795 1692 745 2274 745 2274 795 2274 821 1692 821"/></Shape>
+	    <String CONTENT="ادوبه مرکبه معدله سودا:"
+                    HPOS="1692"
+                    VPOS="745"
+                    WIDTH="582"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ceb075ef"
+                    
+                    BASELINE="263 888 2262 897" 
+                    HPOS="260"
+                    VPOS="818"
+                    WIDTH="2002"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="263 888 263 818 2262 827 2262 897 2259 920 260 912"/></Shape>
+	    <String CONTENT="سکنجبین افتیمونی(2) انوشدارو معجون سقراط یاقوتی بو علی مفرح دلگشا شربت گاوزبان"
+                    HPOS="260"
+                    VPOS="818"
+                    WIDTH="2002"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_312a7fec"
+                    
+                    BASELINE="263 991 1341 985 2335 996" 
+                    HPOS="260"
+                    VPOS="917"
+                    WIDTH="2075"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="263 991 260 923 1338 917 1341 917 2335 929 2335 996 2332 1031 1338 1020 263 1026"/></Shape>
+	    <String CONTENT="شربت بالنگو(3) و امثال آن. و مکرر گفته شد که در هر باب رعایت مزاج در گرمی و سردی"
+                    HPOS="260"
+                    VPOS="917"
+                    WIDTH="2075"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5dc71cb5"
+                    
+                    BASELINE="2008 1087 2341 1087" 
+                    HPOS="2008"
+                    VPOS="1037"
+                    WIDTH="333"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2008 1087 2008 1037 2341 1037 2341 1087 2341 1116 2008 1116"/></Shape>
+	    <String CONTENT="ملحوظ دارند"
+                    HPOS="2008"
+                    VPOS="1037"
+                    WIDTH="333"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33c877a7"
+                    
+                    BASELINE="1306 1181 2265 1192" 
+                    HPOS="1303"
+                    VPOS="1119"
+                    WIDTH="962"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1306 1181 1306 1119 2265 1131 2265 1192 2262 1219 1303 1207"/></Shape>
+	    <String CONTENT="و اگر سودا عفن شود این مطبوخ نفع دارد:"
+                    HPOS="1303"
+                    VPOS="1119"
+                    WIDTH="962"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_143a08e8"
+                    
+                    BASELINE="254 1274 2265 1283" 
+                    HPOS="251"
+                    VPOS="1213"
+                    WIDTH="2014"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="254 1274 254 1213 2265 1221 2265 1283 2262 1309 251 1300"/></Shape>
+	    <String CONTENT="خم خیار نخم کاسنی تخم کشوت هر یک سه درم بیخ مهک زرشک هریک دو درم گاوزبان"
+                    HPOS="251"
+                    VPOS="1213"
+                    WIDTH="2014"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45277e0c"
+                    
+                    BASELINE="260 1379 698 1371 1265 1388 2034 1379 2332 1388" 
+                    HPOS="257"
+                    VPOS="1303"
+                    WIDTH="2075"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="260 1379 257 1312 695 1303 698 1303 1096 1315 1265 1321 1552 1318 2031 1312 2034 1312 2332 1321 2332 1388 2329 1417 2031 1409 1555 1414 1265 1417 1262 1417 1093 1414 695 1400 260 1409"/></Shape>
+	    <String CONTENT="پنج درم همراه قند یا سکنجبین بدهند. و پیش از این باید که نضج و تنقیه شده باشد تا زود اثر"
+                    HPOS="257"
+                    VPOS="1303"
+                    WIDTH="2075"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d4d7024"
+                    
+                    BASELINE="260 1461 1487 1485 2329 1476" 
+                    HPOS="257"
+                    VPOS="1397"
+                    WIDTH="2072"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="260 1461 260 1397 1487 1420 2326 1411 2329 1476 2329 1508 1487 1517 1485 1517 257 1493"/></Shape>
+	    <String CONTENT="کند و در امراض سوداوی دوا بیشتر روزها دهند و در مبحث تبها تدبیر ازاله عفونت گفته آید"
+                    HPOS="257"
+                    VPOS="1397"
+                    WIDTH="2072"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05cdfcc9"
+                    
+                    BASELINE="1789 1578 2338 1578" 
+                    HPOS="1789"
+                    VPOS="1520"
+                    WIDTH="549"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1789 1578 1789 1520 2338 1520 2338 1578 2338 1604 1789 1604"/></Shape>
+	    <String CONTENT="بتمامه ان شاء الله تعالى"
+                    HPOS="1789"
+                    VPOS="1520"
+                    WIDTH="549"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28e49e86"
+                    
+                    BASELINE="254 1666 2262 1675" 
+                    HPOS="251"
+                    VPOS="1607"
+                    WIDTH="2011"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="254 1666 254 1607 2262 1616 2262 1675 2259 1701 251 1692"/></Shape>
+	    <String CONTENT="فایده در بیان چیزهایی که تعدیل و اصلاح اخلاط نمایند از همه بدن یا از عضوی واحد"
+                    HPOS="251"
+                    VPOS="1607"
+                    WIDTH="2011"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7434733"
+                    
+                    BASELINE="1447 1768 2332 1783" 
+                    HPOS="1444"
+                    VPOS="1713"
+                    WIDTH="888"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1447 1768 1447 1713 2332 1727 2332 1783 2329 1806 1444 1792"/></Shape>
+	    <String CONTENT="بی وارد شدن در معده و آن اقسام است:"
+                    HPOS="1444"
+                    VPOS="1713"
+                    WIDTH="888"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6269123"
+                    
+                    BASELINE="248 1873 2262 1868" 
+                    HPOS="245"
+                    VPOS="1803"
+                    WIDTH="2017"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="248 1873 245 1809 2259 1803 2262 1868 2262 1894 248 1900"/></Shape>
+	    <String CONTENT="شموم لخلخه نقوع سعوط وجور سنون قطور نطول سکوب انکباب کماد تدهین تمریخ کحل"
+                    HPOS="245"
+                    VPOS="1803"
+                    WIDTH="2017"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31085bf0"
+                    
+                    BASELINE="251 1967 1616 1964 2335 1984" 
+                    HPOS="248"
+                    VPOS="1897"
+                    WIDTH="2087"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="251 1967 248 1900 1613 1897 1616 1897 2335 1917 2335 1984 2332 2017 1613 1996 251 1999"/></Shape>
+	    <String CONTENT="برود ذرور بخور طلا ضماد حقنه فتیله شافه حمول فرزجه(2) آبزن پاشویه و در این جا معنای هر"
+                    HPOS="248"
+                    VPOS="1897"
+                    WIDTH="2087"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa3d53a1"
+                    
+                    BASELINE="2031 2066 2332 2066" 
+                    HPOS="2031"
+                    VPOS="2011"
+                    WIDTH="301"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="2031 2066 2031 2011 2332 2011 2332 2066 2332 2093 2031 2093"/></Shape>
+	    <String CONTENT="بک گفته آید"
+                    HPOS="2031"
+                    VPOS="2011"
+                    WIDTH="301"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97cde24a"
+                    
+                    BASELINE="1470 2172 2265 2172" 
+                    HPOS="1470"
+                    VPOS="2101"
+                    WIDTH="795"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1470 2172 1470 2101 2265 2101 2265 2172 2265 2195 1470 2195"/></Shape>
+	    <String CONTENT=" شموم:(5) آنچه ببویند خشک یاتر."
+                    HPOS="1470"
+                    VPOS="2101"
+                    WIDTH="795"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90ee19cd"
+                    
+                    BASELINE="242 2326 2326 2344" 
+                    HPOS="239"
+                    VPOS="2277"
+                    WIDTH="2087"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="242 2326 242 2277 2326 2294 2326 2344 2324 2364 239 2347"/></Shape>
+	    <String CONTENT="1- سپستان در حرارت و برودت معتدل و در اول تر گاوزبان که به عربی لسان الثور گویند در اول گرم مایل به یبوست"
+                    HPOS="239"
+                    VPOS="2277"
+                    WIDTH="2087"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39aaf5bc"
+                    
+                    BASELINE="242 2400 2341 2420" 
+                    HPOS="239"
+                    VPOS="2350"
+                    WIDTH="2102"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="242 2400 242 2350 2341 2370 2341 2420 2338 2446 239 2426"/></Shape>
+	    <String CONTENT="تخم خربزه در اول گرم و در دوم تر بیخ مهک بالاگدشت تخم مرو که به فارسی کنوچه گویند در دوم گرم و خشک انجیر که"
+                    HPOS="239"
+                    VPOS="2350"
+                    WIDTH="2102"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98bcb95f"
+                    
+                    BASELINE="1283 2487 2338 2499" 
+                    HPOS="1280"
+                    VPOS="2438"
+                    WIDTH="1058"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1283 2487 1283 2438 2338 2449 2338 2499 2335 2522 1280 2511"/></Shape>
+	    <String CONTENT="به عربی نین گویند در اول گرم و در دوم تر مویز بالا گذشت"
+                    HPOS="1280"
+                    VPOS="2438"
+                    WIDTH="1058"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bc93279"
+                    
+                    BASELINE="239 2552 2332 2569" 
+                    HPOS="236"
+                    VPOS="2508"
+                    WIDTH="2096"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="239 2552 239 2508 2332 2525 2332 2569 2329 2592 236 2575"/></Shape>
+	    <String CONTENT="2 سکحی افتیمونی مقول از مصف اسطوخودوس رازیانه تخم شاهتره هر یک پنج درم افتیمون بسفایج فستقی سا"
+                    HPOS="236"
+                    VPOS="2508"
+                    WIDTH="2096"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81eea853"
+                    
+                    BASELINE="236 2628 2338 2642" 
+                    HPOS="233"
+                    VPOS="2584"
+                    WIDTH="2105"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="236 2628 236 2584 2338 2598 2338 2642 2335 2669 233 2654"/></Shape>
+	    <String CONTENT="مکی بلیله کابلی هریک ده درم آنچه کوفتی است بیمکوب ساحته در پنجاه درم آب حیساند و با نیم من قد به قوام"
+                    HPOS="233"
+                    VPOS="2584"
+                    WIDTH="2105"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f852355"
+                    
+                    BASELINE="2230 2721 2329 2715" 
+                    HPOS="2227"
+                    VPOS="2666"
+                    WIDTH="102"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2230 2721 2227 2671 2326 2666 2329 2715 2329 2739 2230 2745"/></Shape>
+	    <String CONTENT="آورند"
+                    HPOS="2227"
+                    VPOS="2666"
+                    WIDTH="102"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5778c11"
+                    
+                    BASELINE="242 2780 2335 2794" 
+                    HPOS="239"
+                    VPOS="2733"
+                    WIDTH="2096"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="242 2780 242 2733 2335 2747 2335 2794 2332 2821 239 2806"/></Shape>
+	    <String CONTENT="2- شربت بالنگو یعنی شربت بادربجبویه مقول از مصنف (رح) آب بادرنجبویه تازه یک رطل یا دو رطل قند شربت"
+                    HPOS="239"
+                    VPOS="2733"
+                    WIDTH="2096"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c8a00f1"
+                    
+                    BASELINE="789 2856 2338 2873" 
+                    HPOS="786"
+                    VPOS="2809"
+                    WIDTH="1552"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="789 2856 789 2809 2338 2826 2338 2873 2335 2897 786 2879"/></Shape>
+	    <String CONTENT="ببزند و اگر خشک باشد به گلاب تر کرده در آب جوشانیده به دستور با قند مقوم سارند"
+                    HPOS="786"
+                    VPOS="2809"
+                    WIDTH="1552"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d37ef4fa"
+                    
+                    BASELINE="1198 2937 2335 2946" 
+                    HPOS="1195"
+                    VPOS="2894"
+                    WIDTH="1140"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1198 2937 1198 2894 2335 2902 2335 2946 2332 2970 1195 2961"/></Shape>
+	    <String CONTENT="2- فرزجه به کسر فا و سکون رای مهمله و فتح زای معجمه بحر"
+                    HPOS="1195"
+                    VPOS="2894"
+                    WIDTH="1140"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad0afb33"
+                    
+                    BASELINE="233 3002 2332 3022" 
+                    HPOS="230"
+                    VPOS="2955"
+                    WIDTH="2102"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="233 3002 233 2955 2332 2975 2332 3022 2329 3046 230 3025"/></Shape>
+	    <String CONTENT="5- بدانکه عطوس هم از آنجمله است لکن مصنف (رح) اییجا آن را مذکور نکرده عطوس ادویه عطه را گویند عام"
+                    HPOS="230"
+                    VPOS="2955"
+                    WIDTH="2102"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b35f735"
+                    
+                    BASELINE="239 3078 2341 3098" 
+                    HPOS="236"
+                    VPOS="3028"
+                    WIDTH="2105"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="239 3078 239 3028 2341 3049 2341 3098 2338 3122 236 3101"/></Shape>
+	    <String CONTENT="است که استعمال اینها در بیی عند الحاجة به اشمام برد یا به تسعیط و در این شرط است که اگر ماده کثیر بود قبل از تنقیه"
+                    HPOS="236"
+                    VPOS="3028"
+                    WIDTH="2105"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_383efd1b"
+                    
+                    BASELINE="239 3154 2335 3171" 
+                    HPOS="236"
+                    VPOS="3110"
+                    WIDTH="2099"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="239 3154 239 3110 2335 3127 2335 3171 2332 3206 236 3189"/></Shape>
+	    <String CONTENT="عام نشاید کرد چنانه مصنف بدان در مفرح القلوب تصریح نموده شد و اطراف هم از این قبیل است و آن را مصنف (رح)"
+                    HPOS="236"
+                    VPOS="3110"
+                    WIDTH="2099"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db9d519b"
+                    
+                    BASELINE="1195 3236 2329 3250" 
+                    HPOS="1192"
+                    VPOS="3192"
+                    WIDTH="1137"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1195 3236 1195 3192 2329 3206 2329 3250 2326 3303 1192 3288"/></Shape>
+	    <String CONTENT="در آخرین بحث به طور فایده دکر کرده است معلوم خواهد شد"
+                    HPOS="1192"
+                    VPOS="3192"
+                    WIDTH="1137"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

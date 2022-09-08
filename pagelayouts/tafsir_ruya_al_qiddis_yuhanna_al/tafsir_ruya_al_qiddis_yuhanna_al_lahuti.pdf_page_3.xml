@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>tafsir_ruya_al_qiddis_yuhanna_al_lahuti.pdf_page_3.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT374" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT375" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT551" LABEL="Caption" DESCRIPTION="block type Caption"/><OtherTag ID="BT552" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2118"
+          HEIGHT="3056"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2118"
+                  HEIGHT="3056">
+        
+        <TextBlock HPOS="415"
+                   VPOS="394"
+                   WIDTH="1356"
+                   HEIGHT="2025"
+                   ID="eSc_textblock_1f40b2ca"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="415 394 415 2419 1771 2419 1771 394"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="539"
+                   VPOS="2463"
+                   WIDTH="1125"
+                   HEIGHT="254"
+                   ID="eSc_textblock_f82b787b"
+                   TAGREFS="BT551">
+          <Shape><Polygon POINTS="539 2463 539 2717 1664 2717 1664 2463"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

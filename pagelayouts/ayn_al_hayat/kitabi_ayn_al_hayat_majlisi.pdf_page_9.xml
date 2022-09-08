@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitabi_ayn_al_hayat_majlisi.pdf_page_9.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1158" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1159" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1160" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2121"
+          HEIGHT="2766"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2121"
+                  HEIGHT="2766">
+        
+        <TextBlock HPOS="177"
+                   VPOS="150"
+                   WIDTH="1805"
+                   HEIGHT="2340"
+                   ID="eSc_textblock_f02373ab"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="324 150 177 2359 1813 2490 1982 255"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="342"
+                   VPOS="27"
+                   WIDTH="552"
+                   HEIGHT="139"
+                   ID="eSc_textblock_fbdfed61"
+                   TAGREFS="BT1159">
+          <Shape><Polygon POINTS="380 27 342 124 894 166 894 27"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="907"
+                   VPOS="2439"
+                   WIDTH="206"
+                   HEIGHT="114"
+                   ID="eSc_textblock_1886764e"
+                   TAGREFS="BT1160">
+          <Shape><Polygon POINTS="1113 2553 1113 2439 911 2439 907 2553"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

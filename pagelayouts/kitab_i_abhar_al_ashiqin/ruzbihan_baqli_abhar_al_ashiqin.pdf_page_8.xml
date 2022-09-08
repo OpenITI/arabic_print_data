@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ruzbihan_baqli_abhar_al_ashiqin.pdf_page_8.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1275" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1276" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1277" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1278" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1279" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2079"
+          HEIGHT="2954"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2079"
+                  HEIGHT="2954">
+        
+        <TextBlock HPOS="376"
+                   VPOS="2387"
+                   WIDTH="1419"
+                   HEIGHT="318"
+                   ID="eSc_textblock_0bc55345"
+                   TAGREFS="BT1278">
+          <Shape><Polygon POINTS="1795 2705 1795 2387 376 2419 376 2705"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="376"
+                   VPOS="572"
+                   WIDTH="1413"
+                   HEIGHT="1809"
+                   ID="eSc_textblock_54bbb50a"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1789 572 1789 2381 376 2381 376 572"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="998"
+                   VPOS="436"
+                   WIDTH="162"
+                   HEIGHT="72"
+                   ID="eSc_textblock_9b374332"
+                   TAGREFS="BT1275">
+          <Shape><Polygon POINTS="998 436 998 508 1160 508 1160 436"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1659"
+                   VPOS="449"
+                   WIDTH="110"
+                   HEIGHT="72"
+                   ID="eSc_textblock_dd8c139d"
+                   TAGREFS="BT1279">
+          <Shape><Polygon POINTS="1659 449 1659 521 1769 521 1769 449"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_0d7140a5"
+                    
+                    BASELINE="1652 502 1739 502" 
+                    HPOS="1652"
+                    VPOS="452"
+                    WIDTH="87"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1652 502 1652 452 1739 452 1739 502 1739 519 1652 519"/></Shape>
+	    <String CONTENT="(2"
+                    HPOS="1652"
+                    VPOS="452"
+                    WIDTH="87"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e4fb646"
+                    
+                    BASELINE="844 640 1618 640" 
+                    HPOS="844"
+                    VPOS="580"
+                    WIDTH="774"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="844 640 844 580 1618 580 1618 640 1618 654 844 654"/></Shape>
+	    <String CONTENT="د روزی که بر اعدا کنی آهنگ شبیخون"
+                    HPOS="844"
+                    VPOS="580"
+                    WIDTH="774"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1459ef26"
+                    
+                    BASELINE="554 750 1285 743" 
+                    HPOS="551"
+                    VPOS="686"
+                    WIDTH="734"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="554 750 551 694 1283 686 1285 743 1285 758 554 765"/></Shape>
+	    <String CONTENT="ود روزبه آیی که شه روز بهایی.:"
+                    HPOS="551"
+                    VPOS="686"
+                    WIDTH="734"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_377a0802"
+                    
+                    BASELINE="352 829 1268 824" 
+                    HPOS="349"
+                    VPOS="780"
+                    WIDTH="919"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="352 829 349 785 1266 780 1268 824 1268 839 352 844"/></Shape>
+	    <String CONTENT="دیوان خاقانی طبع مبد الرسولى تهران 1316 ص 446)"
+                    HPOS="349"
+                    VPOS="780"
+                    WIDTH="919"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4cdff4db"
+                    
+                    BASELINE="344 928 1635 925" 
+                    HPOS="342"
+                    VPOS="876"
+                    WIDTH="1293"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="344 928 342 878 1633 876 1635 925 1635 940 344 942"/></Shape>
+	    <String CONTENT="روزبه معادل &quot;بهروز، است که. صفت بر موصوف مقدم کردیده ،"
+                    HPOS="342"
+                    VPOS="876"
+                    WIDTH="1293"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbae97f6"
+                    
+                    BASELINE="963 1028 1753 1036" 
+                    HPOS="960"
+                    VPOS="977"
+                    WIDTH="793"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="963 1028 963 977 1753 984 1753 1036 1751 1048 960 1041"/></Shape>
+	    <String CONTENT="ودر پهلوی وه روچ 200 747 آمده است ."
+                    HPOS="960"
+                    VPOS="977"
+                    WIDTH="793"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a0ca399"
+                    
+                    BASELINE="1152 1144 1687 1134" 
+                    HPOS="1150"
+                    VPOS="1083"
+                    WIDTH="537"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1152 1144 1150 1092 1684 1083 1687 1134 1687 1154 1152 1164"/></Shape>
+	    <String CONTENT="زتو بی روزیم خوانند وکویم"
+                    HPOS="1150"
+                    VPOS="1083"
+                    WIDTH="537"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_edb92da6"
+                    
+                    BASELINE="371 1228 1142 1218" 
+                    HPOS="369"
+                    VPOS="1176"
+                    WIDTH="773"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="371 1228 369 1186 1140 1176 1142 1218 1142 1230 371 1240"/></Shape>
+	    <String CONTENT="(نظامی. خسرو وشیرین چاب اول وحید ص 378"
+                    HPOS="369"
+                    VPOS="1176"
+                    WIDTH="773"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9af42520"
+                    
+                    BASELINE="416 1144 1005 1144" 
+                    HPOS="416"
+                    VPOS="1090"
+                    WIDTH="589"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="416 1144 416 1090 1005 1090 1005 1144 1005 1164 416 1164"/></Shape>
+	    <String CONTENT="مرا آن به که من بهروز اویم.&quot;"
+                    HPOS="416"
+                    VPOS="1090"
+                    WIDTH="589"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcdf89b9"
+                    
+                    BASELINE="359 1324 1091 1329 1635 1314" 
+                    HPOS="357"
+                    VPOS="1257"
+                    WIDTH="1278"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="359 1324 359 1267 1088 1272 1633 1257 1635 1314 1635 1336 1091 1351 1088 1351 357 1346"/></Shape>
+	    <String CONTENT="اسم معنی (حاصل مصدر) ازین دو &quot; روزبهی، و* بهروزی، است ."
+                    HPOS="357"
+                    VPOS="1257"
+                    WIDTH="1278"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ddaaa6e"
+                    
+                    BASELINE="497 1430 1635 1430" 
+                    HPOS="497"
+                    VPOS="1380"
+                    WIDTH="1138"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="497 1430 497 1380 1635 1380 1635 1430 1635 1444 497 1444"/></Shape>
+	    <String CONTENT="این دو كلمه در اعلام (اسماه خاص نیز بکار رفته است."
+                    HPOS="497"
+                    VPOS="1380"
+                    WIDTH="1138"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b331dd19"
+                    
+                    BASELINE="413 1550 660 1536 1325 1543 1633 1528" 
+                    HPOS="408"
+                    VPOS="1472"
+                    WIDTH="1225"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="413 1550 408 1494 655 1479 660 1479 1012 1484 1322 1486 1628 1472 1633 1528 1633 1548 1325 1563 1322 1563 1009 1558 660 1555 413 1570"/></Shape>
+	    <String CONTENT="نام سلمان پارسیرا &quot;روزبه بن وهامان ، نوشته اندا. عبد الله بن"
+                    HPOS="408"
+                    VPOS="1472"
+                    WIDTH="1225"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55f2e640"
+                    
+                    BASELINE="408 1651 1593 1641 1761 1629" 
+                    HPOS="406"
+                    VPOS="1577"
+                    WIDTH="1355"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="408 1651 406 1600 1591 1590 1756 1577 1761 1629 1761 1651 1593 1664 1593 1664 408 1673"/></Shape>
+	    <String CONTENT="المقفع &quot;روزبه، نام داشته است. ابونواس شاعر معروف از مردی بنام"
+                    HPOS="406"
+                    VPOS="1577"
+                    WIDTH="1355"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d72ab4c5"
+                    
+                    BASELINE="1133 1747 1596 1757 1726 1745" 
+                    HPOS="1130"
+                    VPOS="1696"
+                    WIDTH="596"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1133 1747 1133 1698 1593 1708 1721 1696 1726 1745 1726 1765 1596 1777 1593 1777 1130 1767"/></Shape>
+	    <String CONTENT="بهروز بن روزبه&quot; باد هیکند :"
+                    HPOS="1130"
+                    VPOS="1696"
+                    WIDTH="596"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2429663"
+                    
+                    BASELINE="1162 1863 1689 1851" 
+                    HPOS="1160"
+                    VPOS="1801"
+                    WIDTH="529"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1162 1863 1160 1814 1687 1801 1689 1851 1689 1865 1162 1878"/></Shape>
+	    <String CONTENT="حمانى وصل ابناء القسوس"
+                    HPOS="1160"
+                    VPOS="1801"
+                    WIDTH="529"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8907b2b2"
+                    
+                    BASELINE="359 1976 1643 1959" 
+                    HPOS="357"
+                    VPOS="1912"
+                    WIDTH="1286"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="359 1976 357 1929 1640 1912 1643 1959 1643 1979 359 1996"/></Shape>
+	    <String CONTENT="مادران سه موعود زرتشتیان از خاندان وهروچ &quot; بهروز&quot; میباشند."
+                    HPOS="357"
+                    VPOS="1912"
+                    WIDTH="1286"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4317497"
+                    
+                    BASELINE="453 1875 1027 1865" 
+                    HPOS="450"
+                    VPOS="1814"
+                    WIDTH="577"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="453 1875 450 1824 1024 1814 1027 1865 1027 1880 453 1890"/></Shape>
+	    <String CONTENT="نجيب الفرس بهروز المجوسى ."
+                    HPOS="450"
+                    VPOS="1814"
+                    WIDTH="577"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39bfcd62"
+                    
+                    BASELINE="672 2082 1766 2072" 
+                    HPOS="670"
+                    VPOS="2021"
+                    WIDTH="1096"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="672 2082 670 2030 1763 2021 1766 2072 1766 2087 672 2097"/></Shape>
+	    <String CONTENT="بهروز یکی از نامهای متداول غلامان در قرن ششم بوده :"
+                    HPOS="670"
+                    VPOS="2021"
+                    WIDTH="1096"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_092054ac"
+                    
+                    BASELINE="1138 2193 1714 2173" 
+                    HPOS="1135"
+                    VPOS="2119"
+                    WIDTH="579"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1138 2193 1135 2139 1711 2119 1714 2173 1714 2188 1138 2208"/></Shape>
+	    <String CONTENT="&quot; قيصر از روم ونجاشی از حبش"
+                    HPOS="1135"
+                    VPOS="2119"
+                    WIDTH="579"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad2f1af8"
+                    
+                    BASELINE="421 2185 1007 2193" 
+                    HPOS="418"
+                    VPOS="2139"
+                    WIDTH="589"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="421 2185 421 2139 1007 2146 1007 2193 1005 2208 418 2200"/></Shape>
+	    <String CONTENT="بر درش بهروز ولالا دیده ام."
+                    HPOS="418"
+                    VPOS="2139"
+                    WIDTH="589"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3436e58f"
+                    
+                    BASELINE="376 2377 1640 2345" 
+                    HPOS="374"
+                    VPOS="2294"
+                    WIDTH="1266"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="376 2377 374 2326 1638 2294 1640 2345 1640 2363 376 2395"/></Shape>
+	    <String CONTENT="هان&quot; در آخر &quot;روزبهان&quot; علامت نسبت است (قس: اردشیر"
+                    HPOS="374"
+                    VPOS="2294"
+                    WIDTH="1266"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c6e2a6e"
+                    
+                    BASELINE="367 2274 1039 2264" 
+                    HPOS="364"
+                    VPOS="2217"
+                    WIDTH="675"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="367 2274 364 2227 1037 2217 1039 2264 1039 2277 367 2286"/></Shape>
+	    <String CONTENT="دیوان خاقانی طبع عبدالرسولی ص 290)"
+                    HPOS="364"
+                    VPOS="2217"
+                    WIDTH="675"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_506206ee"
+                    
+                    BASELINE="1014 494 1133 489" 
+                    HPOS="992"
+                    VPOS="0"
+                    WIDTH="141"
+                    HEIGHT="509">
+            <Shape><Polygon POINTS="1014 494 992 2 1110 0 1133 489 1133 504 1014 509"/></Shape>
+	    <String CONTENT=""
+                    HPOS="992"
+                    VPOS="0"
+                    WIDTH="141"
+                    HEIGHT="509"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3e21e85"
+                    
+                    BASELINE="376 2481 1734 2459" 
+                    HPOS="374"
+                    VPOS="2422"
+                    WIDTH="1360"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="376 2481 374 2444 1731 2422 1734 2459 1734 2473 376 2496"/></Shape>
+	    <String CONTENT="1- مافروخی محاسن اصلهان . مصحح سید جلال الدین طهرائی ص 23: ترجیهٔ محاسن"
+                    HPOS="374"
+                    VPOS="2422"
+                    WIDTH="1360"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd31f1d2"
+                    
+                    BASELINE="376 2550 1768 2533" 
+                    HPOS="374"
+                    VPOS="2496"
+                    WIDTH="1394"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="376 2550 374 2513 1766 2496 1768 2533 1768 2545 376 2562"/></Shape>
+	    <String CONTENT="اصفهان از حسين بن محد بن ابی الرضا آوی ص69. 2 لفت نامه : ابن المقفم:"
+                    HPOS="374"
+                    VPOS="2496"
+                    WIDTH="1394"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3629634b"
+                    
+                    BASELINE="374 2614 928 2619 1771 2599" 
+                    HPOS="371"
+                    VPOS="2555"
+                    WIDTH="1400"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="374 2614 374 2569 926 2574 1768 2555 1771 2599 1771 2621 928 2641 926 2641 371 2636"/></Shape>
+	    <String CONTENT="اقبال آشتیانی. ابن السقفع . 3- مينوی. یکی از فارسیات ابو نواس. مجلهٔ دایشکدهٔ"
+                    HPOS="371"
+                    VPOS="2555"
+                    WIDTH="1400"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96071c0f"
+                    
+                    BASELINE="502 2675 778 2680" 
+                    HPOS="500"
+                    VPOS="2643"
+                    WIDTH="278"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="502 2675 502 2643 778 2648 778 2680 775 2693 500 2688"/></Shape>
+	    <String CONTENT="20130001"
+                    HPOS="500"
+                    VPOS="2643"
+                    WIDTH="278"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

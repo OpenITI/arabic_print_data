@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Tusi_Miyar_Al_Ashar.pdf_page_36.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1491" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1492" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1493" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1495" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1496" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="278"
+                   VPOS="1209"
+                   WIDTH="1966"
+                   HEIGHT="2058"
+                   ID="eSc_textblock_a949fbeb"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2244 3267 2244 1209 278 1209 278 3267"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="325"
+                   VPOS="689"
+                   WIDTH="1836"
+                   HEIGHT="482"
+                   ID="eSc_textblock_71857f73"
+                   TAGREFS="BT1491">
+          <Shape><Polygon POINTS="2161 1171 2161 689 325 689 325 1171"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_805e2a69"
+                    
+                    BASELINE="327 988 2104 993" 
+                    HPOS="324"
+                    VPOS="917"
+                    WIDTH="1780"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="327 988 327 917 2104 923 2104 993 2101 1037 324 1031"/></Shape>
+	    <String CONTENT="در کیفیت اعتبار حروف متحرک و ساکن در شعر و اشارت"
+                    HPOS="324"
+                    VPOS="917"
+                    WIDTH="1780"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4413484a"
+                    
+                    BASELINE="1023 1131 1432 1119" 
+                    HPOS="1020"
+                    VPOS="1055"
+                    WIDTH="412"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1023 1131 1020 1067 1429 1055 1432 1119 1432 1163 1023 1175"/></Shape>
+	    <String CONTENT="به تقطيع شعر"
+                    HPOS="1020"
+                    VPOS="1055"
+                    WIDTH="412"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcc51015"
+                    
+                    BASELINE="274 1271 1990 1283" 
+                    HPOS="271"
+                    VPOS="1183"
+                    WIDTH="1719"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="274 1271 274 1183 1990 1195 1990 1283 1987 1312 271 1300"/></Shape>
+	    <String CONTENT="در فصل گذشته معلوم شد که اجزاء اولی شعر حرو متحرک و"
+                    HPOS="271"
+                    VPOS="1183"
+                    WIDTH="1719"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91a06a40"
+                    
+                    BASELINE="277 1388 2183 1403" 
+                    HPOS="274"
+                    VPOS="1303"
+                    WIDTH="1909"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="277 1388 277 1303 2183 1318 2183 1403 2180 1432 274 1417"/></Shape>
+	    <String CONTENT="ساکن است. اکنون گونیم مراد ما در این موضع از حروف متحرک و"
+                    HPOS="274"
+                    VPOS="1303"
+                    WIDTH="1909"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65459e81"
+                    
+                    BASELINE="283 1496 818 1520 2180 1525" 
+                    HPOS="280"
+                    VPOS="1420"
+                    WIDTH="1900"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="283 1496 286 1420 818 1444 2180 1449 2180 1525 2177 1555 815 1549 815 1549 280 1525"/></Shape>
+	    <String CONTENT="ساکن حروف ملفوظ است. نه حروف مکتوب و بسیار حروف است که"
+                    HPOS="280"
+                    VPOS="1420"
+                    WIDTH="1900"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7577e2d1"
+                    
+                    BASELINE="280 1619 1107 1637 2186 1631" 
+                    HPOS="277"
+                    VPOS="1546"
+                    WIDTH="1909"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="280 1619 280 1546 1107 1563 2183 1558 2186 1631 2186 1660 1107 1666 1105 1666 277 1648"/></Shape>
+	    <String CONTENT="مکتوب است و ملفوظ نه. مانند الف که در کتابت تازی بعد از واو ((آمنوا))"
+                    HPOS="277"
+                    VPOS="1546"
+                    WIDTH="1909"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b597155"
+                    
+                    BASELINE="286 1739 2189 1756" 
+                    HPOS="283"
+                    VPOS="1672"
+                    WIDTH="1906"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="286 1739 286 1672 2189 1689 2189 1756 2186 1783 283 1765"/></Shape>
+	    <String CONTENT="نویسند و واو که در آخر اسم (اعمرو)) نویسند و همزه وصل که در اثنای"
+                    HPOS="283"
+                    VPOS="1672"
+                    WIDTH="1906"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13e56486"
+                    
+                    BASELINE="295 1853 2177 1870" 
+                    HPOS="292"
+                    VPOS="1789"
+                    WIDTH="1885"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="295 1853 295 1789 2177 1806 2177 1870 2174 1900 292 1882"/></Shape>
+	    <String CONTENT="كلمات متصل بيكديگر افتد، و الف در آخر لفظ ((انا&quot; در غيرحالت وقف."
+                    HPOS="292"
+                    VPOS="1789"
+                    WIDTH="1885"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68598f38"
+                    
+                    BASELINE="298 1964 2186 1996" 
+                    HPOS="295"
+                    VPOS="1906"
+                    WIDTH="1891"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="298 1964 298 1906 2186 1938 2186 1996 2183 2022 295 1990"/></Shape>
+	    <String CONTENT="و در پارسی مانند واو عطف که در میان دو کلمه نویسند و حرف یا و هاء"
+                    HPOS="295"
+                    VPOS="1906"
+                    WIDTH="1891"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6669d50f"
+                    
+                    BASELINE="362 2087 2189 2104" 
+                    HPOS="359"
+                    VPOS="2025"
+                    WIDTH="1830"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="362 2087 362 2025 2189 2043 2189 2104 2186 2134 359 2116"/></Shape>
+	    <String CONTENT="در آخر لفظ ((که وچه ونه)) نویسند و واو در آخر &quot;ادووتو و امثال آن."
+                    HPOS="359"
+                    VPOS="2025"
+                    WIDTH="1830"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa6362a1"
+                    
+                    BASELINE="309 2204 1984 2230" 
+                    HPOS="306"
+                    VPOS="2139"
+                    WIDTH="1678"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="309 2204 309 2139 1984 2166 1984 2230 1982 2253 306 2227"/></Shape>
+	    <String CONTENT="و همچنین بسیار حرف هست که ملفوظ است و مکتوب نیست"
+                    HPOS="306"
+                    VPOS="2139"
+                    WIDTH="1678"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6c863c8"
+                    
+                    BASELINE="306 2318 1900 2344 2183 2335" 
+                    HPOS="304"
+                    VPOS="2256"
+                    WIDTH="1879"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="306 2318 306 2256 1897 2283 2180 2274 2183 2335 2183 2362 1900 2370 1897 2370 304 2344"/></Shape>
+	    <String CONTENT="مانند واو (له) وياء ((به&quot; در تازی و الف ((الله وسموات) وهمزه"
+                    HPOS="304"
+                    VPOS="2256"
+                    WIDTH="1879"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06ead34e"
+                    
+                    BASELINE="312 2432 1797 2467 2174 2461" 
+                    HPOS="309"
+                    VPOS="2362"
+                    WIDTH="1865"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="312 2432 312 2362 1797 2397 2172 2391 2174 2461 2174 2493 1797 2499 1794 2499 309 2464"/></Shape>
+	    <String CONTENT="&quot;&quot;جبرئيل&quot;) وتنوینات و تشدیدات. چه حرف مشدد مرکب از دو حرف باشد"
+                    HPOS="309"
+                    VPOS="2362"
+                    WIDTH="1865"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed3c4cff"
+                    
+                    BASELINE="315 2546 1704 2584 2186 2575" 
+                    HPOS="312"
+                    VPOS="2470"
+                    WIDTH="1874"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="315 2546 315 2470 1704 2508 2183 2499 2186 2575 2186 2607 1704 2616 1701 2616 312 2578"/></Shape>
+	    <String CONTENT="اول ساکن و دوم متحرک. و تخفیف را تسکین اوسط جائز شمرند چنانکه"
+                    HPOS="312"
+                    VPOS="2470"
+                    WIDTH="1874"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b325a700"
+                    
+                    BASELINE="406 2680 2186 2698" 
+                    HPOS="403"
+                    VPOS="2613"
+                    WIDTH="1783"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="406 2680 406 2613 2186 2631 2186 2698 2183 2727 403 2709"/></Shape>
+	    <String CONTENT="بعد از این کفته شود و در پارسی مانند الف مددرآب و آتش و تشدیدات."
+                    HPOS="403"
+                    VPOS="2613"
+                    WIDTH="1783"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9b87015"
+                    
+                    BASELINE="304 2812 2172 2829" 
+                    HPOS="301"
+                    VPOS="2750"
+                    WIDTH="1871"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="304 2812 304 2750 2172 2768 2172 2829 2169 2856 301 2838"/></Shape>
+	    <String CONTENT="و بدانکه تشدید در پارسی در دو موضع آورند یکی در اصل کلمه"
+                    HPOS="301"
+                    VPOS="2750"
+                    WIDTH="1871"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_faf137cd"
+                    
+                    BASELINE="309 2932 2172 2943" 
+                    HPOS="306"
+                    VPOS="2864"
+                    WIDTH="1866"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="309 2932 309 2864 2172 2876 2172 2943 2169 2964 306 2952"/></Shape>
+	    <String CONTENT="چنانکه در لفظ غرنده و برنده کویند. و دیگر آنکه میان دو کلمه افتد"
+                    HPOS="306"
+                    VPOS="2864"
+                    WIDTH="1866"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c3506d0"
+                    
+                    BASELINE="306 3060 2169 3054" 
+                    HPOS="304"
+                    VPOS="2984"
+                    WIDTH="1865"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="306 3060 304 2990 2166 2984 2169 3054 2169 3081 306 3087"/></Shape>
+	    <String CONTENT="چنانکه در حرف اول از معطوف یا مضاف الیه یا کلمه ای که با امریا میم"
+                    HPOS="304"
+                    VPOS="2984"
+                    WIDTH="1865"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbe86fba"
+                    
+                    BASELINE="309 3186 2183 3180" 
+                    HPOS="306"
+                    VPOS="3104"
+                    WIDTH="1877"
+                    HEIGHT="173">
+            <Shape><Polygon POINTS="309 3186 306 3110 2180 3104 2183 3180 2183 3271 309 3277"/></Shape>
+	    <String CONTENT="نهی بر او سابق بود چنانکه در لفظ یکن و مکن، یا حرفی بروی سابق بود"
+                    HPOS="306"
+                    VPOS="3104"
+                    WIDTH="1877"
+                    HEIGHT="173"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e8a3881"
+                    
+                    BASELINE="1011 798 1452 792" 
+                    HPOS="1008"
+                    VPOS="704"
+                    WIDTH="444"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="1011 798 1008 710 1449 704 1452 792 1452 841 1011 847"/></Shape>
+	    <String CONTENT="فصل دوم"
+                    HPOS="1008"
+                    VPOS="704"
+                    WIDTH="444"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

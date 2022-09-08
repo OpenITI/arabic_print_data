@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>farhadnamah_arifardabili.pdf_page_14.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1105" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1106" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1107" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2049"
+          HEIGHT="2769"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2049"
+                  HEIGHT="2769">
+        
+        <TextBlock HPOS="397"
+                   VPOS="474"
+                   WIDTH="1384"
+                   HEIGHT="1987"
+                   ID="eSc_textblock_27bd5f74"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="397 474 397 2461 1781 2461 1781 474"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="389"
+                   VPOS="370"
+                   WIDTH="192"
+                   HEIGHT="88"
+                   ID="eSc_textblock_b8baf282"
+                   TAGREFS="BT1107">
+          <Shape><Polygon POINTS="389 370 389 458 581 458 581 370"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1539"
+                   VPOS="366"
+                   WIDTH="196"
+                   HEIGHT="108"
+                   ID="eSc_textblock_40563d1b"
+                   TAGREFS="BT1105">
+          <Shape><Polygon POINTS="1539 366 1539 474 1731 474 1735 366"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

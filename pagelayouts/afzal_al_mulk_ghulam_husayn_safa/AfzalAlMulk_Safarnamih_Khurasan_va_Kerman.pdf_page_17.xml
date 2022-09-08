@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>AfzalAlMulk_Safarnamih_Khurasan_va_Kerman.pdf_page_17.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1135" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1136" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1137" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1707"
+                   VPOS="374"
+                   WIDTH="149"
+                   HEIGHT="137"
+                   ID="eSc_textblock_0ffdcdb2"
+                   TAGREFS="BT1137">
+          <Shape><Polygon POINTS="1856 409 1844 511 1754 499 1707 441 1789 374"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ccead69"
+                    
+                    BASELINE="1751 444 1789 444" 
+                    HPOS="1751"
+                    VPOS="403"
+                    WIDTH="38"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1751 444 1751 403 1789 403 1789 444 1789 464 1751 464"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="1751"
+                    VPOS="403"
+                    WIDTH="38"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="81"
+                   VPOS="456"
+                   WIDTH="512"
+                   HEIGHT="114"
+                   ID="eSc_textblock_230dcd6a"
+                   TAGREFS="BT1136">
+          <Shape><Polygon POINTS="534 467 593 546 175 570 81 534 93 479 222 456"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2a2a122e"
+                    
+                    BASELINE="90 523 517 514" 
+                    HPOS="87"
+                    VPOS="473"
+                    WIDTH="430"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="90 523 87 482 514 473 517 514 517 532 90 540"/></Shape>
+	    <String CONTENT="صفرنامهٔ خرایییان وکرمان"
+                    HPOS="87"
+                    VPOS="473"
+                    WIDTH="430"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="54"
+                   VPOS="535"
+                   WIDTH="1937"
+                   HEIGHT="2503"
+                   ID="eSc_textblock_deef6d71"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="54 608 54 3038 1991 3038 1937 535"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Hosseini_Badayi_Al_Sanayi.pdf_page_21.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1173" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1175" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1176" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1177" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1178" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    <OtherTag ID="LT71" LABEL="Poetry" DESCRIPTION="line type Poetry"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2062"
+          HEIGHT="2737"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2062"
+                  HEIGHT="2737">
+        
+        <TextBlock HPOS="278"
+                   VPOS="186"
+                   WIDTH="285"
+                   HEIGHT="70"
+                   ID="eSc_textblock_a4cf1423"
+                   TAGREFS="BT1173">
+          <Shape><Polygon POINTS="278 186 278 256 563 256 563 186"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1716"
+                   VPOS="202"
+                   WIDTH="89"
+                   HEIGHT="58"
+                   ID="eSc_textblock_2bdf6149"
+                   TAGREFS="BT1177">
+          <Shape><Polygon POINTS="1716 202 1716 260 1805 260 1805 202"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="266"
+                   VPOS="279"
+                   WIDTH="1554"
+                   HEIGHT="1238"
+                   ID="eSc_textblock_577cd829"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1820 1517 1820 279 266 279 266 1517"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="289"
+                   VPOS="1529"
+                   WIDTH="1524"
+                   HEIGHT="1056"
+                   ID="eSc_textblock_de56fe0f"
+                   TAGREFS="BT1176">
+          <Shape><Polygon POINTS="1813 2585 1813 1529 289 1529 289 2585"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_29804c07"
+                    
+                    BASELINE="285 335 818 353 1286 346 1781 355" 
+                    HPOS="282"
+                    VPOS="280"
+                    WIDTH="1499"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="285 335 285 280 818 298 1202 294 1284 291 1286 291 1781 301 1781 355 1779 380 1284 371 1202 374 818 378 816 378 282 360"/></Shape>
+	    <String CONTENT="روضة الصفا 7 که افزودهٔ اوست به کتاب پدر بزرگش میرخواند، پیش از نام &quot;عطاءالله)"
+                    HPOS="282"
+                    VPOS="280"
+                    WIDTH="1499"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af7f9c2c"
+                    
+                    BASELINE="287 412 843 428 1776 428" 
+                    HPOS="285"
+                    VPOS="360"
+                    WIDTH="1491"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="287 412 287 360 843 376 1776 376 1776 428 1776 451 843 451 841 451 285 435"/></Shape>
+	    <String CONTENT="عنوان &quot;برهان الدین&quot; را لازم داشته و او را در صورت امیر برهان الدین عطاءالله یاد کرده"
+                    HPOS="285"
+                    VPOS="360"
+                    WIDTH="1491"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5fa03901"
+                    
+                    BASELINE="285 499 816 492 1003 501 1781 501" 
+                    HPOS="282"
+                    VPOS="442"
+                    WIDTH="1499"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="285 499 282 449 814 442 818 442 978 449 1003 451 1781 451 1781 501 1781 524 1003 524 1001 524 976 524 814 515 285 522"/></Shape>
+	    <String CONTENT="است اما از مؤلفان دورهٔ بعدی، شمس الدین سامی: عطاءالله محمدالحسينی،1 حاج"
+                    HPOS="282"
+                    VPOS="442"
+                    WIDTH="1499"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3a3d261"
+                    
+                    BASELINE="285 574 1776 570" 
+                    HPOS="282"
+                    VPOS="529"
+                    WIDTH="1494"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="285 574 282 533 1774 529 1776 570 1776 593 285 597"/></Shape>
+	    <String CONTENT="خليفه: عطاءالله بن محمودالحسينى1 و محمد مظفر حسين صبا: مير برهانالدين"
+                    HPOS="282"
+                    VPOS="529"
+                    WIDTH="1494"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f57ea844"
+                    
+                    BASELINE="1437 652 1774 652" 
+                    HPOS="1437"
+                    VPOS="606"
+                    WIDTH="337"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1437 652 1437 606 1774 606 1774 652 1774 675 1437 675"/></Shape>
+	    <String CONTENT="عطایی1 آوردهاند"
+                    HPOS="1437"
+                    VPOS="606"
+                    WIDTH="337"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cffbd11e"
+                    
+                    BASELINE="280 711 1719 729" 
+                    HPOS="278"
+                    VPOS="663"
+                    WIDTH="1441"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="280 711 280 663 1719 681 1719 729 1717 750 278 732"/></Shape>
+	    <String CONTENT="در آثار پژوهشگران دورهٔ اخیر، نام دانشمند مورد نظر، به طور گوناگون دیده شده"
+                    HPOS="278"
+                    VPOS="663"
+                    WIDTH="1441"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7541d4c2"
+                    
+                    BASELINE="285 800 869 793 1774 802" 
+                    HPOS="282"
+                    VPOS="748"
+                    WIDTH="1492"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="285 800 282 754 866 748 869 748 1774 757 1774 802 1772 823 869 814 285 821"/></Shape>
+	    <String CONTENT="است، چنانچه، براون: میر عطاءالله مشهدی 11، دورن: عطاءالله محمودالحسینی2 و ریو:"
+                    HPOS="282"
+                    VPOS="748"
+                    WIDTH="1492"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74fe26eb"
+                    
+                    BASELINE="278 875 1772 875" 
+                    HPOS="278"
+                    VPOS="830"
+                    WIDTH="1494"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="278 875 278 830 1772 830 1772 875 1772 894 278 894"/></Shape>
+	    <String CONTENT=" عطاء الله بن محمودالحسينی12 ضبط نمودهاند. علامه صدرالدین عينى او را در تكل"
+                    HPOS="278"
+                    VPOS="830"
+                    WIDTH="1494"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99f14c80"
+                    
+                    BASELINE="280 937 1770 957" 
+                    HPOS="278"
+                    VPOS="889"
+                    WIDTH="1492"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="280 937 280 889 1770 910 1770 957 1767 976 278 955"/></Shape>
+	    <String CONTENT="میر برهانالدین عطاءالله به قلم داده14 که منبع ایشان، گمان میرود آثار خواند میر باشد."
+                    HPOS="278"
+                    VPOS="889"
+                    WIDTH="1492"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f306f27a"
+                    
+                    BASELINE="278 1021 1710 1028" 
+                    HPOS="275"
+                    VPOS="976"
+                    WIDTH="1435"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="278 1021 278 976 1710 983 1710 1028 1708 1044 275 1037"/></Shape>
+	    <String CONTENT="شادروان عباس اقبال در مقدمهٔ کتاب رشید الدین وطواط، حدایق السحر فی"
+                    HPOS="275"
+                    VPOS="976"
+                    WIDTH="1435"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f504fc09"
+                    
+                    BASELINE="278 1097 1765 1101" 
+                    HPOS="275"
+                    VPOS="1053"
+                    WIDTH="1490"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="278 1097 278 1053 1765 1058 1765 1101 1763 1119 275 1115"/></Shape>
+	    <String CONTENT="دقایق الشعریادی از عطاءالله به عمل آورده، پیش از نامش &quot;سید&quot; را نیز افزوده و او را در"
+                    HPOS="275"
+                    VPOS="1053"
+                    WIDTH="1490"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3de8649"
+                    
+                    BASELINE="275 1167 1763 1179" 
+                    HPOS="273"
+                    VPOS="1124"
+                    WIDTH="1490"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="275 1167 275 1124 1763 1135 1763 1179 1760 1197 273 1186"/></Shape>
+	    <String CONTENT="شکل سید برهان الدین عطاءالله ابن محمود ذکر کرده ایست 15 که این نسبت در نوشته های"
+                    HPOS="273"
+                    VPOS="1124"
+                    WIDTH="1490"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4beb8d2"
+                    
+                    BASELINE="328 1247 1763 1256" 
+                    HPOS="326"
+                    VPOS="1201"
+                    WIDTH="1437"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="328 1247 328 1201 1763 1211 1763 1256 1760 1277 326 1268"/></Shape>
+	    <String CONTENT="بعضی مؤلفان دیگر معاصر و نیز در یک نسخهٔ قلمی از بدایع الصنایع دیده میشود."
+                    HPOS="326"
+                    VPOS="1201"
+                    WIDTH="1437"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_555a18b3"
+                    
+                    BASELINE="271 1320 1706 1329" 
+                    HPOS="269"
+                    VPOS="1277"
+                    WIDTH="1437"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="271 1320 271 1277 1706 1286 1706 1329 1703 1350 269 1341"/></Shape>
+	    <String CONTENT="و اما روانشاد آقابزرک تهرانی در دو مورد دو تن را ذکر کرده، که به نظر میرسد در"
+                    HPOS="269"
+                    VPOS="1277"
+                    WIDTH="1437"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e014cf7"
+                    
+                    BASELINE="273 1386 1763 1404" 
+                    HPOS="271"
+                    VPOS="1345"
+                    WIDTH="1492"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="273 1386 273 1345 1763 1363 1763 1404 1760 1425 271 1407"/></Shape>
+	    <String CONTENT="اصل یكی، يعنى همان عطاءالله محمود حسينی ما باشد، به شمارهٔ 5008 عطاءالله"
+                    HPOS="271"
+                    VPOS="1345"
+                    WIDTH="1492"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b5eff5d"
+                    
+                    BASELINE="273 1468 1754 1482" 
+                    HPOS="271"
+                    VPOS="1427"
+                    WIDTH="1483"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="273 1468 273 1427 1754 1441 1754 1482 1751 1509 271 1496"/></Shape>
+	    <String CONTENT="مشهدی) را یادکرده و او را در شكل &quot;اعطاءالله بن محمودالحسينی) نیز معرفی نموده"
+                    HPOS="271"
+                    VPOS="1427"
+                    WIDTH="1483"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c84e5810"
+                    
+                    BASELINE="296 228 515 228" 
+                    HPOS="296"
+                    VPOS="191"
+                    WIDTH="219"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="296 228 296 191 515 191 515 228 515 260 296 260"/></Shape>
+	    <String CONTENT="بدايع الصنايع"
+                    HPOS="296"
+                    VPOS="191"
+                    WIDTH="219"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e20bc3f2"
+                    
+                    BASELINE="330 1601 1754 1612" 
+                    HPOS="328"
+                    VPOS="1562"
+                    WIDTH="1426"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="330 1601 330 1562 1754 1573 1754 1612 1751 1630 328 1619"/></Shape>
+	    <String CONTENT="5- غیات الدین فرزند همام الدین خواندمير، خلاصة الاخبار فی بیان احوال الاخيار، نسخهٔ خطی شميرهٔ 2209 كه"
+                    HPOS="328"
+                    VPOS="1562"
+                    WIDTH="1426"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a236ab18"
+                    
+                    BASELINE="697 1665 1687 1674" 
+                    HPOS="695"
+                    VPOS="1626"
+                    WIDTH="992"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="697 1665 697 1626 1687 1635 1687 1674 1685 1687 695 1678"/></Shape>
+	    <String CONTENT="در پزوهشگاه خاورشاسی بیرونی تاشکند نگهداری میشود، برگ 487 الف"
+                    HPOS="695"
+                    VPOS="1626"
+                    WIDTH="992"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63c59258"
+                    
+                    BASELINE="328 1724 1747 1731" 
+                    HPOS="326"
+                    VPOS="1683"
+                    WIDTH="1421"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="328 1724 328 1683 1747 1690 1747 1731 1744 1749 326 1742"/></Shape>
+	    <String CONTENT="-غیاث الدین فرزند همام الدین خواندمیر، حبیب السير فی احبار افرادالبشر، جزو سوم از جلد سوم. چاب سنگی"
+                    HPOS="326"
+                    VPOS="1683"
+                    WIDTH="1421"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d91a304"
+                    
+                    BASELINE="1293 1783 1687 1783" 
+                    HPOS="1293"
+                    VPOS="1749"
+                    WIDTH="394"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1293 1783 1293 1749 1687 1749 1687 1783 1687 1801 1293 1801"/></Shape>
+	    <String CONTENT="هدوستان، 1847 ص 245"
+                    HPOS="1293"
+                    VPOS="1749"
+                    WIDTH="394"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_674caef3"
+                    
+                    BASELINE="654 1840 1754 1840" 
+                    HPOS="654"
+                    VPOS="1801"
+                    WIDTH="1100"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="654 1840 654 1801 1754 1801 1754 1840 1754 1861 654 1861"/></Shape>
+	    <String CONTENT="- غيات الدین فرزند همام الدين خواندمير، روضة الصفاء ج 7. لكهنو، 1358، ص 94"
+                    HPOS="654"
+                    VPOS="1801"
+                    WIDTH="1100"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a19baf47"
+                    
+                    BASELINE="782 1897 1749 1897" 
+                    HPOS="782"
+                    VPOS="1858"
+                    WIDTH="967"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="782 1897 782 1858 1749 1858 1749 1897 1749 1918 782 1918"/></Shape>
+	    <String CONTENT="ش الدين سامى، قاموس الاعلام، ج4 اسلامبول، 1211، ص 3158."
+                    HPOS="782"
+                    VPOS="1858"
+                    WIDTH="967"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3117abd6"
+                    
+                    BASELINE="882 1954 1749 1961" 
+                    HPOS="880"
+                    VPOS="1913"
+                    WIDTH="869"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="882 1954 882 1913 1749 1920 1749 1961 1747 1979 880 1972"/></Shape>
+	    <String CONTENT="9-حاج خليفه كشف الظبون، الجلدالاولى، الطبعة الاولى، ص 322."
+                    HPOS="880"
+                    VPOS="1913"
+                    WIDTH="869"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_379140b6"
+                    
+                    BASELINE="319 2016 1749 2011" 
+                    HPOS="317"
+                    VPOS="1970"
+                    WIDTH="1432"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="319 2016 317 1975 1747 1970 1749 2011 1749 2034 319 2039"/></Shape>
+	    <String CONTENT="10_- مولوی محمد مظفر حسین صبا، تذکرۀ روز روش، به تصحیح و تحشیهٔ محمد حسین رک زادهٔ آدمیت، تهران،"
+                    HPOS="317"
+                    VPOS="1970"
+                    WIDTH="1432"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3444b67"
+                    
+                    BASELINE="1437 2070 1687 2070" 
+                    HPOS="1437"
+                    VPOS="2039"
+                    WIDTH="250"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1437 2070 1437 2039 1687 2039 1687 2070 1687 2091 1437 2091"/></Shape>
+	    <String CONTENT="1222ص 552"
+                    HPOS="1437"
+                    VPOS="2039"
+                    WIDTH="250"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04edabe2"
+                    
+                    BASELINE="319 2123 1749 2134" 
+                    HPOS="317"
+                    VPOS="2080"
+                    WIDTH="1432"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="319 2123 319 2080 1749 2091 1749 2134 1747 2153 317 2141"/></Shape>
+	    <String CONTENT="اسادوارد براون، تاریخ ادبی ایران، ج 3: ار سعدی تا جامی، ترجمهٔ علی اصعر حکمت. تهران، امیرکبیر، 2537،"
+                    HPOS="317"
+                    VPOS="2080"
+                    WIDTH="1432"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc05908c"
+                    
+                    BASELINE="1553 2189 1687 2189" 
+                    HPOS="1553"
+                    VPOS="2155"
+                    WIDTH="134"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1553 2189 1553 2155 1687 2155 1687 2189 1687 2207 1553 2207"/></Shape>
+	    <String CONTENT="ص172"
+                    HPOS="1553"
+                    VPOS="2155"
+                    WIDTH="134"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d911466"
+                    
+                    BASELINE="383 2529 1176 2543 1744 2538" 
+                    HPOS="380"
+                    VPOS="2486"
+                    WIDTH="1364"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="383 2529 383 2486 1176 2499 1742 2495 1744 2538 1744 2575 1176 2579 1174 2579 380 2565"/></Shape>
+	    <String CONTENT="15- رشيدالدین وطواط، حدایق السحر فی دقایق الشعر، ما مقدمهٔ عباس اقبال تهران، 1308، ص 39، 40."
+                    HPOS="380"
+                    VPOS="2486"
+                    WIDTH="1364"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

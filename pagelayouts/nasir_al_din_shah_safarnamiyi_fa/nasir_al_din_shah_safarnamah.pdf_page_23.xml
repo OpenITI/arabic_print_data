@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nasir_al_din_shah_safarnamah.pdf_page_23.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1362" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1363" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1364" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1365" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1366" LABEL="Head" DESCRIPTION="block type Head"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1746"
+          HEIGHT="2650"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1746"
+                  HEIGHT="2650">
+        
+        <TextBlock HPOS="933"
+                   VPOS="1968"
+                   WIDTH="613"
+                   HEIGHT="79"
+                   ID="eSc_textblock_d2b235e2"
+                   TAGREFS="BT1362">
+          <Shape><Polygon POINTS="1546 2047 1546 1968 933 1968 933 2047"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1441"
+                   VPOS="259"
+                   WIDTH="102"
+                   HEIGHT="65"
+                   ID="eSc_textblock_defc356e"
+                   TAGREFS="BT1362">
+          <Shape><Polygon POINTS="1543 324 1543 259 1441 259 1441 324"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="160"
+                   VPOS="2060"
+                   WIDTH="1386"
+                   HEIGHT="457"
+                   ID="eSc_textblock_22cbd8d2"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1546 2517 1546 2060 160 2060 160 2517"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="157"
+                   VPOS="354"
+                   WIDTH="1393"
+                   HEIGHT="1584"
+                   ID="eSc_textblock_fb235620"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1550 1938 1550 354 157 354 157 1938"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="167"
+                   VPOS="262"
+                   WIDTH="78"
+                   HEIGHT="48"
+                   ID="eSc_textblock_8d993070"
+                   TAGREFS="BT1363">
+          <Shape><Polygon POINTS="167 262 167 310 245 306 245 262"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_fa6dce2c"
+                    
+                    BASELINE="1447 293 1513 298" 
+                    HPOS="1445"
+                    VPOS="262"
+                    WIDTH="68"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1447 293 1447 262 1513 267 1513 298 1511 313 1445 309"/></Shape>
+	    <String CONTENT="دوی"
+                    HPOS="1445"
+                    VPOS="262"
+                    WIDTH="68"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffd9e137"
+                    
+                    BASELINE="152 415 1533 406" 
+                    HPOS="150"
+                    VPOS="344"
+                    WIDTH="1383"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="152 415 150 353 1531 344 1533 406 1533 424 152 432"/></Shape>
+	    <String CONTENT="منحرك و مواج بود معهذا اند کی خوابیدم صبح که برخاستم بدریا نگاه کردم"
+                    HPOS="150"
+                    VPOS="344"
+                    WIDTH="1383"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9f35a1a"
+                    
+                    BASELINE="154 494 1531 499" 
+                    HPOS="152"
+                    VPOS="450"
+                    WIDTH="1379"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="154 494 154 450 1531 454 1531 499 1529 514 152 510"/></Shape>
+	    <String CONTENT="دیدم باز همان طور منقلب بود امیرال را احضار کرده نقشه دریا را با او نگاه"
+                    HPOS="152"
+                    VPOS="450"
+                    WIDTH="1379"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08b82745"
+                    
+                    BASELINE="156 587 1513 587" 
+                    HPOS="156"
+                    VPOS="543"
+                    WIDTH="1357"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="156 587 156 543 1513 543 1513 587 1513 607 156 607"/></Shape>
+	    <String CONTENT="کردیم که معلوم کنیم درچه نقطه واقع شده ایم امیرال اطمینان میداد که تاده"
+                    HPOS="156"
+                    VPOS="543"
+                    WIDTH="1357"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8f9a928"
+                    
+                    BASELINE="154 682 1533 666" 
+                    HPOS="152"
+                    VPOS="618"
+                    WIDTH="1381"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="154 682 152 633 1531 618 1533 666 1533 684 154 700"/></Shape>
+	    <String CONTENT="ساعت دیگر نزدیك بدهنه شط و لگا خواهیم رسید که عمق دریا چهار پنج ذرع بیشتر"
+                    HPOS="152"
+                    VPOS="618"
+                    WIDTH="1381"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd8babee"
+                    
+                    BASELINE="150 768 1529 764" 
+                    HPOS="148"
+                    VPOS="719"
+                    WIDTH="1381"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="150 768 148 724 1527 719 1529 764 1529 777 150 781"/></Shape>
+	    <String CONTENT="نیست و باین واسطه تلاطم نخواهد داشت خلاصه نزدیك بعصر بعضی کشتی بادی"
+                    HPOS="148"
+                    VPOS="719"
+                    WIDTH="1381"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff789c8d"
+                    
+                    BASELINE="152 859 1533 852" 
+                    HPOS="150"
+                    VPOS="801"
+                    WIDTH="1383"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="152 859 150 808 1531 801 1533 852 1533 867 152 874"/></Shape>
+	    <String CONTENT="دیده شد که از جملهٔ آنها کشتی بود که از حاجی طرخان بسواحل لنکران و"
+                    HPOS="150"
+                    VPOS="801"
+                    WIDTH="1383"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33dc0dc2"
+                    
+                    BASELINE="150 945 1536 936" 
+                    HPOS="148"
+                    VPOS="892"
+                    WIDTH="1388"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="150 945 148 901 1533 892 1536 936 1536 954 150 962"/></Shape>
+	    <String CONTENT="ماز ندران میرفت کشتی جنکی بخاری هم دیده شد موسوم بایران یکساعت و نیم"
+                    HPOS="148"
+                    VPOS="892"
+                    WIDTH="1388"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc5a39ff"
+                    
+                    BASELINE="148 1031 1533 1024" 
+                    HPOS="145"
+                    VPOS="976"
+                    WIDTH="1388"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="148 1031 145 982 1531 976 1533 1024 1533 1037 148 1044"/></Shape>
+	    <String CONTENT="از ش گذشنه رسیدیم بجائی که معروف بقرانتین است که کشنی بزرگ داخل"
+                    HPOS="145"
+                    VPOS="976"
+                    WIDTH="1388"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_341b0d18"
+                    
+                    BASELINE="150 1117 623 1113 987 1121 1520 1108" 
+                    HPOS="148"
+                    VPOS="1053"
+                    WIDTH="1372"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="150 1117 148 1062 621 1057 623 1057 667 1057 985 1066 1518 1053 1520 1108 1520 1128 987 1141 985 1141 667 1135 621 1132 150 1137"/></Shape>
+	    <String CONTENT="آنجا نمیتواند شد و باید از این کشتی بکشنی کوچك نشسته بحاجی طرخان"
+                    HPOS="148"
+                    VPOS="1053"
+                    WIDTH="1372"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd0fa90d"
+                    
+                    BASELINE="150 1194 1529 1207" 
+                    HPOS="148"
+                    VPOS="1141"
+                    WIDTH="1381"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="150 1194 150 1141 1529 1154 1529 1207 1527 1223 148 1210"/></Shape>
+	    <String CONTENT="برویم کشتی ما آنجا لنگر انداخت شام خوردیم اشخاصی که دریا آنها را گرفنه"
+                    HPOS="148"
+                    VPOS="1141"
+                    WIDTH="1381"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_712b6164"
+                    
+                    BASELINE="148 1298 1536 1287" 
+                    HPOS="145"
+                    VPOS="1232"
+                    WIDTH="1391"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="148 1298 145 1243 1533 1232 1536 1287 1536 1298 148 1309"/></Shape>
+	    <String CONTENT="و ناخوش بودند کم کم بحال می آمدند بعد از شام حاکم حاجی طرخانرا پرنس"
+                    HPOS="145"
+                    VPOS="1232"
+                    WIDTH="1391"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06e4bedf"
+                    
+                    BASELINE="150 1382 1533 1369" 
+                    HPOS="148"
+                    VPOS="1318"
+                    WIDTH="1385"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="150 1382 148 1331 1531 1318 1533 1369 1533 1384 150 1397"/></Shape>
+	    <String CONTENT="منجیکوف بحضور آورد اسم حاکم مسیوبییین (04486) است ادم در ستکاروفابلی"
+                    HPOS="148"
+                    VPOS="1318"
+                    WIDTH="1385"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4fa2d69d"
+                    
+                    BASELINE="152 1470 1529 1464" 
+                    HPOS="150"
+                    VPOS="1417"
+                    WIDTH="1379"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="152 1470 150 1424 1527 1417 1529 1464 1529 1475 152 1481"/></Shape>
+	    <String CONTENT="بنظر می امد زبان فرانسه را خوب حرف میزد بعد مرخص شده شبانه بحاحجی"
+                    HPOS="150"
+                    VPOS="1417"
+                    WIDTH="1379"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_032578c5"
+                    
+                    BASELINE="150 1554 1536 1550" 
+                    HPOS="148"
+                    VPOS="1499"
+                    WIDTH="1388"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="150 1554 148 1503 1533 1499 1536 1550 1536 1565 150 1570"/></Shape>
+	    <String CONTENT="طرخان رفت که هنگام ورود ما آنجا حاضر باشد کشتی کوچکی که باید ما را"
+                    HPOS="148"
+                    VPOS="1499"
+                    WIDTH="1388"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8bf651b2"
+                    
+                    BASELINE="145 1643 1527 1638" 
+                    HPOS="143"
+                    VPOS="1587"
+                    WIDTH="1384"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="145 1643 143 1592 1524 1587 1527 1638 1527 1651 145 1656"/></Shape>
+	    <String CONTENT="بحاجی طرخان ببرد موسوم بکو کت و خیلی قشنگ است بعد از شام بآن کشتی"
+                    HPOS="143"
+                    VPOS="1587"
+                    WIDTH="1384"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb484519"
+                    
+                    BASELINE="150 1735 1533 1731" 
+                    HPOS="148"
+                    VPOS="1682"
+                    WIDTH="1385"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="150 1735 148 1687 1531 1682 1533 1731 1533 1746 150 1751"/></Shape>
+	    <String CONTENT="رفتیم کشتی کوچك دیگری هم بهمین وضع بجهت شاهزاد کان و سایرین حاضر"
+                    HPOS="148"
+                    VPOS="1682"
+                    WIDTH="1385"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e4a9eaf"
+                    
+                    BASELINE="145 1815 1513 1819" 
+                    HPOS="143"
+                    VPOS="1764"
+                    WIDTH="1370"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="145 1815 145 1764 1513 1768 1513 1819 1511 1835 143 1830"/></Shape>
+	    <String CONTENT="کرده بودند کشتی ما را کشتی کوچك بخاری میکشید امشب را با کمال"
+                    HPOS="143"
+                    VPOS="1764"
+                    WIDTH="1370"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2ac11fc"
+                    
+                    BASELINE="1211 1908 1533 1908" 
+                    HPOS="1211"
+                    VPOS="1870"
+                    WIDTH="322"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1211 1908 1211 1870 1533 1870 1533 1908 1533 1927 1211 1927"/></Shape>
+	    <String CONTENT="راحت خوابیدیم ."
+                    HPOS="1211"
+                    VPOS="1870"
+                    WIDTH="322"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14784a84"
+                    
+                    BASELINE="926 2020 1518 2020" 
+                    HPOS="926"
+                    VPOS="1974"
+                    WIDTH="592"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="926 2020 926 1974 1518 1974 1518 2020 1518 2033 926 2033"/></Shape>
+	    <String CONTENT="چهارشنبه شانزدهم ربیع الاول"
+                    HPOS="926"
+                    VPOS="1974"
+                    WIDTH="592"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_348a0a83"
+                    
+                    BASELINE="145 2108 1414 2117" 
+                    HPOS="143"
+                    VPOS="2060"
+                    WIDTH="1271"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="145 2108 145 2060 1414 2069 1414 2117 1412 2133 143 2124"/></Shape>
+	    <String CONTENT="وارد حاجی طرخان شدیم صبح برخاسته باطراف نگاه کردم دیدم الحمدلله"
+                    HPOS="143"
+                    VPOS="2060"
+                    WIDTH="1271"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_613892cd"
+                    
+                    BASELINE="145 2197 1524 2208" 
+                    HPOS="143"
+                    VPOS="2146"
+                    WIDTH="1381"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="145 2197 145 2146 1524 2157 1524 2208 1522 2219 143 2208"/></Shape>
+	    <String CONTENT="از دریای بزرک خلاص شده برودخانه وسیعی که اسمش و لگاست رسیده ایم و عجب"
+                    HPOS="143"
+                    VPOS="2146"
+                    WIDTH="1381"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbdbd4d7"
+                    
+                    BASELINE="150 2292 1527 2292" 
+                    HPOS="150"
+                    VPOS="2245"
+                    WIDTH="1377"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="150 2292 150 2245 1527 2245 1527 2292 1527 2305 150 2305"/></Shape>
+	    <String CONTENT=" صفائی دارد باز عرض رودخانه بسیار است جنانکه از همان یك شعبه که ما عبور"
+                    HPOS="150"
+                    VPOS="2245"
+                    WIDTH="1377"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcab9a37"
+                    
+                    BASELINE="148 2380 1527 2380" 
+                    HPOS="148"
+                    VPOS="2329"
+                    WIDTH="1379"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="148 2380 148 2329 1527 2329 1527 2380 1527 2396 148 2396"/></Shape>
+	    <String CONTENT="میکردیم البته هزار ذرع عرض داشت کلوله تفنگ منداولی از این طرف بآن"
+                    HPOS="148"
+                    VPOS="2329"
+                    WIDTH="1379"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c32ea02"
+                    
+                    BASELINE="145 2468 1520 2466" 
+                    HPOS="143"
+                    VPOS="2418"
+                    WIDTH="1377"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="145 2468 143 2420 1518 2418 1520 2466 1520 2484 145 2486"/></Shape>
+	    <String CONTENT="طرف نمیرسد ابش گل الود و بغایت تند مانند دریای مواج روان است سواحل"
+                    HPOS="143"
+                    VPOS="2418"
+                    WIDTH="1377"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

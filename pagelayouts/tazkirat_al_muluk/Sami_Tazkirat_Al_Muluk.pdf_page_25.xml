@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Sami_Tazkirat_Al_Muluk.pdf_page_25.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1481" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1482" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1483" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1484" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1485" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="861"
+                   VPOS="3082"
+                   WIDTH="1166"
+                   HEIGHT="139"
+                   ID="eSc_textblock_8fc12a35"
+                   TAGREFS="BT1483">
+          <Shape><Polygon POINTS="2027 3221 2027 3082 861 3082 861 3221"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="291"
+                   VPOS="2784"
+                   WIDTH="1478"
+                   HEIGHT="172"
+                   ID="eSc_textblock_9d2a1100"
+                   TAGREFS="BT1481">
+          <Shape><Polygon POINTS="291 2784 291 2956 1769 2956 1769 2784"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="397"
+                   VPOS="1565"
+                   WIDTH="1352"
+                   HEIGHT="173"
+                   ID="eSc_textblock_0c4ca4f5"
+                   TAGREFS="BT1481">
+          <Shape><Polygon POINTS="1749 1738 1749 1565 397 1565 397 1738"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="79"
+                   VPOS="2970"
+                   WIDTH="1815"
+                   HEIGHT="92"
+                   ID="eSc_textblock_3016fa5f"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1894 3062 1894 2970 79 2970 79 3062"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="93"
+                   VPOS="1744"
+                   WIDTH="1894"
+                   HEIGHT="1007"
+                   ID="eSc_textblock_d524773a"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1987 2751 1987 1744 93 1744 93 2751"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="106"
+                   VPOS="453"
+                   WIDTH="1894"
+                   HEIGHT="1073"
+                   ID="eSc_textblock_4b36d992"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2000 1526 2000 453 106 453 106 1526"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="967"
+                   VPOS="294"
+                   WIDTH="205"
+                   HEIGHT="106"
+                   ID="eSc_textblock_b960383d"
+                   TAGREFS="BT1485">
+          <Shape><Polygon POINTS="967 294 967 400 1172 400 1172 294"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_e215c3eb"
+                    
+                    BASELINE="122 526 2008 526" 
+                    HPOS="122"
+                    VPOS="456"
+                    WIDTH="1886"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="122 526 122 456 2008 456 2008 526 2008 552 122 552"/></Shape>
+	    <String CONTENT="است. و تيول ومواجب وهمه ساله وبراتی وانعام توابین مشارالیه (13 الف) برطبق"
+                    HPOS="122"
+                    VPOS="456"
+                    WIDTH="1886"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_346cb790"
+                    
+                    BASELINE="128 619 1999 637" 
+                    HPOS="125"
+                    VPOS="558"
+                    WIDTH="1874"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="128 619 128 558 1999 575 1999 637 1996 663 125 646"/></Shape>
+	    <String CONTENT="تجويز عاليجاه مزبور برقم عاليجاه وزير ديوان اعلى رسيده، تنخواه باز يافت. و"
+                    HPOS="125"
+                    VPOS="558"
+                    WIDTH="1874"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40128591"
+                    
+                    BASELINE="122 739 2002 739" 
+                    HPOS="122"
+                    VPOS="675"
+                    WIDTH="1880"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="122 739 122 675 2002 675 2002 739 2002 771 122 771"/></Shape>
+	    <String CONTENT=" خدمت مین باشیگری و یوز باشیگری توپچیان و جارچی باشیگری و جارچیان"
+                    HPOS="122"
+                    VPOS="675"
+                    WIDTH="1880"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f10f80ee"
+                    
+                    BASELINE="119 850 1999 841" 
+                    HPOS="116"
+                    VPOS="774"
+                    WIDTH="1883"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="119 850 116 783 1996 774 1999 841 1999 868 119 877"/></Shape>
+	    <String CONTENT="تویخانه وتوابین ایشان وتعیین مواجب وتیول وهمه سالهٔ کل جماعت مزبوره، بر طبق"
+                    HPOS="116"
+                    VPOS="774"
+                    WIDTH="1883"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1dc6a1e"
+                    
+                    BASELINE="122 953 1996 953" 
+                    HPOS="122"
+                    VPOS="885"
+                    WIDTH="1874"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="122 953 122 885 1996 885 1996 953 1996 976 122 976"/></Shape>
+	    <String CONTENT="عرض عاليجاه، مزبور شففت ، و بعد از تعليفه نمودن عاليجاه وزير دیوان اعلی، رقم"
+                    HPOS="122"
+                    VPOS="885"
+                    WIDTH="1874"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2424d4e5"
+                    
+                    BASELINE="125 1046 1023 1064 1996 1055" 
+                    HPOS="122"
+                    VPOS="973"
+                    WIDTH="1874"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="125 1046 125 973 1023 991 1993 982 1996 1055 1996 1087 1023 1096 1020 1096 122 1078"/></Shape>
+	    <String CONTENT="اشرف صادر میگردد. و امور متعلقه بتوپچیان و توپخانهٔ مبار که را عالیجاه مشارالیه"
+                    HPOS="122"
+                    VPOS="973"
+                    WIDTH="1874"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa1ed47a"
+                    
+                    BASELINE="122 1151 435 1166 1987 1169" 
+                    HPOS="119"
+                    VPOS="1087"
+                    WIDTH="1868"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="122 1151 125 1087 435 1102 1987 1105 1987 1169 1984 1195 432 1192 432 1189 119 1175"/></Shape>
+	    <String CONTENT="بحفیفت رسیده ، تمیز وتشخیص میداده. و ارقام و احکام ملازمت و تیول وهمه ساله"
+                    HPOS="119"
+                    VPOS="1087"
+                    WIDTH="1868"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_681e43f9"
+                    
+                    BASELINE="131 1259 695 1274 1990 1268" 
+                    HPOS="128"
+                    VPOS="1189"
+                    WIDTH="1862"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="131 1259 131 1189 695 1204 1987 1198 1990 1268 1990 1300 695 1306 692 1306 128 1292"/></Shape>
+	    <String CONTENT="وتنخواه براتی وانعام جماعت مذکوره بطغرا (ب) ومهر عالیجاه مشارالیه میرسیده."
+                    HPOS="128"
+                    VPOS="1189"
+                    WIDTH="1862"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7af2c54e"
+                    
+                    BASELINE="125 1382 1993 1382" 
+                    HPOS="125"
+                    VPOS="1324"
+                    WIDTH="1868"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="125 1382 125 1324 1993 1324 1993 1382 1993 1414 125 1414"/></Shape>
+	    <String CONTENT="و نسخهٔ سان توبچیان را وزیر و مستوفی سرکار مزبور در خدمت اشرف، درحضور"
+                    HPOS="125"
+                    VPOS="1324"
+                    WIDTH="1868"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e72dbf30"
+                    
+                    BASELINE="1008 1487 1990 1487" 
+                    HPOS="1008"
+                    VPOS="1435"
+                    WIDTH="982"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1008 1487 1008 1435 1990 1435 1990 1487 1990 1525 1008 1525"/></Shape>
+	    <String CONTENT="عاليجاه معظم اليه، بمعرض عرض ميرسانند."
+                    HPOS="1008"
+                    VPOS="1435"
+                    WIDTH="982"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_650e7a42"
+                    
+                    BASELINE="742 1613 1344 1604" 
+                    HPOS="739"
+                    VPOS="1534"
+                    WIDTH="605"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="742 1613 739 1543 1341 1534 1344 1604 1344 1628 742 1637"/></Shape>
+	    <String CONTENT="فصل دهم از باب دو]"
+                    HPOS="739"
+                    VPOS="1534"
+                    WIDTH="605"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97af25d3"
+                    
+                    BASELINE="400 1698 1686 1707" 
+                    HPOS="397"
+                    VPOS="1634"
+                    WIDTH="1289"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="400 1698 400 1634 1686 1642 1686 1707 1683 1730 397 1721"/></Shape>
+	    <String CONTENT="در بیان شغل عالیجاه امیر آخور باشی جلو است"
+                    HPOS="397"
+                    VPOS="1634"
+                    WIDTH="1289"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35a34355"
+                    
+                    BASELINE="108 1815 1827 1815" 
+                    HPOS="108"
+                    VPOS="1756"
+                    WIDTH="1719"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="108 1815 108 1756 1827 1756 1827 1815 1827 1841 108 1841"/></Shape>
+	    <String CONTENT=" خدهت مشارالیه انست که در حبن ملاحظه1 نمودن نواب کامیاب اسباب"
+                    HPOS="108"
+                    VPOS="1756"
+                    WIDTH="1719"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb55dd98"
+                    
+                    BASELINE="105 1929 1984 1929" 
+                    HPOS="105"
+                    VPOS="1868"
+                    WIDTH="1879"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="105 1929 105 1868 1984 1868 1984 1929 1984 1961 105 1961"/></Shape>
+	    <String CONTENT="طوایل سرکار خاصهٔ شریفه و دواب پیشکشی و غیره که باسطبل می اوردند، ودر"
+                    HPOS="105"
+                    VPOS="1868"
+                    WIDTH="1879"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d1bfb2e"
+                    
+                    BASELINE="102 2034 1976 2040" 
+                    HPOS="99"
+                    VPOS="1976"
+                    WIDTH="1877"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="102 2034 102 1976 1976 1982 1976 2040 1973 2063 99 2058"/></Shape>
+	    <String CONTENT="وفت سواری فرمودن جلوهای خاصه باید حاضر باشند. و نظم ونسق طوایل وتعیین امیر"
+                    HPOS="99"
+                    VPOS="1976"
+                    WIDTH="1877"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_794c2d96"
+                    
+                    BASELINE="99 2136 1631 2151 1964 2139" 
+                    HPOS="96"
+                    VPOS="2066"
+                    WIDTH="1868"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="99 2136 99 2066 1628 2081 1961 2069 1964 2139 1964 2163 1631 2174 1628 2174 96 2160"/></Shape>
+	    <String CONTENT="اخور و مهتران و سقایان طوايل با مشارالیه میباشد. وتعلیفه جات مالازمت جماعت"
+                    HPOS="96"
+                    VPOS="2066"
+                    WIDTH="1868"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_155597cf"
+                    
+                    BASELINE="105 2271 1976 2262" 
+                    HPOS="102"
+                    VPOS="2201"
+                    WIDTH="1874"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="105 2271 102 2210 1973 2201 1976 2262 1976 2288 105 2297"/></Shape>
+	    <String CONTENT="مذکوره وجلوداران خاصه وخادمان وخواجه سرایان و غلامان وسایر عمله را امیر"
+                    HPOS="102"
+                    VPOS="2201"
+                    WIDTH="1874"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3caed3e0"
+                    
+                    BASELINE="99 2385 479 2373 1692 2382 1961 2367" 
+                    HPOS="96"
+                    VPOS="2294"
+                    WIDTH="1865"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="99 2385 96 2312 476 2300 479 2300 967 2306 1689 2309 1955 2294 1961 2367 1961 2397 1692 2411 1689 2411 964 2405 479 2402 99 2414"/></Shape>
+	    <String CONTENT="آخور باشیان جلو مینویسند،1 مینماید، بعد از آن بتصدیق عالیجاه امیر آخور باشی"
+                    HPOS="96"
+                    VPOS="2294"
+                    WIDTH="1865"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_947aee7c"
+                    
+                    BASELINE="105 2473 1502 2487 1973 2473" 
+                    HPOS="102"
+                    VPOS="2411"
+                    WIDTH="1871"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="105 2473 105 2411 1499 2426 1970 2411 1973 2473 1973 2505 1502 2519 1499 2519 102 2505"/></Shape>
+	    <String CONTENT="میاندازند عالیجاه مزبور سوای جلوداران خاصه که جلودار باشی تصدیق مینماید"
+                    HPOS="102"
+                    VPOS="2411"
+                    WIDTH="1871"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13f20aa3"
+                    
+                    BASELINE="93 2595 1970 2581" 
+                    HPOS="90"
+                    VPOS="2516"
+                    WIDTH="1880"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="93 2595 90 2531 1967 2516 1970 2581 1970 2607 93 2622"/></Shape>
+	    <String CONTENT="تتمهٔ عملهٔ اصطبل را که بشرح فوق عرض شده بانعلبندان و بیطاران ایشان تصدیق"
+                    HPOS="90"
+                    VPOS="2516"
+                    WIDTH="1880"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3411bd76"
+                    
+                    BASELINE="114 2686 681 2701 1961 2692" 
+                    HPOS="111"
+                    VPOS="2616"
+                    WIDTH="1850"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="114 2686 114 2616 681 2631 1958 2622 1961 2692 1961 2724 681 2733 678 2733 111 2718"/></Shape>
+	    <String CONTENT="میکنند، وبعداز آن برقم عالیجاه وزیر(24الف) دیوان اعلی رسیده، تنخواه میدهند"
+                    HPOS="111"
+                    VPOS="2616"
+                    WIDTH="1850"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53a969fe"
+                    
+                    BASELINE="719 2821 1297 2812" 
+                    HPOS="716"
+                    VPOS="2742"
+                    WIDTH="581"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="719 2821 716 2750 1295 2742 1297 2812 1297 2838 719 2847"/></Shape>
+	    <String CONTENT="نصل بازدهم از باب دوم"
+                    HPOS="716"
+                    VPOS="2742"
+                    WIDTH="581"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58c5e843"
+                    
+                    BASELINE="315 2923 1730 2914" 
+                    HPOS="312"
+                    VPOS="2850"
+                    WIDTH="1418"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="315 2923 312 2859 1727 2850 1730 2914 1730 2937 315 2946"/></Shape>
+	    <String CONTENT="در بیان تفصیل شغل عالیجاه امیر آخور باشی صحراست"
+                    HPOS="312"
+                    VPOS="2850"
+                    WIDTH="1418"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_effc151e"
+                    
+                    BASELINE="96 3040 1789 3031" 
+                    HPOS="93"
+                    VPOS="2958"
+                    WIDTH="1696"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="96 3040 93 2967 1786 2958 1789 3031 1789 3057 96 3066"/></Shape>
+	    <String CONTENT="حدمت مشارالیه آنست که سال بسال باتفاق ناظر دواب عرض ایلخیهای"
+                    HPOS="93"
+                    VPOS="2958"
+                    WIDTH="1696"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6af8dfbe"
+                    
+                    BASELINE="1020 356 1113 353" 
+                    HPOS="1017"
+                    VPOS="301"
+                    WIDTH="96"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1020 356 1017 304 1110 301 1113 353 1113 377 1020 380"/></Shape>
+	    <String CONTENT="14"
+                    HPOS="1017"
+                    VPOS="301"
+                    WIDTH="96"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70d011eb"
+                    
+                    BASELINE="1090 3145 1818 3157" 
+                    HPOS="1087"
+                    VPOS="3098"
+                    WIDTH="731"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1090 3145 1090 3098 1818 3110 1818 3157 1815 3198 1087 3186"/></Shape>
+	    <String CONTENT="ببارت مابین دوشاره درحاشیه است"
+                    HPOS="1087"
+                    VPOS="3098"
+                    WIDTH="731"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

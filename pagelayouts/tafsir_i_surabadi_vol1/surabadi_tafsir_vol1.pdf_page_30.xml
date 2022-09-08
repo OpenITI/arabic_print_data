@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>surabadi_tafsir_vol1.pdf_page_30.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1458" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1459" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1460" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1461" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1462" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2079"
+          HEIGHT="2954"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2079"
+                  HEIGHT="2954">
+        
+        <TextBlock HPOS="434"
+                   VPOS="326"
+                   WIDTH="1484"
+                   HEIGHT="2340"
+                   ID="eSc_textblock_a1a127ff"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1918 2666 1918 326 434 326 434 2666"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1082"
+                   VPOS="177"
+                   WIDTH="175"
+                   HEIGHT="84"
+                   ID="eSc_textblock_74883e8e"
+                   TAGREFS="BT1458">
+          <Shape><Polygon POINTS="1082 177 1082 255 1257 261 1257 177"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="441"
+                   VPOS="184"
+                   WIDTH="110"
+                   HEIGHT="77"
+                   ID="eSc_textblock_9cc639d3"
+                   TAGREFS="BT1460">
+          <Shape><Polygon POINTS="441 184 441 261 551 261 551 184"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_f786b777"
+                    
+                    BASELINE="450 381 1830 391" 
+                    HPOS="448"
+                    VPOS="320"
+                    WIDTH="1382"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="450 381 450 320 1830 329 1830 391 1827 401 448 391"/></Shape>
+	    <String CONTENT="ابن عباس خواند ویذرک و الاهتک، ای : و عبادتک. الله را الله کفتند لانه"
+                    HPOS="448"
+                    VPOS="320"
+                    WIDTH="1382"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2c7a2cc"
+                    
+                    BASELINE="448 477 1830 482" 
+                    HPOS="445"
+                    VPOS="423"
+                    WIDTH="1385"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="448 477 448 423 1830 428 1830 482 1827 499 445 494"/></Shape>
+	    <String CONTENT="ستحق ان يعبد. گروهی کفتند اشتقاق الله از لاة يلوهٔ کرفتهاند معناه"
+                    HPOS="445"
+                    VPOS="423"
+                    WIDTH="1385"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_716b4954"
+                    
+                    BASELINE="1261 580 1835 580" 
+                    HPOS="1261"
+                    VPOS="534"
+                    WIDTH="574"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1261 580 1261 534 1835 534 1835 580 1835 600 1261 600"/></Shape>
+	    <String CONTENT="احتجب يحتجب. شاعر کوید:"
+                    HPOS="1261"
+                    VPOS="534"
+                    WIDTH="574"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d26bcd20"
+                    
+                    BASELINE="1192 689 1832 684" 
+                    HPOS="1189"
+                    VPOS="627"
+                    WIDTH="643"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1192 689 1189 632 1830 627 1832 684 1832 699 1192 704"/></Shape>
+	    <String CONTENT="لاه ربى عن الخلايق طراً"
+                    HPOS="1189"
+                    VPOS="627"
+                    WIDTH="643"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_abcd7cc9"
+                    
+                    BASELINE="440 689 1101 689" 
+                    HPOS="440"
+                    VPOS="635"
+                    WIDTH="661"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="440 689 440 635 1101 635 1101 689 1101 704 440 704"/></Shape>
+	    <String CONTENT="وهو الله لايرى ويرى هو"
+                    HPOS="440"
+                    VPOS="635"
+                    WIDTH="661"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2861584"
+                    
+                    BASELINE="453 886 1837 881" 
+                    HPOS="450"
+                    VPOS="817"
+                    WIDTH="1387"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="453 886 450 822 1835 817 1837 881 1837 893 453 898"/></Shape>
+	    <String CONTENT="و الله را الله كويند لانه احتجب عن الابصار. گروهی گفتهاند اشتقاق الله از"
+                    HPOS="450"
+                    VPOS="817"
+                    WIDTH="1387"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28471e6a"
+                    
+                    BASELINE="455 992 1827 974" 
+                    HPOS="453"
+                    VPOS="918"
+                    WIDTH="1374"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="455 992 453 935 1825 918 1827 974 1827 992 455 1009"/></Shape>
+	    <String CONTENT="آه گرفتهاند و هو اول نفس یتنفس به العارف فاشتق منه الاسم. اما کروهی"
+                    HPOS="453"
+                    VPOS="918"
+                    WIDTH="1374"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99092ba5"
+                    
+                    BASELINE="455 1088 1827 1078" 
+                    HPOS="453"
+                    VPOS="1024"
+                    WIDTH="1374"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="455 1088 453 1033 1825 1024 1827 1078 1827 1092 455 1102"/></Shape>
+	    <String CONTENT="كفتهاند الله خود مشتق نيست. خليل احمد كويد لايطرح الالف من الاسم"
+                    HPOS="453"
+                    VPOS="1024"
+                    WIDTH="1374"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11b4f102"
+                    
+                    BASELINE="450 1179 1123 1191 1842 1176" 
+                    HPOS="448"
+                    VPOS="1117"
+                    WIDTH="1394"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="450 1179 450 1120 1120 1132 1840 1117 1842 1176 1842 1193 1123 1208 1120 1208 448 1196"/></Shape>
+	    <String CONTENT="انما هو الله على التمام. اما رحمن و رحيم، ابن عباس كويد: همان اسمان"
+                    HPOS="448"
+                    VPOS="1117"
+                    WIDTH="1394"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_327460e3"
+                    
+                    BASELINE="453 1289 1837 1277" 
+                    HPOS="450"
+                    VPOS="1223"
+                    WIDTH="1387"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="453 1289 450 1235 1835 1223 1837 1277 1837 1292 453 1304"/></Shape>
+	    <String CONTENT="رفيقان احدهما ارفق من الآخر كالندمان و النديم. و اشتقاق رحمن و رحيم"
+                    HPOS="450"
+                    VPOS="1223"
+                    WIDTH="1387"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_558b7268"
+                    
+                    BASELINE="453 1380 1842 1385" 
+                    HPOS="450"
+                    VPOS="1331"
+                    WIDTH="1392"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="453 1380 453 1331 1842 1336 1842 1385 1840 1398 450 1393"/></Shape>
+	    <String CONTENT="و هر دو از رحمت است، و الرحمة صفة توجب الاحسان و الغفران؛ و"
+                    HPOS="450"
+                    VPOS="1331"
+                    WIDTH="1392"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5150eceb"
+                    
+                    BASELINE="455 1489 1844 1474" 
+                    HPOS="453"
+                    VPOS="1420"
+                    WIDTH="1391"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="455 1489 453 1435 1842 1420 1844 1474 1844 1491 455 1506"/></Shape>
+	    <String CONTENT="اشتقاق رحمت از رحم است، رحم را رحم کویند لانها تشتمل على الحنين"
+                    HPOS="453"
+                    VPOS="1420"
+                    WIDTH="1391"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9109513f"
+                    
+                    BASELINE="487 1575 1837 1580" 
+                    HPOS="485"
+                    VPOS="1523"
+                    WIDTH="1352"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="487 1575 487 1523 1837 1528 1837 1580 1835 1597 485 1592"/></Shape>
+	    <String CONTENT="بالوقاية و الكفاية، كذلك الرحمة تشتمل على العبد بالوقاية والكفاية."
+                    HPOS="485"
+                    VPOS="1523"
+                    WIDTH="1352"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4418419c"
+                    
+                    BASELINE="453 1686 1773 1678" 
+                    HPOS="450"
+                    VPOS="1622"
+                    WIDTH="1323"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="453 1686 450 1629 1771 1622 1773 1678 1773 1688 453 1696"/></Shape>
+	    <String CONTENT="اما در سؤال و اشكال آن، سؤال : با حرف الصاق است و الصاق را"
+                    HPOS="450"
+                    VPOS="1622"
+                    WIDTH="1323"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef9d607b"
+                    
+                    BASELINE="455 1782 1844 1782" 
+                    HPOS="455"
+                    VPOS="1728"
+                    WIDTH="1389"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="455 1782 455 1728 1844 1728 1844 1782 1844 1801 455 1801"/></Shape>
+	    <String CONTENT=" ملصق به باید تا سخن تمام بود و حکمی باشد نبینی اکر کسی کوید بالقلم"
+                    HPOS="455"
+                    VPOS="1728"
+                    WIDTH="1389"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76f66fed"
+                    
+                    BASELINE="453 1888 1844 1878" 
+                    HPOS="450"
+                    VPOS="1816"
+                    WIDTH="1394"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="453 1888 450 1826 1842 1816 1844 1878 1844 1893 453 1902"/></Shape>
+	    <String CONTENT="بالسكین سخن ناقص بود فاما اگر گوید کتبت بالقلم، قطعت بالسکین"
+                    HPOS="450"
+                    VPOS="1816"
+                    WIDTH="1394"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ff10a00"
+                    
+                    BASELINE="455 1991 667 1979 1229 1989 1830 1974" 
+                    HPOS="450"
+                    VPOS="1910"
+                    WIDTH="1380"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="455 1991 450 1927 662 1915 667 1915 987 1920 1226 1925 1827 1910 1830 1974 1830 1991 1229 2006 1226 2006 987 2003 667 1996 455 2008"/></Shape>
+	    <String CONTENT="آنگه سخن تمام بود، پس ملصق این با چیست؟ جواب گفتهاند ملصق این"
+                    HPOS="450"
+                    VPOS="1910"
+                    WIDTH="1380"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e064b11"
+                    
+                    BASELINE="453 2077 1844 2077" 
+                    HPOS="453"
+                    VPOS="2023"
+                    WIDTH="1391"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="453 2077 453 2023 1844 2023 1844 2077 1844 2097 453 2097"/></Shape>
+	    <String CONTENT="با ضمیر است چنانکه ابن عباس کفت بسم الله معناه آبدأ بسم الله، و کفتهاند"
+                    HPOS="453"
+                    VPOS="2023"
+                    WIDTH="1391"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4a00bf8"
+                    
+                    BASELINE="458 2185 1840 2176" 
+                    HPOS="455"
+                    VPOS="2117"
+                    WIDTH="1385"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="458 2185 455 2126 1837 2117 1840 2176 1840 2193 458 2203"/></Shape>
+	    <String CONTENT="ضميره ابدؤا بسم الله و افتتحوا بسم الله. و كفتهاند ملصق اين با به آخر"
+                    HPOS="455"
+                    VPOS="2117"
+                    WIDTH="1385"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03dd4846"
+                    
+                    BASELINE="453 2286 1844 2274" 
+                    HPOS="450"
+                    VPOS="2222"
+                    WIDTH="1394"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="453 2286 450 2235 1842 2222 1844 2274 1844 2291 453 2304"/></Shape>
+	    <String CONTENT="است معناه بسم الله الرحمن آلرحيم الحمدلله رب العالمين؛ همچنين در"
+                    HPOS="450"
+                    VPOS="2222"
+                    WIDTH="1394"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d9bcaa9"
+                    
+                    BASELINE="455 2373 1842 2377" 
+                    HPOS="453"
+                    VPOS="2326"
+                    WIDTH="1389"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="455 2373 455 2326 1842 2331 1842 2377 1840 2400 453 2395"/></Shape>
+	    <String CONTENT="همه مواضع. سؤال: باء بسم الله را چرا به کسر کردند نه به فتح بعدما که"
+                    HPOS="453"
+                    VPOS="2326"
+                    WIDTH="1389"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_445bbcda"
+                    
+                    BASELINE="453 2478 1837 2473" 
+                    HPOS="450"
+                    VPOS="2422"
+                    WIDTH="1387"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="453 2478 450 2427 1835 2422 1837 2473 1837 2493 453 2498"/></Shape>
+	    <String CONTENT="الفتح اخف الحركات؟ جواب كفتهاند با در اصل ساکن است و الساکن اذا"
+                    HPOS="450"
+                    VPOS="2422"
+                    WIDTH="1387"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_930671c9"
+                    
+                    BASELINE="455 2592 1837 2577" 
+                    HPOS="453"
+                    VPOS="2515"
+                    WIDTH="1384"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="455 2592 453 2530 1835 2515 1837 2577 1837 2592 455 2606"/></Shape>
+	    <String CONTENT="خرک خرک الی الکسر؛ و جوابی دیگر گفتهاند با در حروف تهجی مبنی"
+                    HPOS="453"
+                    VPOS="2515"
+                    WIDTH="1384"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23d1a75c"
+                    
+                    BASELINE="1096 226 1197 228" 
+                    HPOS="1093"
+                    VPOS="184"
+                    WIDTH="104"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1096 226 1096 184 1197 187 1197 228 1194 273 1093 270"/></Shape>
+	    <String CONTENT="افتتاح"
+                    HPOS="1093"
+                    VPOS="184"
+                    WIDTH="104"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95acdf4b"
+                    
+                    BASELINE="460 228 502 224" 
+                    HPOS="455"
+                    VPOS="184"
+                    WIDTH="47"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="460 228 455 189 497 184 502 224 502 238 460 243"/></Shape>
+	    <String CONTENT="13"
+                    HPOS="455"
+                    VPOS="184"
+                    WIDTH="47"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e15eeba9"
+                    
+                    BASELINE="347 1484 369 1484" 
+                    HPOS="347"
+                    VPOS="1447"
+                    WIDTH="22"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="347 1484 347 1447 369 1447 369 1484 369 1496 347 1496"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="347"
+                    VPOS="1447"
+                    WIDTH="22"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>tafsir_ruya_al_qiddis_yuhanna_al_lahuti.pdf_page_6.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT374" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT375" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT551" LABEL="Caption" DESCRIPTION="block type Caption"/><OtherTag ID="BT552" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2081"
+          HEIGHT="3051"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2081"
+                  HEIGHT="3051">
+        
+        <TextBlock HPOS="257"
+                   VPOS="578"
+                   WIDTH="1802"
+                   HEIGHT="1929"
+                   ID="eSc_textblock_13b05399"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="257 578 257 2507 2059 2507 2059 578"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>tafsir_ruya_al_qiddis_yuhanna_al_lahuti.pdf_page_7.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT374" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT375" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT551" LABEL="Caption" DESCRIPTION="block type Caption"/><OtherTag ID="BT552" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2085"
+          HEIGHT="3051"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2085"
+                  HEIGHT="3051">
+        
+        <TextBlock HPOS="243"
+                   VPOS="274"
+                   WIDTH="1468"
+                   HEIGHT="1090"
+                   ID="eSc_textblock_437ba6a5"
+                   TAGREFS="BT4">
+          <Shape><Polygon POINTS="243 274 243 1364 1711 1364 1711 274"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="777"
+                   VPOS="1444"
+                   WIDTH="371"
+                   HEIGHT="120"
+                   ID="eSc_textblock_5a2e5d01"
+                   TAGREFS="BT375">
+          <Shape><Polygon POINTS="777 1444 777 1564 1148 1564 1148 1444"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="120"
+                   VPOS="1614"
+                   WIDTH="1667"
+                   HEIGHT="996"
+                   ID="eSc_textblock_c2981875"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="120 1614 120 2610 1787 2610 1787 1614"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00039.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1537" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1538" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1539" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1540" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1541" LABEL="Page number" DESCRIPTION="block type Page number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1869"
+          HEIGHT="2604"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1869"
+                  HEIGHT="2604">
+        
+        <TextBlock HPOS="390"
+                   VPOS="406"
+                   WIDTH="1368"
+                   HEIGHT="1858"
+                   ID="eSc_textblock_cf9721af"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1708 2264 1758 446 439 406 390 2264"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="494"
+                   VPOS="306"
+                   WIDTH="385"
+                   HEIGHT="65"
+                   ID="eSc_textblock_7f6d2407"
+                   TAGREFS="BT1537">
+          <Shape><Polygon POINTS="494 306 494 371 879 371 879 306"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1648"
+                   VPOS="356"
+                   WIDTH="105"
+                   HEIGHT="45"
+                   ID="eSc_textblock_baf98d2e"
+                   TAGREFS="BT1541">
+          <Shape><Polygon POINTS="1648 356 1648 401 1753 401 1753 356"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_81f9a99b"
+                    
+                    BASELINE="1667 384 1730 388" 
+                    HPOS="1664"
+                    VPOS="355"
+                    WIDTH="66"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1667 384 1667 355 1730 360 1730 388 1727 403 1664 399"/></Shape>
+	    <String CONTENT="25"
+                    HPOS="1664"
+                    VPOS="355"
+                    WIDTH="66"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbd7c779"
+                    
+                    BASELINE="473 468 787 468 1725 499" 
+                    HPOS="473"
+                    VPOS="420"
+                    WIDTH="1252"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="473 468 473 420 787 420 787 420 1725 451 1725 499 1723 516 785 486 473 486"/></Shape>
+	    <String CONTENT="ا یکدیگر باز کوشند و برابر آیند و آن دو دیگر که بماند یکی قوی"
+                    HPOS="473"
+                    VPOS="420"
+                    WIDTH="1252"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36f10193"
+                    
+                    BASELINE="468 542 1730 581" 
+                    HPOS="466"
+                    VPOS="494"
+                    WIDTH="1264"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="468 542 468 494 1730 533 1730 581 1727 596 466 557"/></Shape>
+	    <String CONTENT="ثر آید و یکی ضعیف تر مزاج اندر آن دو کیفیت که برابر آیند معتدل"
+                    HPOS="466"
+                    VPOS="494"
+                    WIDTH="1264"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7dcbcb2"
+                    
+                    BASELINE="468 624 1727 657" 
+                    HPOS="466"
+                    VPOS="577"
+                    WIDTH="1261"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="468 624 468 577 1727 609 1727 657 1725 672 466 640"/></Shape>
+	    <String CONTENT="باشد . و این دو کیفیت دیگر که یکی قوی تر آید و دیگر ضعیف تر"
+                    HPOS="466"
+                    VPOS="577"
+                    WIDTH="1261"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9054dae"
+                    
+                    BASELINE="464 705 935 703 1717 733" 
+                    HPOS="462"
+                    VPOS="653"
+                    WIDTH="1255"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="464 705 462 655 933 653 935 653 1717 683 1717 733 1714 755 933 724 464 726"/></Shape>
+	    <String CONTENT="زاج را بدین کیفیت قوی تر باز خوانند . چنانکه اندر سردی و کرمی"
+                    HPOS="462"
+                    VPOS="653"
+                    WIDTH="1255"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e92fd24"
+                    
+                    BASELINE="460 768 1727 805" 
+                    HPOS="458"
+                    VPOS="720"
+                    WIDTH="1269"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="460 768 460 720 1727 757 1727 805 1725 820 458 783"/></Shape>
+	    <String CONTENT="معتدل باشند و خشکی بر تری غلبه کند گویند مزاج خشك است ، و اگر"
+                    HPOS="458"
+                    VPOS="720"
+                    WIDTH="1269"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3c2a212"
+                    
+                    BASELINE="460 854 1354 868 1719 889" 
+                    HPOS="458"
+                    VPOS="807"
+                    WIDTH="1263"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="460 854 460 807 1354 820 1356 820 1721 841 1719 889 1717 907 1352 885 458 872"/></Shape>
+	    <String CONTENT="تری بر خشکی غلبه کند گویند مزاج تر است ، و اگر اندر تری و خشکی"
+                    HPOS="458"
+                    VPOS="807"
+                    WIDTH="1263"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6957f2b"
+                    
+                    BASELINE="453 924 1074 939 1380 961 1721 959" 
+                    HPOS="451"
+                    VPOS="870"
+                    WIDTH="1270"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="453 924 453 870 1074 885 1076 885 1117 887 1380 907 1719 904 1721 959 1721 980 1380 983 1378 983 1113 963 1072 961 451 946"/></Shape>
+	    <String CONTENT="معتدل آید و گرمی بر سردی غلبه کند گویند مزاج گرم است ، و اگر"
+                    HPOS="451"
+                    VPOS="870"
+                    WIDTH="1270"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dff76398"
+                    
+                    BASELINE="453 1002 1719 1043" 
+                    HPOS="451"
+                    VPOS="956"
+                    WIDTH="1268"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="453 1002 453 956 1719 998 1719 1043 1717 1061 451 1019"/></Shape>
+	    <String CONTENT="سردی بر گرمی غلبه کند گویند مزاج سرد است . این نوع مزاجها را"
+                    HPOS="451"
+                    VPOS="956"
+                    WIDTH="1268"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d8adb8e"
+                    
+                    BASELINE="455 1076 883 1085 1254 1108 1708 1113" 
+                    HPOS="453"
+                    VPOS="1024"
+                    WIDTH="1255"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="455 1076 455 1024 883 1032 885 1032 996 1041 1254 1056 1708 1061 1708 1113 1706 1132 1252 1128 1252 1128 994 1113 881 1104 453 1095"/></Shape>
+	    <String CONTENT="بزاج مفرد گویند ، و این چهار مزاج مفرد است که یاد کرده آمد ، و"
+                    HPOS="453"
+                    VPOS="1024"
+                    WIDTH="1255"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_170b7de7"
+                    
+                    BASELINE="434 1156 1224 1180 1426 1195 1708 1195" 
+                    HPOS="431"
+                    VPOS="1108"
+                    WIDTH="1277"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="434 1156 434 1108 1224 1132 1226 1132 1232 1132 1426 1147 1708 1147 1708 1195 1708 1213 1426 1213 1424 1213 1230 1197 1222 1197 431 1173"/></Shape>
+	    <String CONTENT="فزون ازین مزاجی مفرد نیست از بهر آنکه ارکان فزون از چهار نیست"
+                    HPOS="431"
+                    VPOS="1108"
+                    WIDTH="1277"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4153cc8d"
+                    
+                    BASELINE="442 1236 1708 1275" 
+                    HPOS="440"
+                    VPOS="1186"
+                    WIDTH="1268"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="442 1236 442 1186 1708 1226 1708 1275 1706 1291 440 1252"/></Shape>
+	    <String CONTENT="و هر گاه که هیچ دو کیفیتی با یکدیگر برابر نیایند لکن دو کیفیت غالب"
+                    HPOS="440"
+                    VPOS="1186"
+                    WIDTH="1268"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c4d3b5d"
+                    
+                    BASELINE="440 1317 1018 1328 1298 1345 1710 1345" 
+                    HPOS="438"
+                    VPOS="1265"
+                    WIDTH="1272"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="440 1317 440 1265 1018 1275 1020 1275 1068 1278 1298 1293 1710 1293 1710 1345 1710 1364 1298 1364 1295 1364 1065 1351 1015 1347 438 1336"/></Shape>
+	    <String CONTENT="شود و دو مغلوب چهار مزاج مرکب پدید آید : گرم و خشك ، و گرم و"
+                    HPOS="438"
+                    VPOS="1265"
+                    WIDTH="1272"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a478a44"
+                    
+                    BASELINE="438 1388 1704 1421" 
+                    HPOS="436"
+                    VPOS="1347"
+                    WIDTH="1268"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="438 1388 438 1347 1704 1380 1704 1421 1701 1434 436 1401"/></Shape>
+	    <String CONTENT="قر ، و سرد و خشك ، و سرد و تر.، فزون ازین ممکن نیست از بهر"
+                    HPOS="436"
+                    VPOS="1347"
+                    WIDTH="1268"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32839619"
+                    
+                    BASELINE="434 1453 581 1466 903 1466 1408 1490 1686 1492" 
+                    HPOS="431"
+                    VPOS="1403"
+                    WIDTH="1255"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="434 1453 438 1403 583 1417 848 1417 903 1417 905 1417 1007 1421 1408 1440 1686 1443 1686 1492 1684 1512 1406 1510 1406 1510 1000 1490 900 1486 850 1486 581 1486 579 1486 431 1473"/></Shape>
+	    <String CONTENT="نکه اگر مزاج پنجم صورة بندد ، واجب کند که اندر آن مزاج یك"
+                    HPOS="431"
+                    VPOS="1403"
+                    WIDTH="1255"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab45384c"
+                    
+                    BASELINE="440 1532 1684 1564" 
+                    HPOS="438"
+                    VPOS="1492"
+                    WIDTH="1246"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="440 1532 440 1492 1684 1525 1684 1564 1682 1581 438 1549"/></Shape>
+	    <String CONTENT="كيفيت اندر يك حال هم غالب باشد و هم مغلوب، و اين محال است ،"
+                    HPOS="438"
+                    VPOS="1492"
+                    WIDTH="1246"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34b429b2"
+                    
+                    BASELINE="427 1603 1686 1642" 
+                    HPOS="425"
+                    VPOS="1558"
+                    WIDTH="1261"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="427 1603 427 1558 1686 1597 1686 1642 1684 1660 425 1620"/></Shape>
+	    <String CONTENT="ز بهر آنکه ممکن نیست که مزاجی باشد گرم و سرد ، و یا مزاجی باشد"
+                    HPOS="425"
+                    VPOS="1558"
+                    WIDTH="1261"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2808a041"
+                    
+                    BASELINE="423 1681 712 1699 1693 1716" 
+                    HPOS="421"
+                    VPOS="1636"
+                    WIDTH="1272"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="423 1681 425 1636 712 1651 1693 1668 1693 1716 1691 1733 709 1716 709 1716 421 1699"/></Shape>
+	    <String CONTENT="خشك و تر . و ممکن است که اندر بعضی جسمها هر چهار کیفیت با"
+                    HPOS="421"
+                    VPOS="1636"
+                    WIDTH="1272"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0336afde"
+                    
+                    BASELINE="423 1751 1128 1788 1691 1794" 
+                    HPOS="421"
+                    VPOS="1694"
+                    WIDTH="1270"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="423 1751 425 1694 1128 1731 1691 1738 1691 1794 1688 1811 1126 1805 1126 1805 421 1768"/></Shape>
+	    <String CONTENT="یکدیگر باز کوشند ، و هر چهار برابر آیند تا کیفیتی راست پدید آید،"
+                    HPOS="421"
+                    VPOS="1694"
+                    WIDTH="1270"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df8fad22"
+                    
+                    BASELINE="1211 1864 1673 1872" 
+                    HPOS="1209"
+                    VPOS="1818"
+                    WIDTH="464"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1211 1864 1211 1818 1673 1827 1673 1872 1671 1890 1209 1881"/></Shape>
+	    <String CONTENT="آنرا معتدل واستينی گویند ."
+                    HPOS="1209"
+                    VPOS="1818"
+                    WIDTH="464"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f57ca7e"
+                    
+                    BASELINE="410 1913 514 1909 1573 1950" 
+                    HPOS="408"
+                    VPOS="1861"
+                    WIDTH="1165"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="410 1913 408 1866 512 1861 514 1861 1573 1903 1573 1950 1571 1968 514 1926 410 1931"/></Shape>
+	    <String CONTENT="پس چون اندر مزاجها نگاه کرده شود ، مزاج نه است : یکی معتدل"
+                    HPOS="408"
+                    VPOS="1861"
+                    WIDTH="1165"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50997d11"
+                    
+                    BASELINE="405 1979 1677 2024" 
+                    HPOS="403"
+                    VPOS="1935"
+                    WIDTH="1274"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="405 1979 405 1935 1677 1981 1677 2024 1675 2039 403 1994"/></Shape>
+	    <String CONTENT="و چهار مفرد ، و چهار مرکب ، چنانکه یاد کرده آمد ، مزاج معتدل"
+                    HPOS="403"
+                    VPOS="1935"
+                    WIDTH="1274"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5eda3799"
+                    
+                    BASELINE="410 2070 761 2068 1673 2096" 
+                    HPOS="408"
+                    VPOS="2024"
+                    WIDTH="1265"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="410 2070 408 2026 759 2024 761 2024 1673 2052 1673 2096 1671 2113 759 2085 410 2087"/></Shape>
+	    <String CONTENT="از روی قسمت عقلی ، معتدل راستينی باشد ، و معتدل راستینی چیزی"
+                    HPOS="408"
+                    VPOS="2024"
+                    WIDTH="1265"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd8400e8"
+                    
+                    BASELINE="401 2130 1345 2165 1667 2165" 
+                    HPOS="399"
+                    VPOS="2081"
+                    WIDTH="1268"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="401 2130 401 2081 1345 2115 1667 2115 1667 2165 1667 2185 1345 2185 1343 2183 399 2148"/></Shape>
+	    <String CONTENT="باشد که ترکیب اجزای ارکان اندر وی راستاراست باشد ، و قوت کیفیتها"
+                    HPOS="399"
+                    VPOS="2081"
+                    WIDTH="1268"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d38a23f"
+                    
+                    BASELINE="401 2204 1649 2241" 
+                    HPOS="399"
+                    VPOS="2163"
+                    WIDTH="1250"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="401 2204 401 2163 1649 2200 1649 2241 1647 2263 399 2226"/></Shape>
+	    <String CONTENT="يكديگر برابر باشد ، و این اعتدال اندر جهان موجود نیست ، ونزدیك"
+                    HPOS="399"
+                    VPOS="2163"
+                    WIDTH="1250"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0131b1c"
+                    
+                    BASELINE="488 355 842 360" 
+                    HPOS="486"
+                    VPOS="325"
+                    WIDTH="356"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="488 355 488 325 842 329 842 360 840 373 486 368"/></Shape>
+	    <String CONTENT="گفتار دوم ، باب نخستین"
+                    HPOS="486"
+                    VPOS="325"
+                    WIDTH="356"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6b8581f"
+                    
+                    BASELINE="353 1160 418 1156" 
+                    HPOS="349"
+                    VPOS="1121"
+                    WIDTH="69"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="353 1160 349 1126 414 1121 418 1156 418 1167 353 1171"/></Shape>
+	    <String CONTENT="10"
+                    HPOS="349"
+                    VPOS="1121"
+                    WIDTH="69"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e22f8420"
+                    
+                    BASELINE="345 1540 379 1536" 
+                    HPOS="336"
+                    VPOS="1475"
+                    WIDTH="46"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="345 1540 336 1479 371 1475 379 1536 382 1553 347 1558"/></Shape>
+	    <String CONTENT="14"
+                    HPOS="336"
+                    VPOS="1475"
+                    WIDTH="46"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a1b4ffd"
+                    
+                    BASELINE="319 1916 366 1911" 
+                    HPOS="314"
+                    VPOS="1864"
+                    WIDTH="52"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="319 1916 314 1868 362 1864 366 1911 366 1926 319 1931"/></Shape>
+	    <String CONTENT="20"
+                    HPOS="314"
+                    VPOS="1864"
+                    WIDTH="52"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

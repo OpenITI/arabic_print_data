@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>kitabi_ayn_al_hayat_majlisi_w5C1mWJ.pdf_page_1.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1158" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1159" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1160" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2006"
+          HEIGHT="2768"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2006"
+                  HEIGHT="2768">
+        
+        <TextBlock HPOS="258"
+                   VPOS="166"
+                   WIDTH="275"
+                   HEIGHT="90"
+                   ID="eSc_textblock_5c544340"
+                   TAGREFS="BT1159">
+          <Shape><Polygon POINTS="514 166 533 246 323 256 258 228 267 175 332 166"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_761123b9"
+                    
+                    BASELINE="272 216 507 216" 
+                    HPOS="272"
+                    VPOS="170"
+                    WIDTH="235"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="272 216 272 170 507 170 507 216 507 239 272 239"/></Shape>
+	    <String CONTENT="درحا کتاب"
+                    HPOS="272"
+                    VPOS="170"
+                    WIDTH="235"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="203"
+                   VPOS="321"
+                   WIDTH="1735"
+                   HEIGHT="2193"
+                   ID="eSc_textblock_1122ce73"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="203 321 203 2514 1938 2514 1938 321"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="989"
+                   VPOS="2546"
+                   WIDTH="160"
+                   HEIGHT="96"
+                   ID="eSc_textblock_e4a8d658"
+                   TAGREFS="BT1160">
+          <Shape><Polygon POINTS="989 2546 989 2642 1149 2642 1149 2546"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

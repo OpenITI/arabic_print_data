@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ibn_sina_risalah_judiyah.pdf_page_9.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1390" LABEL="Running title" DESCRIPTION="block type Running title"/><OtherTag ID="BT1391" LABEL="Head" DESCRIPTION="block type Head"/><OtherTag ID="BT1392" LABEL="Page number" DESCRIPTION="block type Page number"/><OtherTag ID="BT1393" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT1394" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1710"
+          HEIGHT="2433"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1710"
+                  HEIGHT="2433">
+        
+        <TextBlock HPOS="624"
+                   VPOS="167"
+                   WIDTH="233"
+                   HEIGHT="50"
+                   ID="eSc_textblock_234e89aa"
+                   TAGREFS="BT1390">
+          <Shape><Polygon POINTS="624 167 624 217 857 217 857 167"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="77"
+                   VPOS="247"
+                   WIDTH="1344"
+                   HEIGHT="1751"
+                   ID="eSc_textblock_8241e48c"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1421 1998 1421 247 77 247 77 1998"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="73"
+                   VPOS="2011"
+                   WIDTH="1321"
+                   HEIGHT="174"
+                   ID="eSc_textblock_06d2a723"
+                   TAGREFS="BT1394">
+          <Shape><Polygon POINTS="1394 2131 1394 2011 73 2011 73 2185"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="684"
+                   VPOS="2205"
+                   WIDTH="93"
+                   HEIGHT="56"
+                   ID="eSc_textblock_7e913f8b"
+                   TAGREFS="BT1392">
+          <Shape><Polygon POINTS="777 2261 777 2205 684 2205 684 2261"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_4907a742"
+                    
+                    BASELINE="81 300 324 314 549 308 1156 316 1365 306" 
+                    HPOS="79"
+                    VPOS="247"
+                    WIDTH="1286"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="81 300 83 247 324 261 547 255 549 255 1154 263 1361 253 1365 306 1365 332 1156 342 1154 342 549 334 324 340 322 340 79 326"/></Shape>
+	    <String CONTENT="مجامع روحانی روم شرقسی بدعت در دین گذاردهاند بایران و سایر ممالك"
+                    HPOS="79"
+                    VPOS="247"
+                    WIDTH="1286"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65db6245"
+                    
+                    BASELINE="872 393 1363 397" 
+                    HPOS="870"
+                    VPOS="348"
+                    WIDTH="493"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="872 393 872 348 1363 352 1363 397 1361 417 870 413"/></Shape>
+	    <String CONTENT="خاورمیانه تبعید گردیدند ."
+                    HPOS="870"
+                    VPOS="348"
+                    WIDTH="493"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_398c152d"
+                    
+                    BASELINE="83 488 1235 482" 
+                    HPOS="81"
+                    VPOS="433"
+                    WIDTH="1154"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="83 488 81 439 1233 433 1235 482 1235 502 83 508"/></Shape>
+	    <String CONTENT="از طرف دیگر میدانیم شایور دومین پادشاه ساسانی فرزند اردشیر"
+                    HPOS="81"
+                    VPOS="433"
+                    WIDTH="1154"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63295dc5"
+                    
+                    BASELINE="81 575 1359 571" 
+                    HPOS="79"
+                    VPOS="523"
+                    WIDTH="1280"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="81 575 79 527 1357 523 1359 571 1359 590 81 594"/></Shape>
+	    <String CONTENT="بابکان مؤسس سلسلهٔ باعظمت ساسانی یس از شکست دادن و اسیر کردن"
+                    HPOS="79"
+                    VPOS="523"
+                    WIDTH="1280"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92109914"
+                    
+                    BASELINE="81 658 1361 671" 
+                    HPOS="79"
+                    VPOS="604"
+                    WIDTH="1282"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="81 658 81 604 1361 616 1361 671 1359 687 79 675"/></Shape>
+	    <String CONTENT="والرین امپراطور روم و تاراج شهر معروف انطاکیه در محلی که طرف"
+                    HPOS="79"
+                    VPOS="604"
+                    WIDTH="1282"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd6a364a"
+                    
+                    BASELINE="81 754 1352 750" 
+                    HPOS="79"
+                    VPOS="697"
+                    WIDTH="1273"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="81 754 79 701 1350 697 1352 750 1352 766 81 770"/></Shape>
+	    <String CONTENT="جنوب شرقی دزفول حالته است شهری ساخت که آن را (واندوشایور)"
+                    HPOS="79"
+                    VPOS="697"
+                    WIDTH="1273"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3456a81"
+                    
+                    BASELINE="83 833 955 843 1361 831" 
+                    HPOS="81"
+                    VPOS="776"
+                    WIDTH="1280"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="83 833 83 778 953 788 1359 776 1361 831 1361 855 955 867 953 867 81 857"/></Shape>
+	    <String CONTENT="نامید که معنی آن شهر شایور بهتر از انطا کیه است بوده و تدریجا"
+                    HPOS="81"
+                    VPOS="776"
+                    WIDTH="1280"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d03e8b6"
+                    
+                    BASELINE="81 930 1320 920" 
+                    HPOS="79"
+                    VPOS="867"
+                    WIDTH="1241"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="81 930 79 877 1318 867 1320 920 1320 934 81 944"/></Shape>
+	    <String CONTENT="گندی شایور که معرب آن جند یسابور است و کاهی جندی شاپور"
+                    HPOS="79"
+                    VPOS="867"
+                    WIDTH="1241"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2300631d"
+                    
+                    BASELINE="732 1011 1361 1011" 
+                    HPOS="732"
+                    VPOS="967"
+                    WIDTH="629"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="732 1011 732 967 1361 967 1361 1011 1361 1029 732 1029"/></Shape>
+	    <String CONTENT="وامثال آن نیز نام برده شده است ."
+                    HPOS="732"
+                    VPOS="967"
+                    WIDTH="629"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09f430ab"
+                    
+                    BASELINE="81 1102 1233 1098" 
+                    HPOS="79"
+                    VPOS="1048"
+                    WIDTH="1154"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="81 1102 79 1052 1231 1048 1233 1098 1233 1115 81 1119"/></Shape>
+	    <String CONTENT="سکنهٔ این شهر حسب الامر شایور از تبعید شد گان انطاکته و"
+                    HPOS="79"
+                    VPOS="1048"
+                    WIDTH="1154"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf058d51"
+                    
+                    BASELINE="85 1184 858 1192 1355 1182" 
+                    HPOS="83"
+                    VPOS="1125"
+                    WIDTH="1272"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="85 1184 85 1127 856 1135 1352 1125 1355 1182 1355 1204 858 1214 856 1214 83 1206"/></Shape>
+	    <String CONTENT="اسرای آنجا (شاید با آنها یونانیها هم بوده باشند) تشکیل گردید ،"
+                    HPOS="83"
+                    VPOS="1125"
+                    WIDTH="1272"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51e81057"
+                    
+                    BASELINE="79 1281 255 1273 1359 1277" 
+                    HPOS="75"
+                    VPOS="1218"
+                    WIDTH="1284"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="79 1281 75 1226 251 1218 255 1218 1359 1222 1359 1277 1357 1295 255 1291 79 1299"/></Shape>
+	    <String CONTENT="سپس این شهر درزمان شایور دوم اقامتگاه شاهانه شد و میگویند شایور"
+                    HPOS="75"
+                    VPOS="1218"
+                    WIDTH="1284"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79670d08"
+                    
+                    BASELINE="77 1370 1361 1360" 
+                    HPOS="75"
+                    VPOS="1309"
+                    WIDTH="1286"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="77 1370 75 1319 1359 1309 1361 1360 1361 1378 77 1388"/></Shape>
+	    <String CONTENT=" دوم یکی ازاطبای یونانی موسوم به تثٔودوزیوس1 یا تثودوروس را برای"
+                    HPOS="75"
+                    VPOS="1309"
+                    WIDTH="1286"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e681360"
+                    
+                    BASELINE="77 1445 651 1453 1363 1439" 
+                    HPOS="75"
+                    VPOS="1392"
+                    WIDTH="1288"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="77 1445 77 1398 649 1407 1361 1392 1363 1439 1363 1463 651 1478 649 1478 75 1469"/></Shape>
+	    <String CONTENT="معالجهٔ خود بآنجا طلبید و این طبیب مسیحی مورد توجه و مرحمت پادشاه"
+                    HPOS="75"
+                    VPOS="1392"
+                    WIDTH="1288"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e849a244"
+                    
+                    BASELINE="73 1542 1357 1536" 
+                    HPOS="70"
+                    VPOS="1480"
+                    WIDTH="1287"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="73 1542 70 1486 1355 1480 1357 1536 1357 1551 73 1557"/></Shape>
+	    <String CONTENT="قرارگرفت، شایور امرداد که برای او کلیسائی بریا کنند و بخواهش وی"
+                    HPOS="70"
+                    VPOS="1480"
+                    WIDTH="1287"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70b6b9fb"
+                    
+                    BASELINE="75 1622 1000 1628 1357 1615" 
+                    HPOS="73"
+                    VPOS="1559"
+                    WIDTH="1284"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="75 1622 75 1565 998 1571 1355 1559 1357 1615 1357 1640 1000 1652 998 1652 73 1646"/></Shape>
+	    <String CONTENT="عدهٔ زیادی از اسرای یونانی را آزاد سازند و کم کم شروع بتدریس طب"
+                    HPOS="73"
+                    VPOS="1559"
+                    WIDTH="1284"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ee367f8c"
+                    
+                    BASELINE="115 1709 1359 1713" 
+                    HPOS="113"
+                    VPOS="1658"
+                    WIDTH="1246"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="115 1709 115 1658 1359 1662 1359 1713 1357 1731 113 1727"/></Shape>
+	    <String CONTENT="وترجمهٔ کتب یونانی نمود و آنجا را یکی از مرا کز طبی عالم ساخت."
+                    HPOS="113"
+                    VPOS="1658"
+                    WIDTH="1246"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf3fc690"
+                    
+                    BASELINE="75 1806 847 1800 1233 1806" 
+                    HPOS="73"
+                    VPOS="1745"
+                    WIDTH="1160"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="75 1806 73 1751 845 1745 847 1745 1233 1751 1233 1806 1231 1824 845 1818 75 1824"/></Shape>
+	    <String CONTENT="یس از شایور دوم در زمان انوشیروان داد گرشاهنشاه ساسانی چون"
+                    HPOS="73"
+                    VPOS="1745"
+                    WIDTH="1160"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_534e2d06"
+                    
+                    BASELINE="77 1891 1359 1891" 
+                    HPOS="77"
+                    VPOS="1840"
+                    WIDTH="1282"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="77 1891 77 1840 1359 1840 1359 1891 1359 1909 77 1909"/></Shape>
+	    <String CONTENT=" زوستی نیین2 امیراطور روم کیش مسیحی را قبول نمود عدهٔ زیادی از"
+                    HPOS="77"
+                    VPOS="1840"
+                    WIDTH="1282"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c4ae2c5"
+                    
+                    BASELINE="73 1976 1355 1970" 
+                    HPOS="70"
+                    VPOS="1926"
+                    WIDTH="1285"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="73 1976 70 1932 1352 1926 1355 1970 1355 1993 73 1999"/></Shape>
+	    <String CONTENT="علماء واطباء ودانشمندان یهود و قائلین فلسفهٔ افلاطون را که تبعید نموده"
+                    HPOS="70"
+                    VPOS="1926"
+                    WIDTH="1285"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e3fe1e5"
+                    
+                    BASELINE="636 204 837 208" 
+                    HPOS="634"
+                    VPOS="164"
+                    WIDTH="203"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="636 204 636 164 837 168 837 208 835 227 634 223"/></Shape>
+	    <String CONTENT="رسالهٔ جودیه"
+                    HPOS="634"
+                    VPOS="164"
+                    WIDTH="203"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc942ab0"
+                    
+                    BASELINE="770 2102 1032 2102" 
+                    HPOS="770"
+                    VPOS="2061"
+                    WIDTH="262"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="770 2102 770 2061 1032 2061 1032 2102 1032 2118 770 2118"/></Shape>
+	    <String CONTENT="ا، تثوذوسيوس."
+                    HPOS="770"
+                    VPOS="2061"
+                    WIDTH="262"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5c1eb4a"
+                    
+                    BASELINE="691 2234 736 2230" 
+                    HPOS="687"
+                    VPOS="2197"
+                    WIDTH="49"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="691 2234 687 2201 732 2197 736 2230 736 2248 691 2252"/></Shape>
+	    <String CONTENT="ش"
+                    HPOS="687"
+                    VPOS="2197"
+                    WIDTH="49"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

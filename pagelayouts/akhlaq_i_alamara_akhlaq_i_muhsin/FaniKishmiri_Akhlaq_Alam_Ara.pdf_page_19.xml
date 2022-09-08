@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>FaniKishmiri_Akhlaq_Alam_Ara.pdf_page_19.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1142" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1143" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1144" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="982"
+                   VPOS="2724"
+                   WIDTH="956"
+                   HEIGHT="243"
+                   ID="eSc_textblock_1be26ff8"
+                   TAGREFS="BT1142">
+          <Shape><Polygon POINTS="1926 2747 1938 2943 1891 2967 982 2943 993 2818 1052 2759 1800 2724"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dd5e24f7"
+                    
+                    BASELINE="1552 2774 1891 2765" 
+                    HPOS="1549"
+                    VPOS="2721"
+                    WIDTH="342"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1552 2774 1549 2730 1888 2721 1891 2765 1891 2785 1552 2794"/></Shape>
+	    <String CONTENT="ص5"
+                    HPOS="1549"
+                    VPOS="2721"
+                    WIDTH="342"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02304aec"
+                    
+                    BASELINE="1052 2861 1885 2829" 
+                    HPOS="1049"
+                    VPOS="2771"
+                    WIDTH="836"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1052 2861 1049 2803 1882 2771 1885 2829 1885 2856 1052 2888"/></Shape>
+	    <String CONTENT="2- فن يكم ، باب سوم ، فصل يکم ، ص 75."
+                    HPOS="1049"
+                    VPOS="2771"
+                    WIDTH="836"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da0f87db"
+                    
+                    BASELINE="1344 2917 1891 2899" 
+                    HPOS="1341"
+                    VPOS="2856"
+                    WIDTH="550"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1344 2917 1341 2873 1888 2856 1891 2899 1891 2932 1344 2949"/></Shape>
+	    <String CONTENT="-من سوم، ص169-16،"
+                    HPOS="1341"
+                    VPOS="2856"
+                    WIDTH="550"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1029"
+                   VPOS="502"
+                   WIDTH="102"
+                   HEIGHT="44"
+                   ID="eSc_textblock_178dca6c"
+                   TAGREFS="BT1144">
+          <Shape><Polygon POINTS="1096 502 1131 534 1029 546 1052 502"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="251"
+                   VPOS="569"
+                   WIDTH="1715"
+                   HEIGHT="2139"
+                   ID="eSc_textblock_7fba4a21"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="251 628 271 2708 1966 2669 1883 569"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

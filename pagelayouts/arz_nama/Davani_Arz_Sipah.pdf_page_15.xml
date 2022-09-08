@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Davani_Arz_Sipah.pdf_page_15.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1155" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1156" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1157" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="14"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1040"
+                   VPOS="280"
+                   WIDTH="103"
+                   HEIGHT="44"
+                   ID="eSc_textblock_bc28c515"
+                   TAGREFS="BT1157">
+          <Shape><Polygon POINTS="1040 324 1040 280 1119 280 1143 324"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="192"
+                   VPOS="431"
+                   WIDTH="1863"
+                   HEIGHT="2632"
+                   ID="eSc_textblock_9d93e042"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="192 431 192 3063 2055 3063 2055 431"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1232"
+                   VPOS="3083"
+                   WIDTH="863"
+                   HEIGHT="167"
+                   ID="eSc_textblock_3320222b"
+                   TAGREFS="BT1155">
+          <Shape><Polygon POINTS="1232 3083 1232 3250 2095 3250 2095 3083"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

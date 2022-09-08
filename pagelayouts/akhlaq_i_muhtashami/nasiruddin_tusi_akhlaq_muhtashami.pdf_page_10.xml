@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nasiruddin_tusi_akhlaq_muhtashami.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1148" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT1150" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT1151" LABEL="Page Number" DESCRIPTION="block type Page Number"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2079"
+          HEIGHT="2954"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2079"
+                  HEIGHT="2954">
+        
+        <TextBlock HPOS="256"
+                   VPOS="304"
+                   WIDTH="1480"
+                   HEIGHT="2215"
+                   ID="eSc_textblock_5d33a615"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="256 304 256 2519 1736 2519 1736 304"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="955"
+                   VPOS="2552"
+                   WIDTH="74"
+                   HEIGHT="66"
+                   ID="eSc_textblock_3b29f71c"
+                   TAGREFS="BT1151">
+          <Shape><Polygon POINTS="1029 2618 1029 2552 955 2552 955 2618"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
