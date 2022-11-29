@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>20_Book_07_Dard_ki_Jheel_124.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT890" LABEL="Chapter Number" DESCRIPTION="block type Chapter Number"/><OtherTag ID="BT891" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT892" LABEL="Running Title" DESCRIPTION="block type Running Title"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT161" LABEL="Poetry" DESCRIPTION="line type Poetry"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1840"
+          HEIGHT="3080"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1840"
+                  HEIGHT="3080">
+        
+        <TextBlock HPOS="59"
+                   VPOS="219"
+                   WIDTH="1702"
+                   HEIGHT="418"
+                   ID="eSc_textblock_9d93f953"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="69 229 59 637 1761 637 1761 219"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="797"
+                   VPOS="96"
+                   WIDTH="241"
+                   HEIGHT="93"
+                   ID="eSc_textblock_2fcec8c9"
+                   TAGREFS="BT891">
+          <Shape><Polygon POINTS="797 96 797 189 1038 189 1038 96"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_bbcbc51c"
+                    
+                    BASELINE="830 164 1017 167" 
+                    HPOS="827"
+                    VPOS="100"
+                    WIDTH="182"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="827 161 832 110 850 100 1009 123 1007 184 994 177 963 187 950 174 912 171 871 184 830 179"/></Shape>
+	    <String CONTENT="124"
+                    HPOS="827"
+                    VPOS="100"
+                    WIDTH="182"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1085683e"
+                    
+                    BASELINE="120 323 1719 318" 
+                    HPOS="118"
+                    VPOS="238"
+                    WIDTH="1598"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="118 320 123 274 208 274 218 264 238 272 272 254 303 264 334 241 364 241 393 269 431 241 483 241 503 256 521 241 624 241 647 243 686 274 742 274 786 241 842 241 873 243 912 274 961 264 1002 272 1017 259 1035 272 1099 272 1143 251 1176 259 1215 238 1292 238 1326 261 1344 243 1408 238 1475 269 1508 259 1562 272 1583 256 1598 272 1621 272 1644 251 1660 264 1678 254 1708 264 1716 315 1708 325 1639 336 1557 336 1539 323 1518 336 1498 320 1459 331 1431 323 1410 336 1382 336 1367 320 1331 336 1277 323 1225 331 1202 320 1174 331 1164 320 1079 320 1056 333 999 320 984 336 925 323 912 338 855 338 830 325 791 336 778 323 752 338 670 323 639 338 580 338 555 323 529 323 508 338 372 338 349 323 298 323 221 323 195 338 167 338 120 323"/></Shape>
+	    <String CONTENT="غلامی کی دھند میں کھو نہ گئے تو خدا سے امید ہے کہ بچھڑے بھائی ضرور ملیں گے زمانہ یہ نہ"
+                    HPOS="118"
+                    VPOS="238"
+                    WIDTH="1598"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad159577"
+                    
+                    BASELINE="125 462 1714 462" 
+                    HPOS="125"
+                    VPOS="379"
+                    WIDTH="1589"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="125 462 131 397 151 379 197 379 231 405 251 395 262 405 303 379 400 405 421 405 452 379 508 379 529 400 557 385 583 402 637 379 711 392 740 379 768 405 794 395 814 402 853 379 902 379 943 397 984 379 1025 405 1176 405 1248 379 1290 405 1318 385 1372 405 1436 379 1451 390 1485 385 1508 405 1626 405 1652 379 1706 379 1714 462 1706 490 1639 490 1608 469 1503 474 1472 490 1405 490 1362 469 1295 469 1256 490 1148 490 1130 472 1110 479 1099 469 1071 490 1040 479 878 487 858 469 837 469 812 490 755 490 737 474 711 487 693 469 660 469 627 490 552 485 521 469 439 469 413 490 398 479 364 490 328 469 292 469 272 487 251 477 241 485 223 469 131 469"/></Shape>
+	    <String CONTENT="دیکھے نادان آخری وقت ایک دوسرے کے لئے پیار کے آنسو چھلکا کے خاموش ہو گئے"
+                    HPOS="125"
+                    VPOS="379"
+                    WIDTH="1589"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b36c38e7"
+                    
+                    BASELINE="958 590 1701 579" 
+                    HPOS="955"
+                    VPOS="513"
+                    WIDTH="743"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="955 587 958 556 1045 556 1069 536 1125 533 1138 518 1230 518 1287 546 1326 515 1372 544 1449 515 1482 536 1603 549 1647 521 1660 528 1690 513 1698 577 1690 613 1631 603 1618 613 1588 605 1511 618 1433 608 1423 618 1410 605 1380 605 1367 618 1323 621 1187 621 1176 610 1138 623 1110 610 1071 621 1061 610 1040 623 958 610"/></Shape>
+	    <String CONTENT="تھے۔۔۔خدا نہ کرے کہ دیر ہو جائے۔۔۔"
+                    HPOS="955"
+                    VPOS="513"
+                    WIDTH="743"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

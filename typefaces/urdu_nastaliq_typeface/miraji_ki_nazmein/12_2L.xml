@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>12_2L.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2292"
+          HEIGHT="3388"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2292"
+                  HEIGHT="3388">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_12775335"
+                    
+                    BASELINE="971 1693 1772 1689" 
+                    HPOS="936"
+                    VPOS="1391"
+                    WIDTH="895"
+                    HEIGHT="406">
+            <Shape><Polygon POINTS="969 1691 963 1445 1037 1445 1040 1439 1088 1394 1088 1391 1090 1391 1093 1391 1096 1391 1215 1391 1218 1391 1288 1431 1297 1434 1305 1428 1356 1403 1359 1403 1362 1403 1365 1403 1407 1425 1418 1431 1432 1422 1466 1403 1469 1403 1472 1403 1475 1403 1478 1403 1480 1403 1480 1406 1497 1420 1520 1442 1585 1417 1641 1397 1644 1397 1647 1397 1650 1397 1687 1414 1732 1434 1757 1411 1831 1421 1769 1716 1621 1744 1576 1748 1523 1750 1520 1750 1427 1758 1424 1758 1260 1753 1257 1753 1237 1747 1153 1763 1090 1758 1088 1761 1085 1761 1082 1761 936 1797"/></Shape>
+	    <String CONTENT="؁۱۹۳۴-۳۴ء"
+                    HPOS="936"
+                    VPOS="1391"
+                    WIDTH="895"
+                    HEIGHT="406"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>37_2L.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2292"
+          HEIGHT="3388"
+          PHYSICAL_IMG_NR="62"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2292"
+                  HEIGHT="3388">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_b61bda7f"
+                    
+                    BASELINE="739 1759 1424 1784 1521 1788" 
+                    HPOS="700"
+                    VPOS="1483"
+                    WIDTH="874"
+                    HEIGHT="404">
+            <Shape><Polygon POINTS="737 1758 737 1725 788 1491 903 1515 1070 1483 1193 1509 1230 1496 1267 1502 1389 1530 1452 1550 1480 1617 1511 1614 1574 1617 1558 1710 1520 1787 1514 1818 1449 1887 1352 1862 1218 1878 1201 1866 1054 1871 1051 1871 966 1857 963 1857 960 1857 952 1852 922 1883 870 1857 859 1866 859 1869 856 1869 853 1869 850 1869 700 1876"/></Shape>
+	    <String CONTENT="؁۱۹۴۰ء"
+                    HPOS="700"
+                    VPOS="1483"
+                    WIDTH="874"
+                    HEIGHT="404"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

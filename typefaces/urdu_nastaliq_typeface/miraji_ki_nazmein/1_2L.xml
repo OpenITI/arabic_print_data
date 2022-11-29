@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1_2L.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2292"
+          HEIGHT="3388"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2292"
+                  HEIGHT="3388">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_79efb6f3"
+                    
+                    BASELINE="443 2069 1859 2067" 
+                    HPOS="432"
+                    VPOS="1352"
+                    WIDTH="1430"
+                    HEIGHT="936">
+            <Shape><Polygon POINTS="440 2066 432 1911 480 1826 480 1758 538 1733 609 1616 644 1452 829 1467 865 1453 915 1409 1033 1387 1192 1352 1509 1452 1545 1456 1572 1469 1638 1492 1670 1524 1763 1500 1812 1582 1801 1670 1791 1750 1791 1747 1794 1747 1797 1747 1800 1747 1803 1747 1805 1747 1862 1784 1856 2066 1856 2109 1619 2254 1489 2226 1379 2244 1379 2247 1376 2247 1373 2247 1325 2288 1220 2250 1218 2247 1215 2247 1212 2247 1212 2244 1119 2154 1099 2137 1079 2157 1045 2188 1045 2190 1042 2190 1040 2190 1037 2190 1034 2190 949 2165 921 2159 836 2159 774 2176 720 2193 641 2247 638 2247 635 2247 635 2250 486 2250 483 2247 480 2247 477 2247 477 2244 432 2199"/></Shape>
+	    <String CONTENT="مِیْراجی کی نظمیںْ"
+                    HPOS="432"
+                    VPOS="1352"
+                    WIDTH="1430"
+                    HEIGHT="936"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>9_2L.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2292"
+          HEIGHT="3388"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2292"
+                  HEIGHT="3388">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_39f3ffa4"
+                    
+                    BASELINE="438 1911 839 1922 1758 1932" 
+                    HPOS="423"
+                    VPOS="1339"
+                    WIDTH="1410"
+                    HEIGHT="699">
+            <Shape><Polygon POINTS="435 1908 438 1583 706 1583 878 1420 878 1417 881 1417 884 1417 887 1417 963 1417 966 1417 969 1417 969 1420 1025 1339 1179 1356 1288 1422 1291 1422 1294 1422 1375 1385 1398 1425 1401 1425 1425 1427 1492 1518 1588 1445 1591 1445 1593 1445 1596 1445 1599 1445 1602 1445 1602 1448 1833 1590 1757 1931 1752 1950 1475 1950 1427 1993 1427 1996 1424 1996 1421 1996 1379 2004 1331 2038 1189 1998 1186 1998 1184 1998 1130 1953 1093 1984 1093 1987 1090 1987 1088 1987 1085 1987 1082 1987 1079 1987 1062 1970 997 1990 994 1990 991 1990 989 1990 986 1990 918 1968 836 1942 785 1984 785 1987 782 1987 780 1987 780 1990 695 1990 692 1987 689 1987 686 1987 658 1962 627 1990 627 1993 624 1993 621 1993 618 1993 494 1990 491 1990 488 1990 423 1933"/></Shape>
+	    <String CONTENT="میراجی کی نظمیْ"
+                    HPOS="423"
+                    VPOS="1339"
+                    WIDTH="1410"
+                    HEIGHT="699"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

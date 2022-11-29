@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>70_2L.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2292"
+          HEIGHT="3388"
+          PHYSICAL_IMG_NR="125"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2292"
+                  HEIGHT="3388">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_ab67d010"
+                    
+                    BASELINE="784 1756 1554 1766" 
+                    HPOS="752"
+                    VPOS="1434"
+                    WIDTH="860"
+                    HEIGHT="454">
+            <Shape><Polygon POINTS="782 1753 760 1511 1112 1434 1380 1462 1448 1480 1530 1517 1534 1548 1612 1564 1551 1764 1548 1795 1412 1821 1394 1849 1310 1876 1264 1875 1199 1860 1110 1853 991 1847 967 1849 935 1857 932 1857 929 1857 926 1857 752 1888"/></Shape>
+	    <String CONTENT="؁۱۹۴۲ء"
+                    HPOS="752"
+                    VPOS="1434"
+                    WIDTH="860"
+                    HEIGHT="454"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

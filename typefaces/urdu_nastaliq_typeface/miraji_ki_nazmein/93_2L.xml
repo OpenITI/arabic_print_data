@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>93_2L.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2292"
+          HEIGHT="3388"
+          PHYSICAL_IMG_NR="170"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2292"
+                  HEIGHT="3388">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_ae3f35ed"
+                    
+                    BASELINE="683 1739 1646 1721" 
+                    HPOS="637"
+                    VPOS="1388"
+                    WIDTH="1045"
+                    HEIGHT="564">
+            <Shape><Polygon POINTS="681 1736 672 1699 660 1626 732 1506 850 1446 1133 1388 1430 1422 1541 1394 1678 1518 1682 1626 1644 1719 1641 1753 1609 1818 1511 1829 1486 1860 1425 1874 1308 1894 1233 1905 1212 1916 1191 1913 1139 1952 1082 1937 916 1925 780 1910 637 1919"/></Shape>
+	    <String CONTENT="؁۱۹۴۳ء"
+                    HPOS="637"
+                    VPOS="1388"
+                    WIDTH="1045"
+                    HEIGHT="564"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

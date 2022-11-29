@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>43_Book_05_Silsila-e-Roz-o-Shab_054.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT870" LABEL="Running Title" DESCRIPTION="block type Running Title"/><OtherTag ID="BT871" LABEL="Page Number" DESCRIPTION="block type Page Number"/><OtherTag ID="BT885" LABEL="Main Title" DESCRIPTION="block type Main Title"/><OtherTag ID="BT887" LABEL="Author" DESCRIPTION="block type Author"/><OtherTag ID="BT889" LABEL="Poetry" DESCRIPTION="block type Poetry"/>
+    <OtherTag ID="LT157" LABEL="Poetry" DESCRIPTION="line type Poetry"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1840"
+          HEIGHT="3080"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1840"
+                  HEIGHT="3080">
+        
+        <TextBlock HPOS="1459"
+                   VPOS="76"
+                   WIDTH="310"
+                   HEIGHT="141"
+                   ID="eSc_textblock_e3b403a0"
+                   TAGREFS="BT885">
+          <Shape><Polygon POINTS="1769 76 1769 217 1459 217 1459 76"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="852"
+                   VPOS="133"
+                   WIDTH="165"
+                   HEIGHT="68"
+                   ID="eSc_textblock_ace8afa1"
+                   TAGREFS="BT871">
+          <Shape><Polygon POINTS="1017 133 1017 201 852 201 852 133"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="105"
+                   VPOS="109"
+                   WIDTH="164"
+                   HEIGHT="108"
+                   ID="eSc_textblock_20989c2f"
+                   TAGREFS="BT870">
+          <Shape><Polygon POINTS="269 109 269 217 105 217 105 109"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="117"
+                   VPOS="269"
+                   WIDTH="1620"
+                   HEIGHT="217"
+                   ID="eSc_textblock_83167546"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1737 269 1737 486 117 486 117 269"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_1b4761de"
+                    
+                    BASELINE="1446 182 1721 177" 
+                    HPOS="1446"
+                    VPOS="118"
+                    WIDTH="275"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1446 182 1449 130 1493 136 1508 120 1544 120 1577 136 1616 120 1634 128 1685 118 1714 133 1721 177 1711 189 1449 187"/></Shape>
+	    <String CONTENT="سِلسِلۂ روزوشب"
+                    HPOS="1446"
+                    VPOS="118"
+                    WIDTH="275"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e901ff0f"
+                    
+                    BASELINE="878 187 961 177" 
+                    HPOS="878"
+                    VPOS="115"
+                    WIDTH="77"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="878 187 881 115 945 115 955 184 884 187"/></Shape>
+	    <String CONTENT="54"
+                    HPOS="878"
+                    VPOS="115"
+                    WIDTH="77"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92f1a071"
+                    
+                    BASELINE="99 185 126 188 219 192" 
+                    HPOS="97"
+                    VPOS="100"
+                    WIDTH="116"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="97 184 102 115 213 100 210 223 177 233 100 225"/></Shape>
+	    <String CONTENT="منزل"
+                    HPOS="97"
+                    VPOS="100"
+                    WIDTH="116"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a8cc48b"
+                    
+                    BASELINE="141 323 1721 323" 
+                    HPOS="141"
+                    VPOS="233"
+                    WIDTH="1580"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="141 323 146 236 161 233 290 233 316 259 390 256 408 266 434 246 483 256 511 243 544 269 670 269 683 259 719 269 778 246 830 269 886 269 955 233 1043 233 1079 269 1148 269 1200 233 1228 233 1243 248 1302 233 1338 269 1380 259 1477 269 1518 233 1626 233 1665 266 1714 269 1721 323 1683 341 1662 333 1636 351 1593 333 1493 333 1469 346 1423 336 1408 351 1369 346 1356 359 1233 333 1194 349 1169 336 1123 361 1066 336 1035 364 899 364 871 341 850 349 796 333 781 346 765 336 727 346 709 364 483 364 434 333 362 333 259 361 218 346 200 364 146 364"/></Shape>
+	    <String CONTENT="دار کُتّے کی طرح دُم ہِلاتی ہُوئی خُرّم سے کُچھ کہنے سُنے بغیر تیزی سے بھاگ کر موچھے کی ’’ٹَیٹو’’"
+                    HPOS="141"
+                    VPOS="233"
+                    WIDTH="1580"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89e6aaf8"
+                    
+                    BASELINE="439 422 1720 417" 
+                    HPOS="439"
+                    VPOS="364"
+                    WIDTH="1277"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="439 446 442 397 485 387 501 397 555 397 575 377 598 397 627 379 691 372 706 382 788 372 806 390 835 374 876 395 927 377 1015 392 1074 369 1112 392 1135 382 1200 392 1297 390 1338 367 1382 390 1410 367 1503 364 1588 387 1621 377 1670 387 1696 377 1708 385 1716 433 1708 497 1585 497 1549 482 1508 497 1433 500 1387 485 1372 500 1320 500 1205 474 1143 477 1120 497 1048 482 1015 490 997 477 958 495 932 479 891 490 819 479 801 497 776 479 752 495 724 479 655 482 627 500 580 505 567 495 531 508 501 485 442 482"/></Shape>
+	    <String CONTENT="(Tattoo) کے نقش و نگار سے مُزیّن بدصُورت اور بھدّی بانہوں میں جا گُھسی۔"
+                    HPOS="439"
+                    VPOS="364"
+                    WIDTH="1277"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
